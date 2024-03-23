@@ -1,0 +1,13 @@
+# Mahjong Solitaire Layout Museum: Package 11
+* Source: [https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm](https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm)
+
+* File Source:  
+<sub>```https://web.archive.org/web/20120312033643/http://members.fortunecity.com/phantagia/layouts/eplayout11.zip```</sub>
+
+
+|Package 11||Layouts: 10|
+|:--:|:--:|:--:|
+|New Layout 31<br><img src="./new_layout_31.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_31.lay)  [.layout](./new_layout_31.layout)  [.mah](./new_layout_31.mah) |New Layout 32<br><img src="./new_layout_32.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_32.lay)  [.layout](./new_layout_32.layout)  [.mah](./new_layout_32.mah) |New Layout 33<br><img src="./new_layout_33.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_33.lay)  [.layout](./new_layout_33.layout)  [.mah](./new_layout_33.mah) |
+|New Layout 35<br><img src="./new_layout_35.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_35.lay)  [.layout](./new_layout_35.layout)  [.mah](./new_layout_35.mah) |New Layout 36<br><img src="./new_layout_36.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_36.lay)  [.layout](./new_layout_36.layout)  [.mah](./new_layout_36.mah) |New Layout 37<br><img src="./new_layout_37.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_37.lay)  [.layout](./new_layout_37.layout)  [.mah](./new_layout_37.mah) |
+|New Layout 38<br><img src="./new_layout_38.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_38.lay)  [.layout](./new_layout_38.layout)  [.mah](./new_layout_38.mah) |New Layout 39<br><img src="./new_layout_39.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_39.lay)  [.layout](./new_layout_39.layout)  [.mah](./new_layout_39.mah) |New Layout 42<br><img src="./new_layout_42.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_42.lay)  [.layout](./new_layout_42.layout)  [.mah](./new_layout_42.mah) |
+|New Layout 43<br><img src="./new_layout_43.svg" height="180" width="175"><br> <sub>Ernie Polegato</sub> <br>[.lay](./new_layout_43.lay)  [.layout](./new_layout_43.layout)  [.mah](./new_layout_43.mah) |||

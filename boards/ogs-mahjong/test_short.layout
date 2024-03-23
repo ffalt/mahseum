@@ -1,0 +1,23 @@
+mahjongg-layout-v1.1
+# name: Test Short
+# by: Alexey Charkov
+# category: 
+# Board size in quarter tiles
+w10
+h6
+# Board depth
+d2
+# Level 0 
+..12..12..
+..43..43..
+..12..12..
+..43..43..
+12......12
+43......43
+# Level 1 
+..........
+..12..12..
+..43..43..
+..........
+..........
+..........
