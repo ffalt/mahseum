@@ -5,7 +5,7 @@ export function svg_file_url(layout: Layout): string {
 }
 
 export function data_file_url(layout: Layout, format: LayoutFormat): string {
-	return `/boards/${layout.path}/${layout.filename}.${format}`;
+	return `./boards/${layout.path}/${layout.filename}.${format}`;
 }
 
 export function play(layout: Layout) {

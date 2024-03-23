@@ -9,7 +9,7 @@ header {
 	right: 0;
 	z-index: 10;
 	padding: 8px 30px;
-	background-image: url("public/app/fancy-cushion.webp");
+	background-image: url("../app/fancy-cushion.webp");
 	border-bottom: 1px solid #303030;
 }
 
