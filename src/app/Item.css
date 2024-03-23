@@ -1,0 +1,76 @@
+.item {
+	display: flex;
+	flex-direction: column;
+	background-color: #272727;
+	color: #ddd;
+	font-size: 14px;
+	width: 200px;
+	max-width: 100%;
+	min-height: 200px;
+	padding: 20px 10px;
+	margin: 5px;
+	border-radius: 5px;
+	vertical-align: top;
+	text-align: center;
+	position: relative;
+	cursor: pointer;
+}
+
+.item .count {
+	font-size: 0.8em;
+	opacity: 0;
+	transition: all .4s ease-in-out;
+}
+
+.item .select {
+	position: absolute;
+	left: 4px;
+	top: 4px;
+}
+
+.item:hover .count {
+	opacity: 1;
+}
+
+.item .name {
+	text-decoration: none;
+	padding: 10px 0;
+	flex: 1;
+}
+
+.item .image {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 160px;
+	transition: all .2s ease-in-out;
+}
+
+.item .image img {
+	max-width: 100%;
+	max-height: 120px;
+	height: auto;
+	object-fit: contain;
+}
+
+.item .category {
+	font-size: 10px;
+	text-transform: uppercase;
+}
+
+.item .links {
+	margin-top: 8px;
+}
+
+.item .links a + a {
+	margin-left: 8px;
+}
+
+.item .source a {
+	font-size: 0.8em;
+}
+
+.item:hover .image {
+	background-color: #2b424f;
+}

@@ -1,0 +1,38 @@
+name: release
+
+on:
+  workflow_dispatch:
+jobs:
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18.x
+
+      - name: Install dependencies
+        run: |
+          npm install
+
+      - name: Build page
+        run: |
+          npm run build
+
+      - name: Build GH Pages settings
+        run: |
+          touch ./dist/.nojekyll
+
+      - name: Deploy to GH Pages branch 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: dist # The folder the action should deploy.
+          CLEAN: true

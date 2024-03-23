@@ -1,0 +1,24 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.ts",
+  "scripts": {
+    "build": "tsx build.ts",
+    "clean": "rm import.xz",
+    "pack": "cd _import && ./pack.sh",
+    "run": "npm run clean && npm run pack && npm run build"
+  },
+  "type": "commonjs",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fs-extra": "11.0.1",
+    "@types/node": "18.11.19",
+    "@types/yauzl": "^2.10.3",
+    "fs-extra": "11.1.0",
+    "mah": "github:ffalt/mah",
+    "tsx": "^4.7.1",
+    "yauzl": "^3.1.0"
+  }
+}
