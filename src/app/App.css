@@ -4,7 +4,8 @@ header {
 	background-color: #000;
 	color: white;
 	text-align: center;
-	position: fixed;
+	position: sticky;
+	top: 0;
 	left: 0;
 	right: 0;
 	z-index: 10;
@@ -43,7 +44,7 @@ header {
 }
 
 .main {
-	padding-top: 160px;
+	padding-top: 20px;
 }
 
 .layouts {
