@@ -19,6 +19,15 @@
 	box-shadow: 3px 3px 15px #5c5656;
 	width: 1000px;
 	max-width: 100%;
+	max-height: 100%;
+	position: relative;
+	overflow-y: auto;
+}
+
+.overlay-close {
+	position: absolute;
+	right: 10px;
+	top: 10px;
 }
 
 .overlay-content small {
@@ -45,11 +54,40 @@
 	flex: 2;
 }
 
+@media (max-width: 440px) {
+	.overlay-content .flex-2 {
+		flex: 1;
+	}
+}
+
 .overlay-content img {
 	max-width: 100%;
 	max-height: 600px;
 	display: block;
 	margin: 0 auto;
+}
+
+@media (max-height: 640px) {
+	.overlay-content img {
+		max-height: 300px;
+	}
+}
+
+@media (max-height: 440px) {
+	.overlay-content img {
+		max-height: 200px;
+	}
+}
+
+@media (max-width: 440px) {
+	.overlay-content .flex {
+		flex-direction: column;
+		text-align: center;
+	}
+
+	.overlay-content .flex-2 {
+		margin-top: 1em;
+	}
 }
 
 .overlay-content .source {
@@ -72,7 +110,7 @@
 	border: 1px solid #222020;
 	border-radius: 6px;
 	cursor: pointer;
-	margin-bottom: 18px;
+	margin-top: 9px;
 	margin-right: 4px;
 	background-repeat: no-repeat;
 	background-position-y: center;

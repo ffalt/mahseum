@@ -44,6 +44,7 @@ export function Overlay(props: { layout: Layout, requestClose: () => void }) {
 				className="overlay-content"
 				onMouseDown={e => e.stopPropagation()}
 				onClick={e => e.stopPropagation()}>
+				<button className="overlay-close" onClick={() => requestClose()}>X</button>
 				<img src={svg_file_url(layout)} loading="lazy" alt={layout.name}/>
 				<div className="flex">
 					<div className="flex-1">

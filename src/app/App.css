@@ -21,7 +21,6 @@ header {
 	.title {
 		font-size: 2em;
 		padding-bottom: 8px;
-
 	}
 }
 
@@ -30,6 +29,7 @@ header {
 	flex-direction: row;
 	flex-wrap: wrap;
 	padding-bottom: 8px;
+
 	input, select {
 		flex: 1;
 		font-size: 1.1em;
@@ -40,6 +40,25 @@ header {
 		margin-right: 4px;
 		text-align: left;
 		max-width: 100%;
+	}
+}
+
+@media (max-width: 440px) {
+	header {
+		font-size: 0.8em;
+	}
+
+	.header-content {
+		.title {
+			font-size: 1.5em;
+		}
+	}
+
+	.header-filters {
+		input, select {
+			flex: 45%;
+			width: 50%;
+		}
 	}
 }
 
@@ -70,6 +89,7 @@ header {
 		background-clip: text;
 		color: transparent;
 	}
+
 	.waving {
 		animation-name: wave-animation;
 		animation-duration: 3.0s;
