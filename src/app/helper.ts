@@ -21,6 +21,6 @@ export function play(layout: Layout) {
 			}
 		]
 	};
-	const url = 'http://localhost:4200//?mah=' + encodeURIComponent(btoa(JSON.stringify(data)));
+	const url = 'https://ffalt.github.io/mah/?mah=' + encodeURIComponent(btoa(JSON.stringify(data)));
 	window.open(url, '_blank', 'noopener');
 }
