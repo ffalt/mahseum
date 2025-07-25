@@ -22,7 +22,10 @@ class ScanBoard {
 	data: { [format: string]: string } = {}
 
 	constructor(public parent: ScanFile, public layout: Layout) {
-		this.filename = layout.name.toLowerCase().replace(/[ /\\!?*.,]/g, ' ').trim().replace(/ /g, '_').replace(/__/g, '_');
+		this.filename = layout.name.toLowerCase().replace(/[ /\\!?*.,]/g, ' ').trim()
+			.replace(/'/g, '')
+			.replace(/ /g, '_')
+			.replace(/__/g, '_');
 	}
 
 	async saveData(dest: string, format: string, data: string) {
