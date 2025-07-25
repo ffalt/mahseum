@@ -9,29 +9,21 @@ const GROUPS: Array<[string, number]> = data
 	.map(l => l.group)
 	.filter((item, i, ar) => ar.indexOf(item) === i)
 	.sort()
-	.map(group => {
-		return [group, data.filter(it => it.group === group).length]
-	});
+	.map(group => [group, data.filter(it => it.group === group).length]);
 
 const AUTHORS: Array<[string, number]> = data
 	.map(l => l.by || 'unknown')
 	.filter((item, i, ar) => ar.indexOf(item) === i)
 	.sort()
-	.map(author => {
-		return [author, data.filter(it => it.by === author).length]
-	});
+	.map(author => [author, data.filter(it => it.by === author).length]);
 
 const TILES_COUNT: Array<[string, number]> = data
 	.map(l => l.tiles)
 	.filter((item, i, ar) => ar.indexOf(item) === i)
 	.sort((a, b) => a - b)
-	.map(nr => {
-		return [nr.toString(), data.filter(it => it.tiles === nr).length]
-	});
+	.map(nr => [nr.toString(), data.filter(it => it.tiles === nr).length]);
 
-const layouts = data.map(l => {
-	return {...l, selected: false};
-})
+const layouts = data.map(l => ({...l, selected: false}))
 
 function App() {
 	const [opened, setOpened] = useState<Layout | undefined>();

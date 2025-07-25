@@ -31,7 +31,6 @@ export function Overlay(props: { layout: Layout, requestClose: () => void }) {
 		};
 	}, [escFunction]);
 
-
 	useEffect(() => {
 		if (btnRef.current) {
 			btnRef.current.focus();
@@ -58,9 +57,8 @@ export function Overlay(props: { layout: Layout, requestClose: () => void }) {
 							Play with Mah
 						</button>
 						<small>Download Format</small>
-						{formats.map((format) => (
+						{formats.map(format => (
 							<a className="save" key={format.path} href={format.path} download>
-
 								{format.name}
 							</a>
 						))}
