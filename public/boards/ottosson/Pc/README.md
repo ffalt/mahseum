@@ -7,4 +7,4 @@
 
 |Monika Ottosson||Layouts: 1|
 |:--:|:--:|:--:|
-|PC<br><img src="./pc.svg" height="180" width="175"><br> <sub>Monica Ottosson</sub> <br>[.lay](./pc.lay)  [.layout](./pc.layout)  [.mah](./pc.mah) |
+|PC<br><img src="./pc_2.svg" height="180" width="175"><br> <sub>Monica Ottosson</sub> <br>[.lay](./pc_2.lay)  [.layout](./pc_2.layout)  [.mah](./pc_2.mah) |
