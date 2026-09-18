@@ -25,14 +25,23 @@ const TILES_COUNT: Array<[string, number]> = data
 
 const layouts = data.map(l => ({...l, selected: false}))
 
+function layoutKey(layout: Layout): string {
+	return `${layout.path}/${layout.filename}`;
+}
+
+const urlParams = new URLSearchParams(window.location.search);
+
 function App() {
-	const [opened, setOpened] = useState<Layout | undefined>();
+	const [opened, setOpened] = useState<Layout | undefined>(() => {
+		const key = urlParams.get('layout');
+		return key ? layouts.find(layout => layoutKey(layout) === key) : undefined;
+	});
 	const [filtered, setFiltered] = useState<Array<Layout>>([]);
-	const [filterText, setFilterText] = useState<string | undefined>();
-	const [filterGroup, setFilterGroup] = useState<string | undefined>();
-	const [filterCount, setFilterCount] = useState<string | undefined>();
-	const [filterAuthor, setFilterAuthor] = useState<string | undefined>();
-	const [dedupe, setDedupe] = useState<boolean>(true);
+	const [filterText, setFilterText] = useState<string | undefined>(() => urlParams.get('q') || undefined);
+	const [filterGroup, setFilterGroup] = useState<string | undefined>(() => urlParams.get('group') || undefined);
+	const [filterCount, setFilterCount] = useState<string | undefined>(() => urlParams.get('tiles') || undefined);
+	const [filterAuthor, setFilterAuthor] = useState<string | undefined>(() => urlParams.get('author') || undefined);
+	const [dedupe, setDedupe] = useState<boolean>(() => urlParams.get('dedupe') !== '0');
 	const [geocitiesOn, setGeocitiesOn] = useState<boolean>(false);
 	const [geocitiesHover, setGeocitiesHover] = useState<boolean>(false);
 	const [visitorNumber] = useState<number>(() => {
@@ -73,6 +82,19 @@ function App() {
 		setFiltered(list);
 	}, [filterText, filterGroup, filterAuthor, filterCount, dedupe])
 
+	useEffect(() => {
+		const params = new URLSearchParams();
+		if (filterText) params.set('q', filterText);
+		if (filterGroup) params.set('group', filterGroup);
+		if (filterAuthor) params.set('author', filterAuthor);
+		if (filterCount) params.set('tiles', filterCount);
+		if (!dedupe) params.set('dedupe', '0');
+		if (opened) params.set('layout', layoutKey(opened));
+		const query = params.toString();
+		const url = query ? `${window.location.pathname}?${query}` : window.location.pathname;
+		window.history.replaceState(null, '', url);
+	}, [filterText, filterGroup, filterAuthor, filterCount, dedupe, opened])
+
 	return (
 		<div className={geocities ? 'geocities' : undefined}>
 			<header>
@@ -95,10 +117,10 @@ function App() {
 							<svg className="filter-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
 								<path fill="currentColor" d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19zm-6 0A4.5 4.5 0 1 1 14 9.5A4.5 4.5 0 0 1 9.5 14"/>
 							</svg>
-							<input type="text" placeholder="Search for name…" onChange={e => setFilterText(e.target.value.toLowerCase())}/>
+							<input type="text" placeholder="Search for name…" defaultValue={filterText ?? ''} onChange={e => setFilterText(e.target.value.toLowerCase())}/>
 						</div>
 						<div className="filter-field">
-							<select defaultValue="" onChange={e => setFilterGroup(e.target.value)}>
+							<select defaultValue={filterGroup ?? ''} onChange={e => setFilterGroup(e.target.value)}>
 								<option value="">All groups</option>
 								{GROUPS.map((entry => (
 									<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
@@ -106,7 +128,7 @@ function App() {
 							</select>
 						</div>
 						<div className="filter-field">
-							<select defaultValue="" onChange={e => setFilterAuthor(e.target.value)}>
+							<select defaultValue={filterAuthor ?? ''} onChange={e => setFilterAuthor(e.target.value)}>
 								<option value="">All authors</option>
 								{AUTHORS.map((entry => (
 									<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
@@ -114,7 +136,7 @@ function App() {
 							</select>
 						</div>
 						<div className="filter-field">
-							<select defaultValue="" onChange={e => setFilterCount(e.target.value)}>
+							<select defaultValue={filterCount ?? ''} onChange={e => setFilterCount(e.target.value)}>
 								<option value="">All Tiles Count</option>
 								{TILES_COUNT.map(entry => (
 									<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
