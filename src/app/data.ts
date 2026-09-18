@@ -741,6 +741,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "3122236871",
+		"name": "Altar",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[8,8],[28,2]]],[2,[[0,2],[8,8],[28,2]]],[4,[[8,8]]],[6,[[8,8]]],[8,[[8,8]]],[10,[[14,2]]],[12,[[0,2],[14,2],[28,2]]],[14,[[0,2],[14,2],[28,2]]]]],[1,[[1,[[0,2],[28,2]]],[2,[[10,6]]],[4,[[10,6]]],[6,[[10,6]]],[8,15],[10,15],[12,15],[13,[[0,2],[28,2]]],[14,15]]],[2,[[1,[1,29]],[2,[[10,6]]],[4,[[10,6]]],[6,[[10,6]]],[8,15],[10,15],[12,15],[13,[1,29]]]],[3,[[2,[[11,5]]],[4,[[11,5]]],[6,[[11,5]]],[8,15],[10,15]]],[4,[[2,[[14,2]]],[4,[[12,4]]],[6,[[13,3]]],[8,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "altar_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3263615051",
 		"name": "Amaze",
 		"by": "Kyodai",
@@ -858,6 +871,32 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1941232304",
+		"name": "Another Round",
+		"by": "Unknown",
+		"tiles": 140,
+		"data": "[[0,[[0,[[6,7]]],[2,[[4,9]]],[4,[[4,4],[14,4]]],[5,[2,22]],[6,[0,[4,4],[14,4],24]],[7,[2,22]],[8,[0,[4,4],[14,4],24]],[9,[2,22]],[10,[[4,4],[14,4]]],[12,[[4,9]]],[14,[[6,7]]]]],[1,[[1,[[7,2],[15,2]]],[3,[[5,3],[15,3]]],[5,[[5,3],[15,3]]],[6,[3,21]],[7,[1,[5,3],[15,3],23]],[8,[3,21]],[9,[[5,3],[15,3]]],[11,[[5,3],[15,3]]],[13,[[7,2],[15,2]]]]],[2,[[2,[8,16]],[4,[[6,2],[16,2]]],[6,[[6,2],[16,2]]],[7,[4,20]],[8,[[6,2],[16,2]]],[10,[[6,2],[16,2]]],[12,[8,16]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "another_round_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1169873669",
+		"name": "Antigrav",
+		"by": "Nels Anderson",
+		"tiles": 144,
+		"data": "[[0,[[4,[[10,2]]],[6,[[8,4]]],[8,[[8,4]]],[10,[[10,2]]]]],[1,[[4,[[6,6]]],[6,[[6,6]]],[8,[[6,6]]],[10,[[6,6]]]]],[2,[[2,[[6,6]]],[4,[[4,8]]],[6,[[4,3],[14,3]]],[8,[[4,3],[14,3]]],[10,[[4,8]]],[12,[[6,6]]]]],[3,[[0,[[2,10]]],[2,[[0,12]]],[4,[[0,3],[18,3]]],[6,[[0,3],[18,3]]],[8,[[0,3],[18,3]]],[10,[[0,3],[18,3]]],[12,[[0,12]]],[14,[[2,10]]]]]]",
+		"source": "https://archive.org/download/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993/Mahjongg.zip#ANTIGRAV.BRD",
+		"site": "https://archive.org/details/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993",
+		"solvable": true,
+		"filename": "antigrav",
+		"path": "mahjongg-dos",
+		"collection": "Mah Jongg"
+	},
+	{
 		"id": "3246425737",
 		"name": "Ape",
 		"by": "Tsubassa Kurenai",
@@ -869,6 +908,19 @@ export const data = [
 		"filename": "ape",
 		"path": "kurenai/kurenai_zodiacs",
 		"collection": "Kurenai - Chinese Zodiac"
+	},
+	{
+		"id": "1257384226",
+		"name": "Aqab's",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,[10,5],24]],[2,[2,[12,3],26]],[3,[7,22]],[4,[0,[10,5],28]],[6,[[0,15]]],[8,[0,[10,5],28]],[9,[7,22]],[10,[2,[12,3],26]],[12,[4,[10,5],24]]]],[1,[[0,[4,[10,5],24]],[2,[2,[12,3],26]],[4,[0,[10,5],28]],[6,[[0,15]]],[8,[0,[10,5],28]],[10,[2,[12,3],26]],[12,[4,[10,5],24]]]],[2,[[0,[4,24]],[2,[2,14,26]],[4,[0,[12,3],28]],[6,[0,[10,5],28]],[8,[0,[12,3],28]],[10,[2,14,26]],[12,[4,24]]]],[3,[[4,14],[6,[0,[12,3],28]],[8,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "aqabs",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1257384226",
@@ -1027,6 +1079,32 @@ export const data = [
 		"collection": "Mahjongg Builder"
 	},
 	{
+		"id": "2244923190",
+		"name": "Arena 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[16,5]]],[2,[[0,4],[10,3],[18,4]]],[4,[[0,3],12,[20,3]]],[6,[[0,2],[10,3],[22,2]]],[8,[[0,3],12,[20,3]]],[10,[[0,4],[10,3],[18,4]]],[12,[[0,5],[16,5]]]]],[1,[[0,[[0,4],[18,4]]],[2,[[0,3],12,[20,3]]],[4,[[0,2],[22,2]]],[6,[0,12,24]],[8,[[0,2],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],[18,4]]]]],[2,[[0,[[0,3],[20,3]]],[2,[[0,2],[22,2]]],[4,[0,24]],[8,[0,24]],[10,[[0,2],[22,2]]],[12,[[0,3],[20,3]]]]],[3,[[0,[[0,2],[22,2]]],[2,[0,24]],[10,[0,24]],[12,[[0,2],[22,2]]]]],[4,[[0,[0,24]],[12,[0,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "arena_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2327975273",
+		"name": "Arena 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,14]]],[2,[[0,4],[20,4]]],[4,[[0,3],[22,3]]],[6,[[0,3],[22,3]]],[8,[[0,3],[22,3]]],[10,[[0,4],[20,4]]],[12,[[0,5],[18,5]]]]],[1,[[0,[[0,4],[20,4]]],[2,[[0,3],[22,3]]],[4,[[0,2],[24,2]]],[6,[[0,2],[24,2]]],[8,[[0,2],[24,2]]],[10,[[0,3],[22,3]]],[12,[[0,4],[20,4]]]]],[2,[[0,[[0,2],[24,2]]],[2,[[0,2],[24,2]]],[4,[[0,2],[24,2]]],[6,[[0,2],[24,2]]],[8,[[0,2],[24,2]]],[10,[[0,2],[24,2]]],[12,[[0,2],[24,2]]]]],[3,[[0,[[0,2],[24,2]]],[2,[0,26]],[4,[0,26]],[6,[0,26]],[8,[0,26]],[10,[0,26]],[12,[[0,2],[24,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "arena_2_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3894423065",
 		"name": "Aries",
 		"by": "Ernie Polegato",
@@ -1105,6 +1183,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "4136515921",
+		"name": "Arrow",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,0],[1,16],[2,[[0,2],18]],[3,[16,20]],[4,[[0,8],18,22]],[5,[16,20,24]],[6,[[0,8],18,22,[26,2]]],[7,[16,20,24]],[8,[[0,8],18,22]],[9,[16,20]],[10,[[0,2],18]],[11,16],[12,0]]],[1,[[2,1],[3,17],[4,[[1,8],19]],[5,[17,21]],[6,[[1,8],19,23]],[7,[17,21]],[8,[[1,8],19]],[9,17],[10,1]]],[2,[[4,[[2,8]]],[5,18],[6,[[2,8],20]],[7,18],[8,[[2,8]]]]],[3,[[4,[[5,6]]],[6,[[5,7]]],[8,[[5,6]]]]],[4,[[4,[[10,3]]],[6,[[10,4]]],[8,[[10,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "arrow_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2529300283",
 		"name": "Arrow",
 		"by": "Unknown",
@@ -1113,7 +1204,7 @@ export const data = [
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/arrow",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "arrow_3",
+		"filename": "arrow_4",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -1142,6 +1233,19 @@ export const data = [
 		"filename": "art_moderne_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "96141769",
+		"name": "Art Moderne",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,7],[20,2]]],[1,0],[2,[11,15,[19,3]]],[3,[0,3]],[4,[11,15,[18,2],23]],[5,[[0,2]]],[6,[[11,7]]],[7,[[0,2]]],[8,[11,15,[18,2],23]],[9,[0,3]],[10,[11,15,[19,3]]],[11,0],[12,[[2,7],[20,2]]]]],[1,[[0,[[3,6],[21,2]]],[2,[[20,3]]],[3,[4,11,15]],[4,[0,[19,3]]],[5,[3,11,15]],[6,[0,[18,3]]],[7,[3,11,15]],[8,[0,[19,3]]],[9,[4,11,15]],[10,[[20,3]]],[12,[[3,6],[21,2]]]]],[2,[[0,[[22,2]]],[2,[[21,3]]],[3,[5,10]],[4,[[20,3]]],[5,[4,10]],[6,[12,[19,2]]],[7,[4,10]],[8,[[20,3]]],[9,[5,10]],[10,[[21,3]]],[12,[[22,2]]]]],[3,[[3,[6,9]],[5,[5,9]],[6,11],[7,[5,9]],[9,[6,9]]]],[4,[[3,7],[5,[[6,2]]],[6,10],[7,[[6,2]]],[9,7]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "art_moderne_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1922837391",
@@ -1222,6 +1326,19 @@ export const data = [
 		"collection": "Kurenai - Tile Layouts"
 	},
 	{
+		"id": "3044277398",
+		"name": "Axis",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[7,4],[17,4]]],[1,[5,15,25]],[2,[3,13,17,27]],[3,[1,11,19,29]],[5,[0,10,20,30]],[7,[[0,4],9,[12,4],21,[24,4]]],[9,[0,10,20,30]],[11,[1,11,19,29]],[12,[3,13,17,27]],[13,[5,15,25]],[14,[[7,4],[17,4]]]]],[1,[[0,[[8,3],[18,3]]],[1,[5,[14,2],25]],[2,[3,27]],[3,[1,11,19,29]],[5,[0,10,20,30]],[7,[[0,4],9,[12,4],21,[24,4]]],[9,[0,10,20,30]],[11,[1,11,19,29]],[12,[3,27]],[13,[5,[14,2],25]],[14,[[8,3],[18,3]]]]],[2,[[1,[[14,2]]],[7,[[0,4],[12,4],[24,4]]],[13,[[14,2]]]]],[3,[[7,[[1,3],[13,3],[25,3]]]]],[4,[[7,[[2,2],15,[26,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "axis",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2569363160",
 		"name": "Aztec",
 		"by": "Alexey Charkov",
@@ -1272,6 +1389,19 @@ export const data = [
 		"filename": "balance_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "2746243513",
+		"name": "Balance",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[[4,5],[16,5]]],[2,14],[3,[4,24]],[4,14],[5,[[2,3],[22,3]]],[6,14],[7,[2,6,22,26]],[8,14],[9,[[0,5],[20,5]]],[10,14],[11,[[3,2],[23,2]]],[12,14],[14,[[6,9]]]]],[1,[[0,14],[1,[[4,5],[16,5]]],[2,14],[3,[4,24]],[4,14],[5,[2,6,22,26]],[6,14],[8,14],[9,[[1,4],[21,4]]],[10,14],[11,[4,24]],[12,14],[14,[[7,8]]]]],[2,[[0,14],[1,[4,24]],[2,14],[3,[4,24]],[4,14],[5,[2,6,22,26]],[6,14],[8,14],[9,[[2,3],[22,3]]],[10,14],[11,[4,24]],[12,14],[14,[[9,6]]]]],[3,[[0,14],[1,[4,24]],[2,14],[9,[[3,2],[23,2]]],[11,[4,24]],[14,[[11,4]]]]],[4,[[0,14],[1,[4,24]],[2,14],[9,[4,24]],[14,[[13,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "balance_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2903949053",
@@ -1521,6 +1651,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "2922093337",
+		"name": "Bat",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[2,26]],[1,[0,[11,4],28]],[2,[[2,2],[24,2]]],[3,[0,[13,2],28]],[4,[[2,4],[20,4]]],[5,[0,[13,2],28]],[6,[[2,5],[18,5]]],[7,[0,[12,3],28]],[8,[[2,5],[18,5]]],[9,[0,[12,3],28]],[10,[[2,5],[18,5]]],[11,[0,14,28]],[12,[[2,2],[8,2],[18,2],[24,2]]],[13,[0,28]],[14,[2,10,18,26]]]],[1,[[0,[2,26]],[1,14],[2,[2,26]],[3,14],[4,[2,6,22,26]],[5,14],[6,[[0,3],8,20,[24,3]]],[7,14],[8,[[0,3],8,20,[24,3]]],[9,14],[10,[2,6,22,26]],[12,[2,26]],[14,[2,10,18,26]]]],[2,[[0,[2,26]],[2,[2,26]],[4,[2,26]],[10,[2,26]],[12,[2,26]],[14,[2,26]]]],[3,[[0,[2,26]],[14,[2,26]]]],[4,[[0,[2,26]],[14,[2,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "bat_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "855991334",
 		"name": "BaxterBuilding",
 		"by": "Carolyne Smythe",
@@ -1558,6 +1701,32 @@ export const data = [
 		"filename": "beatle_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2220604706",
+		"name": "Beetle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[20,2]]],[2,[[8,6]]],[4,[[4,9]]],[6,[[3,10]]],[8,[[4,9]]],[10,[[8,6]]],[12,[[4,2],[20,2]]]]],[1,[[1,[7,19]],[2,[[9,5]]],[4,[[3,9]]],[6,[[4,9]]],[8,[[3,9]]],[10,[[9,5]]],[11,[7,19]]]],[2,[[4,[2,[6,7]]],[6,[[4,8]]],[8,[2,[6,7]]]]],[3,[[3,1],[4,[[7,6]]],[6,[[5,7]]],[8,[[7,6]]],[9,1]]],[4,[[0,0],[2,0],[6,[[6,6]]],[10,0],[12,0]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "beetle",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3408043871",
+		"name": "Beginner",
+		"by": "Everett Kaser",
+		"tiles": 32,
+		"data": "[[0,[[0,[[1,5]]],[2,[[4,2]]],[4,[[3,3]]],[6,[[0,6]]],[8,[[3,3]]],[10,[[4,2]]],[12,[[1,5]]]]],[1,[[0,5],[2,5],[6,[[4,2]]],[10,5]]],[2,[[6,5]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#BEGINNER.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "beginner",
+		"path": "solitile",
+		"collection": "Solitile"
 	},
 	{
 		"id": "4184054105",
@@ -1656,10 +1825,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,3],[10,3]]],[6,[[0,3],[10,3]]],[8,[[0,8]]],[10,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[2,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[3,[[0,[[0,8]]],[2,[[4,4]]],[4,[4,10]],[6,[4,10]],[8,[[4,4]]],[10,[[0,8]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "big_hole_4",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "498292843",
+		"name": "Big Hole",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,3],[10,3]]],[6,[[0,3],[10,3]]],[8,[[0,8]]],[10,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[2,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[3,[[0,[[0,8]]],[2,[[4,4]]],[4,[4,10]],[6,[4,10]],[8,[[4,4]]],[10,[[0,8]]]]]]",
 		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
 		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
 		"solvable": true,
-		"filename": "big_hole_4",
+		"filename": "big_hole_5",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
 	},
@@ -1690,6 +1872,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "399314505",
+		"name": "Big Mountain",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,32]],[3,[[14,2]]],[4,[12,18]],[5,[10,[14,2],20]],[6,[8,12,18,22]],[7,[6,10,[14,2],20,24]],[8,[4,8,12,18,22,26]],[9,[6,10,[14,2],20,24]],[10,[8,12,18,22]],[11,[10,[14,2],20]],[12,[12,18]],[13,[[14,2]]],[16,[0,32]]]],[1,[[4,[[13,3]]],[5,[11,19]],[6,[9,[13,3],21]],[7,[7,11,19,23]],[8,[5,9,[13,3],21,25]],[9,[7,11,19,23]],[10,[9,[13,3],21]],[11,[11,19]],[12,[[13,3]]]]],[2,[[5,[[12,4]]],[6,[10,20]],[7,[8,[12,4],22]],[8,[6,10,20,24]],[9,[8,[12,4],22]],[10,[10,20]],[11,[[12,4]]]]],[3,[[6,[[11,5]]],[7,[9,21]],[8,[7,[11,5],23]],[9,[9,21]],[10,[[11,5]]]]],[4,[[7,[[10,6]]],[8,[8,22]],[9,[[10,6]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "big_mountain_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "4214638225",
 		"name": "Big Tile",
 		"by": "Tsubassa Kurenai",
@@ -1701,6 +1896,19 @@ export const data = [
 		"filename": "big_tile",
 		"path": "kurenai/kurenai_other",
 		"collection": "Kurenai - Other"
+	},
+	{
+		"id": "2869560347",
+		"name": "Big X",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,24]],[1,[2,6,22,26]],[2,[0,4,8,20,24,28]],[3,[2,6,10,18,22,26]],[4,[4,8,12,16,20,24]],[5,[6,10,14,18,22]],[6,[8,12,16,20]],[7,[10,14,18]],[8,[8,12,16,20]],[9,[6,10,14,18,22]],[10,[4,8,12,16,20,24]],[11,[2,6,10,18,22,26]],[12,[0,4,8,20,24,28]],[13,[2,6,22,26]],[14,[4,24]]]],[1,[[1,[3,25]],[2,[1,5,23,27]],[3,[3,7,21,25]],[4,[5,9,19,23]],[5,[7,[11,4],21]],[6,[9,19]],[7,[[11,4]]],[8,[9,19]],[9,[7,[11,4],21]],[10,[5,9,19,23]],[11,[3,7,21,25]],[12,[1,5,23,27]],[13,[3,25]]]],[2,[[2,[2,26]],[3,[4,24]],[4,[6,22]],[5,[8,14,20]],[6,[[10,2],[16,2]]],[7,14],[8,[[10,2],[16,2]]],[9,[8,14,20]],[10,[6,22]],[11,[4,24]],[12,[2,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "big_x",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1537258515",
@@ -1766,6 +1974,19 @@ export const data = [
 		"filename": "bizarre_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "103865979",
+		"name": "Bizarre",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,32]],[1,[[10,7]]],[3,[[10,7]]],[5,[[10,7]]],[7,[[10,7]]],[9,[[10,7]]],[11,[[10,7]]],[13,[[10,7]]],[15,[[10,7]]],[16,[0,32]]]],[1,[[1,[[10,7]]],[3,[[10,7]]],[5,[[10,7]]],[7,[[10,3],[18,3]]],[9,[[12,5]]],[11,[[12,5]]],[13,[[12,5]]]]],[2,[[1,[[10,7]]],[3,[[10,7]]],[5,[[10,2],[20,2]]],[7,[[10,2],[20,2]]],[9,[[14,3]]],[11,[[14,3]]]]],[3,[[1,[[10,7]]],[3,[10,22]],[5,[10,22]],[7,[10,22]],[9,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "bizarre_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4019474613",
@@ -1851,10 +2072,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,14],[2,[[0,3],[10,5],[24,3]]],[4,[0,4,[12,3],24,28]],[6,[0,[10,5],28]],[8,[[0,2],[6,9],[26,2]]],[10,[[0,5],[12,3],[20,5]]],[12,[[2,3],[10,5],[22,3]]],[14,[[13,2]]]]],[1,[[2,[[1,2],[12,3],[25,2]]],[4,[[12,3]]],[5,[0,28]],[6,[[10,5]]],[7,[0,28]],[8,[[10,5]]],[10,[[1,4],[12,3],[21,4]]],[12,[[3,2],[12,3],[23,2]]],[14,14]]],[2,[[2,[2,[13,2],26]],[4,[[13,2]]],[6,[0,[11,4],28]],[8,[[11,4]]],[10,[[2,3],[13,2],[22,3]]],[12,[4,[13,2],24]]]],[3,[[2,14],[4,14],[6,[[13,2]]],[8,[[13,2]]],[10,14],[12,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "boar",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "4122326287",
+		"name": "Boar",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[2,[[0,3],[10,5],[24,3]]],[4,[0,4,[12,3],24,28]],[6,[0,[10,5],28]],[8,[[0,2],[6,9],[26,2]]],[10,[[0,5],[12,3],[20,5]]],[12,[[2,3],[10,5],[22,3]]],[14,[[13,2]]]]],[1,[[2,[[1,2],[12,3],[25,2]]],[4,[[12,3]]],[5,[0,28]],[6,[[10,5]]],[7,[0,28]],[8,[[10,5]]],[10,[[1,4],[12,3],[21,4]]],[12,[[3,2],[12,3],[23,2]]],[14,14]]],[2,[[2,[2,[13,2],26]],[4,[[13,2]]],[6,[0,[11,4],28]],[8,[[11,4]]],[10,[[2,3],[13,2],[22,3]]],[12,[4,[13,2],24]]]],[3,[[2,14],[4,14],[6,[[13,2]]],[8,[[13,2]]],[10,14],[12,14]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/boar",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "boar",
+		"filename": "boar_2",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -1883,6 +2117,19 @@ export const data = [
 		"filename": "boat_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3694126360",
+		"name": "Boat",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,15,19]],[2,[[9,2],15,[19,2]]],[4,[[7,3],15,[19,3]]],[6,[[5,4],15,[19,4]]],[8,[[3,5],15,[19,5]]],[10,15],[12,[[0,16]]],[14,[[3,13]]],[16,[[8,8]]]]],[1,[[2,[11,19]],[4,[[9,2],[19,2]]],[6,[[7,3],[19,3]]],[8,[[5,4],[19,4]]],[12,[[2,14]]],[14,[[5,11]]],[16,[[10,6]]]]],[2,[[4,[11,19]],[6,[[9,2],[19,2]]],[8,[[7,3],[19,3]]]]],[3,[[6,[11,19]],[8,[[9,2],[19,2]]]]],[4,[[8,[11,19]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "boat_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "205272848",
@@ -2132,6 +2379,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
+		"id": "928751512",
+		"name": "Bridge",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[26,2]]],[2,[[0,3],[24,3]]],[4,[[0,4],[22,4]]],[6,[[0,5],[20,5]]],[7,[[10,5]]],[8,[[0,5],[20,5]]],[10,[[0,4],[22,4]]],[12,[[0,3],[24,3]]],[14,[[0,2],[26,2]]]]],[1,[[0,[[0,2],[26,2]]],[2,[[0,3],[24,3]]],[4,[[0,3],[24,3]]],[6,[[0,4],[22,4]]],[7,[[8,7]]],[8,[[0,4],[22,4]]],[10,[[0,3],[24,3]]],[12,[[0,3],[24,3]]],[14,[[0,2],[26,2]]]]],[2,[[0,[0,28]],[2,[0,28]],[4,[[0,2],[26,2]]],[10,[[0,2],[26,2]]],[12,[0,28]],[14,[0,28]]]],[3,[[0,[0,28]],[2,[0,28]],[4,[0,28]],[10,[0,28]],[12,[0,28]],[14,[0,28]]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#BRIDGE.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "bridge_5",
+		"path": "solitile",
+		"collection": "Solitile"
+	},
+	{
 		"id": "3692029556",
 		"name": "Bridge",
 		"by": "Unknown",
@@ -2140,9 +2400,35 @@ export const data = [
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/bridge",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "bridge_5",
+		"filename": "bridge_6",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
+	},
+	{
+		"id": "1990379391",
+		"name": "Bridge 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,24]],[2,[0,24]],[3,[[6,2],[16,2]]],[4,[0,24]],[5,[[6,2],[16,2]]],[6,[0,24]],[8,[0,24]]]],[1,[[0,[1,23]],[2,[1,[5,3],[15,3],23]],[4,[1,[5,3],[15,3],23]],[6,[1,[5,3],[15,3],23]],[8,[1,23]]]],[2,[[0,[2,22]],[1,[[4,4],[14,4]]],[2,[2,22]],[3,[[4,4],[14,4]]],[4,[2,22]],[5,[[4,4],[14,4]]],[6,[2,22]],[7,[[4,4],[14,4]]],[8,[2,22]]]],[3,[[0,[[3,10]]],[2,[[3,10]]],[4,[[3,10]]],[6,[[3,10]]],[8,[[3,10]]]]],[4,[[0,[3,12,21]],[8,[3,12,21]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "bridge_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3692029556",
+		"name": "Bridge 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,26]],[2,[[0,2],[24,2]]],[4,[[0,3],[22,3]]],[5,[[12,2]]],[6,[[0,4],[20,4]]],[7,[[8,6]]],[8,[[0,4],[20,4]]],[9,13],[10,[[0,3],[22,3]]],[12,[[0,2],[24,2]]],[14,[0,26]]]],[1,[[0,[0,26]],[2,[[0,2],[24,2]]],[4,[[0,3],[22,3]]],[6,[[0,3],[22,3]]],[7,[[9,5]]],[8,[[0,3],[22,3]]],[10,[[0,3],[22,3]]],[12,[[0,2],[24,2]]],[14,[0,26]]]],[2,[[0,[0,26]],[2,[[0,2],[24,2]]],[4,[[0,2],[24,2]]],[6,[[0,2],[24,2]]],[7,[[10,4]]],[8,[[0,2],[24,2]]],[10,[[0,2],[24,2]]],[12,[[0,2],[24,2]]],[14,[0,26]]]],[3,[[0,[0,26]],[2,[0,26]],[4,[0,26]],[6,[0,26]],[7,[[11,3]]],[8,[0,26]],[10,[0,26]],[12,[0,26]],[14,[0,26]]]],[4,[[7,[[12,2]]]]],[5,[[7,13]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "bridge_2_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2614173575",
@@ -2195,6 +2481,19 @@ export const data = [
 		"filename": "bug_3",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "1981371889",
+		"name": "Bug",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[7,13,19]],[1,[9,15,21]],[3,[0,[8,8]]],[4,[2,24]],[5,[[6,9],26]],[6,[4,24]],[7,[2,[6,9],26]],[8,[4,24]],[9,[[6,9],26]],[10,[2,24]],[11,[0,[8,8]]],[13,[9,15,21]],[14,[7,13,19]]]],[1,[[0,[7,13,19]],[3,0],[5,[[8,8]]],[6,4],[7,[2,[6,10]]],[8,4],[9,[[8,8]]],[11,0],[14,[7,13,19]]]],[2,[[3,0],[5,[[9,7]]],[6,4],[7,[[8,7]]],[8,4],[9,[[9,7]]],[11,0]]],[3,[[6,4],[7,[[9,6]]],[8,4]]],[4,[[7,[[10,5]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "bug_4",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "309366373",
@@ -2260,6 +2559,32 @@ export const data = [
 		"filename": "butterfly_5",
 		"path": "phantagia/lyall/vblayouts",
 		"collection": "Phantagia - Submitted - Bushell"
+	},
+	{
+		"id": "3715804836",
+		"name": "Butterfly 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[12,16]],[1,[0,4,24,28]],[2,[6,14,22]],[3,[0,4,8,20,24,28]],[4,[2,6,10,14,18,22,26]],[5,[0,4,8,12,16,20,24,28]],[6,[2,6,10,14,18,22,26]],[7,[0,4,8,12,16,20,24,28]],[8,[2,6,10,14,18,22,26]],[9,[0,4,8,12,16,20,24,28]],[10,[2,6,10,14,18,22,26]],[11,[0,4,8,20,24,28]],[12,[2,6,14,22,26]],[13,[0,4,24,28]],[14,14]]],[1,[[0,[12,16]],[2,14],[3,[6,22]],[4,[4,14,24]],[5,[2,[6,2],[20,2],26]],[6,[0,10,14,18,28]],[7,[8,12,16,20]],[8,[0,10,14,18,28]],[9,[2,[6,2],[20,2],26]],[10,[4,14,24]],[11,[6,22]],[12,14],[14,14]]],[2,[[0,[12,16]],[2,14],[4,14],[6,14],[8,14],[10,14],[12,14],[14,14]]],[3,[[0,[12,16]],[4,14],[6,14],[8,14],[10,14],[12,14]]],[4,[[6,14],[8,14],[10,14],[12,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "butterfly_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "309366373",
+		"name": "Butterfly 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,2],[25,2]]],[1,[3,9,[15,2],23,29]],[2,[1,11,21,31]],[3,[[13,4]]],[4,[0,[5,2],[25,2],32]],[5,[[15,2]]],[6,[0,[5,2],[25,2],32]],[7,[[13,4]]],[8,[1,11,21,31]],[9,[3,9,[15,2],23,29]],[10,[7,25]],[11,[5,[15,2],27]],[12,[13,19]],[13,[4,8,[15,2],24,28]],[14,[12,20]],[15,[5,27]],[16,[[7,3],[21,3]]]]],[1,[[1,[9,16,23]],[2,[11,21]],[3,[6,[13,4],26]],[5,[4,8,16,24,28]],[7,[6,[13,4],26]],[8,[11,21]],[9,[9,16,23]],[11,[[15,2]]],[12,[13,19]],[13,[8,16,24]],[14,[12,20]],[16,[11,21]]]],[2,[[3,[13,16,19]],[4,[[5,2],[25,2]]],[5,16],[6,[[5,2],[25,2]]],[7,[13,16,19]],[9,16],[11,16],[12,[13,19]],[13,[8,24]]]],[3,[[3,[6,16,26]],[5,[[4,3],[24,3]]],[7,[6,16,26]],[11,16]]],[4,[[5,[6,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "butterfly_2_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "606211869",
@@ -2351,6 +2676,19 @@ export const data = [
 		"filename": "cancer_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
 		"collection": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "1225733393",
+		"name": "Candy",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[12,5],32]],[1,[2,30]],[2,[0,4,[10,7],28,32]],[3,[2,6,26,30]],[4,[0,4,[8,9],28,32]],[5,[2,6,26,30]],[6,[0,4,[8,9],28,32]],[7,[2,6,26,30]],[8,[0,4,[10,7],28,32]],[9,[2,30]],[10,[0,[12,5],32]]]],[1,[[0,0],[1,2],[2,[0,4,[14,3],32]],[3,[2,6,30]],[4,[0,4,8,[12,5],28,32]],[5,[2,6,26,30]],[6,[0,4,[12,5],24,28,32]],[7,[2,26,30]],[8,[0,[14,3],28,32]],[9,30],[10,32]]],[2,[[0,0],[1,2],[2,[0,4]],[3,2],[4,0],[5,[[15,2]]],[6,32],[7,30],[8,[28,32]],[9,30],[10,32]]],[3,[[0,0],[1,2],[2,0],[8,32],[9,30],[10,32]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "candy",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2380562471",
@@ -2566,10 +2904,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,7]]],[2,[[0,7]]],[4,[[0,8]]],[6,[[0,9]]],[8,[[0,8]]],[10,[[0,7]]],[12,[[0,7]]]]],[1,[[0,[[0,7]]],[2,[0,12]],[3,[[3,4]]],[4,[0,12]],[5,[[3,4]]],[6,[0,[12,2]]],[7,[[3,4]]],[8,[0,12]],[9,[[3,4]]],[10,[0,12]],[12,[[0,7]]]]],[2,[[0,[[0,7]]],[2,[0,12]],[4,[0,[4,3],12]],[6,[0,[4,3],12]],[8,[0,[4,3],12]],[10,[0,12]],[12,[[0,7]]]]],[3,[[0,[0,12]],[4,[0,12]],[5,[[5,2]]],[7,[[5,2]]],[8,[0,12]],[12,[0,12]]]],[4,[[0,[0,12]],[6,6],[12,[0,12]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "castle_6",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1610571829",
+		"name": "Castle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,7]]],[2,[[0,7]]],[4,[[0,8]]],[6,[[0,9]]],[8,[[0,8]]],[10,[[0,7]]],[12,[[0,7]]]]],[1,[[0,[[0,7]]],[2,[0,12]],[3,[[3,4]]],[4,[0,12]],[5,[[3,4]]],[6,[0,[12,2]]],[7,[[3,4]]],[8,[0,12]],[9,[[3,4]]],[10,[0,12]],[12,[[0,7]]]]],[2,[[0,[[0,7]]],[2,[0,12]],[4,[0,[4,3],12]],[6,[0,[4,3],12]],[8,[0,[4,3],12]],[10,[0,12]],[12,[[0,7]]]]],[3,[[0,[0,12]],[4,[0,12]],[5,[[5,2]]],[7,[[5,2]]],[8,[0,12]],[12,[0,12]]]],[4,[[0,[0,12]],[6,6],[12,[0,12]]]]]",
 		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
 		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
 		"solvable": true,
-		"filename": "castle_6",
+		"filename": "castle_7",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
 	},
@@ -2665,6 +3016,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "4092923114",
+		"name": "Cat And Mouse",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,8],27,31]],[1,[3,21]],[2,[1,23,[27,3]]],[3,[[7,3],25]],[4,[0,[27,3]]],[5,[[7,3]]],[6,0],[7,[[7,3],20,27]],[8,[1,18,22,31]],[9,[16,27]],[10,[2,14,23,31]],[11,[[4,5]]],[12,[18,22]],[13,20],[14,[[26,4]]]]],[1,[[0,[[5,8],27,31]],[1,[3,21]],[2,[1,23,[27,3]]],[3,25],[4,[0,[8,2],[27,3]]],[6,[0,[8,2]]],[7,[20,27]],[8,[1,18,22,31]],[9,[16,27]],[10,[2,14,23,31]],[11,[[4,5]]],[12,[18,22]],[13,20],[14,[[26,4]]]]],[2,[[0,[5,9,13,17,27,31]],[2,29],[3,[[7,3]]],[4,[27,31]],[5,[[7,3]]],[7,[[7,3]]],[10,27],[11,[4,8,12,31]],[13,26],[14,[[28,3]]]]],[3,[[4,[[8,2]]],[6,[[8,2]]],[11,27],[12,31]]],[4,[[3,9],[5,[7,11]],[7,9]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "cat_and_mouse_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "995469741",
 		"name": "Celtic Cross",
 		"by": "Ernie Polegato",
@@ -2735,10 +3099,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[2,2],[9,7],[26,2]]],[2,[[3,2],[25,2]]],[3,[0,15,30]],[4,[[4,2],13,17,[24,2]]],[5,[0,[8,2],15,[20,2],30]],[6,[12,18]],[7,[0,15,30]],[8,[12,18]],[9,[0,[8,2],15,[20,2],30]],[10,[[4,2],13,17,[24,2]]],[11,[0,15,30]],[12,[[3,2],[25,2]]],[14,[[2,2],[9,7],[26,2]]]]],[1,[[0,[[2,2],[10,6],[26,2]]],[2,[[3,2],[25,2]]],[4,[0,[4,2],[14,2],[24,2],30]],[5,[[8,2],[20,2]]],[6,[0,12,15,18,30]],[8,[0,12,15,18,30]],[9,[[8,2],[20,2]]],[10,[0,[4,2],[14,2],[24,2],30]],[12,[[3,2],[25,2]]],[14,[[2,2],[10,6],[26,2]]]]],[2,[[0,[[13,3]]],[4,15],[6,15],[7,[0,30]],[8,15],[10,15],[14,[[13,3]]]]],[3,[[7,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "ceremonial_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "888948638",
+		"name": "Ceremonial",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,2],[9,7],[26,2]]],[2,[[3,2],[25,2]]],[3,[0,15,30]],[4,[[4,2],13,17,[24,2]]],[5,[0,[8,2],15,[20,2],30]],[6,[12,18]],[7,[0,15,30]],[8,[12,18]],[9,[0,[8,2],15,[20,2],30]],[10,[[4,2],13,17,[24,2]]],[11,[0,15,30]],[12,[[3,2],[25,2]]],[14,[[2,2],[9,7],[26,2]]]]],[1,[[0,[[2,2],[10,6],[26,2]]],[2,[[3,2],[25,2]]],[4,[0,[4,2],[14,2],[24,2],30]],[5,[[8,2],[20,2]]],[6,[0,12,15,18,30]],[8,[0,12,15,18,30]],[9,[[8,2],[20,2]]],[10,[0,[4,2],[14,2],[24,2],30]],[12,[[3,2],[25,2]]],[14,[[2,2],[10,6],[26,2]]]]],[2,[[0,[[13,3]]],[4,15],[6,15],[7,[0,30]],[8,15],[10,15],[14,[[13,3]]]]],[3,[[7,15]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/ceremonial",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "ceremonial_3",
+		"filename": "ceremonial_4",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -2834,6 +3211,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "2231535005",
+		"name": "Checkered",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,28]],[1,[[2,13]]],[3,[[2,13]]],[5,[[2,13]]],[7,[[2,13]]],[9,[[2,13]]],[11,[[2,13]]],[13,[[2,13]]],[14,[0,28]]]],[1,[[0,[0,28]],[1,[4,8,12,16,20,24]],[3,[2,6,10,14,18,22,26]],[5,[4,8,12,16,20,24]],[7,[2,6,10,14,18,22,26]],[9,[4,8,12,16,20,24]],[11,[2,6,10,14,18,22,26]],[13,[4,8,12,16,20,24]],[14,[0,28]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "checkered_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "830486296",
 		"name": "Checkers",
 		"by": "MyKyodai",
@@ -2871,6 +3261,19 @@ export const data = [
 		"filename": "chessmania_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3644879803",
+		"name": "ChessMania",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[27,3]]],[1,[[8,8]]],[2,[0,27]],[3,[[8,8],29]],[4,[0,31]],[5,[[8,8]]],[6,[[0,3],[27,3]]],[7,[[8,8]]],[9,[0,4,[8,8],[27,3]]],[11,[0,4,[8,8],27]],[12,[2,29]],[13,[0,4,[8,8],31]],[15,[0,4,[8,8],[27,3]]]]],[1,[[1,[10,14,18,22]],[3,[8,12,16,20,29]],[5,[10,14,18,22]],[7,[8,12,16,20]],[9,[10,14,18,22]],[11,[8,12,16,20]],[12,[2,29]],[13,[10,14,18,22]],[15,[8,12,16,20]]]],[2,[[5,[[13,3]]],[7,13],[8,15],[9,13],[11,[[13,3]]]]],[3,[[8,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "chessmania_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4045161034",
@@ -2923,6 +3326,19 @@ export const data = [
 		"filename": "chip_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "1273324342",
+		"name": "Chip",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,8,12,16,19]],[2,[[4,10]]],[3,[[0,2],[24,2]]],[4,[[4,10]]],[6,[[0,14]]],[8,[[4,10]]],[9,[[0,2],[24,2]]],[10,[[4,10]]],[12,[4,8,12,16,20]]]],[1,[[2,[[4,10]]],[3,[2,24]],[4,[[4,10]]],[6,[[2,4],[18,4]]],[8,[[4,10]]],[9,[2,24]],[10,[[4,10]]]]],[2,[[4,[[6,8]]],[6,[6,20]],[8,[[6,8]]]]],[3,[[6,[6,20]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "chip_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3034529237",
@@ -3172,6 +3588,19 @@ export const data = [
 		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
+		"id": "3792808863",
+		"name": "Cobweb",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,12]]],[1,[2,28]],[2,[0,[5,2],[13,3],[23,2],30]],[3,[2,9,21,28]],[4,[5,11,19,25]],[5,[0,3,13,17,27,30]],[6,15],[7,[0,[3,6],[17,6],30]],[8,15],[9,[0,3,13,17,27,30]],[10,[5,11,19,25]],[11,[2,9,21,28]],[12,[0,[5,2],[13,3],[23,2],30]],[13,[2,28]],[14,[[4,12]]]]],[1,[[0,[[5,3],[21,3]]],[1,[[14,2]]],[2,[2,28]],[6,[0,3,[13,3],27,30]],[8,[0,3,[13,3],27,30]],[12,[2,28]],[13,[[14,2]]],[14,[[5,3],[21,3]]]]],[2,[[0,[[6,2],[22,2]]],[1,15],[6,[[14,2]]],[7,[0,3,27,30]],[8,[[14,2]]],[13,15],[14,[[6,2],[22,2]]]]],[3,[[6,15],[8,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "cobweb",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "585974162",
 		"name": "Cock",
 		"by": "Tsubassa Kurenai",
@@ -3326,6 +3755,19 @@ export const data = [
 		"filename": "columns_4",
 		"path": "phantagia/eplayouts/eplayout01",
 		"collection": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "824648624",
+		"name": "Columns",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,9]]],[1,[4,24]],[2,[[6,2],14,[20,2]]],[3,[[0,3],[24,3]]],[4,[6,[10,5],22]],[5,[0,28]],[6,[6,10,18,22]],[7,[0,[12,3],28]],[8,[6,10,18,22]],[9,[0,28]],[10,[6,[10,5],22]],[11,[[0,3],[24,3]]],[12,[[6,2],14,[20,2]]],[13,[4,24]],[14,[[6,9]]]]],[1,[[0,[6,22]],[3,[[0,2],[26,2]]],[4,[10,18]],[5,[0,6,22,28]],[7,[6,14,22]],[9,[0,6,22,28]],[10,[10,18]],[11,[[0,2],[26,2]]],[14,[6,22]]]],[2,[[0,[6,22]],[3,[0,28]],[4,[10,18]],[7,[6,14,22]],[10,[10,18]],[11,[0,28]],[14,[6,22]]]],[3,[[0,[6,22]],[3,[0,28]],[4,[10,18]],[7,[6,14,22]],[10,[10,18]],[11,[0,28]],[14,[6,22]]]],[4,[[0,[6,22]],[3,[0,28]],[4,[10,18]],[7,14],[10,18],[11,[0,28]],[14,[6,22]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "columns_5",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2970831693",
@@ -3575,6 +4017,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
+		"id": "3646809689",
+		"name": "Cross",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,6]]],[2,[[2,8]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[2,8]]],[12,[[4,6]]]]],[1,[[0,[[6,4]]],[2,[[4,6]]],[4,[[0,4],[12,4]]],[6,[[0,10]]],[8,[[0,4],[12,4]]],[10,[[4,6]]],[12,[[6,4]]]]],[2,[[0,[6,12]],[2,[[4,2],[12,2]]],[4,[[2,3],[12,3]]],[8,[[2,3],[12,3]]],[10,[[4,2],[12,2]]],[12,[6,12]]]],[3,[[2,[6,12]],[4,[[2,3],[12,3]]],[8,[[2,3],[12,3]]],[10,[6,12]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "cross_9",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "830175737",
 		"name": "Cross",
 		"by": "Patrick Becker",
@@ -3583,7 +4038,7 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#CROSS.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "cross_9",
+		"filename": "cross_10",
 		"path": "step5",
 		"collection": "Step5"
 	},
@@ -3679,6 +4134,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
+		"id": "1312020155",
+		"name": "Crown",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[10,5],[22,4]]],[2,[[0,4],[10,5],[22,4]]],[4,[0,[4,2],[10,2],[16,2],[22,2],28]],[6,[0,[4,5],[16,5],28]],[8,[0,[4,5],[16,5],28]],[10,[0,28]],[12,[[0,6],14,[18,6]]],[14,[[0,15]]]]],[1,[[0,[[0,4],[10,5],[22,4]]],[2,[0,6,10,14,18,22,28]],[4,[0,6,10,18,22,28]],[6,[0,[6,3],[18,3],28]],[8,[0,28]],[10,[0,28]],[12,[0,14,28]],[14,[[0,6],14,[18,6]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "crown_5",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "593282196",
 		"name": "Cupido's Heart",
 		"by": "Alexis Bonvin",
@@ -3705,6 +4173,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "593282196",
+		"name": "Cupido's Heart",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,21]],[1,[9,13,19,23]],[3,[0,3,8,14,18,24]],[4,[16,28]],[5,[1,4,7,25,30]],[7,[[2,7],[24,5]]],[9,[1,4,9,23,30]],[10,28],[11,[0,3,10,22]],[13,[12,20]],[15,[14,18]],[16,16]]],[1,[[0,[11,21]],[1,[9,13,19,23]],[3,[8,14,18,24]],[4,16],[5,[1,4,7,25,30]],[7,[[2,7],[24,5]]],[9,[1,4,9,23,30]],[11,[10,22]],[13,[12,20]],[15,[14,18]],[16,16]]],[2,[[0,[11,21]],[1,[9,13,19,23]],[3,[8,14,18,24]],[4,16],[5,[7,25]],[7,[[2,7],[24,5]]],[9,[9,23]],[11,[10,22]],[13,[12,20]],[15,[14,18]],[16,16]]],[3,[[0,[11,21]],[1,[9,13,19,23]],[3,[8,14,18,24]],[4,16],[5,[7,25]],[7,24],[9,[9,23]],[11,[10,22]],[13,[12,20]],[15,[14,18]],[16,16]]],[4,[[4,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "cupidos_heart_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "4046401468",
 		"name": "Cupola",
 		"by": "Kyodai",
@@ -3729,6 +4210,19 @@ export const data = [
 		"filename": "cupola_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "4046401468",
+		"name": "Cupola",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,6]]],[1,[6,20]],[2,[4,22]],[3,[2,24]],[5,[1,14,25]],[7,[0,[9,6],26]],[9,[0,14,26]],[11,[1,25]],[13,[2,24]],[14,[4,22]],[15,[6,20]],[16,[[8,6]]]]],[1,[[1,[[9,5]]],[2,[7,19]],[3,[5,21]],[4,[3,23]],[5,14],[6,[2,24]],[7,[[10,5]]],[8,[1,25]],[9,14],[10,[2,24]],[12,[3,23]],[13,[5,21]],[14,[7,19]],[15,[[9,5]]]]],[2,[[2,[[10,4]]],[3,[8,18]],[4,[6,20]],[5,[4,14,22]],[7,[3,[11,4],23]],[9,[3,14,23]],[11,[4,22]],[12,[6,20]],[13,[8,18]],[14,[[10,4]]]]],[3,[[3,[[11,3]]],[4,[9,17]],[5,[7,14,19]],[6,[5,21]],[7,[[12,3]]],[8,[4,22]],[9,14],[10,[5,21]],[11,[7,19]],[12,[9,17]],[13,[[11,3]]]]],[4,[[5,[8,14,18]],[6,[6,20]],[7,[[13,2]]],[8,[5,21]],[9,14],[10,[6,20]],[11,[8,18]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "cupola_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3211640800",
@@ -3814,10 +4308,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[2,6]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,3],[10,3]]],[8,[[0,3],[10,3]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[2,6]]]]],[1,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[2,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[3,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]],[4,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "deep_well_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2576010163",
+		"name": "Deep Well",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,6]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,3],[10,3]]],[8,[[0,3],[10,3]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[2,6]]]]],[1,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[2,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[3,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]],[4,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]]]",
 		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
 		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
 		"solvable": true,
-		"filename": "deep_well_3",
+		"filename": "deep_well_4",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
 	},
@@ -4082,6 +4589,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "3525155109",
+		"name": "Diamond",
+		"by": "Unknown",
+		"tiles": 140,
+		"data": "[[0,[[0,[[8,2]]],[2,[[6,4]]],[4,[[4,6]]],[6,[[2,8]]],[8,[[0,10]]],[10,[[0,10]]],[12,[[2,8]]],[14,[[4,6]]],[16,[[6,4]]],[18,[[8,2]]]]],[1,[[2,[[8,2]]],[4,[[6,4]]],[6,[[4,6]]],[8,[[2,8]]],[10,[[2,8]]],[12,[[4,6]]],[14,[[6,4]]],[16,[[8,2]]]]],[2,[[4,[[8,2]]],[6,[[6,4]]],[8,[[4,6]]],[10,[[4,6]]],[12,[[6,4]]],[14,[[8,2]]]]],[3,[[6,[[8,2]]],[8,[[6,4]]],[10,[[6,4]]],[12,[[8,2]]]]],[4,[[8,[[8,2]]],[10,[[8,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "diamond_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "4043514211",
 		"name": "Diamonds",
 		"by": "Mary M",
@@ -4165,10 +4685,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[10,5]]],[2,[[2,13]]],[4,[[0,3],[8,2],14,[18,2],[24,3]]],[6,[[0,3],[8,7],[24,3]]],[8,[[2,2],[10,2],[16,2],[24,2]]],[10,[[2,2],[10,5],[24,2]]],[12,14],[14,[[12,2]]]]],[1,[[0,[[10,5]]],[2,[[3,2],[10,5],[23,2]]],[3,[8,20]],[4,[[1,2],10,14,18,[25,2]]],[5,[8,20]],[6,[[1,2],[10,5],[25,2]]],[8,[3,[10,2],[16,2],25]],[10,[3,[10,5],25]]]],[2,[[0,[[13,2]]],[2,[4,[10,5],24]],[4,[2,[8,2],14,[18,2],26]],[6,[2,[10,5],26]],[8,[11,17]],[10,[[11,4]]]]],[3,[[2,[[11,4]]],[4,[9,19]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "dog_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3143232112",
+		"name": "Dog",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,5]]],[2,[[2,13]]],[4,[[0,3],[8,2],14,[18,2],[24,3]]],[6,[[0,3],[8,7],[24,3]]],[8,[[2,2],[10,2],[16,2],[24,2]]],[10,[[2,2],[10,5],[24,2]]],[12,14],[14,[[12,2]]]]],[1,[[0,[[10,5]]],[2,[[3,2],[10,5],[23,2]]],[3,[8,20]],[4,[[1,2],10,14,18,[25,2]]],[5,[8,20]],[6,[[1,2],[10,5],[25,2]]],[8,[3,[10,2],[16,2],25]],[10,[3,[10,5],25]]]],[2,[[0,[[13,2]]],[2,[4,[10,5],24]],[4,[2,[8,2],14,[18,2],26]],[6,[2,[10,5],26]],[8,[11,17]],[10,[[11,4]]]]],[3,[[2,[[11,4]]],[4,[9,19]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/dog",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "dog_2",
+		"filename": "dog_3",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -4433,6 +4966,71 @@ export const data = [
 		"collection": "Kurenai - Tile Layouts"
 	},
 	{
+		"id": "1226090760",
+		"name": "Double Big Castle",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[[0,16]]],[2,[0,30]],[3,[[3,13]]],[4,[0,30]],[5,[3,[11,5],27]],[6,[0,30]],[7,[3,11,19,27]],[8,[0,30]],[9,[3,[11,5],27]],[10,[0,30]],[11,[[3,13]]],[12,[0,30]],[14,[[0,16]]]]],[1,[[0,[[0,16]]],[2,[0,30]],[3,[3,[10,6],27]],[4,[0,30]],[5,[3,[11,5],27]],[6,[0,30]],[7,[3,11,19,27]],[8,[0,30]],[9,[3,[11,5],27]],[10,[0,30]],[11,[3,[10,6],27]],[12,[0,30]],[14,[[0,16]]]]],[2,[[0,[[0,16]]],[2,[0,30]],[3,[3,27]],[4,[0,30]],[5,[3,11,[14,2],19,27]],[6,[0,30]],[7,[3,27]],[8,[0,30]],[9,[3,11,[14,2],19,27]],[10,[0,30]],[11,[3,27]],[12,[0,30]],[14,[[0,16]]]]],[3,[[0,[[0,3],[14,2],[26,3]]],[2,[0,30]],[4,[0,3,27,30]],[5,[11,15,19]],[6,[0,3,27,30]],[8,[0,3,27,30]],[9,[11,15,19]],[10,[0,3,27,30]],[12,[0,30]],[14,[[0,3],[14,2],[26,3]]]]],[4,[[0,[0,[14,2],30]],[5,[11,19]],[6,[0,30]],[7,[3,27]],[8,[0,30]],[9,[11,19]],[14,[0,[14,2],30]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_big_castle",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3040323151",
+		"name": "Double Big Square",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]]]],[1,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]]]],[2,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]]]],[3,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_big_square",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2726115472",
+		"name": "Double Big Traditional",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[[2,17]]],[2,[[8,10]]],[4,[[6,12]]],[6,[[4,14]]],[8,[[2,16]]],[9,[0,[34,2]]],[10,[[2,16]]],[12,[[4,14]]],[14,[[6,12]]],[16,[[8,10]]],[18,[[2,17]]]]],[1,[[0,[[12,6]]],[2,[[10,8]]],[4,[[10,8]]],[6,[[8,10]]],[8,[[6,12]]],[9,[4,30]],[10,[[6,12]]],[12,[[8,10]]],[14,[[10,8]]],[16,[[10,8]]],[18,[[12,6]]]]],[2,[[4,[[12,6]]],[6,[[12,6]]],[8,[[12,6]]],[10,[[12,6]]],[12,[[12,6]]],[14,[[12,6]]]]],[3,[[6,[[14,4]]],[8,[[14,4]]],[10,[[14,4]]],[12,[[14,4]]]]],[4,[[8,[[16,2]]],[10,[[16,2]]]]],[5,[[9,17]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_big_traditional",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3851338583",
+		"name": "Double Eight Squares",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[[0,3],[7,3],[14,3],[21,3]]],[2,[[0,3],[7,3],[14,3],[21,3]]],[4,[[0,3],[7,3],[14,3],[21,3]]],[7,[[0,3],[7,3],[14,3],[21,3]]],[9,[[0,3],[7,3],[14,3],[21,3]]],[11,[[0,3],[7,3],[14,3],[21,3]]]]],[1,[[0,[[0,3],[7,3],[14,3],[21,3]]],[2,[[0,3],[7,3],[14,3],[21,3]]],[4,[[0,3],[7,3],[14,3],[21,3]]],[7,[[0,3],[7,3],[14,3],[21,3]]],[9,[[0,3],[7,3],[14,3],[21,3]]],[11,[[0,3],[7,3],[14,3],[21,3]]]]],[2,[[0,[[0,3],[7,3],[14,3],[21,3]]],[2,[[0,3],[7,3],[14,3],[21,3]]],[4,[[0,3],[7,3],[14,3],[21,3]]],[7,[[0,3],[7,3],[14,3],[21,3]]],[9,[[0,3],[7,3],[14,3],[21,3]]],[11,[[0,3],[7,3],[14,3],[21,3]]]]],[3,[[0,[[0,3],[7,3],[14,3],[21,3]]],[2,[[0,3],[7,3],[14,3],[21,3]]],[4,[[0,3],[7,3],[14,3],[21,3]]],[7,[[0,3],[7,3],[14,3],[21,3]]],[9,[[0,3],[7,3],[14,3],[21,3]]],[11,[[0,3],[7,3],[14,3],[21,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_eight_squares",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1697380249",
+		"name": "Double Faro",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[0,[7,3],[19,3],30]],[1,[[2,2],13,17,[26,2]]],[2,[0,6,[9,2],15,[19,2],24,30]],[3,[[2,2],13,17,[26,2]]],[4,[0,9,15,21,30]],[5,[[4,2],[11,2],[17,2],[24,2]]],[6,[[0,2],[28,2]]],[7,[[4,2],[9,7],[24,2]]],[8,[[0,2],[28,2]]],[9,[[4,2],[11,2],[17,2],[24,2]]],[10,[0,9,15,21,30]],[11,[[2,2],13,17,[26,2]]],[12,[0,6,[9,2],15,[19,2],24,30]],[13,[[2,2],13,17,[26,2]]],[14,[0,[7,3],[19,3],30]]]],[1,[[0,[[8,2],[20,2]]],[1,[0,30]],[2,[[2,3],[10,6],[24,3]]],[3,[0,30]],[4,[4,9,[13,3],21,26]],[5,[0,30]],[6,[6,11,19,24]],[7,[[0,3],9,[13,3],21,[26,3]]],[8,[6,11,19,24]],[9,[0,30]],[10,[4,9,[13,3],21,26]],[11,[0,30]],[12,[[2,3],[10,6],[24,3]]],[13,[0,30]],[14,[[8,2],[20,2]]]]],[2,[[0,[9,21]],[2,[[1,3],[11,5],[25,3]]],[4,[0,9,[14,2],21,30]],[7,[[0,4],[10,6],[24,4]]],[10,[0,9,[14,2],21,30]],[12,[[1,3],[11,5],[25,3]]],[14,[9,21]]]],[3,[[0,[9,21]],[2,[[2,2],[11,5],[26,2]]],[4,15],[7,[[1,3],[11,5],[25,3]]],[10,15],[12,[[2,2],[11,5],[26,2]]],[14,[9,21]]]],[4,[[2,[3,[11,2],[17,2],27]],[3,15],[7,[[2,2],12,15,18,[26,2]]],[11,15],[12,[3,[11,2],[17,2],27]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_faro",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2921614339",
 		"name": "Double Pyramid",
 		"by": "Nanami Kamimura",
@@ -4457,6 +5055,71 @@ export const data = [
 		"filename": "double_pyramid_2",
 		"path": "phantagia/lyall/eclayouts",
 		"collection": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "325793473",
+		"name": "Double Roost",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[0,5,9,13,17,21,25,30]],[1,[2,7,11,15,19,23,28]],[2,[0,5,9,13,17,21,25,30]],[3,[2,7,11,15,19,23,28]],[4,[0,5,9,13,17,21,25,30]],[5,[2,7,11,15,19,23,28]],[6,[0,9,13,17,21,30]],[7,[2,6,11,15,19,24,28]],[8,[0,4,8,13,17,22,26,30]],[9,[2,6,10,15,20,24,28]],[10,[0,4,8,12,18,22,26,30]],[11,[2,6,10,15,20,24,28]],[12,[0,4,8,13,17,22,26,30]],[13,[2,6,11,15,19,24,28]],[14,[0,4,9,13,17,21,26,30]]]],[1,[[1,[0,8,12,18,22,30]],[2,[2,6,10,[14,2],20,24,28]],[3,[0,8,12,18,22,30]],[4,[2,6,10,[14,2],20,24,28]],[5,[0,8,12,18,22,30]],[6,[2,10,[14,2],20,28]],[7,[0,12,18,30]],[8,[2,7,[14,2],23,28]],[9,[0,5,9,21,25,30]],[10,[3,7,11,15,19,23,27]],[11,[1,5,9,21,25,29]],[12,[3,7,15,23,27]],[13,[1,5,[11,2],[17,2],25,29]]]],[2,[[2,[0,7,11,19,23,30]],[3,[2,9,13,17,21,28]],[4,[0,7,11,15,19,23,30]],[5,[2,9,13,17,21,28]],[6,[0,11,15,19,30]],[7,[2,13,17,28]],[8,[0,15,30]],[9,[8,22]],[10,[6,10,20,24]],[11,[4,8,15,22,26]],[12,[2,6,24,28]],[13,[12,18]]]],[3,[[3,[0,10,20,30]],[4,[2,8,12,18,22,28]],[5,[0,10,[14,2],20,30]],[6,[2,12,18,28]],[7,[0,[14,2],30]],[10,[9,21]],[11,[[5,2],[23,2]]]]],[4,[[4,[9,21]],[5,[1,11,19,29]],[6,[13,17]],[7,15],[11,[6,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_roost",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3209846050",
+		"name": "Double Rows",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[[0,15]]],[2,[0,4,8,12,16,20,24,28]],[4,[0,4,8,12,16,20,24,28]],[6,[0,4,8,12,16,20,24,28]],[8,[0,4,8,12,16,20,24,28]],[10,[[0,15]]]]],[1,[[0,[[0,15]]],[2,[0,4,8,12,16,20,24,28]],[4,[0,4,8,12,16,20,24,28]],[6,[0,4,8,12,16,20,24,28]],[8,[0,4,8,12,16,20,24,28]],[10,[[0,15]]]]],[2,[[0,[[0,15]]],[2,[0,4,8,12,16,20,24,28]],[4,[0,4,8,12,16,20,24,28]],[6,[0,4,8,12,16,20,24,28]],[8,[0,4,8,12,16,20,24,28]],[10,[[0,15]]]]],[3,[[0,[[0,15]]],[2,[0,4,8,12,16,20,24,28]],[4,[0,4,8,12,16,20,24,28]],[6,[0,4,8,12,16,20,24,28]],[8,[0,4,8,12,16,20,24,28]],[10,[[0,15]]]]],[4,[[0,[[4,11]]],[3,[0,28]],[4,[4,8,12,16,20,24]],[5,[0,28]],[6,[4,8,12,16,20,24]],[7,[0,28]],[10,[[4,11]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_rows",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3988545018",
+		"name": "Double Sphere",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[[9,3]]],[1,[7,15]],[2,[5,[10,2],17]],[3,[3,8,14,19]],[4,[6,[10,2],16]],[5,[[2,2],8,14,[18,2]]],[6,[6,[10,2],16]],[7,[[1,2],8,14,[19,2]]],[8,[5,[10,2],17]],[9,[[0,2],7,15,[20,2]]],[10,[4,[10,2],18]],[11,[[0,2],[6,2],[14,2],[20,2]]],[12,[4,[10,2],18]],[13,[[0,2],7,15,[20,2]]],[14,[5,[10,2],17]],[15,[[1,2],8,14,[19,2]]],[16,[6,[10,2],16]],[17,[[2,2],8,14,[18,2]]],[18,[6,[10,2],16]],[19,[3,8,14,19]],[20,[5,[10,2],17]],[21,[7,15]],[22,[[9,3]]]]],[1,[[1,[[9,3]]],[2,[7,15]],[3,[5,[9,3],17]],[5,[[5,7]]],[6,[3,19]],[7,[[5,7]]],[8,[2,20]],[9,[[4,3],11,[14,3]]],[10,[1,21]],[11,[3,[6,2],11,[14,2],19]],[12,[1,21]],[13,[[4,3],11,[14,3]]],[14,[2,20]],[15,[[5,7]]],[16,[3,19]],[17,[[5,7]]],[19,[5,[9,3],17]],[20,[7,15]],[21,[[9,3]]]]],[2,[[2,[[10,2]]],[3,[8,14]],[4,[6,[10,2],16]],[6,[[4,8]]],[8,[3,[6,6],19]],[10,[[2,10]]],[12,[[2,10]]],[14,[3,[6,6],19]],[16,[[4,8]]],[18,[6,[10,2],16]],[19,[8,14]],[20,[[10,2]]]]],[3,[[3,[[10,2]]],[4,[8,14]],[5,11],[6,[6,16]],[7,11],[8,[[4,2],[16,2]]],[9,11],[10,[3,6,16,19]],[11,[[9,3]]],[12,[3,6,16,19]],[13,11],[14,[[4,2],[16,2]]],[15,11],[16,[6,16]],[17,11],[18,[8,14]],[19,[[10,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_sphere",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "145514420",
+		"name": "Double Twin Picks",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[[2,5],15,[20,5]]],[2,[[0,7],15,[18,7]]],[4,[[0,7],15,[18,7]]],[6,[[0,7],15,[18,7]]],[8,[[0,7],15,[18,7]]],[10,[[0,7],15,[18,7]]],[12,[[0,7],15,[18,7]]],[14,[[2,5],15,[20,5]]]]],[1,[[1,[[3,4],[21,4]]],[3,[[1,6],[19,6]]],[5,[[1,6],[19,6]]],[7,[[1,6],[19,6]]],[9,[[1,6],[19,6]]],[11,[[1,6],[19,6]]],[13,[[3,4],[21,4]]]]],[2,[[2,[[4,3],[22,3]]],[4,[[2,5],[20,5]]],[6,[[2,5],[20,5]]],[8,[[2,5],[20,5]]],[10,[[2,5],[20,5]]],[12,[[4,3],[22,3]]]]],[3,[[3,[[5,2],[23,2]]],[5,[[3,4],[21,4]]],[7,[[3,4],[21,4]]],[9,[[3,4],[21,4]]],[11,[[5,2],[23,2]]]]],[4,[[4,[6,24]],[6,[[4,3],[22,3]]],[8,[[4,3],[22,3]]],[10,[6,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_twin_picks",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "4008708815",
+		"name": "Double Two Squares",
+		"by": "Unknown",
+		"tiles": 288,
+		"data": "[[0,[[0,[[0,6],[14,6]]],[2,[[0,6],[14,6]]],[4,[[0,6],[14,6]]],[6,[[0,6],[14,6]]],[8,[[0,6],[14,6]]],[10,[[0,6],[14,6]]]]],[1,[[0,[[0,6],[14,6]]],[2,[[0,6],[14,6]]],[4,[[0,6],[14,6]]],[6,[[0,6],[14,6]]],[8,[[0,6],[14,6]]],[10,[[0,6],[14,6]]]]],[2,[[0,[[0,6],[14,6]]],[2,[[0,6],[14,6]]],[4,[[0,6],[14,6]]],[6,[[0,6],[14,6]]],[8,[[0,6],[14,6]]],[10,[[0,6],[14,6]]]]],[3,[[0,[[0,6],[14,6]]],[2,[[0,6],[14,6]]],[4,[[0,6],[14,6]]],[6,[[0,6],[14,6]]],[8,[[0,6],[14,6]]],[10,[[0,6],[14,6]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "double_two_squares",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4121254526",
@@ -4496,6 +5159,32 @@ export const data = [
 		"filename": "dragon",
 		"path": "kurenai/kurenai_zodiacs",
 		"collection": "Kurenai - Chinese Zodiac"
+	},
+	{
+		"id": "3838528971",
+		"name": "Dragon 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,2]]],[2,[[6,10]]],[4,[[2,12]]],[6,[[3,7],30]],[7,[24,28]],[8,[[0,11],26,30]],[9,28],[10,[[1,6],30]],[12,[[0,6]]],[14,[[0,7]]]]],[1,[[0,6],[2,[[6,8],23]],[4,[3,7,[12,2]]],[6,[5,[8,3]]],[7,30],[8,[[1,2],[7,7],28]],[9,30],[10,[2,6,10]],[12,[1,5,8]],[14,[1,4,7,10]]]],[2,[[2,[[6,4],23]],[4,[7,13]],[6,[[8,3]]],[8,[2,[7,5],30]],[13,1],[14,[7,10]]]],[3,[[2,[[6,3]]],[4,[7,13]],[6,[[8,3]]],[8,[[7,3]]]]],[4,[[2,[[6,2]]],[6,10],[8,[[7,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "dragon_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3053946084",
+		"name": "Dragon 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,2]]],[1,[[10,2],20]],[2,[[4,3],26]],[3,[1,12,[18,2],24,28]],[5,[[0,2],[10,2],[17,2],24,28]],[6,[4,22]],[7,[1,6,[9,2],[16,3],28]],[8,14],[9,[[6,4],[16,3],27]],[10,[3,14,22]],[11,[[6,4],18]],[12,[[2,2],[22,2]]],[13,18],[14,[3,[14,2],[24,2]]]]],[1,[[0,[[6,2]]],[1,[[10,2]]],[2,[[4,3],26]],[3,[1,12,19,24,28]],[5,[[0,2],[10,2],[17,2],24,28]],[6,22],[7,[1,6,[9,2],[16,3],28]],[8,14],[9,[[6,4],[16,3],27]],[10,[3,14,22]],[11,[[8,3],18]],[12,[[2,2],[22,2]]],[13,18],[14,[3,15,25]]]],[2,[[0,7],[1,[[9,2]]],[2,[[5,2]]],[3,12],[4,[1,24,28]],[5,[11,18]],[6,[1,28]],[7,[10,[17,2]]],[9,[[9,2],14,[17,2]]],[11,[3,[9,2]]],[13,3]]],[3,[[1,7],[7,18],[9,[10,18]],[11,10]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "dragon_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3298243145",
@@ -4550,6 +5239,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1953902364",
+		"name": "Dude",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,19]],[1,[[7,3],17,27]],[2,[[19,4]]],[3,[[4,2],[11,4]]],[4,[2,9,20,[24,3]]],[5,[0,7,[12,4],22,30]],[6,[5,10,20,24]],[7,[15,26]],[8,[4,10,20]],[9,[15,27]],[10,[[9,3],[17,3]]],[12,[[9,3],[17,3]]],[13,15],[14,[9,21]],[16,[[10,6]]]]],[1,[[0,[5,19]],[1,[[7,3],17]],[3,[[11,4]]],[4,[9,20]],[5,[7,[12,4],22]],[6,[5,10,20,24]],[7,[15,26]],[8,[4,10,20]],[9,[15,27]],[10,[[9,3],[17,3]]],[12,[[9,3],[17,3]]],[13,15],[14,[9,21]],[16,[[10,6]]]]],[2,[[5,[[12,4]]],[6,[10,20]],[7,15],[8,[10,20]],[9,15],[10,[[9,3],[17,3]]],[12,[[9,3],[17,3]]],[13,15],[14,[9,21]],[16,[[10,6]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "dude_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "4065367751",
 		"name": "Eagle",
 		"by": "Alexey Charkov",
@@ -4574,6 +5276,19 @@ export const data = [
 		"filename": "eagle_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "4065367751",
+		"name": "Eagle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,3]]],[1,18],[2,[[12,2]]],[3,[[4,2],[20,2]]],[4,[2,[8,6],24]],[5,[[4,2],[20,2]]],[6,[2,[8,6],24]],[7,[[4,2],[20,2]]],[8,[[0,2],[12,2],[24,2]]],[9,[4,22]],[10,[[0,2],[12,2],[24,2]]],[12,[0,10,13,16,26]],[14,[8,11,15,18]]]],[1,[[0,[[12,3]]],[2,[[12,2]]],[4,[[2,4],[12,2],[18,4]]],[6,[[2,4],[12,2],[18,4]]],[8,[1,[12,2],25]],[9,[4,22]],[10,[1,[12,2],25]],[12,[10,16]],[14,[8,11,15,18]]]],[2,[[0,[[12,3]]],[3,[[12,2]]],[4,[[3,3],[19,3]]],[5,[[12,2]]],[6,[[3,3],[19,3]]],[7,[[12,2]]],[9,[1,[12,2],25]],[14,[8,11,15,18]]]],[3,[[0,14],[3,13],[4,[[4,2],[20,2]]],[5,13],[6,[[4,2],[20,2]]],[7,13],[9,13]]],[4,[[4,[5,21]],[6,[5,21]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "eagle_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3676957603",
@@ -4810,6 +5525,32 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "801192749",
+		"name": "Empty Pyramids",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,19]],[2,[2,[10,2],[18,2],28]],[4,[2,9,13,17,21,28]],[6,[[1,2],8,[14,2],22,[27,2]]],[8,[0,4,7,15,23,26,30]],[10,[[1,2],8,[14,2],22,[27,2]]],[12,[2,9,13,17,21,28]],[14,[2,[10,2],[18,2],28]],[16,[11,19]]]],[1,[[0,[12,18]],[2,[[11,2],[17,2]]],[4,[[10,6]]],[6,[2,9,[13,3],21,28]],[8,[[1,2],8,[14,2],22,[27,2]]],[10,[2,9,[13,3],21,28]],[12,[[10,6]]],[14,[[11,2],[17,2]]],[16,[12,18]]]],[2,[[0,[13,17]],[2,[[14,2]]],[4,[11,15,19]],[6,[[10,2],[18,2]]],[8,[2,9,[13,3],21,28]],[10,[[10,2],[18,2]]],[12,[11,15,19]],[14,[[14,2]]],[16,[13,17]]]],[3,[[0,[[14,2]]],[2,15],[6,[11,19]],[8,[[10,2],[18,2]]],[10,[11,19]],[14,15],[16,[[14,2]]]]],[4,[[0,15],[8,[11,19]],[16,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "empty_pyramids_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1872415843",
+		"name": "Encircle",
+		"by": "Everett Kaser",
+		"tiles": 168,
+		"data": "[[0,[[0,[[6,2],[13,2],[20,2]]],[1,[4,11,17,24]],[2,[2,9,19,26]],[3,[0,7,21,28]],[4,[5,[12,3],23]],[5,[3,10,18,25]],[6,[[13,2]]],[7,[[1,5],[19,5]]],[8,[[13,2]]],[9,[3,10,18,25]],[10,[5,[12,3],23]],[11,[0,7,21,28]],[12,[2,9,19,26]],[13,[4,11,17,24]],[14,[[6,2],[13,2],[20,2]]]]],[1,[[0,[[6,2],[13,2],[20,2]]],[1,[4,11,17,24]],[2,[2,9,19,26]],[3,[0,7,21,28]],[4,[5,[12,3],23]],[5,[3,10,18,25]],[6,[[13,2]]],[7,[[3,4],[19,4]]],[8,[[13,2]]],[9,[3,10,18,25]],[10,[5,[12,3],23]],[11,[0,7,21,28]],[12,[2,9,19,26]],[13,[4,11,17,24]],[14,[[6,2],[13,2],[20,2]]]]],[2,[[0,[7,[13,2],21]],[4,[[13,2]]],[6,[[13,2]]],[7,[[4,3],[20,3]]],[8,[[13,2]]],[10,[[13,2]]],[14,[7,[13,2],21]]]],[3,[[0,14],[4,[[13,2]]],[7,[[5,2],14,[21,2]]],[10,[[13,2]]],[14,14]]],[4,[[7,14]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#ENCIRCLE.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "encircle",
+		"path": "solitile",
+		"collection": "Solitile"
+	},
+	{
 		"id": "4283949265",
 		"name": "Enterprise",
 		"by": "Alexey Charkov",
@@ -4834,6 +5575,19 @@ export const data = [
 		"filename": "enterprise_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "4283949265",
+		"name": "Enterprise",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,10]]],[2,[[0,16]]],[4,16],[6,14],[7,12],[8,26],[9,[[0,9],24,28]],[10,26]]],[1,[[0,[[7,9]]],[2,[[2,14]]],[4,16],[6,14],[7,12],[9,[[2,8],26]]]],[2,[[0,[[9,7]]],[2,[[3,13]]],[4,16],[6,14],[7,12],[9,[[4,7],26]]]],[3,[[0,[[10,5]]],[2,[[4,11]]],[4,16],[6,14],[7,12],[9,[[6,5]]]]],[4,[[2,[[7,8]]],[9,[[8,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "enterprise_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1204472365",
@@ -4940,6 +5694,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "254190352",
+		"name": "Eye",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,2]]],[1,[10,16]],[2,[8,[12,2],18]],[3,[6,10,16,20]],[4,[4,8,[12,2],18,22]],[5,[2,6,10,16,20,24]],[6,[0,4,8,[12,2],18,22,26]],[7,[2,6,10,16,20,24]],[8,[4,8,[12,2],18,22]],[9,[6,10,16,20]],[10,[8,[12,2],18]],[11,[10,16]],[12,[[12,2]]]]],[1,[[1,[11,14]],[2,[9,16]],[3,[7,11,14,18]],[4,[5,9,16,20]],[5,[3,7,11,14,18,22]],[6,[5,9,16,20]],[7,[3,7,11,14,18,22]],[8,[5,9,16,20]],[9,[7,11,14,18]],[10,[9,16]],[11,[11,14]]]],[2,[[2,[11,14]],[3,[9,16]],[4,[7,11,14,18]],[5,[5,9,16,20]],[6,[7,11,14,18,22]],[7,[5,9,16,20]],[8,[7,11,14,18]],[9,[9,16]],[10,[11,14]]]],[3,[[3,[11,14]],[4,[9,16]],[5,[7,11,14,18]],[6,[5,9,16]],[7,[7,11,14,18]],[8,[9,16]],[9,[11,14]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "eye_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1500117839",
 		"name": "Eyeball",
 		"by": "Ernie Polegato",
@@ -4964,6 +5731,19 @@ export const data = [
 		"filename": "f-15_eagle",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1821841778",
+		"name": "F-15 Eagle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[1,[[14,4]]],[2,[[30,2]]],[3,[[13,4]]],[4,[11,[29,2]]],[5,[9,[13,3]]],[6,[11,[19,6]]],[7,[[1,5],[13,3]]],[8,[11,[19,6]]],[9,[9,[13,3]]],[10,[11,[29,2]]],[11,[[13,4]]],[12,[[30,2]]],[13,[[14,4]]]]],[1,[[0,[[15,4]]],[2,[[14,4],[30,2]]],[4,[[12,4],[29,2]]],[5,[[8,2]]],[6,[[12,9]]],[7,[[0,6]]],[8,[[12,9]]],[9,[[8,2]]],[10,[[12,4],[29,2]]],[12,[[14,4],[30,2]]],[14,[[15,4]]]]],[2,[[5,[[25,3]]],[7,[[0,7]]],[9,[[25,3]]]]],[3,[[5,[[26,2]]],[7,[[4,4]]],[9,[[26,2]]]]],[4,[[5,[[27,2]]],[7,[[5,3]]],[9,[[27,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "f-15_eagle_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2690364653",
@@ -5010,10 +5790,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[4,2],[12,3],[22,2]]],[1,[2,[8,2],[18,2],26]],[2,[5,23]],[3,[1,27]],[4,[[10,2],[16,2]]],[5,[1,[6,2],[20,2],27]],[6,[4,24]],[7,[[0,2],[9,6],[26,2]]],[8,[4,24]],[9,[1,[6,2],[20,2],27]],[10,[[10,2],[16,2]]],[11,[1,27]],[12,[5,23]],[13,[2,[8,2],[18,2],26]],[14,[[4,2],[12,3],[22,2]]]]],[1,[[0,[[4,2],[12,3],[22,2]]],[1,[2,[8,2],[18,2],26]],[3,[1,27]],[4,[[10,2],[16,2]]],[5,[1,[6,2],[20,2],27]],[6,[4,24]],[7,[[0,2],[11,4],[26,2]]],[8,[4,24]],[9,[1,[6,2],[20,2],27]],[10,[[10,2],[16,2]]],[11,[1,27]],[13,[2,[8,2],[18,2],26]],[14,[[4,2],[12,3],[22,2]]]]],[2,[[4,[[10,2],[16,2]]],[5,[8,20]],[7,[[13,2]]],[9,[8,20]],[10,[[10,2],[16,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "farandole_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "392868342",
+		"name": "Farandole",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[12,3],[22,2]]],[1,[2,[8,2],[18,2],26]],[2,[5,23]],[3,[1,27]],[4,[[10,2],[16,2]]],[5,[1,[6,2],[20,2],27]],[6,[4,24]],[7,[[0,2],[9,6],[26,2]]],[8,[4,24]],[9,[1,[6,2],[20,2],27]],[10,[[10,2],[16,2]]],[11,[1,27]],[12,[5,23]],[13,[2,[8,2],[18,2],26]],[14,[[4,2],[12,3],[22,2]]]]],[1,[[0,[[4,2],[12,3],[22,2]]],[1,[2,[8,2],[18,2],26]],[3,[1,27]],[4,[[10,2],[16,2]]],[5,[1,[6,2],[20,2],27]],[6,[4,24]],[7,[[0,2],[11,4],[26,2]]],[8,[4,24]],[9,[1,[6,2],[20,2],27]],[10,[[10,2],[16,2]]],[11,[1,27]],[13,[2,[8,2],[18,2],26]],[14,[[4,2],[12,3],[22,2]]]]],[2,[[4,[[10,2],[16,2]]],[5,[8,20]],[7,[[13,2]]],[9,[8,20]],[10,[[10,2],[16,2]]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/farandole",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "farandole_3",
+		"filename": "farandole_4",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -5109,6 +5902,19 @@ export const data = [
 		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
+		"id": "1885652433",
+		"name": "Fish",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,9,[18,3]]],[1,[7,[14,2],24]],[2,[2,12,[18,3],26]],[3,[10,[14,2],24,28]],[4,[[2,2],8,12,[18,3],30]],[5,[6,10,[14,2],24,28]],[6,[[2,2],8,12,[18,3],26,30]],[7,[10,[14,2],24,28]],[8,[2,12,[18,3],26]],[9,[[14,2],24]],[10,[7,[18,3]]],[11,9],[12,[4,11]],[13,[2,6,28]],[14,[0,8,[16,2],26,30]],[15,[10,14,20,24]],[16,[12,22]]]],[1,[[1,7],[2,[[18,3]]],[3,[2,[14,2]]],[4,[12,[18,3]]],[5,[[2,2],[8,2],[14,2]]],[6,[12,[18,3]]],[7,[2,[14,2],24]],[8,[[18,3]]],[11,9],[12,4],[13,[2,6,28]],[14,[8,26]],[15,[10,14,20,24]],[16,[12,22]]]],[2,[[4,[[17,2]]],[5,[[11,3],21]],[6,[[17,2]]],[7,[[21,2]]],[12,4],[13,6],[14,[8,26]],[15,[10,24]],[16,[12,22]]]],[3,[[13,6],[14,[8,26]],[15,[10,24]]]],[4,[[14,8]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "fish_4",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2173416522",
 		"name": "Fish Face",
 		"by": "Kyodai",
@@ -5133,6 +5939,19 @@ export const data = [
 		"filename": "fish_face_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2173416522",
+		"name": "Fish Face",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,17],[1,15],[2,13],[4,[[10,4]]],[5,[8,18,31]],[6,[6,11,15,20,29]],[7,[4,9,17,22,27]],[8,[2,7,[12,2],19,24]],[9,[0,4,10,16,26]],[10,[2,7,[12,2],19,24]],[11,[4,9,17,22,27]],[12,[6,11,15,20,29]],[13,[8,18,31]],[14,[[10,4]]],[16,13],[17,15],[18,17]]],[1,[[1,15],[2,13],[4,[[10,4]]],[5,[8,18]],[6,[6,11,15,20,29]],[7,[4,9,17,22,27]],[8,[2,7,[12,2],19,24]],[9,[0,4,10,16,26]],[10,[2,7,[12,2],19,24]],[11,[4,9,17,22,27]],[12,[6,11,15,20,29]],[13,[8,18]],[14,[[10,4]]],[16,13],[17,15]]],[2,[[2,13],[4,[[10,4]]],[5,8],[6,[6,11,15]],[7,[9,17,27]],[8,[4,7]],[9,[2,[12,2],19,26]],[10,[4,7]],[11,[9,17,27]],[12,[6,11,15]],[13,8],[14,[[10,4]]],[16,13]]],[3,[[9,3]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "fish_face_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2095480368",
@@ -5161,6 +5980,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2095480368",
+		"name": "Five Pyramids 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[24,4]]],[2,[[0,4],15,[24,4]]],[4,[[0,4],15,[24,4]]],[6,[[0,4],[13,3],[24,4]]],[7,[11,19]],[8,[[13,3]]],[10,[[0,4],15,[24,4]]],[12,[[0,4],15,[24,4]]],[14,[[0,4],[24,4]]],[16,[[0,4],[24,4]]]]],[1,[[1,[[1,3],[25,3]]],[3,[[1,3],15,[25,3]]],[5,[[1,3],15,[25,3]]],[7,[[13,3]]],[9,15],[11,[[1,3],15,[25,3]]],[13,[[1,3],[25,3]]],[15,[[1,3],[25,3]]]]],[2,[[2,[[2,2],[26,2]]],[4,[[2,2],[26,2]]],[5,15],[7,[[14,2]]],[9,15],[12,[[2,2],[26,2]]],[14,[[2,2],[26,2]]]]],[3,[[3,[3,27]],[7,15],[13,[3,27]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "five_pyramids_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3406740221",
 		"name": "Five Pyramids 2",
 		"by": "Alexis Bonvin",
@@ -5185,6 +6017,19 @@ export const data = [
 		"filename": "five_pyramids_2_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3406740221",
+		"name": "Five Pyramids 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[[0,4],[22,4]]],[2,14],[3,[[0,7],[16,7]]],[4,14],[5,[[0,4],[22,4]]],[6,[[12,3]]],[7,[3,25]],[8,[[6,9]]],[9,[3,25]],[10,[[12,3]]],[11,[[0,4],[22,4]]],[12,14],[13,[[0,7],[16,7]]],[14,14],[15,[[0,4],[22,4]]],[16,14]]],[1,[[2,[[1,3],14,[23,3]]],[4,[[1,3],14,[23,3]]],[6,14],[8,[[8,7]]],[10,14],[12,[[1,3],14,[23,3]]],[14,[[1,3],14,[23,3]]]]],[2,[[3,[[2,2],[24,2]]],[4,14],[6,14],[8,[[10,5]]],[10,14],[12,14],[13,[[2,2],[24,2]]]]],[3,[[6,14],[8,[[12,3]]],[10,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "five_pyramids_2_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1338272962",
@@ -5250,6 +6095,19 @@ export const data = [
 		"filename": "floating_city_3",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3545939663",
+		"name": "Floating City",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[1,[[4,11]]],[3,[4,7,[12,3],21,24]],[5,[4,7,[12,3],21,24]],[7,[4,7,[12,3],21,24]],[9,[4,7,[12,3],21,24]],[11,[4,7,[12,3],21,24]],[13,[[4,11]]]]],[1,[[0,[[3,2],14,[23,2]]],[2,[[3,2],[23,2]]],[5,[[11,4]]],[7,[[11,4]]],[9,[[11,4]]],[12,[[3,2],[23,2]]],[14,[[3,2],14,[23,2]]]]],[2,[[0,14],[1,[4,24]],[3,[2,26]],[5,[2,26]],[6,[0,[12,3],28]],[7,[2,26]],[8,[0,[12,3],28]],[9,[2,26]],[11,[2,26]],[13,[4,24]],[14,14],[15,[2,12,16,26]],[16,14]]],[3,[[0,14],[2,[5,23]],[4,[7,21]],[6,[9,19]],[8,[9,19]],[10,[7,21]],[12,[5,23]],[14,14]]],[4,[[1,14],[3,14],[5,14],[7,[[10,5]]],[9,14],[11,14],[13,14],[15,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "floating_city_4",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2738800341",
@@ -5356,6 +6214,32 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "564580225",
+		"name": "Flowers 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[10,4],[20,4]]],[2,[0,6,10,16,20,26]],[4,[[0,4],[10,4],[20,4]]],[6,[3,13,23]],[7,[[5,4],[15,4]]],[8,[3,13,23]],[10,[[0,4],[10,4],[20,4]]],[12,[0,6,10,16,20,26]],[14,[[0,4],[10,4],[20,4]]]]],[1,[[0,[[0,4],[12,2],[22,2]]],[2,[0,6,10,16,20,26]],[4,[[0,4],[12,2],[22,2]]],[10,[[2,2],[12,2],[22,2]]],[12,[0,6,10,16,20,26]],[14,[[2,2],[12,2],[22,2]]]]],[2,[[0,[[2,2],13,23]],[2,[0,6,10,16,20,26]],[4,[[2,2],13,23]],[10,[3,13,23]],[12,[0,6,10,16,20,26]],[14,[3,13,23]]]],[3,[[0,3],[2,[0,6]],[4,3]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "flowers_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "987269544",
+		"name": "Flowers 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,27]],[1,[[14,3]]],[2,[[3,3],[25,3]]],[3,[[12,5]]],[4,[5,27]],[5,[[10,7]]],[6,[2,30]],[7,[[8,9]]],[8,[[0,3],[28,3]]],[9,[[8,9]]],[10,[2,30]],[11,[[10,7]]],[12,[5,27]],[13,[[12,5]]],[14,[[3,3],[25,3]]],[15,[[14,3]]],[16,[5,27]]]],[1,[[2,[5,[15,2],27]],[4,[[13,4]]],[6,[[11,6]]],[8,[2,[9,8],30]],[10,[[11,6]]],[12,[[13,4]]],[14,[5,[15,2],27]]]],[2,[[3,16],[5,[[14,3]]],[7,[[12,5]]],[9,[[12,5]]],[11,[[14,3]]],[13,16]]],[3,[[6,[[15,2]]],[8,[[13,4]]],[10,[[15,2]]]]],[4,[[7,16],[9,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "flowers_2_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1151913060",
 		"name": "For The Sake Of Symmetry",
 		"by": "Nanami Kamimura",
@@ -5445,6 +6329,32 @@ export const data = [
 		"filename": "fortress_3",
 		"path": "phantagia/eplayouts/eplayout02",
 		"collection": "Phantagia - Package A - Package 02"
+	},
+	{
+		"id": "91070649",
+		"name": "Fortress Towers",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[[0,2],[6,4],[16,2]]],[4,[[0,2],[6,4],[16,2]]],[6,[[0,2],[6,4],[16,2]]],[8,[[0,2],[6,4],[16,2]]],[10,[[0,10]]]]],[1,[[0,[[0,10]]],[2,[0,9,18]],[4,[0,9,18]],[6,[0,9,18]],[8,[0,9,18]],[10,[[0,10]]]]],[2,[[0,[[0,4],[12,4]]],[2,[0,18]],[4,[0,18]],[6,[0,18]],[8,[0,18]],[10,[[0,4],[12,4]]]]],[3,[[0,[[0,3],[14,3]]],[2,[0,18]],[4,[0,18]],[6,[0,18]],[8,[0,18]],[10,[[0,3],[14,3]]]]],[4,[[0,[[0,2],[16,2]]],[2,[0,18]],[8,[0,18]],[10,[[0,2],[16,2]]]]],[5,[[0,[0,18]],[10,[0,18]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "fortress_towers",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2700071239",
+		"name": "Forum",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[[4,5],[16,3]]],[3,[[2,4],14,[20,3]]],[5,[[0,5],14,[20,5]]],[7,[[0,15]]],[9,[[0,5],14,[20,5]]],[11,[[2,4],14,[20,4]]],[13,[[4,5],[16,5]]],[14,14]]],[1,[[0,14],[1,[[10,2],[16,2]]],[3,[[4,2],14,[22,2]]],[5,[[2,4],14,[20,4]]],[7,[[2,13]]],[9,[[2,4],14,[20,4]]],[11,[[4,2],14,[22,2]]],[13,[[10,2],[16,2]]],[14,14]]],[2,[[0,14],[1,[12,16]],[3,14],[5,14],[6,[[4,2],[22,2]]],[7,14],[8,[[4,2],[22,2]]],[9,14],[11,14],[13,[12,16]],[14,14]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#FORUM.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "forum",
+		"path": "solitile",
+		"collection": "Solitile"
 	},
 	{
 		"id": "1486686890",
@@ -5603,6 +6513,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1335749063",
+		"name": "Full Vision 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,8,[12,4],22,30]],[1,[[2,3],[24,3]]],[2,[0,8,[12,4],22,30]],[3,[[2,3],[24,3]]],[4,[0,8,22,30]],[5,[4,12,18,26]],[6,[[6,3],[20,3]]],[7,[4,12,18,26]],[8,[[6,3],[20,3]]],[9,[4,12,18,26]],[10,[0,8,22,30]],[11,[[2,3],[24,3]]],[12,[0,8,[14,2],22,30]],[13,[[2,3],12,18,[24,3]]],[14,[0,8,[14,2],22,30]]]],[1,[[0,15],[1,[1,7,13,17,23,29]],[2,[[3,2],15,[25,2]]],[3,[1,7,23,29]],[6,[5,11,19,25]],[7,[[7,2],[21,2]]],[8,[5,11,19,25]],[11,[1,7,23,29]],[12,[[3,2],[25,2]]],[13,[1,7,[13,3],23,29]]]],[2,[[1,[[14,2]]],[2,[2,6,24,28]],[7,[6,10,20,24]],[12,[2,6,24,28]]]],[3,[[1,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "full_vision_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2078677334",
 		"name": "Full Vision 2",
 		"by": "John Payson",
@@ -5634,10 +6557,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[4,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[6,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[9,[[0,4],[10,2],[15,2],[21,4]]],[11,[[0,4],[10,2],[15,2],[21,4]]],[14,[[4,5],[15,5]]]]],[1,[[1,[1,6,11,16,21,26]],[3,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[5,[1,6,11,16,21,26]],[9,[3,24]],[10,[1,5,[10,2],[15,2],22,26]],[11,[3,24]]]],[2,[[2,[1,6,11,16,21,26]],[4,[1,6,11,16,21,26]],[10,[[2,2],11,16,[23,2]]]]],[3,[[3,[1,6,11,16,21,26]],[10,[3,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "full_vision_2_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2078677334",
+		"name": "Full Vision 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[4,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[6,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[9,[[0,4],[10,2],[15,2],[21,4]]],[11,[[0,4],[10,2],[15,2],[21,4]]],[14,[[4,5],[15,5]]]]],[1,[[1,[1,6,11,16,21,26]],[3,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[5,[1,6,11,16,21,26]],[9,[3,24]],[10,[1,5,[10,2],[15,2],22,26]],[11,[3,24]]]],[2,[[2,[1,6,11,16,21,26]],[4,[1,6,11,16,21,26]],[10,[[2,2],11,16,[23,2]]]]],[3,[[3,[1,6,11,16,21,26]],[10,[3,24]]]]]",
 		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
 		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
 		"solvable": true,
-		"filename": "full_vision_2_3",
+		"filename": "full_vision_2_4",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
 	},
@@ -5668,6 +6604,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "3638094299",
+		"name": "Full Vision 3",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,14,24]],[1,[2,6,12,16,22,26]],[2,[4,14,24]],[3,[2,6,12,16,22,26]],[4,[0,4,[8,2],14,[18,2],24,28]],[5,[2,6,12,16,22,26]],[6,[0,4,[8,2],14,[18,2],24,28]],[7,[2,6,12,16,22,26]],[8,[0,4,[8,2],14,[18,2],24,28]],[9,[2,6,12,16,22,26]],[10,[4,14,24]],[11,[2,6,12,16,22,26]],[12,[4,14,24]],[13,[2,[6,4],[16,4],26]],[15,[2,[6,4],[16,4],26]]]],[1,[[1,[4,14,24]],[2,[2,6,12,16,22,26]],[4,[1,7,11,17,21,27]],[5,14],[6,[2,6,9,12,16,19,22,26]],[8,[1,7,11,17,21,27]],[10,[2,6,12,16,22,26]],[11,[4,14,24]],[14,[2,[6,4],[16,4],26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "full_vision_3_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "258283513",
 		"name": "Future",
 		"by": "Alexey Charkov",
@@ -5692,6 +6641,19 @@ export const data = [
 		"filename": "future_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "258283513",
+		"name": "Future",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,9]]],[2,[[6,9]]],[4,[[4,11]]],[5,[2,26]],[6,[0,[4,11],28]],[7,[2,26]],[8,[[4,11]]],[10,[[6,9]]],[12,[[6,9]]]]],[1,[[0,[6,14,22]],[2,[8,14,20]],[4,[[10,5]]],[6,[[2,13]]],[8,[[10,5]]],[10,[8,14,20]],[12,[6,14,22]]]],[2,[[0,[6,22]],[2,[8,20]],[4,[[13,2]]],[6,[[4,11]]],[8,[[13,2]]],[10,[8,20]],[12,[6,22]]]],[3,[[6,[[8,7]]]]],[4,[[6,[[11,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "future_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3091729243",
@@ -5746,6 +6708,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "3688892402",
+		"name": "Garden",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,2],[14,2],[25,2]]],[1,[0,8,11,19,22,30]],[2,[[2,3],[13,3],[24,3]]],[3,[0,8,11,19,22,30]],[4,[[2,3],[13,3],[24,3]]],[5,[0,8,11,19,22,30]],[7,[[2,3],[13,3],[24,3]]],[9,[0,8,11,19,22,30]],[10,[[2,3],[13,3],[24,3]]],[11,[0,8,11,19,22,30]],[12,[[2,3],[13,3],[24,3]]],[13,[0,8,11,19,22,30]],[14,[[3,2],[14,2],[25,2]]]]],[1,[[0,[4,15,26]],[3,[[2,3],[13,3],[24,3]]],[7,[[3,2],[14,2],[25,2]]],[11,[[2,3],[13,3],[24,3]]],[14,[4,15,26]]]],[2,[[3,[[3,2],[14,2],[25,2]]],[7,[4,15,26]],[11,[[3,2],[14,2],[25,2]]]]],[3,[[3,[4,15,26]],[11,[4,15,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "garden_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2345599479",
 		"name": "Gayle's",
 		"by": "MyKyodai",
@@ -5764,10 +6739,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[10,4]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[10,4]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[0,[[2,3],[20,3]]],[2,[[8,6]]],[4,[[12,2]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[12,2]]],[12,[[8,6]]],[14,[[2,3],[20,3]]]]],[2,[[0,[[2,2],[22,2]]],[2,[[10,4]]],[7,[[9,5]]],[12,[[10,4]]],[14,[[2,2],[22,2]]]]],[3,[[0,[2,24]],[2,13],[7,[[12,2]]],[12,13],[14,[2,24]]]],[4,[[7,13]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "gayles_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2345599479",
+		"name": "Gayle's",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[10,4]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[10,4]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[0,[[2,3],[20,3]]],[2,[[8,6]]],[4,[[12,2]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[12,2]]],[12,[[8,6]]],[14,[[2,3],[20,3]]]]],[2,[[0,[[2,2],[22,2]]],[2,[[10,4]]],[7,[[9,5]]],[12,[[10,4]]],[14,[[2,2],[22,2]]]]],[3,[[0,[2,24]],[2,13],[7,[[12,2]]],[12,13],[14,[2,24]]]],[4,[[7,13]]]]",
 		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
 		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
 		"solvable": true,
-		"filename": "gayles_2",
+		"filename": "gayles_3",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
 	},
@@ -5941,6 +6929,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "866001765",
+		"name": "Glade",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[28,2]]],[2,[[0,2],[28,2]]],[3,[[7,9]]],[5,[[7,9]]],[7,[[7,4],[17,4]]],[9,[[7,9]]],[11,[[7,9]]],[12,[[0,2],[28,2]]],[14,[[0,2],[28,2]]]]],[1,[[0,[1,29]],[2,[1,29]],[3,[[9,7]]],[5,[[7,9]]],[7,[[7,3],[19,3]]],[9,[[7,9]]],[11,[[9,7]]],[12,[1,29]],[14,[1,29]]]],[2,[[1,[1,29]],[3,[[9,3],[17,3]]],[5,[[7,2],[21,2]]],[7,[7,23]],[9,[[7,2],[21,2]]],[11,[[9,3],[17,3]]],[13,[1,29]]]],[3,[[3,[9,21]],[5,[7,23]],[9,[7,23]],[11,[9,21]]]],[4,[[3,[9,21]],[11,[9,21]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "glade_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2510794721",
 		"name": "Gong",
 		"by": "Ernie Polegato",
@@ -5991,6 +6992,45 @@ export const data = [
 		"filename": "granchio_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1061006790",
+		"name": "Grant Knarly Works",
+		"by": "Grant Fikes",
+		"tiles": 168,
+		"data": "[[0,[[0,[0,3,[6,10]]],[2,[0,3,6,24]],[4,[[0,2],6,24]],[6,[0,3,[6,10]]],[8,[0,3,6,18]],[10,[6,18,26,32]],[12,[[6,4],[18,5],29,32]],[14,[6,12,[24,2],29,32]],[16,[6,12,[24,2],29,32]],[18,[[6,10],[27,3]]]]],[1,[[0,[[10,8]]],[2,24],[4,[6,24]],[6,[[6,10]]],[8,[6,18]],[10,[6,18]],[12,[[6,4],[18,4]]],[14,[6,12,24]],[16,[6,12]],[18,[[6,8]]]]],[2,[[0,[[16,5]]],[2,24],[4,24],[6,[[10,8]]],[8,18],[10,[6,18]],[12,[[6,4],[18,2]]],[14,[6,12]],[16,[6,12]],[18,[[6,5]]]]],[3,[[0,[[22,2]]],[2,24],[6,[[16,3]]],[8,18],[12,[[10,2]]],[14,12],[16,6],[18,[[6,2]]]]]]",
+		"source": "https://web.archive.org/web/20051020084434/http://www.kaser.com/solitile/grantlyt.exeGrantKnarlyWorks.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "grant_knarly_works",
+		"path": "solitile/grant",
+		"collection": "Solitile - Grant Fikes"
+	},
+	{
+		"id": "40104367",
+		"name": "Grant Squares",
+		"by": "Grant Fikes",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,5]]],[1,[[12,4]]],[2,[[2,5],[20,3]]],[3,[[12,4],[26,2]]],[4,[[2,5],[20,3],30]],[5,[[12,4],[26,2]]],[6,[[2,5],[20,3]]],[7,[[12,4]]],[8,[[2,5]]],[9,[[25,2],[30,2]]],[10,[[15,2],[20,2]]],[11,[[0,2],[5,2],[10,2],[25,2],[30,2]]],[12,[[15,2],[20,2]]],[13,[[0,2],[5,2],[10,2]]],[14,[[29,2]]],[15,[[19,2],[24,2]]],[16,[[4,2],[9,2],[14,2],[29,2]]],[17,[1,[19,2],[24,2]]],[18,[[4,2],[9,2],[14,2]]]]],[1,[[1,[[3,4]]],[2,[[13,3]]],[3,[[3,4],[21,2]]],[4,[[13,3],27]],[5,[[3,4],[21,2]]],[6,[[13,3]]],[7,[[3,4]]],[15,30],[16,[20,25]],[17,[5,10,15]]]]]",
+		"source": "https://web.archive.org/web/20051020084434/http://www.kaser.com/solitile/grantlyt.exeGrantSquares.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "grant_squares",
+		"path": "solitile/grant",
+		"collection": "Solitile - Grant Fikes"
+	},
+	{
+		"id": "3023146401",
+		"name": "Grant Watsons Map",
+		"by": "Grant Fikes",
+		"tiles": 168,
+		"data": "[[0,[[0,[[0,3],[10,4],[22,4]]],[2,[[0,3],10,13,16,22,25,28]],[3,[[6,2],[18,2]]],[4,[[0,3],10,13,16,22,25,28]],[6,[[0,3],[10,4],[22,4]]],[8,[[0,3],13]],[10,[[0,3],13]],[12,[[0,3],[10,4],[22,4]]],[14,[[0,3],10,13,16,22,25,28]],[15,[[18,2]]],[16,[[0,3],10,13,16,22,25,28]],[18,[[0,3],[10,4],[22,4]]]]],[1,[[0,[[10,4],[22,4]]],[1,[[1,2]]],[2,[10,16,22,28]],[3,[[1,2]]],[4,[10,16,22,28]],[5,[[1,2]]],[6,[[10,4],[22,4]]],[7,[[1,2]]],[9,[[1,2]]],[11,[[1,2]]],[12,[[10,4],[22,4]]],[13,[[1,2]]],[14,[10,16,22,28]],[15,[[1,2]]],[16,[10,16,22,28]],[17,[[1,2]]],[18,[[10,4],[22,4]]]]],[2,[[2,2],[4,2],[6,2],[8,2],[10,2],[12,2],[14,2],[16,2]]]]",
+		"source": "https://web.archive.org/web/20051020084434/http://www.kaser.com/solitile/grantlyt.exeGrantWatsonsMap.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "grant_watsons_map",
+		"path": "solitile/grant",
+		"collection": "Solitile - Grant Fikes"
 	},
 	{
 		"id": "4294293028",
@@ -6201,6 +7241,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1975041593",
+		"name": "H For Haga",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[10,4]]],[2,[[0,4],[10,4]]],[4,[[0,4],[10,4]]],[5,8],[6,[[0,4],[10,4]]],[7,8],[8,[[0,4],[10,4]]],[9,8],[10,[[0,4],[10,4]]],[12,[[0,4],[10,4]]],[14,[[0,4],[10,4]]]]],[1,[[1,[[1,3],[11,3]]],[3,[[1,3],[11,3]]],[5,[[1,3],[11,3]]],[6,[[7,2]]],[7,[[1,3],[11,3]]],[8,[[7,2]]],[9,[[1,3],[11,3]]],[11,[[1,3],[11,3]]],[13,[[1,3],[11,3]]]]],[2,[[2,[[2,2],[12,2]]],[4,[[2,2],[12,2]]],[6,[[2,2],[12,2]]],[7,[[6,3]]],[8,[[2,2],[12,2]]],[10,[[2,2],[12,2]]],[12,[[2,2],[12,2]]]]],[3,[[3,[3,13]],[11,[3,13]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "h_for_haga_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1247970285",
 		"name": "H For Haga Traditional",
 		"by": "Alexis Bonvin",
@@ -6214,6 +7267,110 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1247970285",
+		"name": "H For Haga Traditional",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[[6,2],[11,3],[18,2]]],[4,[[6,2],[18,2]]],[6,[[6,8]]],[7,[3,23]],[8,[[6,8]]],[10,[[6,2],[18,2]]],[12,[[6,2],[11,3],[18,2]]]]],[2,[[2,[[11,3]]],[12,[[11,3]]]]],[3,[[2,[[11,3]]],[12,[[11,3]]]]],[4,[[2,[[11,3]]],[12,[[11,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "h_for_haga_traditional_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3125320081",
+		"name": "Half Abstract",
+		"by": "Unknown",
+		"tiles": 72,
+		"data": "[[0,[[0,[0,[6,3],[20,2],30]],[1,[13,27]],[2,[1,5,[9,2],17,21,24,29]],[3,[3,7,[13,2],19,26]],[4,[1,5,17,[22,2],29]],[5,[9,12,20,27]],[6,[0,3,7,14,18,24,29]],[7,[5,12,26]],[8,[3,[14,3],[21,2],[28,2]]]]],[1,[[0,[[7,2]]],[1,21],[2,[9,13]],[3,[[3,2],[16,2],25]],[4,23],[5,28],[6,[13,24]],[7,[4,29]],[8,[14,17]]]],[2,[[1,9],[3,[4,17]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "half_abstract",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "573033178",
+		"name": "Half Happy New Year",
+		"by": "Unknown",
+		"tiles": 72,
+		"data": "[[0,[[0,10],[1,[8,12]],[3,[[4,3],[12,3]]],[4,[2,10,18]],[5,[0,20]],[6,[8,12]],[7,[[4,2],10,[14,2]]],[8,[2,8,12,18]],[9,[0,10,20]],[11,[[4,3],[12,3]]],[12,[2,10,18]],[13,[0,8,12,20]],[14,10]]],[1,[[3,[[4,3],[12,3]]],[7,[[4,7]]],[11,[5,15]],[12,[[8,3]]],[14,10]]],[2,[[3,[[5,2],[13,2]]],[7,[[5,2],10,[13,2]]],[12,[[9,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "half_happy_new_year",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1280167903",
+		"name": "Half K 2",
+		"by": "Unknown",
+		"tiles": 72,
+		"data": "[[0,[[0,[[5,6]]],[1,[3,17]],[2,[1,19]],[4,[1,19]],[6,[[0,11]]],[8,[1,19]],[10,[1,19]],[11,[3,17]],[12,[[5,6]]]]],[1,[[0,[[5,6]]],[5,[1,19]],[6,[[3,8]]],[7,[1,19]],[12,[[5,6]]]]],[2,[[6,[[1,4],10,[13,4]]]]],[3,[[6,[[2,2],[16,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "half_k_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2301242850",
+		"name": "Half Smile",
+		"by": "Unknown",
+		"tiles": 72,
+		"data": "[[0,[[0,[[6,5]]],[1,[4,16]],[2,[2,18]],[4,[1,19]],[5,[[5,2],[13,2]]],[6,[0,20]],[8,[0,20]],[9,[5,15]],[10,[1,7,13,19]],[11,[[9,2]]],[12,[2,18]],[13,[4,16]],[14,[[6,5]]]]],[1,[[0,[[6,5]]],[1,[4,16]],[2,[2,18]],[4,[1,19]],[5,[6,14]],[6,[0,20]],[8,[0,20]],[9,[5,15]],[10,[1,7,13,19]],[11,[[9,2]]],[12,[2,18]],[13,[4,16]],[14,[[6,5]]]]],[2,[[7,[0,20]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "half_smile",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2663826160",
+		"name": "Half Star",
+		"by": "Unknown",
+		"tiles": 72,
+		"data": "[[0,[[0,11],[2,[[10,2]]],[4,[[0,2],[9,3],[20,2]]],[5,[[4,2],[16,2]]],[6,[2,[8,4],20]],[7,[[4,2],[16,2]]],[8,[[8,4]]],[10,[[7,5]]],[12,[[6,2],[14,2]]],[14,[[5,2],[15,2]]],[16,[5,17]]]],[1,[[3,11],[5,11],[6,[[3,2],9,13,[17,2]]],[7,[7,11,15]],[8,[9,13]],[9,11],[10,[9,13]],[11,[7,15]],[13,[7,15]],[14,[5,17]]]],[2,[[7,[[9,3]]],[9,[[9,3]]]]],[3,[[8,11]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "half_star",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2253052277",
+		"name": "Half Wall",
+		"by": "Unknown",
+		"tiles": 72,
+		"data": "[[0,[[0,[[0,16]]],[2,[0,30]],[4,[0,30]],[6,[0,30]],[8,[0,30]],[10,[0,30]],[12,[0,30]],[14,[[0,16]]]]],[1,[[0,[0,30]],[2,[0,30]],[4,[0,30]],[6,[0,30]],[8,[0,30]],[10,[0,30]],[12,[0,30]],[14,[0,30]]]],[2,[[0,[0,30]],[14,[0,30]]]],[3,[[0,[0,30]],[14,[0,30]]]],[4,[[0,[0,30]],[14,[0,30]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "half_wall",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1068093741",
+		"name": "Hare",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,4]]],[2,[[0,6]]],[3,[[20,2]]],[4,[[2,6],18]],[5,[16,[20,3]]],[6,[[12,2],18]],[7,[10,16,[20,5]]],[8,[[12,2],18]],[9,[16,[20,3]]],[10,[[2,6],18]],[11,[[20,2]]],[12,[[0,6]]],[14,[[2,4]]]]],[1,[[0,[[4,2]]],[2,[[2,4]]],[3,[[20,2]]],[4,[[4,3]]],[5,[[16,5]]],[6,[[12,2]]],[7,[10,[16,7]]],[8,[[12,2]]],[9,[[16,5]]],[10,[[4,3]]],[11,[[20,2]]],[12,[[2,4]]],[14,[[4,2]]]]],[2,[[0,5],[2,[[4,2]]],[3,21],[4,5],[5,[[16,5]]],[7,[[14,6]]],[9,[[16,5]]],[10,5],[11,21],[12,[[4,2]]],[14,5]]],[3,[[2,5],[5,[[18,3]]],[7,[[18,3]]],[9,[[18,3]]],[12,5]]],[4,[[6,[[19,2]]],[8,[[19,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "hare",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1068093741",
 		"name": "Hare",
 		"by": "Unknown",
@@ -6222,7 +7379,7 @@ export const data = [
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/hare",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "hare",
+		"filename": "hare_2",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -6357,6 +7514,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "3367093096",
+		"name": "Helios",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[20,2]]],[2,[[0,2],[20,2]]],[4,[[0,3],[8,4],[18,3]]],[6,[[0,5],[14,5]]],[7,11],[8,[[0,5],[14,5]]],[10,[[0,3],[8,4],[18,3]]],[12,[[0,2],[20,2]]],[14,[[0,2],[20,2]]]]],[1,[[0,[[0,2],[20,2]]],[2,[[0,2],[20,2]]],[4,[0,[10,2],22]],[6,[0,8,14,22]],[7,[[2,3],11,[16,3]]],[8,[0,8,14,22]],[10,[0,[10,2],22]],[12,[[0,2],[20,2]]],[14,[[0,2],[20,2]]]]],[2,[[0,[[0,2],[20,2]]],[2,[0,22]],[4,[[10,2]]],[6,[8,14]],[8,[8,14]],[10,[[10,2]]],[12,[0,22]],[14,[[0,2],[20,2]]]]],[3,[[0,[[0,2],[20,2]]],[2,[0,22]],[4,[[10,2]]],[6,[8,14]],[8,[8,14]],[10,[[10,2]]],[12,[0,22]],[14,[[0,2],[20,2]]]]],[4,[[0,[0,22]],[4,11],[7,[8,14]],[10,11],[14,[0,22]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "helios_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1581724313",
 		"name": "Hexagon Stack",
 		"by": "Tsubassa Kurenai",
@@ -6383,6 +7553,19 @@ export const data = [
 		"collection": "Kurenai - Stacks"
 	},
 	{
+		"id": "2210853659",
+		"name": "Hidden Words",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[1,[9,3],17,21,[24,3]]],[2,[1,9,13,17,21,24]],[3,26],[4,[1,9,13,17,21,24]],[6,[[1,3],[9,3],19,[24,3]]],[9,[1,5,[9,3],[17,3],[24,3]]],[11,[1,5,9,13,19,24]],[12,[3,11,26]],[13,[1,5,9,13,19,24]],[15,[1,5,9,13,19,[24,3]]]]],[1,[[0,[[0,2]]],[1,[10,24,28]],[2,[[0,2],8,[12,5]]],[3,[22,26]],[4,[[0,2],8,12]],[5,[[4,2],10,16,22,25,29]],[6,[0,13]],[7,[2,9,[18,2],26]],[8,[4,11,[14,2],23,28]],[10,[2,[6,2],16,21,25]],[11,[0,10,14,18,27]],[12,[[4,2],23]],[13,[1,8,12,[18,2],27]],[14,[[4,2],24]],[15,[10,13,18,29]],[16,[2,23,27]]]],[2,[[0,9],[1,12],[3,[1,9]],[6,[2,6]],[9,[5,10]],[14,3]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "hidden_words",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "686493674",
 		"name": "High And Low",
 		"by": "Naoki Haga",
@@ -6401,10 +7584,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[4,5]]],[12,[[7,2]]]]],[1,[[0,[[0,4],[10,4]]],[2,[[0,3],[8,5]]],[4,[[0,6],[14,2]]],[6,[0,[4,7]]],[8,[[2,7]]],[10,8],[12,8]]],[2,[[0,[[0,3],[12,3]]],[2,[[0,3],10,[14,2]]],[4,[0,4,[8,2],[14,2]]],[6,[[4,4],14]],[8,[[4,5]]]]],[3,[[0,[[0,2],[14,2]]],[2,[0,4,[14,2]]],[4,[4,10,14]],[6,[4,[8,2]]],[8,[[6,3]]]]],[4,[[0,[0,16]],[2,14],[4,4],[6,10],[8,8]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "high_and_low_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "686493674",
+		"name": "High And Low",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[4,5]]],[12,[[7,2]]]]],[1,[[0,[[0,4],[10,4]]],[2,[[0,3],[8,5]]],[4,[[0,6],[14,2]]],[6,[0,[4,7]]],[8,[[2,7]]],[10,8],[12,8]]],[2,[[0,[[0,3],[12,3]]],[2,[[0,3],10,[14,2]]],[4,[0,4,[8,2],[14,2]]],[6,[[4,4],14]],[8,[[4,5]]]]],[3,[[0,[[0,2],[14,2]]],[2,[0,4,[14,2]]],[4,[4,10,14]],[6,[4,[8,2]]],[8,[[6,3]]]]],[4,[[0,[0,16]],[2,14],[4,4],[6,10],[8,8]]]]",
 		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
 		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
 		"solvable": true,
-		"filename": "high_and_low_2",
+		"filename": "high_and_low_3",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
 	},
@@ -6466,12 +7662,51 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,28],[1,[[18,3],26]],[2,24],[3,[[2,2],[14,2],[20,2]]],[4,12],[5,[0,[4,4],[14,6]]],[6,12],[7,[[0,6],[14,6]]],[8,12],[9,[0,[4,4],[14,6]]],[10,12],[11,[[2,2],[14,2],[20,2]]],[12,24],[13,[[18,3],26]],[14,28]]],[1,[[1,[[18,3]]],[2,24],[3,[2,[14,2],[20,2]]],[4,12],[5,[0,4,[14,5]]],[6,[[8,3]]],[7,[[0,3],[14,6]]],[8,[[8,3]]],[9,[0,4,[14,5]]],[10,12],[11,[2,[14,2],[20,2]]],[12,24],[13,[[18,3]]]]],[2,[[1,19],[3,[[14,2],[20,2]]],[5,[[14,5]]],[6,12],[7,[[14,5]]],[8,12],[9,[[14,5]]],[11,[[14,2],[20,2]]],[13,19]]],[3,[[6,[[16,3]]],[8,[[16,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "horse_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2381658612",
+		"name": "Horse",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,28],[1,[[18,3],26]],[2,24],[3,[[2,2],[14,2],[20,2]]],[4,12],[5,[0,[4,4],[14,6]]],[6,12],[7,[[0,6],[14,6]]],[8,12],[9,[0,[4,4],[14,6]]],[10,12],[11,[[2,2],[14,2],[20,2]]],[12,24],[13,[[18,3],26]],[14,28]]],[1,[[1,[[18,3]]],[2,24],[3,[2,[14,2],[20,2]]],[4,12],[5,[0,4,[14,5]]],[6,[[8,3]]],[7,[[0,3],[14,6]]],[8,[[8,3]]],[9,[0,4,[14,5]]],[10,12],[11,[2,[14,2],[20,2]]],[12,24],[13,[[18,3]]]]],[2,[[1,19],[3,[[14,2],[20,2]]],[5,[[14,5]]],[6,12],[7,[[14,5]]],[8,12],[9,[[14,5]]],[11,[[14,2],[20,2]]],[13,19]]],[3,[[6,[[16,3]]],[8,[[16,3]]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/horse",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "horse_2",
+		"filename": "horse_3",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
+	},
+	{
+		"id": "2837119705",
+		"name": "Horseshu",
+		"by": "Nels Anderson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[14,5]]],[2,[[0,5],[14,5]]],[4,[[0,5],[14,5]]],[6,[[0,5],[14,5]]],[8,[[0,5],[14,5]]],[10,[[0,12]]],[12,[[2,10]]],[14,[[4,8]]]]],[1,[[0,[[2,2],[18,2]]],[2,[[2,3],[16,3]]],[4,[[2,3],[16,3]]],[6,[[2,3],[16,3]]],[8,[[2,3],[16,3]]],[10,[[2,3],[16,3]]],[12,[[4,8]]],[14,[[6,6]]]]],[2,[[12,[[6,6]]],[14,[[8,4]]]]],[3,[[12,[[8,4]]],[14,[[10,2]]]]]]",
+		"source": "https://archive.org/download/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993/Mahjongg.zip#HORSESHU.BRD",
+		"site": "https://archive.org/details/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993",
+		"solvable": true,
+		"filename": "horseshu",
+		"path": "mahjongg-dos",
+		"collection": "Mah Jongg"
+	},
+	{
+		"id": "3157057488",
+		"name": "Hot Coffee",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,11]],[1,[6,13]],[5,[[3,8]]],[6,[[19,2]]],[7,[[3,8],23]],[9,[[3,8],23]],[11,[[3,11]]],[13,[[4,7]]],[15,[[5,6]]],[17,[[0,11]]]]],[1,[[5,[[5,6]]],[7,[[5,6]]],[9,[[5,6]]],[11,[[5,6]]],[13,[[6,5]]],[15,[[7,4]]],[17,[[2,9]]]]],[2,[[5,[[7,4]]],[7,[[7,4]]],[9,[[7,4]]],[11,[[7,4]]],[13,[[8,3]]],[15,[[9,2]]],[17,[[4,7]]]]],[3,[[17,[[6,5]]]]],[4,[[17,[[9,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "hot_coffee",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "773416385",
@@ -6518,10 +7753,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,13]]],[2,[0,12,24]],[3,[2,22]],[4,[0,4,12,20,24]],[5,[2,6,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[0,4,8,12,16,20,24]],[9,[2,6,18,22]],[10,[0,4,12,20,24]],[11,[2,22]],[12,[0,12,24]],[14,[[0,13]]]]],[1,[[1,[0,12,24]],[3,[0,12,24]],[4,[2,22]],[5,[0,4,20,24]],[6,[2,6,18,22]],[7,[0,4,[8,2],[14,2],20,24]],[8,[2,6,18,22]],[9,[0,4,20,24]],[10,[2,22]],[11,[0,12,24]],[13,[0,12,24]]]],[2,[[2,[0,24]],[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]],[12,[0,24]]]],[3,[[3,[0,24]],[5,[0,24]],[7,[0,24]],[9,[0,24]],[11,[0,24]]]],[4,[[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "hourglass_4",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1418241770",
+		"name": "Hourglass",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,13]]],[2,[0,12,24]],[3,[2,22]],[4,[0,4,12,20,24]],[5,[2,6,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[0,4,8,12,16,20,24]],[9,[2,6,18,22]],[10,[0,4,12,20,24]],[11,[2,22]],[12,[0,12,24]],[14,[[0,13]]]]],[1,[[1,[0,12,24]],[3,[0,12,24]],[4,[2,22]],[5,[0,4,20,24]],[6,[2,6,18,22]],[7,[0,4,[8,2],[14,2],20,24]],[8,[2,6,18,22]],[9,[0,4,20,24]],[10,[2,22]],[11,[0,12,24]],[13,[0,12,24]]]],[2,[[2,[0,24]],[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]],[12,[0,24]]]],[3,[[3,[0,24]],[5,[0,24]],[7,[0,24]],[9,[0,24]],[11,[0,24]]]],[4,[[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/hourglass",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "hourglass_4",
+		"filename": "hourglass_5",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -6534,7 +7782,7 @@ export const data = [
 		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
 		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
 		"solvable": true,
-		"filename": "hourglass_5",
+		"filename": "hourglass_6",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
 	},
@@ -6591,6 +7839,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "4232373794",
+		"name": "Hovercraft",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[9,5]]],[2,[2,13,24]],[3,[0,4,22,26]],[4,[2,13,24]],[5,[0,[4,2],[20,2],26]],[6,[2,[8,6],24]],[7,[0,[4,2],[20,2],26]],[8,[2,13,24]],[9,[0,4,22,26]],[10,[2,13,24]],[12,[[9,5]]]]],[1,[[0,[[10,4]]],[2,[2,13,24]],[4,[2,13,24]],[6,[[1,5],[12,2],[17,5]]],[8,[2,13,24]],[10,[2,13,24]],[12,[[10,4]]]]],[2,[[0,[[11,3]]],[2,[2,13,24]],[4,[2,13,24]],[6,[[1,2],6,9,[12,2],17,20,[23,2]]],[8,[2,13,24]],[10,[2,13,24]],[12,[[11,3]]]]],[3,[[0,[[12,2]]],[2,[2,13,24]],[4,[2,13,24]],[6,[[1,2],6,9,[12,2],17,20,[23,2]]],[8,[2,13,24]],[10,[2,13,24]],[12,[[12,2]]]]],[4,[[0,13],[2,13],[4,13],[6,[[12,2]]],[8,13],[10,13],[12,13]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "hovercraft_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "767291699",
 		"name": "Hurdles",
 		"by": "Leonard Enos",
@@ -6617,6 +7878,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "767291699",
+		"name": "Hurdles",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[0,9]]]]],[1,[[0,[[1,2],[7,2],[13,2]]],[2,[[1,2],[7,2],[13,2]]],[4,[[1,2],[7,2],[13,2]]],[6,[[1,2],[7,2],[13,2]]],[8,[[1,2],[7,2],[13,2]]],[10,[[1,2],[7,2],[13,2]]],[12,[[1,2],[7,2],[13,2]]],[14,[[1,2],[7,2],[13,2]]]]],[2,[[0,[2,8,14]],[2,[2,8,14]],[4,[2,8,14]],[6,[2,8,14]],[8,[2,8,14]],[10,[2,8,14]],[12,[2,8,14]],[14,[2,8,14]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "hurdles_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1885429584",
 		"name": "Hurricane",
 		"by": "Douglas Ulyate",
@@ -6641,6 +7915,19 @@ export const data = [
 		"filename": "hurricane_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3166915286",
+		"name": "I Love U",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[20,2]]],[1,[2,8,18,24]],[3,[0,10,16,26]],[4,[[12,2]]],[5,[0,26]],[6,13],[7,[0,26]],[8,[2,24]],[9,[4,22]],[10,[6,20]],[11,[0,8,18,25,29]],[12,[10,16]],[13,[0,[12,2],25,29]],[15,[0,13,[25,3]]]]],[1,[[0,[[4,2],[20,2]]],[1,[2,8,18,24]],[3,[0,10,16,26]],[4,[[12,2]]],[5,[0,26]],[6,13],[7,[0,26]],[8,[2,24]],[9,[4,22]],[10,[6,20]],[11,[0,8,18,25,29]],[12,[10,16]],[13,[0,[12,2],25,29]],[15,[0,13,[25,3]]]]],[2,[[0,[[4,2],[20,2]]],[1,[2,8,18,24]],[3,[0,10,16,26]],[4,[[12,2]]],[5,[0,26]],[6,13],[7,[0,26]],[8,[2,24]],[9,[4,22]],[10,[6,20]],[11,[0,8,18,25,29]],[12,[10,16]],[13,[0,[12,2],25,29]],[15,[0,13,[25,3]]]]],[3,[[1,[2,8,18,24]],[5,[0,26]],[6,13],[11,[0,25,29]],[13,[0,25,29]],[15,[0,13,[25,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "i_love_u",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4062306083",
@@ -6773,6 +8060,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2966589370",
+		"name": "Inazuma",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[6,3],16,[30,2]]],[2,[2,[8,3],18,[28,3]]],[4,[4,[10,3],20,[24,4]]],[6,[6,[12,3],22,[26,2]]],[8,[4,8,[14,3],24,28]],[10,[[4,2],10,[16,3],26]],[12,[[2,4],12,[18,3],28]],[14,[[0,3],14,[20,3],30]],[16,[[0,2],16,[22,3],32]]]],[1,[[0,[0,8,16,32]],[2,[2,10,18,30]],[4,[4,12,20,24,28]],[6,[6,14,22,26]],[8,[4,8,16,24,28]],[10,[6,10,18,26]],[12,[4,8,12,20,28]],[14,[2,14,22,30]],[16,[0,16,24,32]]]],[2,[[0,[0,8,16,32]],[2,[2,10,18,30]],[4,[4,12,20,28]],[6,[6,14,22,26]],[8,[8,16,24]],[10,[6,10,18,26]],[12,[4,12,20,28]],[14,[2,14,22,30]],[16,[0,16,24,32]]]],[3,[[8,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "inazuma_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "4110587426",
 		"name": "Inca",
 		"by": "Bolli",
@@ -6797,6 +8097,19 @@ export const data = [
 		"filename": "inca_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "4110587426",
+		"name": "Inca",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,2]]],[1,[[8,3],[18,3]]],[2,[[14,2]]],[3,[[8,3],[18,3]]],[4,[[14,2]]],[5,[[8,3],[18,3]]],[6,[[0,2],[14,2],[28,2]]],[7,[[7,3],[19,3]]],[8,[[0,2],[14,2],[28,2]]],[9,[[7,3],[19,3]]],[10,[[0,2],[14,2],[28,2]]],[11,[[8,3],[18,3]]],[12,[[14,2]]],[13,[[8,3],[18,3]]],[14,[[14,2]]],[15,[[8,3],[18,3]]],[16,[[14,2]]]]],[1,[[2,[[14,2]]],[3,[[10,2],[18,2]]],[4,[[14,2]]],[5,[[10,2],[18,2]]],[6,[[14,2]]],[7,[[9,2],[19,2]]],[8,[1,[14,2],29]],[9,[[9,2],[19,2]]],[10,[[14,2]]],[11,[[10,2],[18,2]]],[12,[[14,2]]],[13,[[10,2],[18,2]]],[14,[[14,2]]]]],[2,[[4,[[14,2]]],[5,[12,18]],[6,[[14,2]]],[7,[11,19]],[8,[[14,2]]],[9,[11,19]],[10,[[14,2]]],[11,[12,18]],[12,[[14,2]]]]],[3,[[6,[[14,2]]],[8,[[14,2]]],[10,[[14,2]]]]],[4,[[7,15],[9,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "inca_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2986411492",
@@ -6875,6 +8188,19 @@ export const data = [
 		"filename": "inner_circle_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "1268865479",
+		"name": "Inner Circle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[24,2]]],[2,[[0,14]]],[4,[2,24]],[5,[[6,3],[16,3]]],[6,[2,24]],[7,[6,20]],[8,[2,24]],[9,[[6,8]]],[10,[2,24]],[12,[[0,6],[16,6]]],[14,[[0,2],10,16,[24,2]]]]],[1,[[2,[[2,5],[16,5]]],[4,[2,24]],[5,[[6,3],[16,3]]],[6,[2,24]],[7,20],[8,[2,24]],[9,[[6,8]]],[10,[2,24]],[12,[[2,5],[16,5]]]]],[2,[[2,[[2,3],[20,3]]],[4,[2,24]],[5,[[6,2],[18,2]]],[9,[[6,3],[16,3]]],[10,[2,24]],[12,[[2,3],[20,3]]]]],[3,[[2,[2,24]],[5,[6,20]],[9,[[6,2],[18,2]]],[12,[2,24]]]],[4,[[2,[2,24]],[9,[6,20]],[12,2]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "inner_circle_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1172027382",
@@ -7007,6 +8333,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "3629579948",
+		"name": "Japan",
+		"by": "Unknown",
+		"tiles": 96,
+		"data": "[[0,[[0,[[0,4],[21,3]]],[2,[0,6,[21,2]]],[4,[[0,4],[15,4]]],[6,[0,6,[11,5],26]],[8,[[0,4],[11,5],[22,5]]],[10,[[9,5],[24,3]]],[12,[[11,3],23,26,29]],[14,[[7,3],22,26,30]]]],[1,[[0,[[0,4]]],[2,[0,6]],[4,[0,6,17]],[5,19],[6,[0,6,[15,2],26]],[8,[[0,4],[13,2],[22,5]]],[10,[13,26]],[11,11],[12,[23,26,29]],[14,[22,26,30]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "japan_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3804989351",
 		"name": "Joined Rings",
 		"by": "Ernie Polegato",
@@ -7044,6 +8383,19 @@ export const data = [
 		"filename": "joker_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1110030704",
+		"name": "Joker",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,26]],[1,[[3,11]]],[3,[[1,13]]],[5,[[1,13]]],[7,[[1,3],[21,3]]],[8,[9,12,15,18]],[9,[[1,3],[21,3]]],[11,[[1,13]]],[13,[[1,13]]],[15,[[3,11]]],[16,[0,26]]]],[1,[[3,[[3,11]]],[5,[[1,2],[23,2]]],[6,[6,20]],[7,[[1,2],[23,2]]],[9,[[1,2],[23,2]]],[10,[6,20]],[11,[[1,2],[23,2]]],[13,[[3,11]]]]],[2,[[5,[1,25]],[7,[1,25]],[9,[1,25]],[11,[1,25]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "joker_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1103306624",
@@ -7109,6 +8461,19 @@ export const data = [
 		"filename": "joystick_2",
 		"path": "step5",
 		"collection": "Step5"
+	},
+	{
+		"id": "1103306624",
+		"name": "JPs",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,6],[16,8]]],[2,[[8,2],[16,2],[26,3]]],[4,[[8,2],[16,2],[28,3]]],[6,[[8,2],[16,2],[26,3]]],[7,[[20,3]]],[8,[[8,2],[16,2],[26,3]]],[9,[[20,3]]],[10,[[0,2],[8,2],[16,2]]],[12,[[1,2],[8,2],[16,2]]],[14,[[2,2],[7,2],[16,2]]],[16,[[3,3],12,[16,2],23]]]],[1,[[0,[[0,6],[16,8]]],[2,[[8,2],[16,2],[26,3]]],[4,[[8,2],[16,2],[28,3]]],[6,[[8,2],[16,2],[26,3]]],[7,[[20,3]]],[8,[[8,2],[16,2],[26,3]]],[9,[[20,3]]],[10,[[0,2],[8,2],[16,2]]],[12,[[1,2],[8,2],[16,2]]],[14,[[2,2],[7,2],[16,2]]],[16,[[3,3],[16,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "jps",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "717091849",
@@ -7215,6 +8580,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "534844276",
+		"name": "K For Kyodai",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[12,3]]],[2,[[0,3],[10,3]]],[4,[[0,3],[8,3]]],[6,[[0,6]]],[8,[[0,5]]],[10,[[0,6]]],[12,[[0,3],[8,3]]],[14,[[0,3],[10,3]]],[16,[[0,3],[12,3]]]]],[1,[[0,[[0,3],[12,3]]],[2,[[0,3],[10,3]]],[4,[[0,3],[8,3]]],[6,[[0,6]]],[8,[[0,5]]],[10,[[0,6]]],[12,[[0,3],[8,3]]],[14,[[0,3],[10,3]]],[16,[[0,3],[12,3]]]]],[2,[[0,[[0,3],[12,3]]],[2,[0,4,10,14]],[4,[0,4,8,12]],[6,[0,[4,2],10]],[8,[0,8]],[10,[0,[4,2],10]],[12,[0,4,8,12]],[14,[0,4,10,14]],[16,[[0,3],[12,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "k_for_kyodai_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2735818035",
 		"name": "K For Kyodai Traditional",
 		"by": "Alexis Bonvin",
@@ -7226,6 +8604,32 @@ export const data = [
 		"filename": "k_for_kyodai_traditional",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2735818035",
+		"name": "K For Kyodai Traditional",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[9,17]],[3,15],[4,9],[5,[6,13,20]],[6,9],[7,[6,11,20]],[8,9],[9,[6,13,20]],[10,9],[11,15],[12,[9,17]]]],[2,[[2,[9,17]],[3,15],[4,9],[5,13],[6,9],[7,11],[8,9],[9,13],[10,9],[11,15],[12,[9,17]]]],[3,[[2,[9,17]],[3,15],[4,9],[5,13],[6,9],[7,11],[8,9],[9,13],[10,9],[11,15],[12,[9,17]]]],[4,[[2,[9,17]],[3,15],[4,9],[5,13],[6,9],[7,11],[8,9],[9,13],[10,9],[11,15],[12,[9,17]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "k_for_kyodai_traditional_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3861283888",
+		"name": "Karl-4",
+		"by": "Karl Guesman",
+		"tiles": 168,
+		"data": "[[0,[[0,[0,6,10,14,18,22,28]],[2,[2,6,10,14,18,22,26]],[4,[0,4,14,24,28]],[6,[0,[6,9],28]],[7,[4,24]],[8,[0,[6,9],28]],[10,[0,4,14,24,28]],[12,[2,6,10,14,18,22,26]],[14,[0,6,10,14,18,22,28]]]],[1,[[0,[6,10,14,18,22]],[2,[2,6,10,14,18,22,26]],[4,[0,4,14,24,28]],[6,[0,[8,7],28]],[8,[0,[8,7],28]],[10,[0,4,14,24,28]],[12,[2,6,10,14,18,22,26]],[14,[6,10,14,18,22]]]],[2,[[0,[6,14,22]],[1,[10,18]],[2,[2,6,14,22,26]],[5,[0,28]],[6,[[10,5]]],[7,[0,28]],[8,[[10,5]]],[9,[0,28]],[12,[2,6,14,22,26]],[13,[10,18]],[14,[6,14,22]]]],[3,[[1,[14,18]],[2,[2,26]],[6,[[12,3]]],[8,[[12,3]]],[12,[2,26]],[13,[10,14]]]],[4,[[1,14],[7,[[13,2]]],[13,14]]]]",
+		"source": "https://web.archive.org/web/20051222222237/http://www.kaser.com/solitile/karl-4.zip#KARL-4.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "karl-4",
+		"path": "solitile/karl",
+		"collection": "Solitile - Karl Guesman"
 	},
 	{
 		"id": "2597876854",
@@ -7397,6 +8801,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "3577486931",
+		"name": "KM",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[8,2],[14,2],[24,2]]],[2,[[0,2],[6,2],[14,3],[22,3]]],[3,20],[4,[[0,4],[14,3],[22,3]]],[5,20],[6,[[0,4],[14,2],[24,2]]],[7,20],[8,[[0,2],[6,2],[14,2],[24,2]]],[10,[[0,2],[8,2],[14,2],[24,2]]]]],[1,[[0,[[0,2],8,[14,2],[24,2]]],[2,[0,6,14,18,22,26]],[3,20],[4,[0,4,14,26]],[5,[2,6,20]],[6,[0,4,14,26]],[7,20],[8,[0,6,14,26]],[10,[[0,2],8,[14,2],[24,2]]]]],[2,[[0,[16,24]],[1,[0,14,26]],[2,[18,22]],[3,[0,14,20,26]],[5,[[0,3],14,20,26]],[7,[0,14,20,26]],[9,[0,14,26]]]],[3,[[2,[0,14,18,22,26]],[3,20],[4,[0,14,26]],[5,[2,20]],[6,[0,14,26]],[7,20],[8,[0,14,26]]]],[4,[[3,[0,14,26]],[5,[0,14,20,26]],[7,[0,14,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "km_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "439519780",
 		"name": "Knight",
 		"by": "Ernie Polegato",
@@ -7488,6 +8905,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2899220310",
+		"name": "Krebs",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9],[19,8]]],[2,[0,33]],[4,[0,33]],[6,[0,33]],[8,[0,16,33]],[9,[14,18]],[10,[12,16,20]],[11,[0,14,18,33]],[12,16],[13,[0,33]],[15,[0,33]],[17,[0,33]],[19,[[0,9],[19,8]]]]],[1,[[0,[16,19]],[8,[0,[15,2],33]],[9,[13,19]],[10,[11,[15,2],21]],[11,[0,13,19,33]],[12,[[15,2]]],[19,[16,19]]]],[2,[[7,16],[8,[14,18,33]],[9,[12,16,20]],[10,[10,14,18,22]],[11,[12,16,20,33]],[12,[14,18]],[13,16]]],[3,[[7,[[15,2]]],[8,[13,19,33]],[9,[11,[15,2],21]],[10,[9,13,19,23]],[11,[11,[15,2],21,33]],[12,[13,19]],[13,[[15,2]]]]],[4,[[6,16],[7,[14,18]],[8,[12,16,20]],[9,[10,14,18,22]],[10,[8,12,16,20,24]],[11,[10,14,18,22]],[12,[12,16,20]],[13,[14,18]],[14,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "krebs_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3710499391",
 		"name": "Kreuz Und Quer",
 		"by": "Tsubassa Kurenai",
@@ -7499,6 +8929,19 @@ export const data = [
 		"filename": "kreuz_und_quer",
 		"path": "kurenai/kurenai_stacks",
 		"collection": "Kurenai - Stacks"
+	},
+	{
+		"id": "2637391598",
+		"name": "Kujaku",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[13,6]]],[1,[11,[25,2]]],[2,[[7,2],[13,6]]],[3,[[3,2],11,[25,3]]],[4,[[7,2]]],[5,[[1,3],[26,3]]],[7,[[0,3],[10,3],18,[26,3]]],[9,[[1,3],[26,3]]],[10,[[7,2]]],[11,[[3,2],11,[25,3]]],[12,[[7,2],[13,6]]],[13,[11,[25,2]]],[14,[[13,6]]]]],[1,[[0,[[13,6]]],[1,[11,25]],[2,[[7,2]]],[3,[5,27]],[5,[3,28]],[6,[[13,2],19]],[7,[[0,2],9,28]],[8,[[13,2],19]],[9,[3,28]],[11,[5,27]],[12,[[7,2]]],[13,[11,25]],[14,[[13,6]]]]],[2,[[1,25],[3,27],[5,[3,[14,2],20,28]],[7,[2,8,28]],[9,[3,[14,2],20,28]],[11,27],[13,25]]],[3,[[3,27],[4,[[15,2]]],[5,[21,28]],[7,[7,28]],[9,[21,28]],[10,[[15,2]]],[11,27]]],[4,[[6,[22,28]],[7,6],[8,[22,28]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kujaku",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2637391598",
@@ -7551,6 +8994,175 @@ export const data = [
 		"filename": "kumo_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1688221659",
+		"name": "Kumo",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],12,16]],[2,[[0,4],10,14]],[4,[[0,3],8,12,16]],[6,[[0,2],6,10,14]],[8,[0,4,8,12,16]],[10,[2,6,10,[14,2]]],[12,[0,4,8,[12,3]]],[14,[2,6,[10,4]]],[16,[0,4,[8,5]]]]],[1,[[0,[[0,5],12,16]],[2,[[0,2],6,10,14]],[4,[0,4,8,12,16]],[6,[[0,2],6,10,14]],[8,[0,4,8,12,16]],[10,[2,6,10,[14,2]]],[12,[0,4,8,12,16]],[14,[2,6,10,[14,2]]],[16,[0,4,[8,5]]]]],[2,[[0,[[0,4],16]],[2,[[0,2],14]],[4,[0,4,12]],[6,[0,6,10]],[8,8],[10,[6,10,16]],[12,[4,12,16]],[14,[2,[14,2]]],[16,[0,[10,4]]]]],[3,[[0,[2,16]],[2,[0,14]],[4,12],[6,10],[8,8],[10,6],[12,4],[14,[2,16]],[16,[0,14]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kumo_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "227266071",
+		"name": "Kyodai 14",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[8,20]],[2,[6,[10,5],22]],[3,[8,20]],[4,[6,14,22]],[5,[4,12,16,24]],[6,[6,10,14,18,22]],[7,[[2,2],8,20,[24,2]]],[8,[0,6,10,14,18,22,28]],[9,[[2,2],8,20,[24,2]]],[10,[6,10,14,18,22]],[11,[4,12,16,24]],[12,[6,14,22]],[13,[8,20]],[14,[6,[10,5],22]],[15,[8,20]],[16,14]]],[1,[[1,14],[2,[8,11,17,20]],[3,[6,14,22]],[5,[6,[12,3],22]],[6,[4,10,18,24]],[7,[6,14,22]],[8,[[2,2],[8,2],[18,2],[24,2]]],[9,[6,14,22]],[10,[4,10,18,24]],[11,[6,[12,3],22]],[13,[6,14,22]],[14,[8,11,17,20]],[15,14]]],[2,[[4,14],[6,14],[7,[5,10,18,23]],[8,[3,7,14,21,25]],[9,[5,10,18,23]],[10,14],[12,14]]],[3,[[5,14],[7,14],[8,[[4,2],10,18,[22,2]]],[9,14],[11,14]]],[4,[[8,[5,23]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_14",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3797451329",
+		"name": "Kyodai 17",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[0,6,12,18]],[4,[0,6,12,18]],[6,[[0,10]]],[8,[0,6,12,18]],[10,[0,6,12,18]],[12,[[0,10]]]]],[1,[[0,[[0,10]]],[2,[0,6,12,18]],[4,[0,6,12,18]],[6,[[0,10]]],[8,[0,6,12,18]],[10,[0,6,12,18]],[12,[[0,10]]]]],[2,[[0,[[0,10]]],[2,[0,6,12,18]],[4,[0,6,12,18]],[6,[[0,10]]],[8,[0,6,12,18]],[10,[0,6,12,18]],[12,[[0,10]]]]],[3,[[0,[0,18]],[6,[[8,2]]],[12,[0,18]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_17",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3199497073",
+		"name": "Kyodai 18",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[1,[14,18]],[2,[12,20]],[3,[10,22]],[4,[8,24]],[5,[6,16,26]],[6,[4,14,18,28]],[7,[2,12,16,20,30]],[8,[0,10,14,18,22,32]],[9,[2,12,16,20,30]],[10,[4,14,18,28]],[11,[6,16,26]],[12,[8,24]],[13,[10,22]],[14,[12,20]],[15,[14,18]],[16,16]]],[1,[[0,16],[1,[14,18]],[2,[12,20]],[3,[10,22]],[4,[8,24]],[5,[6,26]],[6,[4,28]],[7,[2,30]],[8,[0,32]],[9,[2,30]],[10,[4,28]],[11,[6,26]],[12,[8,24]],[13,[10,22]],[14,[12,20]],[15,[14,18]],[16,16]]],[2,[[0,16],[1,[14,18]],[2,[12,20]],[3,[10,22]],[4,[8,24]],[5,[6,26]],[6,[4,28]],[7,[2,30]],[8,[0,32]],[9,[2,30]],[10,[4,28]],[11,[6,26]],[12,[8,24]],[13,[10,22]],[14,[12,20]],[15,[14,18]],[16,16]]],[3,[[0,16],[1,[14,18]],[2,[12,20]],[3,[10,22]],[4,[8,24]],[5,[6,26]],[6,[4,28]],[7,[2,30]],[8,[0,32]],[9,[2,30]],[10,[4,28]],[11,[6,26]],[12,[8,24]],[13,[10,22]],[14,[12,20]],[15,[14,18]],[16,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_18",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2646898848",
+		"name": "Kyodai 20",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,7]]],[1,[6,22]],[2,[4,14,24]],[3,[2,12,16,26]],[4,[0,10,14,18,28]],[5,[8,20]],[6,[0,6,14,22,28]],[7,[4,8,12,16,20,24]],[8,[[0,2],14,[26,2]]],[9,[[8,3],[16,3]]],[10,[[0,2],14,[26,2]]],[11,[4,8,12,16,20,24]],[12,[0,6,14,22,28]],[13,[8,20]],[14,[0,10,14,18,28]],[15,[2,12,16,26]],[16,[4,14,24]],[17,[6,22]],[18,[[8,7]]]]],[1,[[1,14],[3,14],[5,14],[6,[8,20]],[7,[4,[12,3],24]],[8,[8,20]],[9,[1,10,14,18,27]],[10,[8,20]],[11,[4,[12,3],24]],[12,[8,20]],[13,14],[15,14],[17,14]]],[2,[[2,14],[4,14],[6,14],[7,[8,12,16,20]],[9,[8,14,20]],[11,[8,12,16,20]],[12,14],[14,14],[16,14]]],[3,[[3,14],[5,14],[8,[8,20]],[9,14],[10,[8,20]],[13,14],[15,14]]],[4,[[4,14],[9,[8,14,20]],[14,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_20",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2585072105",
+		"name": "Kyodai 23",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,10]]],[2,[[4,12]]],[3,[2,28]],[4,[0,[4,12],30]],[5,[2,28]],[6,[[4,12]]],[8,[[6,10]]]]],[1,[[1,[[7,4],[17,4]]],[3,[[5,11]]],[4,[[1,2],[27,2]]],[5,[[5,11]]],[7,[[7,4],[17,4]]]]],[2,[[2,[[8,3],[18,3]]],[4,[[2,14]]],[6,[[8,3],[18,3]]]]],[3,[[3,[[9,2],[19,2]]],[4,[[3,2],[25,2]]],[5,[[9,2],[19,2]]]]],[4,[[4,[10,20]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_23",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1014988091",
+		"name": "Kyodai 24",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,7]]],[2,[[0,7]]],[4,[[0,7]]],[6,[[0,7]]],[8,[[0,7]]],[10,[[0,7]]]]],[1,[[1,[[0,7]]],[3,[[1,6]]],[5,[[0,7]]],[7,[[1,6]]],[9,[[0,7]]]]],[2,[[1,[[0,7]]],[3,[[1,6]]],[5,[[0,7]]],[7,[[1,6]]],[9,[[0,7]]]]],[3,[[2,[[1,6]]],[4,[[2,5]]],[5,[0,12]],[6,[[2,5]]],[8,[[1,6]]]]],[4,[[3,[[3,4]]],[5,[[1,2],[9,2]]],[7,[[3,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_24",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "4161966166",
+		"name": "Kyodai 25",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,5]]],[2,16],[4,[8,16,24]],[6,[[0,5],[14,3],[24,5]]],[8,[0,[8,4],[18,4],32]],[10,[[0,5],[14,3],[24,5]]],[12,[8,16,24]],[14,16],[16,[[12,5]]]]],[1,[[0,[[12,5]]],[2,16],[4,[8,16,24]],[6,[[0,5],[14,3],[24,5]]],[8,[0,[8,4],[18,4],32]],[10,[[0,5],[14,3],[24,5]]],[12,[8,16,24]],[14,16],[16,[[12,5]]]]],[2,[[0,[12,16,20]],[3,16],[5,[8,24]],[6,[0,3,6,16,26,29,32]],[8,[8,11,14,18,21,24]],[10,[0,3,6,16,26,29,32]],[11,[8,24]],[13,16],[16,[12,16,20]]]],[3,[[6,16],[8,[14,18]],[10,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_25",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2901611809",
+		"name": "Kyodai 26",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,3]]],[1,[12,20]],[2,[10,[14,3],22]],[3,[8,12,20,24]],[4,[6,10,[14,3],22,26]],[5,[4,8,12,20,24,28]],[6,[2,6,10,[14,3],22,26,30]],[7,[0,4,8,12,20,24,28,32]],[8,[2,6,10,[14,3],22,26,30]],[9,[4,8,12,20,24,28]],[10,[6,10,[14,3],22,26]],[11,[8,12,20,24]],[12,[10,[14,3],22]],[13,[12,20]],[14,[[14,3]]]]],[1,[[0,[[15,2]]],[1,[13,19]],[2,[11,[15,2],21]],[3,[9,23]],[4,[7,11,[15,2],21,25]],[5,[5,13,19,27]],[6,[3,7,11,[15,2],21,25,29]],[7,[1,5,9,13,19,23,27,31]],[8,[3,7,11,[15,2],21,25,29]],[9,[5,13,19,27]],[10,[7,11,[15,2],21,25]],[11,[9,23]],[12,[11,[15,2],21]],[13,[13,19]],[14,[[15,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_26",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1896051125",
+		"name": "Kyodai 27",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,12],[1,[10,14]],[2,[8,12,16]],[3,[6,10,14,18]],[4,[4,8,12,16,20]],[5,[2,6,10,14,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[4,8,12,16,20]],[9,[6,10,14,18]],[10,[8,12,16]],[11,[10,14]],[12,12]]],[1,[[1,12],[2,[10,14]],[3,[8,12,16]],[4,[6,10,14,18]],[5,[4,8,12,16,20]],[6,[2,6,10,14,18,22]],[7,[4,8,12,16,20]],[8,[6,10,14,18]],[9,[8,12,16]],[10,[10,14]],[11,12]]],[2,[[2,12],[3,[10,14]],[4,[8,12,16]],[5,[6,10,14,18]],[6,[4,8,12,16,20]],[7,[6,10,14,18]],[8,[8,12,16]],[9,[10,14]],[10,12]]],[3,[[3,[[11,2]]],[4,[9,15]],[5,[7,[11,2],17]],[6,[5,9,15,19]],[7,[7,[11,2],17]],[8,[9,15]],[9,[[11,2]]]]],[4,[[4,[10,14]],[5,[8,12,16]],[6,[6,10,14,18]],[7,[8,12,16]],[8,[10,14]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_27",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1254302692",
+		"name": "Kyodai 28",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,9]]],[2,[3,21]],[3,12],[4,[2,10,14,22]],[5,[8,16]],[6,[1,6,12,18,23]],[7,[10,14]],[8,[[0,5],12,[16,5]]],[9,[10,14]],[10,[1,6,12,18,23]],[11,[8,16]],[12,[2,10,14,22]],[13,12],[14,[3,21]],[16,[[4,9]]]]],[1,[[0,[[4,9]]],[2,[3,21]],[3,12],[4,[2,10,14,22]],[5,[8,16]],[6,[1,6,18,23]],[7,[[11,2]]],[8,[[0,5],[16,5]]],[9,[[11,2]]],[10,[1,6,18,23]],[11,[8,16]],[12,[2,10,14,22]],[13,12],[14,[3,21]],[16,[[4,9]]]]],[2,[[3,12],[4,[10,14]],[5,[8,16]],[6,[6,18]],[8,[[6,2],12,[16,2]]],[10,[6,18]],[11,[8,16]],[12,[10,14]],[13,12]]],[3,[[7,[6,18]],[9,[6,18]]]],[4,[[8,[6,18]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_28",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "718339480",
+		"name": "Kyodai 41",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[4,[[4,5]]],[6,[[4,5]]],[8,[[4,5]]]]],[1,[[3,[[5,4]]],[4,[3,13]],[5,[[5,4]]],[6,[3,13]],[7,[[5,4]]],[8,[3,13]],[9,[[5,4]]]]],[2,[[2,[[5,4]]],[4,[[2,7]]],[6,[[2,7]]],[8,[[2,7]]],[10,[[5,4]]]]],[3,[[1,[[5,4]]],[3,[[3,6]]],[4,[1,15]],[5,[[3,6]]],[6,[1,15]],[7,[[3,6]]],[8,[1,15]],[9,[[3,6]]],[11,[[5,4]]]]],[4,[[0,[[5,4]]],[2,[4,8,12]],[3,[2,6,10,14]],[4,[0,4,8,12,16]],[6,[0,[3,6],16]],[8,[0,4,8,12,16]],[9,[2,6,10,14]],[10,[4,8,12]],[12,[[5,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_41",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2987597802",
+		"name": "Kyodai 42",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[1,[2,30]],[2,[4,28]],[3,[2,6,26,30]],[4,[8,24]],[5,[10,22]],[6,[[12,5]]],[7,[10,22]],[8,[8,24]],[9,[2,6,26,30]],[10,[4,28]],[11,[2,30]]]],[1,[[0,[1,31]],[1,[3,29]],[2,[1,5,27,31]],[3,[3,7,25,29]],[4,[1,5,9,23,27,31]],[5,[7,[11,6],25]],[6,[9,23]],[7,[7,[11,6],25]],[8,[1,5,9,23,27,31]],[9,[3,7,25,29]],[10,[1,5,27,31]],[11,[3,29]],[12,[1,31]]]],[2,[[1,[0,32]],[3,[0,32]],[4,[3,16,29]],[5,[1,5,27,31]],[6,[12,16,20]],[7,[1,5,27,31]],[8,[3,16,29]],[9,[0,32]],[11,[0,32]]]],[3,[[2,[1,31]],[3,16],[5,[3,29]],[6,[1,5,[11,2],[19,2],27,31]],[7,[3,29]],[9,16],[10,[1,31]]]],[4,[[2,16],[4,16],[5,[12,20]],[6,[0,3,6,10,14,18,22,26,29,32]],[7,[12,20]],[8,16],[10,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "kyodai_42",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "227266071",
@@ -7904,6 +9516,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "3263615051",
+		"name": "Labyrinth",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,16]]],[2,[0,10,14,20,30]],[4,[[0,4],10,14,[18,2],[24,2],30]],[6,[0,10,24,30]],[8,[0,4,[8,2],[14,7],30]],[10,[0,4,14,22,30]],[12,[0,[4,4],[14,3],22,[26,3]]],[14,[0,10,22,30]],[16,[[0,4],[10,8],[28,2]]]]],[1,[[0,[0,30]],[2,[10,14,20]],[4,[[2,3],10,14,[18,2],[24,2]]],[6,[10,24]],[8,[4,[8,2],[14,7]]],[10,[4,14,22]],[12,[[4,4],[14,3],22,[26,2]]],[14,[10,22]],[16,[0,[4,2],[10,2],[22,2],[28,2]]]]],[2,[[0,[0,30]],[16,[0,6,10,24,28]]]],[3,[[16,[6,10,24,28]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "labyrinth_4",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2371645214",
 		"name": "Labyrinth 2",
 		"by": "Tsubassa Kurenai",
@@ -7967,6 +9592,19 @@ export const data = [
 		"filename": "lattice_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3943660104",
+		"name": "Lattice",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[2,[4,8,12,16,20,24,28]],[4,[[2,15]]],[6,[4,8,12,16,20,24,28]],[8,[[0,17]]],[10,[4,8,12,16,20,24,28]],[12,[[2,15]]],[14,[4,8,12,16,20,24,28]],[16,16]]],[1,[[2,16],[4,[4,8,[12,5],24,28]],[6,[12,16,20]],[8,[[2,15]]],[10,[12,16,20]],[12,[4,8,[12,5],24,28]],[14,16]]],[2,[[4,16],[6,16],[8,[[6,11]]],[10,16],[12,16]]],[3,[[6,16],[8,[[12,5]]],[10,16]]],[4,[[6,16],[8,[14,18]],[10,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "lattice_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1203058582",
@@ -9048,6 +10686,32 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1958773376",
+		"name": "Lion 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[1,[[3,2],[9,2],[22,2]]],[2,[1,7,20,26]],[3,[[9,2],18,28]],[4,[0,16]],[5,[21,25,29]],[6,[1,15]],[7,30],[8,[1,4,7,10,14,23]],[9,31],[10,[2,5,8,11,14,[22,2]]],[11,[20,26,30]],[12,[1,4,7,10,13,16]],[13,29],[14,[2,5,8,11,14,[17,6]]]]],[1,[[0,[[21,3]]],[1,[[3,2],[9,2],19,27]],[2,[1,7,17]],[3,[[9,2],29]],[4,[0,15]],[5,[21,25,30]],[6,[1,14]],[7,31],[8,[1,4,7,10,13,23]],[9,32],[10,[2,5,8,11,14,[22,2]]],[11,[20,26,31]],[12,[1,4,7,10,13,16]],[13,30],[14,[2,5,8,11,14,18,28]],[15,[[20,4]]]]],[2,[[1,[[9,2]]],[3,[[9,2]]],[5,[21,25]],[8,[1,4,7,10,23]],[10,[2,5,8,11,[22,2]]],[12,[1,4,7,10,13]],[14,[2,5,8,11,14]]]],[3,[[2,10]]],[4,[[2,10]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "lion_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1611092921",
+		"name": "Lion 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,2]]],[2,[[10,2],[22,2]]],[3,[8,20,26]],[4,[6,18,28]],[5,[4,16]],[6,[2,21,25,29]],[7,15],[8,[1,30]],[9,[3,6,9,12,15,23]],[10,31],[11,[1,4,7,10,13,16,[22,2]]],[12,[20,26,30]],[13,[2,5,8,11,14,17]],[14,29],[15,[0,3,6,9,12,15,19,23,27]],[16,[21,25]]]],[1,[[0,[[10,2]]],[1,[[21,3]]],[2,[[8,3],19,27]],[3,[6,17]],[4,[4,29]],[5,[2,15]],[6,[21,25,30]],[7,2],[8,[4,7,10,13,16,31]],[9,23],[10,32],[11,[2,5,8,11,14,[22,2]]],[12,[20,26,31]],[14,30],[15,[1,4,7,10,13,16,20,24,28]],[16,[18,22,26]]]],[2,[[1,11],[6,[21,25]],[8,[5,8,11,14]],[9,23],[11,[3,6,9,12,[22,2]]],[15,[2,5,8,11,14]]]],[3,[[8,[6,9,12]],[11,[4,7,10]],[15,[3,6,9,12]]]],[4,[[8,[7,10]],[11,[5,8]],[15,[4,7,10]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "lion_2_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2851034255",
 		"name": "Little Stairway",
 		"by": "Nanami Kamimura",
@@ -9072,6 +10736,45 @@ export const data = [
 		"filename": "little_stairway_2",
 		"path": "phantagia/lyall/eclayouts",
 		"collection": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1406204675",
+		"name": "Lizard",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,3]]],[1,[4,12]],[2,[2,29]],[3,[0,27,31]],[4,[2,6,25,29]],[5,[0,8]],[6,[2,6,10,25]],[7,0],[8,[2,10,[22,3]]],[9,[0,4,[16,3],[28,2]]],[10,[2,6,[10,3],[22,3],32]],[11,[4,8,[16,3],[28,2]]],[12,[6,[10,3],[22,3]]],[13,[8,[16,3]]],[14,[[10,3],25]],[16,[4,10,25,29]],[17,[[6,2],27,31]],[18,[4,29]]]],[1,[[0,6],[1,4],[2,2],[3,[[27,2]]],[4,1],[5,[[6,2],25]],[6,1],[7,[10,25]],[8,1],[9,[3,10,[23,2]]],[10,[5,[17,3],[27,2]]],[11,[7,[11,3],[23,2]]],[12,[9,[17,3]]],[13,[[11,3],25]],[15,[10,25]],[17,[[4,3],[27,2]]]]],[2,[[6,25],[8,[10,25]],[9,3],[10,[5,10,[23,3]]],[11,[7,[17,3]]],[12,[[9,4],25]],[14,[10,25]],[16,9]]],[3,[[9,25],[10,23],[11,[10,25]],[13,10]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "lizard",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1658361380",
+		"name": "Loose Ends",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,12,24]],[1,[2,22]],[2,[4,12,20]],[3,[6,18]],[4,[8,12,16]],[6,[4,[10,3],20]],[7,[2,6,18,22]],[8,[0,4,[8,5],20,24]],[9,[2,6,18,22]],[10,[4,[10,3],20]],[12,[8,12,16]],[13,[6,18]],[14,[4,12,20]],[15,[2,22]],[16,[0,12,24]]]],[1,[[0,[1,23]],[1,[3,12,21]],[2,[5,19]],[3,[7,12,17]],[5,[9,12,15]],[7,[[11,2]]],[8,[[1,5],[15,5]]],[9,[[11,2]]],[11,[9,12,15]],[13,[7,12,17]],[14,[5,19]],[15,[3,12,21]],[16,[1,23]]]],[2,[[1,[0,24]],[2,[2,12,22]],[3,[4,20]],[4,[6,12,18]],[5,[8,16]],[6,[10,14]],[8,[[2,4],[11,2],[16,4]]],[10,[10,14]],[11,[8,16]],[12,[6,12,18]],[13,[4,20]],[14,[2,12,22]],[15,[0,24]]]],[3,[[3,12],[5,12],[7,12],[8,[[3,3],[17,3]]],[9,12],[11,12],[13,12]]],[4,[[8,12]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "loose_ends",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3361584571",
+		"name": "Lost",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,23]],[1,[[1,2],[7,8],[25,2]]],[2,[5,23]],[3,[[1,2],10,14,18,[25,2]]],[4,[8,12,16,20]],[5,[[0,4],14,[22,4]]],[7,[0,[4,11],28]],[9,[[0,4],14,[22,4]]],[10,[8,12,16,20]],[11,[[1,2],10,14,18,[25,2]]],[12,[5,23]],[13,[[1,2],[7,8],[25,2]]],[14,[5,23]]]],[1,[[1,[[11,4]]],[3,[10,14,18]],[4,[8,12,16,20]],[5,[6,14,22]],[7,[[6,9]]],[9,[6,14,22]],[10,[8,12,16,20]],[11,[10,14,18]],[13,[[11,4]]]]],[2,[[1,[[12,3]]],[3,14],[5,14],[7,[[8,7]]],[9,14],[11,14],[13,[[12,3]]]]],[3,[[5,14],[7,[[12,3]]],[9,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "lost",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3361584571",
@@ -9269,6 +10972,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "4116723508",
+		"name": "Maya",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[16,5]]],[2,[[0,5],[16,5]]],[4,[[0,13]]],[6,[[8,5]]],[8,[[8,5]]],[10,[[0,13]]],[12,[[0,5],[16,5]]],[14,[[0,5],[16,5]]]]],[1,[[1,[[2,3],[18,3]]],[3,[[2,3],[18,3]]],[5,[[10,3]]],[7,[[10,3]]],[9,[[10,3]]],[11,[[2,3],[18,3]]],[13,[[2,3],[18,3]]]]],[2,[[2,[[2,3],[18,3]]],[5,[[11,2]]],[7,[[11,2]]],[9,[[11,2]]],[12,[[2,3],[18,3]]]]],[3,[[2,[[3,2],[19,2]]],[5,12],[7,12],[9,12],[12,[[3,2],[19,2]]]]],[4,[[2,[4,20]],[6,12],[8,12],[12,[4,20]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "maya_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3527565493",
 		"name": "Maze",
 		"by": "Alexey Charkov",
@@ -9386,6 +11102,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
+		"id": "639681959",
+		"name": "Mesh",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[8,3],[16,3],[24,3]]],[2,[0,4,8,12,16,20,24,28]],[4,[[0,15]]],[6,[4,8,12,16,20,24]],[8,[[0,15]]],[10,[0,4,8,12,16,20,24,28]],[12,[[0,3],[8,3],[16,3],[24,3]]]]],[1,[[0,[[0,3],[8,3],[16,3],[24,3]]],[2,[0,4,8,12,16,20,24,28]],[4,[[0,3],[8,3],[16,3],[24,3]]],[6,[8,12,16,20]],[8,[[0,3],[8,3],[16,3],[24,3]]],[10,[0,4,8,12,16,20,24,28]],[12,[[0,3],[8,3],[16,3],[24,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "mesh_6",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "955549400",
 		"name": "Mesh 2",
 		"by": "Ernie Polegato",
@@ -9477,6 +11206,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "4241582617",
+		"name": "Mini Traditional",
+		"by": "Unknown",
+		"tiles": 48,
+		"data": "[[0,[[0,8],[1,[6,10]],[2,[4,8,12]],[3,[2,6,10,14]],[4,[0,4,8,12,16]],[5,[2,6,10,14]],[6,[4,8,12]],[7,[6,10]],[8,8]]],[1,[[2,[[7,2]]],[3,[5,11]],[4,[3,[7,2],13]],[5,[5,11]],[6,[[7,2]]]]],[2,[[2,8],[4,[[4,5]]],[6,8]]],[3,[[4,[[5,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "mini_traditional_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "794033805",
 		"name": "Mini-Layout",
 		"by": "Kyodai",
@@ -9503,6 +11245,45 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "794033805",
+		"name": "Mini-Layout",
+		"by": "Unknown",
+		"tiles": 8,
+		"data": "[[0,[[0,2],[1,[0,4]],[3,[0,4]],[4,2]]],[1,[[1,2],[3,2]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "mini-layout_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2269984935",
+		"name": "Mission Impossible",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],12,20,[24,4]]],[2,[4,[12,2],[18,2],24]],[4,[4,12,16,20,24]],[6,[4,12,20,[24,3]]],[8,[4,12,20,24]],[10,[4,12,20,24]],[12,[[0,5],12,20,24]],[15,[[0,16]]]]],[1,[[0,[[0,5],12,20,[24,4]]],[2,[4,[12,2],[18,2],24]],[4,[4,12,16,20,24]],[6,[12,20,[24,3]]],[8,[4,12,20,24]],[10,[4,12,20,24]],[12,[[0,5],12,20,24]]]],[2,[[0,[[2,3],[26,3]]],[2,[4,[12,2],[18,2]]],[4,[12,16,20]],[6,[12,20,[26,2]]],[8,[12,20]],[10,[4,12,20]],[12,[[2,3]]]]],[3,[[0,[4,[28,2]]],[4,[12,16,20]],[6,[12,20,28]],[8,[12,20]],[12,4]]],[4,[[0,30],[6,[12,20]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "mission_impossible",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3748222100",
+		"name": "Monkey",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[18,2],28]],[2,[0,[6,3],[16,2],[26,2]]],[4,[[0,2],[10,4],26]],[6,[[8,7],26]],[7,6],[8,[[8,5],[20,2],26]],[10,[[0,2],10,14,22,26]],[12,[2,[8,2],14,18,[22,3]]],[14,[[2,4],[14,3]]]]],[1,[[0,[[2,2]]],[1,[0,6,18,28]],[2,[[8,2],16]],[3,[0,26]],[4,[[10,4]]],[5,26],[6,[[8,6]]],[7,[20,26]],[8,[[8,5]]],[9,[22,26]],[10,10],[11,[2,14,22,26]],[12,[10,24]],[13,[2,8]],[14,[[4,2],[15,2]]]]],[2,[[0,3],[2,0],[4,[[10,4],26]],[6,[[9,5],26]],[8,[[10,4],26]],[10,[22,26]],[12,2],[14,[5,16]]]],[3,[[4,[[10,4]]],[5,26],[6,[[10,4]]],[7,26],[8,[[10,4]]],[9,26]]],[4,[[6,26],[8,26]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "monkey",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3748222100",
 		"name": "Monkey",
 		"by": "Unknown",
@@ -9511,7 +11292,7 @@ export const data = [
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/monkey",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "monkey",
+		"filename": "monkey_2",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -9735,6 +11516,32 @@ export const data = [
 		"filename": "moth_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "232703814",
+		"name": "Moth",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[13,3],[24,4]]],[1,[8,22]],[2,[2,6,10,15,20,24,28]],[3,[8,12,18,22]],[4,[3,10,[14,2],20,27]],[5,[12,18]],[6,[[2,2],[7,2],[14,2],[21,2],[26,2]]],[7,[12,18]],[8,[3,10,[14,2],20,27]],[9,[8,12,18,22]],[10,[2,6,10,15,20,24,28]],[11,[8,22]],[12,[[2,3],15,[24,3]]],[13,[0,30]]]],[1,[[0,[[0,4],[14,2],[24,4]]],[2,[2,8,15,22,28]],[4,[[12,4]]],[6,[3,8,[14,2],22,27]],[8,[[12,4]]],[10,[2,8,15,22,28]],[12,[[2,3],15,[24,3]]],[13,[0,30]]]],[2,[[0,[[2,2],15,[26,2]]],[2,15],[4,[[13,3]]],[6,15],[8,[[13,3]]],[10,15],[12,[[2,2],[26,2]]]]],[3,[[0,[3,27]],[4,[[14,2]]],[6,15],[8,[[14,2]]],[12,[3,27]]]],[4,[[4,15],[8,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "moth_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2540397744",
+		"name": "Multi X",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[8,2],[18,2],28]],[4,[4,14,24]],[8,[0,[8,2],[18,2],28]],[12,[4,14,24]],[16,[0,[8,2],[18,2],28]]]],[1,[[1,[1,[7,3],[17,3],27]],[4,[4,14,24]],[7,[1,[7,3],[17,3],27]],[9,[1,[7,3],[17,3],27]],[12,[4,14,24]],[15,[1,[7,3],[17,3],27]]]],[2,[[2,[2,6,9,12,16,19,22,26]],[4,[4,14,24]],[6,[2,6,9,12,16,19,22,26]],[8,[9,19]],[10,[2,6,9,12,16,19,22,26]],[12,[4,14,24]],[14,[2,6,9,12,16,19,22,26]]]],[3,[[3,[[3,2],9,[13,2],19,[23,2]]],[5,[[3,2],9,[13,2],19,[23,2]]],[11,[[3,2],9,[13,2],19,[23,2]]],[13,[[3,2],9,[13,2],19,[23,2]]]]],[4,[[4,[4,9,14,19,24]],[12,[4,9,14,19,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "multi_x",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2233937669",
@@ -10166,6 +11973,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2544283948",
+		"name": "N For Namida",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[16,3]]],[2,[[0,5],[16,3]]],[4,[[0,6],[16,3]]],[6,[[0,3],[8,3],[16,3]]],[8,[[0,3],[10,6]]],[10,[[0,3],[12,5]]],[12,[[0,3],[14,4]]]]],[1,[[0,[[0,4],[16,3]]],[2,[[0,5],[16,3]]],[4,[[0,6],[16,3]]],[6,[[0,3],[8,3],[16,3]]],[8,[[0,3],[10,6]]],[10,[[0,3],[12,5]]],[12,[[0,3],[14,4]]]]],[2,[[0,[[0,4],[16,3]]],[2,[0,16,20]],[4,[0,16,20]],[6,[0,4,16,20]],[8,[0,4,20]],[10,[0,4,20]],[12,[[0,3],[14,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "n_for_namida_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2565966582",
 		"name": "N For Namida Traditional",
 		"by": "MyKyodai",
@@ -10177,6 +11997,19 @@ export const data = [
 		"filename": "n_for_namida_traditional",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2565966582",
+		"name": "N For Namida Traditional",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[6,[12,3],20]],[4,[[6,2],20]],[5,10],[6,[[6,2],12,20]],[7,[10,14]],[8,[6,12,16,20]],[9,[14,18]],[10,[6,16,20]],[11,18],[12,[6,[10,3],20]]]],[2,[[2,[6,[14,2],20]],[4,[[6,2],20]],[5,10],[6,[[6,2],12,20]],[7,[10,14]],[8,[6,12,16,20]],[9,[14,18]],[10,[6,16,20]],[11,18],[12,[6,[10,2],20]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "n_for_namida_traditional_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4031465934",
@@ -10242,6 +12075,19 @@ export const data = [
 		"filename": "naoki_haga_traditional",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3747783141",
+		"name": "Naoki Haga Traditional",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[6,12]],[3,8],[4,[6,[10,2],[16,2]]],[6,[6,12]],[8,[14,20]],[10,[[8,2],[14,4]]],[12,[14,20]]]],[2,[[2,[6,12]],[3,8],[4,[6,[10,2],[16,2]]],[6,[6,12]],[8,[14,20]],[10,[[8,2],[14,4]]],[12,[14,20]]]],[3,[[2,[6,12]],[3,8],[4,[6,[10,2],17]],[6,[6,12]],[8,[14,20]],[10,[9,[14,4]]],[12,[14,20]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "naoki_haga_traditional_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3031448891",
@@ -11102,6 +12948,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2196279142",
+		"name": "Okie's Nitemare",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[1,[14,18]],[2,[5,16,26]],[3,[3,13,19,28]],[4,[1,7,16,24,30]],[5,[5,26]],[6,[3,[15,2],28]],[8,[[8,2],[14,3],[22,2]]],[10,[[13,4]]],[12,[[1,3],[12,5],[27,3]]],[14,[[0,5],[11,6],[24,5]]],[16,[[0,17]]]]],[1,[[2,[5,16,26]],[3,[3,28]],[4,[1,7,16,24,30]],[5,[5,26]],[6,[3,16,28]],[8,[9,[15,2],23]],[10,[[14,3]]],[12,[[13,4]]],[14,[[12,5]]],[15,[[1,4],[25,4]]],[16,[[9,8]]]]],[2,[[3,[3,16,28]],[5,[5,16,26]],[8,16],[10,[[15,2]]],[12,[[14,3]]],[14,[[13,4]]]]],[3,[[10,16],[12,[[14,3]]]]],[4,[[11,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "okies_nitemare_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3053946084",
 		"name": "Old Dragon",
 		"by": "Kyodai",
@@ -11258,6 +13117,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "4151898624",
+		"name": "Orbital",
+		"by": "Unknown",
+		"tiles": 84,
+		"data": "[[0,[[0,[[11,3]]],[2,13],[4,13],[5,[0,11,15,26]],[7,[[0,6],[16,6]]],[9,[0,11,15,26]],[10,13],[12,13],[14,[[11,3]]]]],[1,[[0,[[11,3]]],[2,13],[4,13],[5,[0,11,15,26]],[7,[[0,6],[16,6]]],[9,[0,11,15,26]],[10,13],[12,13],[14,[[11,3]]]]],[2,[[0,[[11,3]]],[5,[0,26]],[7,[[0,3],[22,3]]],[9,[0,26]],[14,[[11,3]]]]],[3,[[5,[0,26]],[7,[[0,2],[24,2]]],[9,[0,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "orbital_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "824604235",
 		"name": "Orchid",
 		"by": "Ernie Polegato",
@@ -11308,6 +13180,19 @@ export const data = [
 		"filename": "order_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "415908076",
+		"name": "Order",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,8]]],[1,[0,24]],[2,[[8,5]]],[3,[[0,3],[20,3]]],[4,[[10,3]]],[5,[[0,3],[20,3]]],[6,[[6,7]]],[7,[[0,3],[20,3]]],[8,[[6,7]]],[9,[[0,3],[20,3]]],[10,[[10,3]]],[11,[[0,3],[20,3]]],[12,[[8,5]]],[13,[0,24]],[14,[[5,8]]]]],[1,[[0,[[6,7]]],[2,[[11,2]]],[3,[0,24]],[4,12],[5,[[0,2],[22,2]]],[6,12],[7,[[0,6],[14,6]]],[8,12],[9,[[0,2],[22,2]]],[10,12],[11,[0,24]],[12,[[11,2]]],[14,[[6,7]]]]],[2,[[0,[[10,3]]],[2,12],[5,[0,24]],[7,[[0,2],12,[22,2]]],[9,[0,24]],[12,12],[14,[[10,3]]]]],[3,[[7,12]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "order_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3495377992",
@@ -11375,6 +13260,19 @@ export const data = [
 		"collection": "GNOME Mahjongg"
 	},
 	{
+		"id": "2447397392",
+		"name": "Owl",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,19]],[1,[6,13,17,24]],[2,[4,8,22,26]],[3,[2,10,[14,2],20,28]],[4,[0,12,18,30]],[5,[[14,2]]],[6,[0,30]],[7,[6,[14,2],24]],[8,[0,30]],[9,[[4,3],[14,2],[22,3]]],[10,[0,30]],[11,[6,[14,2],24]],[12,[0,12,18,30]],[13,[2,10,[14,2],20,28]],[14,[4,8,22,26]],[15,[6,[11,5],24]]]],[1,[[0,[11,19]],[1,[6,13,17,24]],[2,[4,8,22,26]],[3,[2,10,[14,2],20,28]],[4,[0,12,18,30]],[5,15],[6,[0,30]],[7,[6,[14,2],24]],[8,[0,30]],[9,[[4,3],[14,2],[22,3]]],[10,[0,30]],[11,[6,[14,2],24]],[12,[0,12,18,30]],[13,[2,10,[14,2],20,28]],[14,[4,8,22,26]],[15,[6,11,[14,2],19,24]]]],[2,[[0,[11,19]],[1,[6,13,17,24]],[2,[4,8,22,26]],[3,[[14,2]]],[5,15],[9,[6,24]],[15,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "owl",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "24997037",
 		"name": "Ox",
 		"by": "Tsubassa Kurenai",
@@ -11393,10 +13291,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[4,2],[24,2]]],[2,[[4,4],[20,4]]],[3,14],[4,[1,[6,4],[16,5]]],[5,14],[6,[[2,6],[16,5]]],[7,[0,14,26]],[8,[[2,6],[16,5]]],[9,14],[10,[1,[6,4],[16,5]]],[11,14],[12,[[4,4],[20,4]]],[14,[[4,2],[24,2]]]]],[1,[[1,[5,25]],[4,[[8,8]]],[6,[[2,12]]],[8,[[2,12]]],[10,[[8,8]]],[13,[5,25]]]],[2,[[4,[[14,3]]],[6,[[10,7]]],[7,2],[8,[[10,7]]],[10,[[14,3]]]]],[3,[[6,[[14,3]]],[8,[[14,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "ox_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1556676486",
+		"name": "Ox",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[24,2]]],[2,[[4,4],[20,4]]],[3,14],[4,[1,[6,4],[16,5]]],[5,14],[6,[[2,6],[16,5]]],[7,[0,14,26]],[8,[[2,6],[16,5]]],[9,14],[10,[1,[6,4],[16,5]]],[11,14],[12,[[4,4],[20,4]]],[14,[[4,2],[24,2]]]]],[1,[[1,[5,25]],[4,[[8,8]]],[6,[[2,12]]],[8,[[2,12]]],[10,[[8,8]]],[13,[5,25]]]],[2,[[4,[[14,3]]],[6,[[10,7]]],[7,2],[8,[[10,7]]],[10,[[14,3]]]]],[3,[[6,[[14,3]]],[8,[[14,3]]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/ox",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "ox_2",
+		"filename": "ox_3",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -11505,6 +13416,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "845392802",
+		"name": "Pantheon",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,7]]],[2,[[5,12]]],[4,[[0,17]]],[6,[[3,2],[9,2],[15,2],[21,2],[27,2]]],[8,[4,10,16,22,28]],[10,[4,10,16,22,28]],[12,[4,10,16,22,28]],[14,[4,10,16,22,28]],[16,[[3,2],[9,2],[15,2],[21,2],[27,2]]]]],[1,[[0,[[10,7]]],[2,[[5,12]]],[4,[[0,17]]],[6,[[3,2],[9,2],[15,2],[21,2],[27,2]]],[16,[[3,2],[9,2],[15,2],[21,2],[27,2]]]]],[2,[[1,[[11,6]]],[3,[[9,2],14,18,[21,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "pantheon_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "748148480",
 		"name": "Papillon",
 		"by": "Vincent Krebs",
@@ -11536,10 +13460,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,16],[1,[14,18]],[2,[4,12,20,28]],[3,[6,10,22,26]],[4,[4,8,24,28]],[5,[2,10,22,30]],[6,[0,4,12,20,28,32]],[7,[2,14,18,30]],[8,[0,4,16,28,32]],[9,[2,14,18,30]],[10,[0,4,12,20,28,32]],[11,[2,10,22,30]],[12,[4,8,24,28]],[13,[6,10,22,26]],[14,[4,12,20,28]],[15,[14,18]],[16,16]]],[1,[[0,16],[1,[14,18]],[2,[4,12,20,28]],[3,[6,10,22,26]],[4,[4,8,24,28]],[5,[2,10,22,30]],[6,[0,4,12,20,28,32]],[7,[2,14,18,30]],[8,[0,4,16,28,32]],[9,[2,14,18,30]],[10,[0,4,12,20,28,32]],[11,[2,10,22,30]],[12,[4,8,24,28]],[13,[6,10,22,26]],[14,[4,12,20,28]],[15,[14,18]],[16,16]]],[2,[[3,[5,27]],[4,[9,23]],[7,[[1,2],[29,2]]],[8,[[15,2]]],[9,[[1,2],[29,2]]],[12,[9,23]],[13,[5,27]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "papillon_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "748148480",
+		"name": "Papillon",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[1,[14,18]],[2,[4,12,20,28]],[3,[6,10,22,26]],[4,[4,8,24,28]],[5,[2,10,22,30]],[6,[0,4,12,20,28,32]],[7,[2,14,18,30]],[8,[0,4,16,28,32]],[9,[2,14,18,30]],[10,[0,4,12,20,28,32]],[11,[2,10,22,30]],[12,[4,8,24,28]],[13,[6,10,22,26]],[14,[4,12,20,28]],[15,[14,18]],[16,16]]],[1,[[0,16],[1,[14,18]],[2,[4,12,20,28]],[3,[6,10,22,26]],[4,[4,8,24,28]],[5,[2,10,22,30]],[6,[0,4,12,20,28,32]],[7,[2,14,18,30]],[8,[0,4,16,28,32]],[9,[2,14,18,30]],[10,[0,4,12,20,28,32]],[11,[2,10,22,30]],[12,[4,8,24,28]],[13,[6,10,22,26]],[14,[4,12,20,28]],[15,[14,18]],[16,16]]],[2,[[3,[5,27]],[4,[9,23]],[7,[[1,2],[29,2]]],[8,[[15,2]]],[9,[[1,2],[29,2]]],[12,[9,23]],[13,[5,27]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/papillon",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "papillon_3",
+		"filename": "papillon_4",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -11607,6 +13544,19 @@ export const data = [
 		"filename": "pattern_3",
 		"path": "phantagia/eplayouts/eplayout03",
 		"collection": "Phantagia - Package A - Package 03"
+	},
+	{
+		"id": "2119882521",
+		"name": "Pattern",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[5,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[7,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[10,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[12,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]]]],[1,[[0,[1,11,22,25]],[1,[[5,2]]],[2,[1,16,[20,2],[25,2]]],[5,[0,7,[10,2],16,20,27]],[7,[2,5,11,[15,2],20,27]],[10,[12,15,[20,2],[25,2]]],[11,[0,7]],[12,[10,17,22,25]]]],[2,[[0,[1,11]],[1,[[5,2]]],[2,[1,16,22,25]],[5,[0,7,[10,2],16,20,27]],[7,[2,5,11,[15,2],20,27]],[10,[12,15,[20,2],[25,2]]],[11,[0,7]],[12,[10,17,22,25]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "pattern_4",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3484769577",
@@ -11815,6 +13765,19 @@ export const data = [
 		"filename": "phoenix_4",
 		"path": "phantagia/lyall/vblayouts",
 		"collection": "Phantagia - Submitted - Bushell"
+	},
+	{
+		"id": "1125676962",
+		"name": "Phoenix",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[15,2],[30,2]]],[1,[4,19,28]],[2,[0,6,[15,2],26,32]],[3,[8,24]],[4,[10,[14,3],22]],[5,[[0,3],12,20,[28,3]]],[6,[6,[15,2],26]],[7,[0,8,12,20,24,32]],[8,[4,10,[15,2],22,28]],[9,[0,12,20,32]],[10,[[15,2]]],[11,[[2,4],12,20,[24,4]]],[12,[10,[15,2],22]],[13,[2,5,12,20,27,30]],[14,[8,14,18,24]],[15,[2,5,27,30]],[16,[10,22]]]],[1,[[1,[1,31]],[2,[3,29]],[3,[5,27]],[4,[7,[14,3],25]],[5,[9,23]],[6,[3,11,[15,2],21,29]],[7,[5,27]],[8,[7,[13,4],25]],[9,[9,23]],[10,[3,11,[15,2],21,29]],[11,[5,13,19,27]],[12,[7,[15,2],25]],[13,[9,23]],[14,[11,21]],[15,[13,19]]]],[2,[[5,[[13,4]]],[8,[[15,2]]],[11,[[15,2]]]]],[3,[[5,[[15,2]]],[8,16],[11,16]]],[4,[[5,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "phoenix_5",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4244965514",
@@ -12207,6 +14170,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "664876438",
+		"name": "Portal",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[2,[2,6,22,26]],[3,[4,24]],[4,[2,6,22,26]],[6,[12,16]],[8,[12,16]],[10,[2,6,22,26]],[11,[4,24]],[12,[2,6,22,26]]]],[1,[[1,[[1,4],[21,4]]],[3,[1,7,21,27]],[5,[[1,4],[11,4],[21,4]]],[7,[11,17]],[9,[[1,4],[11,4],[21,4]]],[11,[1,7,21,27]],[13,[[1,4],[21,4]]]]],[2,[[0,[[0,5],[20,5]]],[2,[0,8,20,28]],[4,[0,[8,7],28]],[6,[[0,6],[18,6]]],[8,[[0,6],[18,6]]],[10,[0,[8,7],28]],[12,[0,8,20,28]],[14,[[0,5],[20,5]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "portal_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1552388717",
 		"name": "Poseidon",
 		"by": "DMask",
@@ -12285,6 +14261,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "2180112846",
+		"name": "Pyramid",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,15]]],[2,[[2,13]]],[4,[[4,11]]],[6,[[6,9]]],[8,[2,[8,7],26]],[10,[[2,2],[10,5],[24,2]]],[12,[[2,3],[12,3],[22,3]]],[14,14]]],[1,[[0,[[2,13]]],[2,[[4,11]]],[4,[[6,9]]],[6,[[8,7]]],[8,[[10,5]]],[10,[2,[12,3],26]],[12,[[2,2],14,[24,2]]]]],[2,[[0,[[10,5]]],[2,[[12,3]]],[4,14]]],[3,[[1,[[13,2]]],[3,14]]],[4,[[1,14]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#PYRAMID.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "pyramid_5",
+		"path": "solitile",
+		"collection": "Solitile"
+	},
+	{
 		"id": "973763131",
 		"name": "Pyramid",
 		"by": "Unknown",
@@ -12293,7 +14282,7 @@ export const data = [
 		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
 		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
 		"solvable": true,
-		"filename": "pyramid_5",
+		"filename": "pyramid_6",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
 	},
@@ -12322,6 +14311,19 @@ export const data = [
 		"filename": "pyramid_1_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1264183354",
+		"name": "Pyramid 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[4,8]]],[4,[[2,10]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[2,10]]],[12,[[4,8]]],[14,[[6,6]]]]],[1,[[2,[[6,6]]],[4,[[4,8]]],[6,[[4,8]]],[7,[2,20]],[8,[[4,8]]],[10,[[4,8]]],[12,[[6,6]]]]],[2,[[4,[[8,4]]],[6,[[6,6]]],[8,[[6,6]]],[10,[[8,4]]]]],[3,[[6,[[10,2]]],[7,[8,14]],[8,[[10,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "pyramid_1_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3337320195",
@@ -12376,6 +14378,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
+		"id": "3337320195",
+		"name": "Pyramid 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,6]]],[2,[[2,8]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[2,8]]],[12,[[4,6]]]]],[1,[[0,[[8,2]]],[2,[[4,6]]],[4,[[2,8]]],[6,[[2,8]]],[8,[[2,8]]],[10,[[4,6]]],[12,[[8,2]]]]],[2,[[2,[[6,4]]],[4,[[6,4]]],[5,[4,14]],[6,[[6,4]]],[7,[4,14]],[8,[[6,4]]],[10,[[6,4]]]]],[3,[[2,[[8,2]]],[4,[[6,4]]],[6,[[6,4]]],[8,[[6,4]]],[10,[[8,2]]]]],[4,[[4,[[8,2]]],[6,[[8,2]]],[8,[[8,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "pyramid_2_5",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2621355221",
 		"name": "Pyramid's Walls",
 		"by": "Unknown",
@@ -12400,6 +14415,19 @@ export const data = [
 		"filename": "pyramids_walls_2",
 		"path": "mahjongg-builder",
 		"collection": "Mahjongg Builder"
+	},
+	{
+		"id": "4249526246",
+		"name": "Pyramids",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[20,3]]],[1,[[7,6]]],[2,[[0,3],[20,3]]],[3,[[9,4]]],[4,[[1,2],7,17,[21,2]]],[5,[5,[9,4],19]],[6,[[1,2],[21,2]]],[7,[5,[9,4],19]],[8,[[1,2],7,17,[21,2]]],[9,[[9,4]]],[10,[[0,3],[20,3]]],[11,[[7,6]]],[12,[[0,3],[20,3]]]]],[1,[[1,[[1,2],[8,5],[21,2]]],[4,[[8,5]]],[6,[5,[10,3],19]],[8,[[8,5]]],[11,[[1,2],[8,5],[21,2]]]]],[2,[[1,[[9,4]]],[4,[[9,4]]],[6,[[11,2]]],[8,[[9,4]]],[11,[[9,4]]]]],[3,[[1,[[10,3]]],[4,[[10,3]]],[6,12],[8,[[10,3]]],[11,[[10,3]]]]],[4,[[1,[[11,2]]],[4,[[11,2]]],[8,[[11,2]]],[11,[[11,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "pyramids",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1450564008",
@@ -12465,6 +14493,19 @@ export const data = [
 		"filename": "quad_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1549765796",
+		"name": "Quad",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]]]],[1,[[0,[[0,4],[10,4]]],[2,[[0,4],[10,4]]],[4,[[0,4],[10,4]]],[6,8],[8,[[0,4],[10,4]]],[10,[[0,4],[10,4]]],[12,[[0,4],[10,4]]]]],[2,[[1,[[1,3],[11,3]]],[3,[[1,3],[11,3]]],[9,[[1,3],[11,3]]],[11,[[1,3],[11,3]]]]],[3,[[2,[[2,2],[12,2]]],[10,[[2,2],[12,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "quad_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "669159619",
@@ -12563,10 +14604,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[3,3],[21,3]]],[2,[[0,15]]],[4,[[0,5],[12,3],[20,5]]],[6,[[0,2],[6,2],11,14,17,[20,2],[26,2]]],[8,[[0,5],[12,3],[20,5]]],[10,[[2,3],[13,2],[22,3]]],[12,[[13,2]]],[14,14]]],[1,[[0,[[4,2],[22,2]]],[2,[[2,13]]],[4,[[1,4],[12,3],[21,4]]],[6,[1,7,11,14,17,21,27]],[8,[[1,4],[13,2],[21,4]]],[10,[[3,2],14,[23,2]]],[12,14],[14,14]]],[2,[[2,[[3,2],14,[23,2]]],[4,[[2,3],[13,2],[22,3]]],[8,[[2,3],14,[22,3]]]]],[3,[[4,[4,14,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "ram",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "947157326",
+		"name": "Ram",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,3],[21,3]]],[2,[[0,15]]],[4,[[0,5],[12,3],[20,5]]],[6,[[0,2],[6,2],11,14,17,[20,2],[26,2]]],[8,[[0,5],[12,3],[20,5]]],[10,[[2,3],[13,2],[22,3]]],[12,[[13,2]]],[14,14]]],[1,[[0,[[4,2],[22,2]]],[2,[[2,13]]],[4,[[1,4],[12,3],[21,4]]],[6,[1,7,11,14,17,21,27]],[8,[[1,4],[13,2],[21,4]]],[10,[[3,2],14,[23,2]]],[12,14],[14,14]]],[2,[[2,[[3,2],14,[23,2]]],[4,[[2,3],[13,2],[22,3]]],[8,[[2,3],14,[22,3]]]]],[3,[[4,[4,14,24]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/ram",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "ram",
+		"filename": "ram_2",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -12589,10 +14643,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,4],[20,4]]],[2,[[0,5],[11,3],[18,5]]],[4,[[0,3],[8,6],[22,3]]],[6,[[0,14]]],[8,[[10,4]]],[10,[[11,3]]],[12,[[6,8]]],[14,[[12,2]]]]],[1,[[0,[[2,2],[22,2]]],[2,[[0,5],[11,3],[18,5]]],[4,[[0,3],[8,6],[22,3]]],[6,[[2,3],[10,4],[20,3]]],[8,[[10,4]]],[10,[[11,3]]],[12,[[12,2]]],[14,13]]],[2,[[2,[[2,2],[22,2]]],[3,[0,26]],[4,[[2,2],[10,4],[22,2]]],[6,[3,[10,4],23]],[8,[[10,4]]]]],[3,[[3,[3,23]],[5,[[12,2]]],[7,[[12,2]]]]],[4,[[6,13]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "rat_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "903410617",
+		"name": "Rat",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[20,4]]],[2,[[0,5],[11,3],[18,5]]],[4,[[0,3],[8,6],[22,3]]],[6,[[0,14]]],[8,[[10,4]]],[10,[[11,3]]],[12,[[6,8]]],[14,[[12,2]]]]],[1,[[0,[[2,2],[22,2]]],[2,[[0,5],[11,3],[18,5]]],[4,[[0,3],[8,6],[22,3]]],[6,[[2,3],[10,4],[20,3]]],[8,[[10,4]]],[10,[[11,3]]],[12,[[12,2]]],[14,13]]],[2,[[2,[[2,2],[22,2]]],[3,[0,26]],[4,[[2,2],[10,4],[22,2]]],[6,[3,[10,4],23]],[8,[[10,4]]]]],[3,[[3,[3,23]],[5,[[12,2]]],[7,[[12,2]]]]],[4,[[6,13]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/rat",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "rat_2",
+		"filename": "rat_3",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -12647,6 +14714,19 @@ export const data = [
 		"filename": "rectangle_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2385777971",
+		"name": "Rectangle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]]]],[2,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]]]],[3,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "rectangle_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1817746850",
@@ -12738,6 +14818,19 @@ export const data = [
 		"filename": "reindeer_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2557830227",
+		"name": "Reindeer",
+		"by": "Unknown",
+		"tiles": 64,
+		"data": "[[0,[[2,[4,22,27]],[3,1],[4,25],[5,[[5,8]]],[6,[23,27]],[7,[7,11,15,19]],[8,[[24,3]]],[9,[[7,7]]],[10,22],[11,[5,11,18]],[13,3],[14,[5,14,21,27]]]],[1,[[1,[3,21,28]],[3,[23,27]],[4,[0,4]],[5,[[20,2]]],[7,[23,28]],[9,21],[10,6],[11,23],[12,[4,12,19]]]],[2,[[0,[20,29]],[2,2],[8,29],[12,24],[13,[13,20]]]],[3,[[7,30],[13,25]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "reindeer_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "579765333",
@@ -12883,6 +14976,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2965256094",
+		"name": "Rings",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,2]]],[1,[4,10,20,26]],[2,[[6,2],[22,2]]],[3,[[2,2],[10,2],[18,2],[26,2]]],[5,[[1,3],[9,3],[17,3],[25,3]]],[7,[[0,16]]],[9,[[1,3],[9,3],[17,3],[25,3]]],[11,[[2,2],[10,2],[18,2],[26,2]]],[12,[[6,2],[22,2]]],[13,[4,10,20,26]],[14,[[14,2]]]]],[1,[[2,[[5,3],[21,3]]],[3,[3,11,19,27]],[5,[[2,2],[10,2],[18,2],[26,2]]],[7,[[1,3],[9,3],[17,3],[25,3]]],[9,[[2,2],[10,2],[18,2],[26,2]]],[11,[3,11,19,27]],[12,[[5,3],[21,3]]]]],[2,[[5,[3,11,19,27]],[7,[[2,2],[10,2],[18,2],[26,2]]],[9,[3,11,19,27]]]],[3,[[7,[3,11,19,27]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "rings_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2210878121",
 		"name": "River Bridge",
 		"by": "Naoki Haga",
@@ -12907,6 +15013,19 @@ export const data = [
 		"filename": "river_bridge_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2210878121",
+		"name": "River Bridge",
+		"by": "Unknown",
+		"tiles": 116,
+		"data": "[[0,[[0,[11,21]],[2,[10,20]],[5,[[0,2],[28,2]]],[7,[2,28]],[8,[[8,8]]],[9,[2,28]],[11,[[0,2],[28,2]]],[12,[10,21]],[14,[9,20]],[16,[10,21]]]],[1,[[5,[3,27]],[7,[3,[7,9],27]],[9,[3,[7,9],27]],[11,[3,27]]]],[2,[[5,[4,26]],[6,[[6,10]]],[7,[4,26]],[8,[[6,10]]],[9,[4,26]],[10,[[6,10]]],[11,[4,26]]]],[3,[[5,[[5,11]]],[11,[[5,11]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "river_bridge_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3123312289",
@@ -12974,6 +15093,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "3354271298",
+		"name": "Rocket",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,3],[25,3]]],[1,10],[2,[8,[12,4],[23,4]]],[3,[6,10,20]],[4,[4,8,12,[16,2],[22,2]]],[5,[2,6,10,14,20,27]],[6,[4,18,[22,2]]],[7,[[0,2],[6,6],20,[26,2]]],[8,[4,18,[22,2]]],[9,[2,6,10,14,20,27]],[10,[4,8,12,[16,2],[22,2]]],[11,[6,10,20]],[12,[8,[12,4],[23,4]]],[13,10],[14,[[12,3],[25,3]]]]],[1,[[0,[[13,2]]],[1,[11,27]],[2,[9,[13,2]]],[3,[7,18]],[4,[5,23]],[5,[3,18]],[6,20],[7,[[2,9],[22,2]]],[8,20],[9,[3,18]],[10,[5,23]],[11,[7,18]],[12,[9,[13,2]]],[13,[11,27]],[14,[[13,2]]]]],[2,[[1,[[13,2]]],[6,18],[7,[[3,6],16,[20,2]]],[8,18],[13,[[13,2]]]]],[3,[[1,14],[7,[[4,3],18]],[13,14]]],[4,[[7,5]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "rocket_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3209246241",
 		"name": "Roland",
 		"by": "Patrick Becker",
@@ -13026,6 +15158,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "3918587104",
+		"name": "Roman Arena",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[4,[[3,12]]]]],[1,[[3,[[3,12]]],[5,[[3,12]]]]],[2,[[2,[[2,13]]],[4,[2,14,26]],[6,[[2,13]]]]],[3,[[1,[[1,14]]],[3,[1,[13,2],27]],[5,[1,[13,2],27]],[7,[[1,14]]]]],[4,[[0,[[0,15]]],[2,[0,12,16,28]],[4,[0,[12,3],28]],[6,[0,12,16,28]],[8,[[0,15]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "roman_arena_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2693517433",
 		"name": "Rook",
 		"by": "Ernie Polegato",
@@ -13057,10 +15202,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[0,[13,5],[24,3]]],[2,[[1,2],[12,4],24]],[4,[[2,8],[22,4]]],[5,20],[6,[[0,3],[8,6],[22,2],28]],[7,20],[8,[3,[10,5],[22,2]]],[9,26],[10,[[10,2],[16,2]]],[11,[[26,2]]],[12,[[8,2],[16,2]]],[14,[[4,3],[18,2]]]]],[1,[[0,[[14,4],[25,2]]],[2,[2,[13,3],24]],[4,[[2,2],[10,4],[22,2]]],[5,[8,28]],[6,[[2,2],[10,8]]],[8,[[10,5],[22,2]]],[10,26],[12,[9,17]],[14,[[5,2],19]]]],[2,[[0,[[15,3]]],[2,[[14,2]]],[3,24],[4,[[2,2],[12,2]]],[5,[10,16,[22,2]]],[6,[[2,2],[12,2]]],[7,[10,[16,2],[22,2]]],[8,[[12,2]]],[14,6]]],[3,[[5,[3,[12,2]]],[6,[16,23]],[7,[[12,2]]]]],[4,[[6,13]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "rooster",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "129836694",
+		"name": "Rooster",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[13,5],[24,3]]],[2,[[1,2],[12,4],24]],[4,[[2,8],[22,4]]],[5,20],[6,[[0,3],[8,6],[22,2],28]],[7,20],[8,[3,[10,5],[22,2]]],[9,26],[10,[[10,2],[16,2]]],[11,[[26,2]]],[12,[[8,2],[16,2]]],[14,[[4,3],[18,2]]]]],[1,[[0,[[14,4],[25,2]]],[2,[2,[13,3],24]],[4,[[2,2],[10,4],[22,2]]],[5,[8,28]],[6,[[2,2],[10,8]]],[8,[[10,5],[22,2]]],[10,26],[12,[9,17]],[14,[[5,2],19]]]],[2,[[0,[[15,3]]],[2,[[14,2]]],[3,24],[4,[[2,2],[12,2]]],[5,[10,16,[22,2]]],[6,[[2,2],[12,2]]],[7,[10,[16,2],[22,2]]],[8,[[12,2]]],[14,6]]],[3,[[5,[3,[12,2]]],[6,[16,23]],[7,[[12,2]]]]],[4,[[6,13]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/rooster",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "rooster",
+		"filename": "rooster_2",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -13089,6 +15247,19 @@ export const data = [
 		"filename": "rugby_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "750091527",
+		"name": "Rugby",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,9]]],[2,[[4,11]]],[4,[[2,13]]],[5,[0,28]],[6,[[2,13]]],[7,[0,28]],[8,[[2,13]]],[10,[[4,11]]],[12,[[6,9]]]]],[1,[[1,[[10,5]]],[3,[[8,7]]],[5,[[6,9]]],[7,[[6,9]]],[9,[[8,7]]],[11,[[10,5]]]]],[2,[[3,[[13,2]]],[5,[[10,5]]],[7,[[10,5]]],[9,[[13,2]]]]],[3,[[4,14],[6,[[12,3]]],[8,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "rugby_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1341718890",
@@ -13416,6 +15587,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "4253132997",
+		"name": "Scorpion",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,21],[1,[[2,4]]],[2,[0,[23,2]]],[3,[[6,3]]],[4,[14,18,[24,2]]],[5,[[0,6]]],[6,[[12,8]]],[7,10],[8,[8,[12,8]]],[9,10],[10,[[12,7]]],[11,[[0,6]]],[12,[14,18,22]],[13,[[6,3]]],[14,0],[15,[[2,4]]]]],[1,[[1,[[3,3],22]],[2,[1,24]],[3,7],[4,25],[5,[[1,5],14,18]],[6,[12,16,20,[24,2]]],[7,[10,14,18,22]],[8,[8,12,16,20,[24,2]]],[9,[10,14,18,22]],[10,[12,16,20,24]],[11,[[1,5],14,18,22]],[13,7],[14,1],[15,[[3,3]]]]],[2,[[6,[[12,5]]],[7,[10,24]],[8,[8,[12,6]]],[9,[10,24]],[10,[[12,5]]]]],[3,[[7,[[14,3]]],[8,[12,20]],[9,[[14,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "scorpion_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1808417696",
 		"name": "Screw Up",
 		"by": "Naoki Haga",
@@ -13442,6 +15626,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1808417696",
+		"name": "Screw Up",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,3]]],[1,[6,14]],[2,[4,[8,3],16]],[3,[6,14]],[4,[[2,2],[10,2],[16,2]]],[5,[6,14]],[6,[[2,2],[10,2],[16,2]]],[7,[6,14]],[8,[[2,2],[8,2],[16,2]]],[9,[6,14]],[10,[[2,2],[8,2],[16,2]]],[11,[6,14]],[12,[4,[8,3],16]],[13,[6,14]],[14,[[8,3]]]]],[1,[[0,[[8,3]]],[1,[6,14]],[2,[4,[8,3],16]],[3,[6,14]],[4,[[2,2],[16,2]]],[5,[6,11,14]],[6,[[2,2],[16,2]]],[7,[6,10,14]],[8,[[2,2],[16,2]]],[9,[6,9,14]],[10,[[2,2],[16,2]]],[11,[6,14]],[12,[4,[8,3],16]],[13,[6,14]],[14,[[8,3]]]]],[2,[[0,[[8,3]]],[2,[4,16]],[4,[[2,2],[16,2]]],[5,11],[6,[[2,2],[16,2]]],[7,10],[8,[[2,2],[16,2]]],[9,9],[10,[[2,2],[16,2]]],[12,[4,16]],[14,[[8,3]]]]],[3,[[5,[1,19]],[7,[1,19]],[9,[1,19]]]],[4,[[5,[0,20]],[7,[0,20]],[9,[0,20]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "screw_up_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "440450612",
 		"name": "Seven",
 		"by": "Bolli",
@@ -13466,6 +15663,19 @@ export const data = [
 		"filename": "seven_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "440450612",
+		"name": "Seven",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[4,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[6,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[8,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[10,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[12,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[14,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[16,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]]]],[1,[[2,16],[4,[11,21]],[6,[6,16,26]],[8,[1,11,21,31]],[10,[6,16,26]],[12,[11,21]],[14,16]]],[2,[[6,16],[10,16]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "seven_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4096347333",
@@ -13520,6 +15730,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1882729133",
+		"name": "Seven Pyramids",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[14,2],[24,4]]],[2,[[0,4],[14,2],[24,4]]],[4,[[0,4],[24,4]]],[6,[[0,4],[13,3],[24,4]]],[8,[[13,3]]],[10,[[0,4],[13,3],[24,4]]],[12,[[0,4],[24,4]]],[14,[[0,4],[14,2],[24,4]]],[16,[[0,4],[14,2],[24,4]]]]],[1,[[1,[[1,3],15,[25,3]]],[3,[[1,3],[25,3]]],[5,[[1,3],[25,3]]],[7,[[14,2]]],[9,[[14,2]]],[11,[[1,3],[25,3]]],[13,[[1,3],[25,3]]],[15,[[1,3],15,[25,3]]]]],[2,[[2,[[2,2],[26,2]]],[4,[[2,2],[26,2]]],[8,15],[12,[[2,2],[26,2]]],[14,[[2,2],[26,2]]]]],[3,[[3,[3,27]],[13,[3,27]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "seven_pyramids_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1564310151",
 		"name": "Shapeshifter",
 		"by": "Leonard Enos",
@@ -13544,6 +15767,19 @@ export const data = [
 		"filename": "shapeshifter_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1564310151",
+		"name": "Shapeshifter",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,7]]],[2,[12,16]],[3,14],[4,[10,18]],[5,[12,16]],[6,[8,14,20]],[7,[10,18]],[8,[6,12,16,22]],[9,[8,20]],[10,[4,10,14,18,24]],[11,[6,22]],[12,[2,8,12,16,20,26]],[13,[4,24]],[14,[[0,2],[6,9],[26,2]]],[15,[4,24]]]],[1,[[0,[[9,6]]],[2,14],[4,[12,16]],[5,14],[6,[10,18]],[7,[12,16]],[8,[8,20]],[9,[10,14,18]],[10,[6,22]],[11,[8,12,16,20]],[12,[4,24]],[13,[2,6,10,14,18,22,26]],[14,[4,8,12,16,20,24]],[15,[6,10,14,18,22]]]],[2,[[0,[[10,5]]],[4,14],[6,[[12,3]]],[7,[10,18]],[8,[[12,3]]],[9,[8,20]],[10,[[10,5]]],[12,[6,10,14,18,22]],[13,[8,12,16,20]]]],[3,[[0,[[11,4]]],[6,[[13,2]]],[8,[[13,2]]],[10,[[13,2]]]]],[4,[[0,14],[6,14],[8,14],[10,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "shapeshifter_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2224463725",
@@ -13624,6 +15860,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
+		"id": "3183980309",
+		"name": "Shield",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8],23]],[2,[[0,8],23]],[4,[[0,8],23]],[6,[[1,7],23]],[8,[[2,6],23]],[9,[19,27]],[10,[[4,4],[21,3]]],[12,[[6,2],23]],[14,[7,23]]]],[1,[[1,[[2,6]]],[2,23],[3,[[2,6]]],[4,23],[5,[[2,6]]],[6,23],[7,[[3,5]]],[8,23],[9,[[4,4],19,27]],[10,[[21,3]]],[11,[[6,2]]],[12,23],[14,23]]],[2,[[1,[[3,5]]],[3,[[3,5]]],[4,23],[5,[[4,4]]],[6,23],[7,[[5,3]]],[8,23],[9,[[6,2],19,27]],[10,23],[11,7],[12,23],[14,23]]],[3,[[2,[[5,3]]],[4,[[5,3]]],[6,[[6,2],23]],[8,[7,23]],[9,[19,27]],[10,23],[14,23]]],[4,[[3,7],[5,7],[9,[19,27]],[10,23]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "shield_5",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2187429792",
 		"name": "Siam",
 		"by": "Naoki Haga",
@@ -13648,6 +15897,19 @@ export const data = [
 		"filename": "siam_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2187429792",
+		"name": "Siam",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,25]],[1,[3,7,23,27]],[3,[[2,4],13,17,[22,4]]],[4,[11,19]],[5,[[1,5],[21,5]]],[7,[[0,16]]],[9,[[1,5],[21,5]]],[10,[11,19]],[11,[[2,4],13,17,[22,4]]],[13,[3,7,23,27]],[14,[5,25]]]],[1,[[3,[[3,3],[23,3]]],[5,[[2,4],[22,4]]],[7,[[1,15]]],[9,[[2,4],[22,4]]],[11,[[3,3],[23,3]]]]],[2,[[3,[[4,2],[24,2]]],[5,[[3,3],[23,3]]],[7,[[2,4],15,[22,4]]],[9,[[3,3],[23,3]]],[11,[[4,2],[24,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "siam_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2018576025",
@@ -13772,10 +16034,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[7,2],[19,2]]],[2,[[4,5],[16,5]]],[4,[[3,2],[10,2],[16,2],[22,2]]],[6,[[0,3],[10,2],[16,2],[22,2]]],[8,[[0,2],[8,3],[16,2],[22,2]]],[9,[[26,2]]],[10,[[8,6],[22,2]]],[12,[[8,6]]],[14,[[10,4]]]]],[1,[[0,[[7,2],[19,2]]],[2,[[4,5],[16,5]]],[4,[[3,2],[10,2],[16,2],[22,2]]],[6,[[0,3],[10,2],[16,2],[22,2]]],[8,[[0,2],[8,3],[16,2],[22,2]]],[9,26],[10,[[8,6],[22,2]]],[12,[[8,6]]],[14,[[11,3]]]]],[2,[[4,[11,17]],[6,[11,17]],[7,1],[8,[11,17]],[10,[[8,6]]],[12,[[8,6]]],[14,[[12,2]]]]],[3,[[11,[[9,5]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "snake_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "842846075",
+		"name": "Snake",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[7,2],[19,2]]],[2,[[4,5],[16,5]]],[4,[[3,2],[10,2],[16,2],[22,2]]],[6,[[0,3],[10,2],[16,2],[22,2]]],[8,[[0,2],[8,3],[16,2],[22,2]]],[9,[[26,2]]],[10,[[8,6],[22,2]]],[12,[[8,6]]],[14,[[10,4]]]]],[1,[[0,[[7,2],[19,2]]],[2,[[4,5],[16,5]]],[4,[[3,2],[10,2],[16,2],[22,2]]],[6,[[0,3],[10,2],[16,2],[22,2]]],[8,[[0,2],[8,3],[16,2],[22,2]]],[9,26],[10,[[8,6],[22,2]]],[12,[[8,6]]],[14,[[11,3]]]]],[2,[[4,[11,17]],[6,[11,17]],[7,1],[8,[11,17]],[10,[[8,6]]],[12,[[8,6]]],[14,[[12,2]]]]],[3,[[11,[[9,5]]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/snake",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "snake_2",
+		"filename": "snake_3",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -13791,6 +16066,19 @@ export const data = [
 		"filename": "south_wind",
 		"path": "phantagia/eplayouts/eporacle01",
 		"collection": "Phantagia - Package A - Mahjong"
+	},
+	{
+		"id": "667736988",
+		"name": "Space Bridge",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[0,22]],[4,[0,22]],[5,[9,15]],[6,[0,22]],[7,[[11,2]]],[8,[0,22]],[9,[[11,2]]],[10,[0,22]],[11,[9,15]],[12,[0,22]],[14,[0,22]],[16,[[0,12]]]]],[1,[[1,[[1,11]]],[3,[1,21]],[5,[1,21]],[6,[10,14]],[7,[1,21]],[8,12],[9,[1,21]],[10,[10,14]],[11,[1,21]],[13,[1,21]],[15,[[1,11]]]]],[2,[[2,[[2,10]]],[4,[2,20]],[6,[2,20]],[7,[[11,2]]],[8,[2,20]],[9,[[11,2]]],[10,[2,20]],[12,[2,20]],[14,[[2,10]]]]],[3,[[3,[[3,2],11,[17,2]]],[5,[3,19]],[8,[3,12,19]],[11,[3,19]],[13,[[3,2],11,[17,2]]]]],[4,[[4,[4,11,18]],[8,[4,18]],[12,[4,11,18]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "space_bridge",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3175810889",
@@ -13843,6 +16131,19 @@ export const data = [
 		"filename": "space_shuttle_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3447400928",
+		"name": "Space Shuttle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,3]]],[2,[[6,5]]],[4,[[4,7]]],[6,[[4,7]]],[8,[[2,9]]],[10,[[2,9]]],[11,[0,20]],[12,[[2,9]]],[13,[0,20]]]],[1,[[0,[[8,3]]],[2,[[6,5]]],[4,[[6,5]]],[6,[[4,7]]],[8,[[4,7]]],[10,[[2,9]]],[12,[[2,9]]]]],[2,[[0,10],[2,[[8,3]]],[4,[[8,3]]],[6,[[6,5]]],[8,[[6,5]]],[10,[[6,5]]],[12,[[6,5]]]]],[3,[[2,10],[4,10],[6,[[8,3]]],[8,[[8,3]]],[10,[[8,3]]],[12,[[8,3]]]]],[4,[[4,10],[6,10],[8,10],[10,10],[12,10]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "space_shuttle_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1729114828",
@@ -13923,6 +16224,32 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "2001145514",
+		"name": "Spider",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[24,2]]],[1,[8,13,17,22]],[3,[[8,2],[14,2],[20,2]]],[4,[0,30]],[5,[2,[11,5],28]],[6,[4,26]],[7,[[6,10]]],[9,[[11,5]]],[11,[[2,14]]],[13,[[12,4]]],[14,[10,20]],[15,[8,[12,4],22]],[16,[[2,3],[24,3]]],[17,[[14,2]]],[19,15]]],[1,[[0,[[4,2],[24,2]]],[1,[8,13,17,22]],[3,[[8,2],[20,2]]],[4,15],[5,[2,28]],[6,[4,[12,4],26]],[7,[[6,3],[20,3]]],[8,[[12,4]]],[10,[[12,4]]],[11,[[4,4],[20,4]]],[12,[[14,2]]],[13,[12,18]],[14,[10,[14,2],20]],[15,[8,22]],[16,[[4,2],15,[24,2]]]]],[2,[[7,[[14,2]]],[9,[[13,3]]],[11,[[13,3]]],[13,[[14,2]]]]],[3,[[10,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "spider_4",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3962791623",
+		"name": "Spider",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,6],14,[18,6]]],[2,[[8,7]]],[4,[[2,13]]],[6,[[8,7]]],[8,[[4,11]]],[10,[[8,7]]],[12,[[3,12]]]]],[1,[[0,[[0,3],[24,3]]],[2,[[10,6]]],[4,[[2,2],[8,7],[24,2]]],[6,[[8,7]]],[8,[4,[9,5],24]],[10,[[11,4]]],[12,[[3,2],[12,3],[23,2]]]]],[2,[[0,[[0,2],[26,2]]],[2,14],[4,[2,[10,5],26]],[6,[[12,3]]],[8,[[12,3]]],[10,14],[12,[3,25]]]],[3,[[3,14],[5,[[13,2]]],[7,14]]],[4,[[5,14]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#SPIDER.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "spider_5",
+		"path": "solitile",
+		"collection": "Solitile"
+	},
+	{
 		"id": "316100047",
 		"name": "Spiral",
 		"by": "Tsubassa Kurenai",
@@ -13975,6 +16302,19 @@ export const data = [
 		"collection": "Kyodai Extras"
 	},
 	{
+		"id": "2770588367",
+		"name": "Square",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,6]]],[2,[[0,6]]],[4,[[0,6]]],[6,[[0,6]]],[8,[[0,6]]],[10,[[0,6]]]]],[1,[[0,[[0,6]]],[2,[[0,6]]],[4,[[0,6]]],[6,[[0,6]]],[8,[[0,6]]],[10,[[0,6]]]]],[2,[[0,[[0,6]]],[2,[[0,6]]],[4,[[0,6]]],[6,[[0,6]]],[8,[[0,6]]],[10,[[0,6]]]]],[3,[[0,[[0,6]]],[2,[[0,6]]],[4,[[0,6]]],[6,[[0,6]]],[8,[[0,6]]],[10,[[0,6]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "square_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "197651226",
 		"name": "Squares",
 		"by": "Alexey Charkov",
@@ -13999,6 +16339,19 @@ export const data = [
 		"filename": "squares_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "197651226",
+		"name": "Squares",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,11]]],[2,[0,20]],[3,[[3,8]]],[4,[0,20]],[5,[3,17]],[6,[0,[6,5],20]],[7,[3,17]],[8,[0,[6,5],20]],[9,[3,17]],[10,[0,20]],[11,[[3,8]]],[12,[0,20]],[14,[[0,11]]]]],[1,[[0,[[0,11]]],[3,[3,[8,3],17]],[5,[3,17]],[6,[[6,5]]],[7,[3,17]],[8,[[6,5]]],[9,[3,17]],[11,[3,[8,3],17]],[14,[[0,11]]]]],[2,[[0,[0,4,8,12,16,20]],[3,[3,10,17]],[6,[[8,3]]],[7,[3,17]],[8,[[8,3]]],[11,[3,10,17]],[14,[0,4,8,12,16,20]]]],[3,[[6,[[9,2]]],[8,[[9,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "squares_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2113918525",
@@ -14027,6 +16380,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "2113918525",
+		"name": "Squaring",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[8,3],[16,3],[24,3]]],[2,[0,4,[8,3],16,20,[24,3]]],[4,[[0,3],[8,3],[16,3],[24,3]]],[7,[[0,3],[8,3],[16,3],[24,3]]],[9,[[0,3],8,12,[16,3],24,28]],[11,[[0,3],[8,3],[16,3],[24,3]]]]],[1,[[0,[0,4,8,12,16,20,24,28]],[2,[10,26]],[4,[0,4,8,12,16,20,24,28]],[7,[0,4,8,12,16,20,24,28]],[9,[2,18]],[11,[0,4,8,12,16,20,24,28]]]],[2,[[0,[0,4,8,12,16,20,24,28]],[2,[10,26]],[4,[0,4,8,12,16,20,24,28]],[7,[0,4,8,12,16,20,24,28]],[9,[2,18]],[11,[0,4,8,12,16,20,24,28]]]],[3,[[2,[10,26]],[9,[2,18]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "squaring_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3809320809",
 		"name": "Stadion",
 		"by": "Alexey Charkov",
@@ -14051,6 +16417,19 @@ export const data = [
 		"filename": "stadion_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "54898294",
+		"name": "Stadium",
+		"by": "Nels Anderson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,10]]],[2,[[0,12]]],[4,[[0,4],[16,4]]],[6,[[0,3],[18,3]]],[8,[[0,3],[18,3]]],[10,[[0,4],[16,4]]],[12,[[0,12]]],[14,[[2,10]]]]],[1,[[0,[[2,10]]],[2,[[0,3],[18,3]]],[4,[[0,3],[18,3]]],[6,[[0,2],[20,2]]],[8,[[0,2],[20,2]]],[10,[[0,3],[18,3]]],[12,[[0,3],[18,3]]],[14,[[4,8]]]]],[2,[[0,[8,14]],[2,[[0,2],[20,2]]],[4,[[0,2],[20,2]]],[6,[0,22]],[8,[0,22]],[10,[[0,2],[20,2]]],[12,[[0,2],[20,2]]]]]]",
+		"source": "https://archive.org/download/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993/Mahjongg.zip#STADIUM.BRD",
+		"site": "https://archive.org/details/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993",
+		"solvable": true,
+		"filename": "stadium",
+		"path": "mahjongg-dos",
+		"collection": "Mah Jongg"
 	},
 	{
 		"id": "2752531207",
@@ -14079,6 +16458,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2752531207",
+		"name": "Stage 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,6]]],[2,[[2,8]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[2,8]]],[12,[[4,6]]]]],[1,[[2,[[4,6]]],[4,[[2,8]]],[6,[[0,10]]],[8,[[2,8]]],[10,[[4,6]]]]],[2,[[2,[[6,4]]],[4,[[4,6]]],[6,[[2,8]]],[8,[[4,6]]],[10,[[6,4]]]]],[3,[[2,[[8,2]]],[4,[[6,4]]],[5,[4,14]],[6,[[6,4]]],[7,[4,14]],[8,[[6,4]]],[10,[[8,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "stage_1_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1383888312",
 		"name": "Stage 2",
 		"by": "MinderTech",
@@ -14103,6 +16495,19 @@ export const data = [
 		"filename": "stage_2_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1383888312",
+		"name": "Stage 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,6]]],[2,[[6,8]]],[4,[[2,12]]],[5,[0,26]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[6,8]]],[12,[[8,6]]]]],[1,[[0,[[10,4]]],[2,[[8,6]]],[4,[[6,8]]],[6,[[6,8]]],[8,[[6,8]]],[10,[[8,6]]],[12,[[10,4]]]]],[2,[[1,[[12,2]]],[2,[10,16]],[3,[[12,2]]],[4,[[8,2],[16,2]]],[5,[[12,2]]],[6,[[8,2],[16,2]]],[7,[[12,2]]],[8,[[8,2],[16,2]]],[9,[[12,2]]],[10,[10,16]],[11,[[12,2]]]]],[3,[[5,[[12,2]]],[7,[[12,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "stage_2_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2008479602",
@@ -14313,6 +16718,45 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
+		"id": "3924234198",
+		"name": "Stairs 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[4,24]],[2,[[0,2],[6,9],[26,2]]],[3,[4,24]],[4,[0,8,14,20,28]],[5,[4,24]],[6,[0,8,14,20,28]],[7,[[2,3],[10,2],[16,2],[22,3]]],[8,[0,8,14,20,28]],[9,[4,24]],[10,[0,8,14,20,28]],[11,[4,24]],[12,[[0,2],[6,9],[26,2]]],[13,[4,24]],[14,14]]],[1,[[2,[[0,3],[12,3],[24,3]]],[4,[0,28]],[5,[4,14,24]],[7,[[0,4],[12,3],[22,4]]],[9,[4,14,24]],[10,[0,28]],[12,[[0,3],[12,3],[24,3]]]]],[2,[[2,[[0,2],14,[26,2]]],[4,[0,28]],[7,[4,14,24]],[10,[0,28]],[12,[[0,2],14,[26,2]]]]],[3,[[2,[[0,2],[26,2]]],[4,[0,28]],[7,14],[10,[0,28]],[12,[[0,2],[26,2]]]]],[4,[[2,[0,28]],[7,14],[12,[0,28]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "stairs_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1466559264",
+		"name": "Stairs 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]]]],[1,[[0,[[4,7]]],[2,[[0,7]]],[4,[[4,7]]],[6,[[0,7]]],[8,[[4,7]]],[10,[[0,7]]]]],[2,[[0,[[8,5]]],[2,[[0,5]]],[4,[[8,5]]],[6,[[0,5]]],[8,[[8,5]]],[10,[[0,5]]]]],[3,[[0,[[12,3]]],[2,[[0,3]]],[4,[[12,3]]],[6,[[0,3]]],[8,[[12,3]]],[10,[[0,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "stairs_2_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2344589173",
+		"name": "Stairs 3",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,[13,2],22]],[2,[8,14,20]],[4,[0,28]],[5,[2,11,17,26]],[6,[0,4,24,28]],[7,[2,6,22,26]],[8,[0,4,8,[11,4],20,24,28]],[9,[2,6,22,26]],[10,[0,4,24,28]],[11,[2,11,17,26]],[12,[0,28]],[14,[8,14,20]],[16,[6,[13,2],22]]]],[1,[[0,[6,[13,2],22]],[4,[0,28]],[5,[2,26]],[6,[0,4,24,28]],[7,[2,6,22,26]],[8,[0,4,[12,3],24,28]],[9,[2,6,22,26]],[10,[0,4,24,28]],[11,[2,26]],[12,[0,28]],[16,[6,[13,2],22]]]],[2,[[4,[0,28]],[5,[2,26]],[6,[0,4,24,28]],[7,[2,26]],[8,[0,4,14,24,28]],[9,[2,26]],[10,[0,4,24,28]],[11,[2,26]],[12,[0,28]]]],[3,[[4,[0,28]],[5,[2,26]],[6,[0,28]],[7,[2,26]],[8,[0,28]],[9,[2,26]],[10,[0,28]],[11,[2,26]],[12,[0,28]]]],[4,[[4,[0,28]],[6,[0,28]],[8,[0,28]],[10,[0,28]],[12,[0,28]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "stairs_3_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2941966843",
 		"name": "Star",
 		"by": "Alexey Charkov",
@@ -14417,6 +16861,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "461557704",
+		"name": "Star Ship",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[0,12,16,28]],[2,[2,10,18,26]],[3,[0,8,20,28]],[4,[2,6,14,22,26]],[5,[0,4,12,16,24,28]],[6,[2,[6,3],14,[18,3],26]],[7,[0,4,12,16,24,28]],[8,[2,6,14,22,26]],[9,[0,8,20,28]],[10,[2,10,18,26]],[11,[0,12,16,28]],[12,14]]],[1,[[0,14],[1,[12,16]],[2,[0,10,18,28]],[3,[8,20]],[4,[[0,2],14,[26,2]]],[6,[[0,3],[10,5],[24,3]]],[8,[[0,2],14,[26,2]]],[9,[8,20]],[10,[0,10,18,28]],[11,[12,16]],[12,14]]],[2,[[0,14],[1,[12,16]],[2,[10,18]],[3,[0,28]],[4,14],[5,[0,28]],[6,[2,[12,3],26]],[7,[0,28]],[8,14],[9,[0,28]],[10,[10,18]],[11,[12,16]],[12,14]]],[3,[[0,14],[1,[12,16]],[4,[0,28]],[6,[[0,2],14,[26,2]]],[8,[0,28]],[11,[12,16]],[12,14]]],[4,[[0,14],[5,[0,28]],[6,[2,26]],[7,[0,28]],[12,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "star_ship_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1256216672",
 		"name": "Stargate",
 		"by": "Leonard Enos",
@@ -14441,6 +16898,32 @@ export const data = [
 		"filename": "stargate_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1256216672",
+		"name": "Stargate",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[7,7]]],[2,[5,21]],[4,[3,23]],[5,[[12,2]]],[6,[1,5,21,25]],[7,[[12,2]]],[8,[3,23]],[10,[5,21]],[12,[7,19]],[14,[9,13,17]],[16,[11,15]]]],[1,[[0,[[8,6]]],[1,[6,20]],[2,[4,22]],[4,[2,[11,3],24]],[6,[[0,2],6,11,15,20,[24,2]]],[8,[[11,3]]],[9,[2,24]],[11,[4,8,18,22]],[13,[6,20]],[15,[[8,6]]]]],[2,[[0,[[7,7]]],[2,[5,21]],[3,[3,[10,4],23]],[4,[1,25]],[5,[10,16]],[6,[[1,4],[19,4]]],[7,[10,16]],[8,[1,25]],[9,[[10,4]]],[10,[3,23]],[12,[5,21]],[14,[7,19]],[15,[[9,5]]]]],[3,[[0,[[10,4]]],[2,[[9,5]]],[4,[9,17]],[6,[[5,3],[17,3]]],[8,[9,17]],[10,[[9,5]]],[15,13]]],[4,[[0,[[11,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "stargate_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1263259548",
+		"name": "Starship",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,7],[22,2]]],[2,[[8,2],[16,7]]],[4,[[10,2],[21,2]]],[6,[[11,2],[20,2]]],[8,[[0,2],[9,8]]],[9,4],[10,[[0,2],[9,8]]],[11,[[4,2]]],[12,[[0,2]]],[13,[[4,3]]]]],[1,[[0,[[1,7],[22,2]]],[2,[[8,2],[16,7]]],[4,[[10,2],[21,2]]],[6,[[11,2],[20,2]]],[8,[[9,8]]],[10,[[0,2],[9,8]]],[11,4],[12,[[0,2]]],[13,[[4,2]]]]],[2,[[0,[[2,6]]],[2,[9,[17,6]]],[4,[11,22]],[6,[12,21]],[8,[[9,8]]],[12,[[0,2]]],[13,4]]],[3,[[0,[[3,5]]],[2,[[18,5]]]]],[4,[[2,[[20,3]]]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#STARSHIP.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "starship",
+		"path": "solitile",
+		"collection": "Solitile"
 	},
 	{
 		"id": "1495673083",
@@ -14521,6 +17004,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1136887457",
+		"name": "Steps Pyramid",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,2],[14,2]]],[6,[[0,2],[14,2]]],[8,[[0,2],[14,2]]],[10,[[0,9]]],[12,[[0,9]]]]],[1,[[1,[[1,8]]],[3,[[1,8]]],[5,[[1,2],[13,2]]],[7,[[1,2],[13,2]]],[9,[[1,8]]],[11,[[1,8]]]]],[2,[[2,[[2,7]]],[4,[[2,7]]],[6,[[2,2],[12,2]]],[8,[[2,7]]],[10,[[2,7]]]]],[3,[[2,[2,14]],[4,[[4,5]]],[6,[4,12]],[8,[[4,5]]],[10,[2,14]]]],[4,[[5,[[5,4]]],[7,[[5,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "steps_pyramid",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2279049454",
 		"name": "Stonehenge",
 		"by": "Alexis Bonvin",
@@ -14547,6 +17043,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2279049454",
+		"name": "Stonehenge",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[3,7,10,14,17,21,24,28]],[2,[0,31]],[4,[9,13,17,21]],[6,[0,31]],[7,[3,7,11,15,19,23,27]],[9,[0,31]],[10,[9,13,17,21]],[13,[0,31]],[15,[3,7,10,14,17,21,24,28]]]],[1,[[0,[3,7,10,14,17,21,24,28]],[2,[0,31]],[6,[0,31]],[7,[3,7,11,15,19,23,27]],[9,[0,31]],[13,[0,31]],[15,[3,7,10,14,17,21,24,28]]]],[2,[[0,[3,7,10,14,17,21,24,28]],[2,[0,31]],[6,[0,31]],[7,[3,7,11,15,19,23,27]],[9,[0,31]],[13,[0,31]],[15,[3,7,10,14,17,21,24,28]]]],[3,[[0,[[4,2],[11,2],[18,2],[25,2]]],[3,[0,31]],[5,[0,31]],[7,[3,7,11,15,19,23,27]],[10,[0,31]],[12,[0,31]],[15,[[4,2],[11,2],[18,2],[25,2]]]]],[4,[[7,[[4,12]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "stonehenge_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "722614844",
 		"name": "Sukis",
 		"by": "Kyodai",
@@ -14571,6 +17080,19 @@ export const data = [
 		"filename": "sukis_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "722614844",
+		"name": "Sukis",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[4,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[6,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[8,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[10,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[12,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[14,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[16,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]]]],[1,[[1,[1,6,10,16,22,26,31]],[5,[1,31]],[9,[1,31]],[13,[1,31]],[15,[6,11,16,21,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "sukis_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2126814547",
@@ -14638,6 +17160,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
+		"id": "1982003605",
+		"name": "Sun",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,[26,2]]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[[8,6]]],[4,[[8,6]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[8,6]]],[12,[[8,6]]]]],[2,[[4,[[10,4]]],[6,[[10,4]]],[8,[[10,4]]],[10,[[10,4]]]]],[3,[[6,[[12,2]]],[8,[[12,2]]]]],[4,[[7,13]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#SUN.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "sun_6",
+		"path": "solitile",
+		"collection": "Solitile"
+	},
+	{
 		"id": "3173174396",
 		"name": "Sun 2",
 		"by": "Ernie Polegato",
@@ -14662,6 +17197,19 @@ export const data = [
 		"filename": "sun_2_2",
 		"path": "phantagia/eplayouts/eplayout01",
 		"collection": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "33459067",
+		"name": "Sun And Moon",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,4],24]],[1,[4,17,27]],[2,[2,21]],[3,0],[4,[2,7,10,13,29]],[5,[0,19,26]],[6,[2,[9,2],23]],[7,[0,7,13]],[8,[2,[9,2],17,29]],[9,[0,21]],[10,[2,7,10,13,26]],[11,[0,18]],[12,[2,23]],[13,[4,27]],[14,[[6,4],20]]]],[1,[[0,[[6,3],24]],[1,[4,17,27]],[2,[2,21]],[3,0],[4,[2,7,10,13,29]],[5,[0,19,26]],[6,[2,[9,2],23]],[7,[0,7,13]],[8,[2,[9,2],17,29]],[9,[0,21]],[10,[2,7,10,13,26]],[11,[0,18]],[12,[2,23]],[13,[4,27]],[14,[[6,3],20]]]],[2,[[0,[[6,2]]],[1,4],[2,2],[3,0],[4,[2,7,10,13]],[5,0],[6,[2,[9,2]]],[7,[0,7,13]],[8,[2,[9,2]]],[9,0],[10,[2,7,10,13]],[11,0],[12,2],[13,4],[14,[[6,2]]]]],[3,[[0,6],[1,4],[2,2],[4,[[0,2]]],[6,[[0,2],[9,2]]],[8,[[0,2],[9,2]]],[10,[[0,2]]],[12,2],[13,4],[14,6]]],[4,[[7,10]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "sun_and_moon",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "33459067",
@@ -14872,6 +17420,19 @@ export const data = [
 		"collection": "GNOME Mahjongg"
 	},
 	{
+		"id": "887863144",
+		"name": "Taipei",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,5]]],[1,[[1,2],[17,2]]],[2,[[5,6]]],[3,[[1,2],[17,2]]],[4,[[6,5]]],[5,[[2,2],[16,2]]],[6,[0,[6,5],20]],[7,[[2,2],[16,2]]],[8,[[6,5]]],[9,[[1,2],[17,2]]],[10,[[5,6]]],[11,[[1,2],[17,2]]],[12,[[6,5]]]]],[1,[[0,[7,13]],[1,[[9,2]]],[2,[[2,3],[14,3]]],[3,[[8,3]]],[4,[[3,2],[15,2]]],[5,[[7,4]]],[6,[[3,2],[15,2]]],[7,[[7,4]]],[8,[[3,2],[15,2]]],[9,[[8,3]]],[10,[[2,3],[14,3]]],[11,[[9,2]]],[12,[7,13]]]],[2,[[4,[[5,6]]],[6,[[4,7]]],[8,[[5,6]]]]],[3,[[5,[[7,4]]],[6,[5,15]],[7,[[7,4]]]]],[4,[[6,[[8,3]]]]],[5,[[6,[[9,2]]]]],[6,[[6,10]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "taipei_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1916363969",
 		"name": "Tarot Celtic Cross",
 		"by": "MyKyodai",
@@ -15015,6 +17576,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
+		"id": "1687553709",
+		"name": "Temple",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,2],[20,3]]],[2,[[6,12]]],[4,[[18,5]]],[6,[[0,15]]],[8,[[0,15]]],[10,[[18,5]]],[12,[[6,12]]],[14,[[8,2],[20,3]]]]],[1,[[0,[8,22]],[2,[8,[12,7],28]],[4,[[20,4]]],[6,[2,[6,11]]],[8,[2,[6,11]]],[10,[[20,4]]],[12,[8,[12,7],28]],[14,[8,22]]]],[2,[[0,[8,22]],[2,28],[4,22],[6,[[18,2]]],[8,[[18,2]]],[10,22],[12,28],[14,[8,22]]]],[3,[[4,22],[6,20],[8,20],[10,22]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#TEMPLE.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "temple_7",
+		"path": "solitile",
+		"collection": "Solitile"
+	},
+	{
 		"id": "2830280886",
 		"name": "Temple 1",
 		"by": "MinderTech",
@@ -15039,6 +17613,19 @@ export const data = [
 		"filename": "temple_1_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2188780762",
+		"name": "Temple 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,4],15,[20,4]]],[2,[2,28]],[3,[[7,2],[21,2]]],[4,[[0,2],11,19,[28,2]]],[5,[13,17]],[6,[[0,2],7,15,[28,2]]],[7,[13,17]],[8,[[0,2],11,19,[28,2]]],[9,[[7,2],[21,2]]],[10,[2,28]],[12,[[4,4],15,[20,4]]]]],[1,[[0,[[5,3],15,[21,3]]],[3,[2,8,22,28]],[4,[10,20]],[5,[[0,2],[12,4],[28,2]]],[7,[[0,2],[12,4],[28,2]]],[8,[10,20]],[9,[2,8,22,28]],[12,[[5,3],15,[21,3]]]]],[2,[[0,[[6,2],[22,2]]],[4,[2,9,21,28]],[5,[11,19]],[6,[[0,2],[13,3],[28,2]]],[7,[11,19]],[8,[2,9,21,28]],[12,[[6,2],[22,2]]]]],[3,[[0,[7,23]],[5,[2,10,20,28]],[6,[[12,4]]],[7,[2,10,20,28]],[12,[7,23]]]],[4,[[6,[2,[11,5],28]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "temple_1_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3168926235",
@@ -15093,6 +17680,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
+		"id": "2585994950",
+		"name": "Temple 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[11,5],[26,3]]],[2,[[0,2],[11,5],[28,2]]],[3,[9,21]],[4,[0,[11,5],30]],[5,[[5,3],[21,3]]],[6,[[11,5]]],[7,[[3,4],[21,4]]],[8,[[11,5]]],[9,[[5,3],[21,3]]],[10,[0,[11,5],30]],[11,[9,21]],[12,[[0,2],[11,5],[28,2]]],[14,[[0,3],[11,5],[26,3]]]]],[1,[[0,[0,30]],[2,[[13,3]]],[4,[[11,5]]],[6,[[7,9]]],[8,[[7,9]]],[10,[[11,5]]],[12,[[13,3]]],[14,[0,30]]]],[2,[[4,[[14,2]]],[6,[[10,6]]],[8,[[10,6]]],[10,[[14,2]]]]],[3,[[6,15],[8,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "temple_2_5",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "3457932158",
 		"name": "Temple 3",
 		"by": "Ernie Polegato",
@@ -15106,6 +17706,19 @@ export const data = [
 		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
+		"id": "2830280886",
+		"name": "Temple 3",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[1,11]]],[4,[[0,12]]],[6,[[1,11]]],[8,[[0,12]]]]],[1,[[1,[[2,10]]],[3,[[1,11]]],[5,[[2,10]]],[7,[[1,11]]]]],[2,[[2,[[2,10]]],[4,[[3,9]]],[6,[[2,10]]]]],[3,[[3,[[7,5]]],[4,[5,17]],[5,[[7,5]]]]],[4,[[4,[[9,3]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "temple_3_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1452669287",
 		"name": "Temple 4",
 		"by": "Ernie Polegato",
@@ -15117,6 +17730,19 @@ export const data = [
 		"filename": "temple_4_2",
 		"path": "phantagia/eplayouts/eplayout05",
 		"collection": "Phantagia - Package A - Package 05"
+	},
+	{
+		"id": "3168926235",
+		"name": "Temple 4",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,10]]],[2,[[0,10]]],[4,[[1,10]]],[6,[[0,10]]],[8,[[1,10]]],[10,[[0,10]]]]],[1,[[1,[[1,9]]],[3,[[2,9]]],[5,[[1,9]]],[7,[[2,9]]],[9,[[1,9]]]]],[2,[[2,[[2,8]]],[4,[[3,8]]],[6,[[2,8]]],[8,[[3,8]]]]],[3,[[4,[[7,3]]],[6,[[6,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "temple_4_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3574916435",
@@ -15169,6 +17795,19 @@ export const data = [
 		"filename": "teotihucan_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3293616003",
+		"name": "Teotihucan",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[0,18]],[4,[0,18]],[6,[0,6,10,14,18]],[8,[0,6,10,14,18]],[10,[0,18]],[12,[0,18]],[14,[[0,10]]],[16,9]]],[1,[[1,[[1,9]]],[3,[1,17]],[5,[1,17]],[6,[6,10,14]],[7,[1,17]],[8,[6,10,14]],[9,[1,17]],[11,[1,17]],[13,[[1,9]]],[15,9]]],[2,[[2,[[2,8]]],[4,[2,16]],[6,[2,6,10,[14,2]]],[8,[2,6,10,[14,2]]],[10,[2,16]],[12,[[2,8]]],[14,9]]],[3,[[3,[[3,7]]],[5,[[3,7]]],[7,[[3,7]]],[9,[[3,7]]],[11,[[3,7]]],[13,9]]],[4,[[7,[5,9,13]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "teotihucan_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1050860479",
@@ -15288,6 +17927,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "1658189337",
+		"name": "The Door",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,3]]],[2,[[8,7]]],[4,[[6,2],[20,2]]],[6,[[4,3],[20,3]]],[8,[[4,3],[20,3]]],[10,[[2,5],[18,5]]],[12,[[0,6],[18,6]]],[14,[[0,6],[18,6]]]]],[1,[[2,[[8,7]]],[4,[8,20]],[6,[8,20]],[8,[[6,2],[20,2]]],[10,[[6,2],[20,2]]],[12,[[4,3],[20,3]]],[14,[[2,4],[20,4]]]]],[2,[[2,[[8,7]]],[4,[8,20]],[6,[8,20]],[8,[8,20]],[10,[[6,2],[20,2]]],[12,[[6,2],[20,2]]],[14,[[6,2],[20,2]]]]],[3,[[2,[[8,7]]],[4,[8,20]],[6,[8,20]],[8,[8,20]],[10,[8,20]],[12,[8,20]],[14,[8,20]]]],[4,[[2,[[8,7]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "the_door_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1559941241",
 		"name": "The Great Wall",
 		"by": "Kyodai",
@@ -15312,6 +17964,19 @@ export const data = [
 		"filename": "the_great_wall_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "1559941241",
+		"name": "The Great Wall",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,16]]],[2,[[0,16]]],[4,[[0,16]]],[6,[[0,16]]],[8,[[0,16]]],[10,[[0,16]]],[12,[[0,16]]],[14,[[0,16]]],[16,[[0,16]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "the_great_wall_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1614323479",
@@ -15449,10 +18114,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,5],12,[16,5]]],[2,[[0,4],[10,3],[18,4]]],[4,[[0,3],[8,5],[20,3]]],[6,[[0,2],[6,7],[22,2]]],[8,[[0,3],[8,5],[20,3]]],[10,[[0,4],[10,3],[18,4]]],[12,[[0,5],12,[16,5]]]]],[1,[[0,[[0,4],[18,4]]],[2,[[0,3],12,[20,3]]],[4,[[0,2],[10,3],[22,2]]],[6,[0,12,24]],[8,[[0,2],[10,3],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],[18,4]]]]],[2,[[0,[[2,2],[20,2]]],[2,[[0,2],[22,2]]],[4,[0,24]],[8,[0,24]],[10,[[0,2],[22,2]]],[12,[[2,2],[20,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "theater_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3397480659",
+		"name": "Theater",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],12,[16,5]]],[2,[[0,4],[10,3],[18,4]]],[4,[[0,3],[8,5],[20,3]]],[6,[[0,2],[6,7],[22,2]]],[8,[[0,3],[8,5],[20,3]]],[10,[[0,4],[10,3],[18,4]]],[12,[[0,5],12,[16,5]]]]],[1,[[0,[[0,4],[18,4]]],[2,[[0,3],12,[20,3]]],[4,[[0,2],[10,3],[22,2]]],[6,[0,12,24]],[8,[[0,2],[10,3],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],[18,4]]]]],[2,[[0,[[2,2],[20,2]]],[2,[[0,2],[22,2]]],[4,[0,24]],[8,[0,24]],[10,[[0,2],[22,2]]],[12,[[2,2],[20,2]]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/theater",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "theater_3",
+		"filename": "theater_4",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -15605,10 +18283,23 @@ export const data = [
 		"by": "Unknown",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,2]]],[1,[[4,3],[20,5]]],[2,[[0,2]]],[3,[[8,2],[18,2]]],[4,[[12,3]]],[5,[[8,2],18]],[6,[[4,2],[12,3],24,28]],[7,[[8,2],[18,2]]],[8,[[4,2],[12,3],22,26]],[9,[[8,2],18]],[10,[[12,3]]],[11,[[8,2],[18,2]]],[12,[[0,2]]],[13,[[4,3],[20,5]]],[14,[[0,2]]]]],[1,[[0,[[0,2]]],[1,[[4,2],[20,5]]],[2,[[0,2]]],[3,[8,[18,2]]],[4,[[10,4]]],[5,[8,18]],[6,[6,[10,4],24,28]],[7,[4,8,[18,2]]],[8,[6,[10,4],22,26]],[9,[8,18]],[10,[[10,4]]],[11,[8,[18,2]]],[12,[[0,2]]],[13,[[4,2],[20,5]]],[14,[[0,2]]]]],[2,[[5,[[8,6]]],[7,[[8,6]]],[9,[[8,6]]]]],[3,[[5,[12,18]],[7,[10,16]],[9,[8,14]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "tiger_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2352411231",
+		"name": "Tiger",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2]]],[1,[[4,3],[20,5]]],[2,[[0,2]]],[3,[[8,2],[18,2]]],[4,[[12,3]]],[5,[[8,2],18]],[6,[[4,2],[12,3],24,28]],[7,[[8,2],[18,2]]],[8,[[4,2],[12,3],22,26]],[9,[[8,2],18]],[10,[[12,3]]],[11,[[8,2],[18,2]]],[12,[[0,2]]],[13,[[4,3],[20,5]]],[14,[[0,2]]]]],[1,[[0,[[0,2]]],[1,[[4,2],[20,5]]],[2,[[0,2]]],[3,[8,[18,2]]],[4,[[10,4]]],[5,[8,18]],[6,[6,[10,4],24,28]],[7,[4,8,[18,2]]],[8,[6,[10,4],22,26]],[9,[8,18]],[10,[[10,4]]],[11,[8,[18,2]]],[12,[[0,2]]],[13,[[4,2],[20,5]]],[14,[[0,2]]]]],[2,[[5,[[8,6]]],[7,[[8,6]]],[9,[[8,6]]]]],[3,[[5,[12,18]],[7,[10,16]],[9,[8,14]]]]]",
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/tiger",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "tiger_2",
+		"filename": "tiger_3",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -15637,6 +18328,19 @@ export const data = [
 		"filename": "tile_fighter_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "4016260910",
+		"name": "Tile Fighter",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,2],[19,2]]],[2,[[2,2],[10,4],[22,2]]],[4,[[0,2],[8,6],[24,2]]],[6,[0,[8,6],26]],[7,[[2,3],[20,3]]],[8,[0,[8,6],26]],[10,[[0,2],[8,6],[24,2]]],[12,[[2,2],[10,4],[22,2]]],[14,[[5,2],[19,2]]]]],[1,[[0,[5,21]],[2,[[2,2],[12,2],[22,2]]],[4,[[0,2],[10,4],[24,2]]],[6,[0,[8,2],[16,2],26]],[7,[2,13,24]],[8,[0,[8,2],[16,2],26]],[10,[[0,2],[10,4],[24,2]]],[12,[[2,2],[12,2],[22,2]]],[14,[5,21]]]],[2,[[2,[2,24]],[4,[2,13,24]],[5,[0,26]],[6,[10,16]],[7,[[0,2],[24,2]]],[8,[10,16]],[9,[0,26]],[10,[2,13,24]],[12,[2,24]]]],[3,[[2,[2,24]],[5,[0,26]],[7,[0,26]],[9,[0,26]],[12,2]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "tile_fighter_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1059895176",
@@ -15678,6 +18382,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "3913450466",
+		"name": "Tilepiles",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5]]],[1,[[14,4],[24,4]]],[2,[[7,3]]],[3,[[2,2],[17,2],[23,3]]],[4,[[10,3]]],[5,[[5,2],[20,3]]],[6,[[13,3]]],[7,[[8,2],[23,2]]],[8,[[16,3]]],[9,[[9,3],[26,2]]],[10,[[19,3]]],[11,[[4,4],[14,2]]],[12,[[22,5]]],[13,[[1,5]]]]],[1,[[0,[[1,4]]],[1,[[15,3],[25,3]]],[2,[[8,2]]],[3,[3,18,[24,2]]],[4,[[11,2]]],[5,[6,[21,2]]],[6,[[14,2]]],[7,[9,24]],[8,[[17,2]]],[9,[[10,2],27]],[10,[[20,2]]],[11,[[5,3],15]],[12,[[23,4]]],[13,[[2,4]]]]],[2,[[0,[[2,3]]],[1,[[16,2],[26,2]]],[2,9],[3,25],[4,12],[5,22],[6,15],[8,18],[9,11],[10,21],[11,[[6,2]]],[12,[[24,3]]],[13,[[3,3]]]]],[3,[[0,[[3,2]]],[1,[17,27]],[11,7],[12,[[25,2]]],[13,[[4,2]]]]],[4,[[0,4],[12,26],[13,5]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "tilepiles_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1026788785",
 		"name": "Time Tunnel",
 		"by": "Alexey Charkov",
@@ -15702,6 +18419,19 @@ export const data = [
 		"filename": "time_tunnel_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "1026788785",
+		"name": "Time Tunnel",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[[0,3],[14,3]]],[4,[[0,3],[14,3]]],[6,[[0,3],[14,3]]],[8,[[0,3],[14,3]]],[10,[[0,10]]]]],[1,[[0,[[2,8]]],[2,[[2,2],[14,2]]],[4,[[2,2],[14,2]]],[6,[[2,2],[14,2]]],[8,[[2,2],[14,2]]],[10,[[2,8]]]]],[2,[[0,[[4,6]]],[2,[[2,2],[14,2]]],[4,[[2,2],[14,2]]],[6,[[2,2],[14,2]]],[8,[[2,2],[14,2]]],[10,[[4,6]]]]],[3,[[0,[[6,4]]],[2,[4,14]],[3,[2,16]],[4,[4,14]],[5,[2,16]],[6,[4,14]],[7,[2,16]],[8,[4,14]],[10,[[6,4]]]]],[4,[[0,[[6,4]]],[2,[4,14]],[4,[4,14]],[5,[2,16]],[6,[4,14]],[8,[4,14]],[10,[[6,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "time_tunnel_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4042438650",
@@ -15756,6 +18486,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "1340888280",
+		"name": "Tomb",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[[0,10]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[6,4]]],[12,[[8,2]]]]],[1,[[0,[[0,10]]],[2,[[0,10]]],[4,[[2,2],9,[14,2]]],[6,[[0,4],[12,4]]],[8,[[0,4],[12,4]]],[10,[6,12]]]],[2,[[0,[0,18]],[2,[[2,8]]],[4,[2,16]],[6,[[2,3],[12,3]]],[8,[0,6,12,18]]]],[3,[[0,[0,18]],[2,[[5,5]]],[4,[2,16]],[6,[6,12]],[8,[0,6,12,18]]]],[4,[[0,[0,18]],[2,[[6,4]]],[6,[6,12]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "tomb_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2906772039",
 		"name": "Tombstone",
 		"by": "Ernie Polegato",
@@ -15793,6 +18536,32 @@ export const data = [
 		"filename": "top_view_of_titanic_2",
 		"path": "phantagia/lyall/eclayouts",
 		"collection": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1885429584",
+		"name": "Tornado",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[7,23]],[1,[0,9,15,21,30]],[2,[6,11,19,24]],[3,[0,13,17,30]],[4,[5,9,15,21,25]],[5,[13,17]],[6,[4,9,15,21,26]],[8,[1,[5,5],[17,5],29]],[10,[4,9,15,21,26]],[11,[13,17]],[12,[0,5,9,15,21,25,30]],[13,[13,17]],[14,[0,6,11,19,24,30]],[15,[9,15,21]],[16,[7,23]]]],[1,[[1,[0,[8,2],[20,2],30]],[2,[6,12,18,24]],[3,15],[4,[5,13,17,25]],[5,[9,15,21]],[6,[4,26]],[8,[[6,3],[20,3]]],[10,[4,26]],[11,[9,15,21]],[12,[5,13,17,25]],[13,15],[14,[0,6,12,18,24,30]],[15,[[8,2],[20,2]]]]],[2,[[3,[5,15,25]],[4,[13,17]],[5,[5,9,15,21,25]],[8,[[5,3],[21,3]]],[11,[5,9,15,21,25]],[12,[13,17]],[13,[5,15,25]]]],[3,[[4,15],[6,[9,21]],[10,[9,21]],[12,15]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "tornado",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2202947272",
+		"name": "Totally Random-Made",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,17]],[1,[1,8]],[2,20],[3,[4,9,23,28]],[4,[0,14,31]],[5,[7,18,24]],[6,[2,5,21]],[7,[8,13,18]],[8,[[28,2]]],[9,[5,19,23]],[10,[13,17,21]],[11,[2,7,15]],[12,[12,24]],[13,22],[14,[0,7,14,20,24]],[15,[11,22]]]],[1,[[1,21],[2,8],[3,[3,14,23]],[4,[8,17]],[5,[5,14,19]],[6,[12,22]],[7,[1,14,20]],[8,8],[9,[4,12,22]],[10,6],[11,[[15,2]]],[12,[3,11]],[14,[10,19]]]],[2,[[2,[4,9]],[3,13],[4,[2,9]],[5,[17,20]],[6,4],[7,[7,11]],[8,[1,15,19]],[9,[5,9,21]],[10,[11,23]],[11,[7,14]],[12,[2,10,17]],[13,[4,19]],[14,9]]],[3,[[3,[3,[12,2]]],[6,[6,11]],[7,[3,8,[14,2],20]],[8,[11,18]],[9,[0,6]],[10,[11,14,21]],[11,9],[12,[2,5,11,14]],[13,19],[14,10]]],[4,[[2,[[11,2]]],[3,4],[4,[2,14]],[5,[6,11]],[6,13],[7,[[3,2],[15,3]]],[8,[9,13]],[9,[7,11,18,21]],[10,5],[11,[2,9]],[12,12],[13,[6,15]],[15,11]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "totally_random-made",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "2202947272",
@@ -15899,6 +18668,32 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "4286999529",
+		"name": "Tower And Walls",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,5]]],[2,[[10,5]]],[4,[[0,15]]],[6,[[10,5]]],[8,[[10,5]]]]],[1,[[0,[[10,5]]],[2,[[10,5]]],[4,[[0,15]]],[6,[[10,5]]],[8,[[10,5]]]]],[2,[[0,[[10,5]]],[2,[[10,5]]],[4,[[0,15]]],[6,[[10,5]]],[8,[[10,5]]]]],[3,[[0,[[10,5]]],[2,[10,18]],[4,[[0,6],14,[18,6]]],[6,[10,18]],[8,[[10,5]]]]],[4,[[0,[10,14,18]],[4,[2,6,10,18,22,26]],[8,[10,14,18]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "tower_and_walls_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "2028311707",
+		"name": "Towers",
+		"by": "Nels Anderson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,4],[14,4]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[2,4],[14,4]]],[8,[[2,4],[14,4]]],[10,[[0,12]]],[12,[[0,12]]],[14,[[2,4],[14,4]]]]],[1,[[2,[[2,4],[14,4]]],[4,[[2,4],[14,4]]],[10,[[2,4],[14,4]]],[12,[[2,4],[14,4]]]]],[2,[[2,[[2,4],[14,4]]],[4,[[2,4],[14,4]]],[10,[[2,4],[14,4]]],[12,[[2,4],[14,4]]]]]]",
+		"source": "https://archive.org/download/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993/Mahjongg.zip#TOWERS.BRD",
+		"site": "https://archive.org/details/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993",
+		"solvable": true,
+		"filename": "towers",
+		"path": "mahjongg-dos",
+		"collection": "Mah Jongg"
+	},
+	{
 		"id": "3050525069",
 		"name": "Towers And Arch",
 		"by": "Tsubassa Kurenai",
@@ -15936,6 +18731,19 @@ export const data = [
 		"filename": "traditional_2",
 		"path": "kyodai",
 		"collection": "Kyodai Extras"
+	},
+	{
+		"id": "1982003605",
+		"name": "Traditional",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,[26,2]]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[[8,6]]],[4,[[8,6]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[8,6]]],[12,[[8,6]]]]],[2,[[4,[[10,4]]],[6,[[10,4]]],[8,[[10,4]]],[10,[[10,4]]]]],[3,[[6,[[12,2]]],[8,[[12,2]]]]],[4,[[7,13]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "traditional_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4203766614",
@@ -15977,6 +18785,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "1909951976",
+		"name": "Traditional Reviewed",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,2],[8,6],[22,2]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,2],[8,6],[22,2]]]]],[1,[[2,[[10,4]]],[4,[[8,6]]],[6,[[6,8]]],[8,[[6,8]]],[10,[[8,6]]],[12,[[10,4]]]]],[2,[[2,[[12,2]]],[4,[[12,2]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[12,2]]],[12,[[12,2]]]]],[3,[[5,13],[7,[[11,3]]],[9,13]]],[4,[[7,13]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "traditional_reviewed_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2312441978",
 		"name": "Tree Of Life",
 		"by": "Douglas Ulyate",
@@ -16001,6 +18822,19 @@ export const data = [
 		"filename": "tree_of_life_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2312441978",
+		"name": "Tree Of Life",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,14]]],[2,[2,26]],[3,[0,5,[9,6],23,28]],[4,[2,26]],[5,[0,[4,4],[18,4],28]],[6,[2,12,16,26]],[7,[4,8,20,24]],[8,[11,14,17]],[9,[6,22]],[10,[11,14,17]],[12,[[0,5],11,14,17,[20,5]]],[14,[2,6,11,14,17,22,26]],[16,[[8,7]]]]],[1,[[0,[[3,5],14,[17,5]]],[3,[2,5,12,16,23,26]],[5,[[3,3],10,18,[23,2]]],[8,14],[10,[11,17]],[12,[[2,3],11,17,[22,3]]],[14,[11,17]],[16,[11,14,17]]]],[2,[[0,[[5,3],[19,3]]],[3,[2,12,16,26]],[5,[5,23]],[12,[4,11,17,24]],[14,[11,17]],[16,[11,14,17]]]],[3,[[0,[7,21]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "tree_of_life_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1940000399",
@@ -16066,6 +18900,19 @@ export const data = [
 		"filename": "trika_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "3109518435",
+		"name": "Trika",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[2,[14,18]],[3,[3,29]],[4,[12,16,20]],[5,[1,5,27,31]],[6,[10,14,18,22]],[7,[0,3,6,26,29,32]],[8,[[8,9]]],[9,[0,3,6,26,29,32]],[10,[10,14,18,22]],[11,[1,5,27,31]],[12,[12,16,20]],[13,[3,29]],[14,[14,18]],[16,16]]],[1,[[1,[[15,2]]],[3,[13,19]],[4,[[2,2],[28,2]]],[5,[11,16,21]],[6,[0,6,26,32]],[7,[10,[15,2],22]],[8,[[0,5],[24,5]]],[9,[10,[15,2],22]],[10,[0,6,26,32]],[11,[11,16,21]],[12,[[2,2],[28,2]]],[13,[13,19]],[15,[[15,2]]]]],[2,[[0,16],[2,[14,18]],[3,[3,29]],[4,[12,20]],[5,[3,29]],[6,[10,22]],[8,[[0,6],16,[22,6]]],[10,[10,22]],[11,[3,29]],[12,[12,20]],[13,[3,29]],[14,[14,18]],[16,16]]],[3,[[0,16],[7,[3,29]],[9,[3,29]],[16,16]]],[4,[[8,[3,29]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "trika_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1451993694",
@@ -16224,6 +19071,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "3445440499",
+		"name": "Twin",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,3],[16,3]]],[2,[[2,5],[14,5]]],[4,[[0,13]]],[6,[[0,13]]],[8,[[0,13]]],[10,[[2,5],[14,5]]],[12,[[4,3],[16,3]]]]],[1,[[2,[[2,5],[14,5]]],[4,[[2,11]]],[6,[[2,11]]],[8,[[2,11]]],[10,[[2,5],[14,5]]]]],[2,[[4,[[4,3],[16,3]]],[6,[[4,3],[16,3]]],[8,[[4,3],[16,3]]]]],[3,[[6,[6,18]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "twin_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1000296996",
 		"name": "Twin Temple",
 		"by": "Ernie Polegato",
@@ -16235,6 +19095,19 @@ export const data = [
 		"filename": "twin_temple",
 		"path": "phantagia/eplayouts/eplayout05",
 		"collection": "Phantagia - Package A - Package 05"
+	},
+	{
+		"id": "3960151760",
+		"name": "Twin Temples",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,6],[16,6]]],[2,[0,10,16,26]],[3,[[12,2]]],[4,[0,10,16,26]],[5,[[6,2],[12,2],[18,2]]],[6,[0,10,16,26]],[7,[[12,2]]],[8,[0,10,16,26]],[10,[[0,6],[16,6]]]]],[1,[[1,[[1,5],[17,5]]],[3,[1,[9,2],[15,2],25]],[5,[1,5,21,25]],[7,[1,[9,2],[15,2],25]],[9,[[1,5],[17,5]]]]],[2,[[2,[[2,4],[18,4]]],[3,[10,16]],[4,[2,8,18,24]],[6,[2,8,18,24]],[7,[10,16]],[8,[[2,4],[18,4]]]]],[3,[[3,[[3,4],[17,4]]],[5,[3,[7,2],[17,2],23]],[7,[[3,4],[17,4]]]]],[4,[[4,[[4,2],[20,2]]],[6,[[4,2],[20,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "twin_temples",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "38848691",
@@ -16261,6 +19134,19 @@ export const data = [
 		"filename": "two_domes_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "38848691",
+		"name": "Two Domes",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[8,24]],[1,[6,10,22,26]],[2,[4,12,20,28]],[4,[2,[14,3],30]],[6,[1,[15,2],31]],[7,[9,25]],[8,[0,16,32]],[10,[1,[15,2],31]],[12,[2,[14,3],30]],[14,[4,12,20,28]],[15,[6,10,22,26]],[16,[8,24]]]],[1,[[2,[[7,2],[23,2]]],[3,[5,11,21,27]],[4,[3,13,19,29]],[6,[2,[14,3],30]],[8,[1,[15,2],31]],[10,[2,[14,3],30]],[12,[3,13,19,29]],[13,[5,11,21,27]],[14,[[7,2],[23,2]]]]],[2,[[3,[8,24]],[4,[6,10,22,26]],[5,[4,12,20,28]],[7,[3,13,16,19,29]],[9,[3,13,16,19,29]],[11,[4,12,20,28]],[12,[6,10,22,26]],[13,[8,24]]]],[3,[[5,[[7,2],[23,2]]],[6,[5,11,21,27]],[8,[4,12,16,20,28]],[10,[5,11,21,27]],[11,[[7,2],[23,2]]]]],[4,[[6,[8,24]],[7,[6,10,22,26]],[9,[6,10,22,26]],[10,[8,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "two_domes_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3819806461",
@@ -16562,6 +19448,32 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "3722620574",
+		"name": "Vagues",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,14]],[2,[0,8,16]],[4,[4,12,20]],[6,[0,8,16]],[8,[4,12,20]],[10,[0,8,16]],[12,[4,12,20]],[14,[6,14]]]],[1,[[0,[7,13]],[2,[1,[7,2],[15,2]]],[4,[[3,2],[11,2],19]],[6,[1,[7,2],[15,2]]],[8,[[3,2],[11,2],19]],[10,[1,[7,2],[15,2]]],[12,[[3,2],[11,2],19]],[14,[7,13]]]],[2,[[0,[8,12]],[2,[2,6,10,14,18]],[4,[2,6,10,14,18]],[6,[2,6,10,14,18]],[8,[2,6,10,14,18]],[10,[2,6,10,14,18]],[12,[2,6,10,14,18]],[14,[8,12]]]],[3,[[0,[[9,2]]],[2,[[3,2],[11,2],19]],[4,[1,[7,2],[15,2]]],[6,[[3,2],[11,2],19]],[8,[1,[7,2],[15,2]]],[10,[[3,2],[11,2],19]],[12,[1,[7,2],[15,2]]],[14,[[9,2]]]]],[4,[[0,10],[2,[4,12,20]],[4,[0,8,16]],[6,[4,12,20]],[8,[0,8,16]],[10,[4,12,20]],[12,[0,8,16]],[14,10]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "vagues_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "4175016123",
+		"name": "Valley",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,15]]],[2,[[1,6],[17,6]]],[4,[[4,5],[16,5]]],[6,[[5,10]]],[8,[[6,9]]],[10,[[7,8]]],[12,[[8,7]]],[14,[[9,6]]]]],[1,[[0,[8,20]],[2,[[7,2],[19,2]]],[4,[[8,2],[18,2]]],[6,[[9,2],[17,2]]],[8,[[10,2],[16,2]]],[10,[[11,4]]],[12,[[12,3]]],[14,[[13,2]]]]],[2,[[0,[8,20]],[2,[[7,2],[19,2]]],[4,[[8,2],[18,2]]],[6,[[9,2],[17,2]]],[8,[[10,2],[16,2]]],[10,[[11,4]]],[12,[[12,3]]],[14,[[13,2]]]]],[3,[[0,[8,20]],[2,[8,20]],[4,[9,19]],[6,[10,18]],[8,[11,17]],[10,[12,16]],[11,14]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#VALLEY.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "valley",
+		"path": "solitile",
+		"collection": "Solitile"
+	},
+	{
 		"id": "1394718707",
 		"name": "Variation On Deep Well",
 		"by": "Kyodai",
@@ -16692,6 +19604,19 @@ export const data = [
 		"collection": "OGS"
 	},
 	{
+		"id": "11321633",
+		"name": "Vi",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,30]],[2,[[0,2],[28,2]]],[4,[[0,3],[26,3]]],[6,[[0,4],[24,4]]],[8,[[0,5],[22,5]]],[10,[[0,6],[20,6]]],[12,[[0,7],[18,7]]],[14,[[0,16]]]]],[1,[[4,[0,30]],[6,[[0,2],[28,2]]],[8,[[0,3],[26,3]]],[10,[[0,4],[24,4]]],[12,[[0,5],[22,5]]],[14,[[0,6],[20,6]]]]],[2,[[6,[0,30]],[8,[0,30]],[10,[[0,2],[28,2]]],[12,[[0,3],[26,3]]],[14,[[0,4],[24,4]]]]],[3,[[12,[0,30]],[14,[[0,2],[28,2]]]]],[4,[[14,[0,30]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "vi_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "1365615385",
 		"name": "Victory / Peace Sign",
 		"by": "Nanami Kamimura",
@@ -16742,6 +19667,19 @@ export const data = [
 		"filename": "victory_arrow_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2529300283",
+		"name": "Victory Arrow",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,19],[1,[[0,7],21]],[2,23],[3,[0,12,21,25]],[4,[[3,4],27]],[5,[0,[12,2],[21,3],29]],[6,[3,9,16]],[7,[0,6,[12,2],[18,7]]],[8,[3,9,16]],[9,[0,[12,2],[21,3],29]],[10,[[3,4],27]],[11,[0,12,21,25]],[12,23],[13,[[0,7],21]],[14,19]]],[1,[[1,[[2,5]]],[2,[0,12]],[3,21],[4,[0,[5,2],12]],[5,[3,9,[21,3]]],[6,[0,[12,2]]],[7,[3,9,[16,8]]],[8,[0,[12,2]]],[9,[3,9,[21,3]]],[10,[0,[5,2],12]],[11,21],[12,[0,12]],[13,[[2,5]]]]],[2,[[1,[[3,4]]],[3,[0,12]],[5,[0,12]],[7,[0,[13,8]]],[9,[0,12]],[11,[0,12]],[13,[[3,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "victory_arrow_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1319312927",
@@ -17056,6 +19994,58 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "2629759861",
+		"name": "Wavelets",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,16,26]],[2,[6,16,26]],[4,[0,4,8,14,18,24,28,32]],[6,[6,16,26]],[8,[0,4,8,14,18,24,28,32]],[10,[6,16,26]],[12,[0,4,8,14,18,24,28,32]],[14,[6,16,26]],[16,[6,16,26]]]],[1,[[1,[6,16,26]],[4,[0,3,9,13,19,23,29,32]],[7,[6,16,26]],[8,[0,3,9,13,19,23,29,32]],[9,[6,16,26]],[12,[0,3,9,13,19,23,29,32]],[15,[6,16,26]]]],[2,[[2,[6,16,26]],[4,[[0,2],[10,2],[20,2],[30,2]]],[6,[6,16,26]],[8,[[0,2],[10,2],[20,2],[30,2]]],[10,[6,16,26]],[12,[[0,2],[10,2],[20,2],[30,2]]],[14,[6,16,26]]]],[3,[[3,[6,16,26]],[4,[1,11,21,31]],[5,[6,16,26]],[7,[6,16,26]],[8,[1,11,21,31]],[9,[6,16,26]],[11,[6,16,26]],[12,[1,11,21,31]],[13,[6,16,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "wavelets_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3837854000",
+		"name": "Waves",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,16]]],[5,[[0,14]]],[7,[[0,14]]],[12,[[1,16]]]]],[1,[[0,[[5,5],[21,5]]],[5,[[0,6],[16,6]]],[7,[[0,6],[16,6]]],[12,[[4,5],[20,5]]]]],[2,[[0,[[7,3],[23,3]]],[5,[[0,4],[20,4]]],[7,[[0,4],[20,4]]],[12,[[6,3],[22,3]]]]],[3,[[5,[[0,2],[24,2]]],[7,[[0,2],[24,2]]]]],[4,[[5,[0,26]],[7,[0,26]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "waves",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1302075135",
+		"name": "Wedges",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,11]]],[2,[[4,9]]],[4,[[6,7]]],[6,[0,[8,5],24]],[8,[[0,2],[10,3],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],12,[18,4]]],[14,[[10,3]]]]],[1,[[0,[[4,9]]],[2,[[6,7]]],[4,[[8,5]]],[6,[[10,3]]],[8,[0,12,24]],[10,[[0,2],[22,2]]],[12,[[0,3],[20,3]]],[14,[[11,2]]]]],[2,[[0,[[6,7]]],[2,[[8,6]]],[4,[[10,4]]],[6,[[12,2]]],[10,[0,24]],[12,[[0,2],[22,2]]],[14,12]]],[3,[[0,[[8,5]]],[2,[[10,4]]],[4,[[12,2]]],[12,[0,24]]]],[4,[[0,[[10,3]]],[2,[[12,2]]]]],[5,[[0,12]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "wedges",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "3517601517",
+		"name": "Wedges",
+		"by": "Everett Kaser",
+		"tiles": 144,
+		"data": "[[0,[[0,[[24,3]]],[2,[[22,4]]],[4,[[0,4],[22,4]]],[5,[[12,3]]],[6,[[0,4],[22,4]]],[7,[[8,3],[16,3]]],[8,[[0,4],[22,4]]],[9,[[12,3]]],[10,[[0,4],[22,4]]],[12,[[22,4]]],[14,[[24,3]]]]],[1,[[0,[[24,3]]],[2,[[24,3]]],[4,[[0,3],[24,3]]],[5,14],[6,[[0,3],[24,3]]],[7,[[6,4],[16,4]]],[8,[[0,3],[24,3]]],[9,14],[10,[[0,3],[24,3]]],[12,[[24,3]]],[14,[[24,3]]]]],[2,[[0,[[26,2]]],[2,[[26,2]]],[4,[[0,2],[26,2]]],[6,[[0,2],[26,2]]],[7,[4,10,[18,4]]],[8,[[0,2],[26,2]]],[10,[[0,2],[26,2]]],[12,[[26,2]]],[14,[[26,2]]]]],[3,[[2,28],[4,[0,28]],[7,[[0,2],[26,2]]],[10,[0,28]],[12,28]]]]",
+		"source": "https://archive.org/download/solitile_202209/Solitile.zip#WEDGES.LYT",
+		"site": "https://web.archive.org/web/19981205213424/http://www.kaser.com/solitile.html",
+		"solvable": true,
+		"filename": "wedges_2",
+		"path": "solitile",
+		"collection": "Solitile"
+	},
+	{
 		"id": "1302075135",
 		"name": "Wedges",
 		"by": "Unknown",
@@ -17064,7 +20054,7 @@ export const data = [
 		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/wedges",
 		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "wedges",
+		"filename": "wedges_3",
 		"path": "xmahjongg",
 		"collection": "XMahjongg"
 	},
@@ -17093,6 +20083,45 @@ export const data = [
 		"filename": "well_2",
 		"path": "ogs-mahjong",
 		"collection": "OGS"
+	},
+	{
+		"id": "4057804901",
+		"name": "Well 1",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,4]]],[2,[[6,6]]],[4,[[2,10]]],[5,[0,22]],[6,[[2,10]]],[7,[0,22]],[8,[[2,10]]],[9,[0,22]],[10,[[2,10]]],[12,[[8,4]]],[14,[[8,4]]]]],[1,[[4,[[4,8]]],[5,[2,20]],[6,[[4,2],[16,2]]],[7,[2,20]],[8,[[4,2],[16,2]]],[9,[2,20]],[10,[[4,8]]],[12,[8,14]]]],[2,[[4,[[6,6]]],[6,[6,16]],[8,[6,16]],[10,[[6,6]]]]],[3,[[4,[[6,6]]],[6,[6,16]],[8,[6,16]],[10,[[6,6]]]]],[4,[[4,[[6,6]]],[6,[6,16]],[8,[6,16]],[10,[[6,6]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "well_1",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "1634707973",
+		"name": "Well 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,3],[10,3]]],[8,[[0,3],[10,3]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[0,8]]]]],[1,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[2,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[3,[[2,[[4,4]]],[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]],[12,[[4,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "well_2_2",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
+		"id": "973763131",
+		"name": "What A Pyramid",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[2,10]]],[6,[[4,8]]],[8,[[4,8]]],[10,[[2,10]]],[12,[[0,12]]],[14,[[0,12]]]]],[1,[[2,[[4,8]]],[4,[[6,6]]],[6,[[6,6]]],[8,[[6,6]]],[10,[[6,6]]],[12,[[4,8]]]]],[2,[[4,[[8,4]]],[6,[8,14]],[8,[8,14]],[10,[[8,4]]]]],[3,[[4,[[10,2]]],[6,[8,14]],[8,[8,14]],[10,[[10,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "what_a_pyramid",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1734686256",
@@ -17132,6 +20161,19 @@ export const data = [
 		"filename": "whatever_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2828981270",
+		"name": "Whatever",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[2,[[3,11]]],[4,[2,24]],[6,[2,24]],[8,[[3,11]]]]],[1,[[1,[[2,12]]],[3,[1,25]],[5,[1,25]],[7,[1,25]],[9,[[2,12]]]]],[2,[[0,[[8,6]]],[2,[[8,6]]],[4,[[0,14]]],[6,[[0,14]]],[8,[[8,6]]],[10,[[8,6]]]]],[3,[[1,[[12,2]]],[3,[[9,5]]],[5,[[7,7]]],[7,[[9,5]]],[9,[[12,2]]]]],[4,[[3,[[10,4]]],[5,[[7,7]]],[7,[[10,4]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "whatever_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "3934240155",
@@ -17186,6 +20228,19 @@ export const data = [
 		"collection": "Step5"
 	},
 	{
+		"id": "3558477441",
+		"name": "Wicker",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,10,15,20]],[1,[3,8,13,18,23]],[2,[1,6,11,16,21]],[3,[4,9,14,19,24]],[4,[2,7,12,17,22]],[5,[0,5,10,15,20,25]],[6,[3,8,13,18,23]],[7,[1,6,11,16,21,26]],[8,[4,9,14,19,24]],[9,[2,7,12,17,22]],[10,[0,5,10,15,20,25]],[11,[3,8,13,18,23]],[12,[1,6,11,16,21]],[13,[4,9,14,19,24]]]],[1,[[0,[5,10,15,20]],[1,[3,8,13,18,23]],[2,[1,6,11,16,21]],[3,[4,9,14,19,24]],[4,[2,7,12,17,22]],[5,[0,5,10,15,20,25]],[6,[3,8,13,18,23]],[7,[1,6,11,16,21,26]],[8,[4,9,14,19,24]],[9,[2,7,12,17,22]],[10,[0,5,10,15,20,25]],[11,[3,8,13,18,23]],[12,[1,6,11,16,21]],[13,[4,9,14,19,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjonggL.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "wicker",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2583115303",
 		"name": "Win",
 		"by": "Wally",
@@ -17210,6 +20265,19 @@ export const data = [
 		"filename": "win_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2583115303",
+		"name": "Win",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,20],[1,[[16,2],[22,2]]],[2,[[12,2],20,[26,2]]],[3,[4,9]],[4,[0,7,12,20,28]],[6,[4,9,12,20,28]],[7,[0,7,[16,2],[22,2]]],[8,[[12,2],20,[26,2]]],[9,[4,9]],[10,[0,7,12,20,28]],[12,[4,9,12,20,28]],[13,[0,7,[16,2],[22,2]]],[14,[[12,2],[26,2]]],[15,[4,9]],[16,7]]],[1,[[0,20],[1,[[16,2],[22,2]]],[2,[[12,2],20,[26,2]]],[3,[4,9]],[4,[7,12,20,28]],[6,[4,9,12,20,28]],[7,[7,[16,2],[22,2]]],[8,[[12,2],20,[26,2]]],[9,[4,9]],[10,[7,12,20,28]],[12,[4,9,12,20,28]],[13,[7,[16,2],[22,2]]],[14,[[12,2],[26,2]]],[15,[4,9]],[16,7]]],[2,[[0,20],[1,[[16,2],[22,2]]],[2,[14,20,[26,2]]],[4,[20,28]],[6,[20,28]],[7,[[16,2],[22,2]]],[8,[14,20,[26,2]]],[10,[20,28]],[12,[20,28]],[13,[[16,2],[22,2]]],[14,[14,[26,2]]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "win_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "1283370737",
@@ -17381,6 +20449,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "902786969",
+		"name": "X-Files",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,16,32]],[1,[2,11,22,30]],[2,[4,[14,3],28]],[3,[6,26]],[4,[8,16,24]],[5,[10,22]],[6,[2,12,20,30]],[7,[14,18]],[8,[[0,3],8,16,24,[28,3]]],[9,[14,18]],[10,[2,12,20,30]],[11,[10,22]],[12,[8,16,24]],[13,[6,26]],[14,[4,[14,3],28]],[15,[2,10,22,30]],[16,[0,16,32]]]],[1,[[1,[11,16,22]],[2,4],[3,[6,16,26]],[4,[8,24]],[5,[10,22]],[6,[12,20]],[7,[14,18]],[8,[[1,2],8,24,[29,2]]],[9,[14,18]],[10,[12,20]],[11,[10,22]],[12,[8,24]],[13,[6,16,26]],[15,[10,16,22]]]],[2,[[1,[11,22]],[2,16],[3,[6,26]],[4,[8,24]],[5,[10,22]],[8,[2,8,14,18,24,30]],[11,[10,22]],[12,[8,24]],[13,[6,26]],[14,16],[15,[10,22]]]],[3,[[1,[11,22]],[3,[6,26]],[4,[8,24]],[5,10],[8,[8,24]],[12,[8,24]],[13,[6,26]],[15,[10,22]]]],[4,[[1,[11,22]],[3,[6,26]],[4,8],[8,[8,24]],[13,[6,26]],[15,[10,22]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "x-files_5",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2732360256",
 		"name": "X-Shape",
 		"by": "Alexis Bonvin",
@@ -17405,6 +20486,19 @@ export const data = [
 		"filename": "x-shape_2",
 		"path": "mykyodai",
 		"collection": "MyKyodai"
+	},
+	{
+		"id": "2732360256",
+		"name": "X-Shape",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,5],[13,5]]],[2,[[3,3],[15,3]]],[4,[[5,3],[13,3]]],[6,[[7,5]]],[8,[0,4,[9,3],18,22]],[10,[[7,5]]],[12,[[5,3],[13,3]]],[14,[[3,3],[15,3]]],[16,[[1,5],[13,5]]]]],[1,[[0,[[1,5],[13,5]]],[2,[[3,3],[15,3]]],[4,[[5,3],[13,3]]],[6,[[7,5]]],[8,[[9,3]]],[10,[[7,5]]],[12,[[5,3],[13,3]]],[14,[[3,3],[15,3]]],[16,[[1,5],[13,5]]]]],[2,[[0,[[3,3],[15,3]]],[2,[5,17]],[4,[7,15]],[6,[9,13]],[8,11],[10,[9,13]],[12,[7,15]],[14,[5,17]],[16,[[3,3],[15,3]]]]],[3,[[8,11]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg2.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "x-shape_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	},
 	{
 		"id": "4038656964",
@@ -17472,6 +20566,19 @@ export const data = [
 		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
+		"id": "3182431683",
+		"name": "Xray",
+		"by": "Nels Anderson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[16,4]]],[2,[[2,4],[14,4]]],[4,[[4,8]]],[6,[[0,2],[6,6],[20,2]]],[8,[[0,2],[6,6],[20,2]]],[10,[[4,8]]],[12,[[2,4],[14,4]]],[14,[[0,4],[16,4]]]]],[1,[[0,[[2,3],[16,3]]],[2,[[4,3],[14,3]]],[4,[[6,6]]],[6,[[0,2],[8,4],[20,2]]],[8,[[0,2],[8,4],[20,2]]],[10,[[6,6]]],[12,[[4,3],[14,3]]],[14,[[2,3],[16,3]]]]],[2,[[0,[4,18]],[2,[6,16]],[4,[[8,4]]],[6,[0,[10,2],22]],[8,[0,[10,2],22]],[10,[[8,4]]],[12,[6,16]],[14,[4,18]]]]]",
+		"source": "https://archive.org/download/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993/Mahjongg.zip#XRAY.BRD",
+		"site": "https://archive.org/details/MahJongg4.1VariousTileSetsAndBoardsNelsAndersonEtAl.1993",
+		"solvable": true,
+		"filename": "xray",
+		"path": "mahjongg-dos",
+		"collection": "Mah Jongg"
+	},
+	{
 		"id": "3964262414",
 		"name": "Yin And Yang",
 		"by": "Bolli",
@@ -17511,6 +20618,19 @@ export const data = [
 		"collection": "MyKyodai"
 	},
 	{
+		"id": "267338900",
+		"name": "Yummy",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[[8,3],[16,3]]],[2,14],[3,[[6,4],[16,4]]],[4,14],[5,[[4,5],[16,5]]],[6,14],[7,[[0,6],[18,6]]],[8,14],[9,[[4,5],[16,5]]],[10,14],[11,[[6,4],[16,4]]],[12,14],[13,[[8,3],[16,3]]],[14,14]]],[1,[[1,[[12,3]]],[3,[[8,7]]],[5,[[6,9]]],[7,[[4,3],14,[20,3]]],[9,[[6,9]]],[11,[[8,7]]],[13,[[12,3]]]]],[2,[[1,14],[3,14],[5,[[8,7]]],[7,[6,14,22]],[9,[[8,7]]],[11,14],[13,14]]],[3,[[5,[[12,3]]],[7,14],[9,[[12,3]]]]],[4,[[5,14],[7,14],[9,14]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg1.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "yummy_3",
+		"path": "pysolfc",
+		"collection": "PySolFC"
+	},
+	{
 		"id": "2746693386",
 		"name": "Zhong",
 		"by": "Nanami Kamimura",
@@ -17535,5 +20655,18 @@ export const data = [
 		"filename": "zhong_2",
 		"path": "phantagia/lyall/eclayouts",
 		"collection": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2323652064",
+		"name": "Zigzag",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[2,18,28]],[1,[0,4,16,20]],[2,[2,6,18,22]],[3,[4,8,20,24]],[4,[6,10,22,26]],[5,[8,12,24,28]],[6,[6,10,22,26]],[7,[4,8,20,24]],[8,[2,6,18,22]],[9,[0,4,16,20]],[10,[2,6,18,22]],[11,[4,8,20,24]],[12,[6,10,22,26]],[13,[8,12,24,28]],[14,[6,10,22,26]],[15,[4,8,20,24]],[16,[2,6,18,22]],[17,[0,4,16,20]],[18,[2,18,28]]]],[1,[[1,[2,18]],[2,[4,20]],[3,[6,22]],[4,[8,24]],[5,[6,10,22,26]],[6,[8,24]],[7,[6,22]],[8,[4,20]],[9,[2,6,18,22]],[10,[4,20]],[11,[6,22]],[12,[8,24]],[13,[6,10,22,26]],[14,[8,24]],[15,[6,22]],[16,[4,20]],[17,[2,18]]]],[2,[[2,[4,20]],[3,[6,22]],[4,[8,24]],[6,[8,24]],[7,[6,22]],[8,[4,20]],[10,[4,20]],[11,[6,22]],[12,[8,24]],[14,[8,24]],[15,[6,22]],[16,[4,20]]]],[3,[[5,[8,24]],[9,[4,20]],[13,[8,24]]]]]",
+		"source": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/mahjongg3.py",
+		"site": "https://github.com/shlomif/PySolFC/tree/master/pysollib/games/mahjongg/",
+		"solvable": true,
+		"filename": "zigzag",
+		"path": "pysolfc",
+		"collection": "PySolFC"
 	}
 ];
