@@ -265,7 +265,7 @@ class ScanDir {
 	children: Array<ScanDir> = [];
 	files: Array<ScanFile> = [];
 	link: string = '';
-	groupName: string = '';
+	collectionName: string = '';
 	site: string = '';
 
 	constructor(public dest: string, public name: string, public level: number, public parent?: ScanDir) {
@@ -310,7 +310,7 @@ class ScanDir {
 			const base = path.basename(sub.dest);
 			const base_path = `${parent}${base}/`;
 			if (sub.files.length > 0) {
-				sl.push(`\n## ${sub.groupName}`);
+				sl.push(`\n## ${sub.collectionName}`);
 				if (sub.link) {
 					if (sub.site) {
 						sl.push(`* Source: \n[${sub.site}](${sub.site})\n`);
@@ -325,17 +325,17 @@ class ScanDir {
 		return sl;
 	}
 
-	async recursiveSites(site: string, groupName: string): Promise<void> {
+	async recursiveSites(site: string, collectionName: string): Promise<void> {
 		this.site = this.site.length ? this.site : site;
-		this.groupName = this.groupName.length ? this.groupName : groupName;
+		this.collectionName = this.collectionName.length ? this.collectionName : collectionName;
 		this.children.sort((a, b) => a.name.localeCompare(b.name));
 		for (const sub of this.children) {
-			await sub.recursiveSites(this.site, this.groupName);
+			await sub.recursiveSites(this.site, this.collectionName);
 		}
 	}
 
 	async recursiveWriteREADME(): Promise<void> {
-		let sl: Array<string> = [`# Mahjong Solitaire Layout Museum: ${this.groupName}`];
+		let sl: Array<string> = [`# Mahjong Solitaire Layout Museum: ${this.collectionName}`];
 		if (this.link) {
 			if (this.site) {
 				sl.push(`* Source: [${this.site}](${this.site})\n`);
@@ -343,7 +343,7 @@ class ScanDir {
 			sl.push(`* File Source:  \n<sub>\`\`\`${this.link}\`\`\`</sub>\n`);
 		}
 		if (this.files.length > 0) {
-			const header = `\n|${this.groupName}||Layouts: ${this.files.length}|\n|:--:|:--:|:--:|`;
+			const header = `\n|${this.collectionName}||Layouts: ${this.files.length}|\n|:--:|:--:|:--:|`;
 			sl = sl.concat(this.filesToMarkdownTable('./', header));
 		}
 		sl = sl.concat(this.recursiveFilesMarkdown(0, './'));
@@ -353,16 +353,16 @@ class ScanDir {
 		}
 	}
 
-	public getGroupName() {
+	public getCollectionName() {
 		let result = '';
 		if (this.parent) {
-			result = this.parent.getGroupName();
+			result = this.parent.getCollectionName();
 		}
-		if (this.groupName.length && this.groupName !== result) {
+		if (this.collectionName.length && this.collectionName !== result) {
 			if (result.length) {
 				result += ' - ';
 			}
-			result += this.groupName;
+			result += this.collectionName;
 		}
 		return result;
 	}
@@ -381,7 +381,7 @@ async function museum(boards: Array<ScanBoard>) {
 			solvable: board.solvable,
 			filename: board.filename,
 			path: board.parent.parent.dest.replace('../public/boards/', ''),
-			group: board.parent.parent.getGroupName()
+			collection: board.parent.parent.getCollectionName()
 		});
 	}).sort((a, b) => a.name.localeCompare(b.name));
 
@@ -479,7 +479,7 @@ async function extract(dest: string): Promise<ScanDir> {
 							} else if (entry.fileName.endsWith('_SITE.md')) {
 								dir.site = content;
 							} else if (entry.fileName.endsWith('_NAME.md')) {
-								dir.groupName = content;
+								dir.collectionName = content;
 							}
 							zipfile.readEntry();
 						});

@@ -1,5 +1,6 @@
 import {Layout} from './type.ts';
 import {data_file_url, play, svg_file_url} from './helper.ts';
+import {COLLECTIONS} from './collections.ts';
 import './Overlay.css';
 import {useCallback, useEffect, useRef, useState} from 'react';
 
@@ -7,6 +8,10 @@ export function Overlay(props: { layout: Layout, requestClose: () => void, onPre
 	const btnRef = useRef<HTMLButtonElement>(null);
 	const {layout, requestClose, onPrev, onNext} = props;
 	const [formats, setFormats] = useState<Array<{ path: string, name: string }>>([]);
+	const collection = COLLECTIONS.get(layout.collection);
+	const contributors = collection && (collection.authors.length > 3
+		? `${collection.authors.length} contributors`
+		: collection.authors.join(', '));
 
 	const keyFunction = useCallback((event: { key: string; }) => {
 		if (event.key === 'Escape') {
@@ -81,8 +86,14 @@ export function Overlay(props: { layout: Layout, requestClose: () => void, onPre
 							</a>
 						))}
 						<div className="source">
-							<small>Source</small>
-							<a href={layout.site} target="_blank" rel="noopener">{layout.group}</a><br/>
+							<small>Collection</small>
+							<a href={layout.site} target="_blank" rel="noopener">{layout.collection}</a>
+							{collection && (
+								<p className="collection-blurb">
+									{collection.count} layout{collection.count === 1 ? '' : 's'} in this collection, by {contributors}
+								</p>
+							)}
+							<small>File source</small>
 							<code>{layout.source}</code>
 						</div>
 					</div>

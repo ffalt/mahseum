@@ -150,6 +150,12 @@
 	font-size: 0.8em;
 }
 
+.overlay-content .collection-blurb {
+	margin: 4px 0 0;
+	font-size: 0.8em;
+	color: #9aa0a6;
+}
+
 .overlay-content button.play, .overlay-content a.save {
 	border: 1px solid #222020;
 	border-radius: 6px;

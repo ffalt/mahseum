@@ -5,11 +5,11 @@ import {Overlay} from './Overlay.tsx';
 import {Item} from './Item.tsx';
 import './App.css';
 
-const GROUPS: Array<[string, number]> = data
-	.map(l => l.group)
+const COLLECTIONS: Array<[string, number]> = data
+	.map(l => l.collection)
 	.filter((item, i, ar) => ar.indexOf(item) === i)
 	.sort()
-	.map(group => [group, data.filter(it => it.group === group).length]);
+	.map(collection => [collection, data.filter(it => it.collection === collection).length]);
 
 const AUTHORS: Array<[string, number]> = data
 	.map(l => l.by || 'unknown')
@@ -38,7 +38,7 @@ function App() {
 	});
 	const [filtered, setFiltered] = useState<Array<Layout>>([]);
 	const [filterText, setFilterText] = useState<string | undefined>(() => urlParams.get('q') || undefined);
-	const [filterGroup, setFilterGroup] = useState<string | undefined>(() => urlParams.get('group') || undefined);
+	const [filterCollection, setFilterCollection] = useState<string | undefined>(() => urlParams.get('collection') || undefined);
 	const [filterCount, setFilterCount] = useState<string | undefined>(() => urlParams.get('tiles') || undefined);
 	const [filterAuthor, setFilterAuthor] = useState<string | undefined>(() => urlParams.get('author') || undefined);
 	const [dedupe, setDedupe] = useState<boolean>(() => urlParams.get('dedupe') !== '0');
@@ -63,8 +63,8 @@ function App() {
 		if (filterText && filterText.length > 0) {
 			list = list.filter(layout => layout.name.toLowerCase().includes(filterText));
 		}
-		if (filterGroup && filterGroup.length > 0) {
-			list = list.filter(layout => layout.group === filterGroup);
+		if (filterCollection && filterCollection.length > 0) {
+			list = list.filter(layout => layout.collection === filterCollection);
 		}
 		if (filterCount && filterCount.length > 0) {
 			list = list.filter(layout => layout.tiles.toString() === filterCount);
@@ -83,12 +83,12 @@ function App() {
 			});
 		}
 		setFiltered(list);
-	}, [filterText, filterGroup, filterAuthor, filterCount, dedupe])
+	}, [filterText, filterCollection, filterAuthor, filterCount, dedupe])
 
 	useEffect(() => {
 		const params = new URLSearchParams();
 		if (filterText) params.set('q', filterText);
-		if (filterGroup) params.set('group', filterGroup);
+		if (filterCollection) params.set('collection', filterCollection);
 		if (filterAuthor) params.set('author', filterAuthor);
 		if (filterCount) params.set('tiles', filterCount);
 		if (!dedupe) params.set('dedupe', '0');
@@ -96,7 +96,7 @@ function App() {
 		const query = params.toString();
 		const url = query ? `${window.location.pathname}?${query}` : window.location.pathname;
 		window.history.replaceState(null, '', url);
-	}, [filterText, filterGroup, filterAuthor, filterCount, dedupe, opened])
+	}, [filterText, filterCollection, filterAuthor, filterCount, dedupe, opened])
 
 	return (
 		<div className={geocities ? 'geocities' : undefined}>
@@ -123,9 +123,9 @@ function App() {
 							<input type="text" placeholder="Search for name…" defaultValue={filterText ?? ''} onChange={e => setFilterText(e.target.value.toLowerCase())}/>
 						</div>
 						<div className="filter-field">
-							<select defaultValue={filterGroup ?? ''} onChange={e => setFilterGroup(e.target.value)}>
-								<option value="">All groups</option>
-								{GROUPS.map((entry => (
+							<select defaultValue={filterCollection ?? ''} onChange={e => setFilterCollection(e.target.value)}>
+								<option value="">All collections</option>
+								{COLLECTIONS.map((entry => (
 									<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
 								)))}
 							</select>
@@ -171,7 +171,7 @@ function App() {
 							key={`${layout.path}/${layout.filename}`}
 							layout={layout}
 							onOpen={() => setOpened(layout)}
-							showGroup={!filterGroup}
+							showCollection={!filterCollection}
 							showAuthor={!filterAuthor}
 						></Item>
 					))}

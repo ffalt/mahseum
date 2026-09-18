@@ -10,7 +10,7 @@ export const data = [
 		"solvable": true,
 		"filename": "@",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2413951355",
@@ -23,7 +23,7 @@ export const data = [
 		"solvable": true,
 		"filename": "@_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "247107683",
@@ -36,7 +36,7 @@ export const data = [
 		"solvable": true,
 		"filename": "$tep5s_challenge",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1068543571",
@@ -49,7 +49,7 @@ export const data = [
 		"solvable": true,
 		"filename": "12_bars",
 		"path": "ottosson/12bars",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "1068543571",
@@ -62,7 +62,7 @@ export const data = [
 		"solvable": true,
 		"filename": "12_bars_2",
 		"path": "phantagia/lyall/molayouts",
-		"group": "Phantagia - Submitted - Ottosson"
+		"collection": "Phantagia - Submitted - Ottosson"
 	},
 	{
 		"id": "1359647925",
@@ -75,7 +75,7 @@ export const data = [
 		"solvable": true,
 		"filename": "12345_layout",
 		"path": "kurenai/kurenai_signs",
-		"group": "Kurenai - Script signs"
+		"collection": "Kurenai - Script signs"
 	},
 	{
 		"id": "4216247489",
@@ -88,7 +88,7 @@ export const data = [
 		"solvable": true,
 		"filename": "144",
 		"path": "ottosson/144",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "4216247489",
@@ -101,7 +101,7 @@ export const data = [
 		"solvable": true,
 		"filename": "144_2",
 		"path": "phantagia/lyall/molayouts",
-		"group": "Phantagia - Submitted - Ottosson"
+		"collection": "Phantagia - Submitted - Ottosson"
 	},
 	{
 		"id": "1464471147",
@@ -114,7 +114,7 @@ export const data = [
 		"solvable": true,
 		"filename": "144b",
 		"path": "ottosson/144b",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "1657284523",
@@ -127,7 +127,7 @@ export const data = [
 		"solvable": true,
 		"filename": "144cc",
 		"path": "ottosson/144cc",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "222094299",
@@ -140,7 +140,7 @@ export const data = [
 		"solvable": true,
 		"filename": "2_x_6_x_6",
 		"path": "ottosson/2x6x6",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "550212455",
@@ -153,7 +153,7 @@ export const data = [
 		"solvable": true,
 		"filename": "2002",
 		"path": "ottosson/2002",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "177115249",
@@ -166,7 +166,7 @@ export const data = [
 		"solvable": true,
 		"filename": "3_1_2_disk",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "177115249",
@@ -179,7 +179,7 @@ export const data = [
 		"solvable": true,
 		"filename": "3_1_2_disk_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3034328183",
@@ -192,7 +192,7 @@ export const data = [
 		"solvable": true,
 		"filename": "3_crowns",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3034328183",
@@ -205,7 +205,7 @@ export const data = [
 		"solvable": true,
 		"filename": "3_crowns_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "3465156822",
@@ -218,7 +218,7 @@ export const data = [
 		"solvable": true,
 		"filename": "3_mars",
 		"path": "ottosson/3mars",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "757156507",
@@ -231,7 +231,7 @@ export const data = [
 		"solvable": true,
 		"filename": "3_x_6",
 		"path": "ottosson/3x6",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "757156507",
@@ -244,7 +244,7 @@ export const data = [
 		"solvable": true,
 		"filename": "3_x_6_2",
 		"path": "phantagia/lyall/molayouts",
-		"group": "Phantagia - Submitted - Ottosson"
+		"collection": "Phantagia - Submitted - Ottosson"
 	},
 	{
 		"id": "1430227406",
@@ -257,7 +257,7 @@ export const data = [
 		"solvable": true,
 		"filename": "3d_pyramid",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3169279734",
@@ -270,7 +270,7 @@ export const data = [
 		"solvable": true,
 		"filename": "4_winds",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3169279734",
@@ -283,7 +283,7 @@ export const data = [
 		"solvable": true,
 		"filename": "4_winds_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1510609989",
@@ -296,7 +296,7 @@ export const data = [
 		"solvable": true,
 		"filename": "5_1_2_disk",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1510609989",
@@ -309,7 +309,7 @@ export const data = [
 		"solvable": true,
 		"filename": "5_1_2_disk_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2384931023",
@@ -322,7 +322,7 @@ export const data = [
 		"solvable": true,
 		"filename": "6_bars",
 		"path": "ottosson/6bars",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "2384931023",
@@ -335,7 +335,7 @@ export const data = [
 		"solvable": true,
 		"filename": "6_bars_2",
 		"path": "phantagia/lyall/molayouts",
-		"group": "Phantagia - Submitted - Ottosson"
+		"collection": "Phantagia - Submitted - Ottosson"
 	},
 	{
 		"id": "444957301",
@@ -348,7 +348,7 @@ export const data = [
 		"solvable": true,
 		"filename": "6_x_24",
 		"path": "ottosson/6x24",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "1146468334",
@@ -361,7 +361,7 @@ export const data = [
 		"solvable": true,
 		"filename": "711",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1146468334",
@@ -374,7 +374,7 @@ export const data = [
 		"solvable": true,
 		"filename": "711_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2140984643",
@@ -387,7 +387,7 @@ export const data = [
 		"solvable": true,
 		"filename": "9_bars",
 		"path": "ottosson/9bars",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "2140984643",
@@ -400,7 +400,7 @@ export const data = [
 		"solvable": true,
 		"filename": "9_bars_2",
 		"path": "phantagia/lyall/molayouts",
-		"group": "Phantagia - Submitted - Ottosson"
+		"collection": "Phantagia - Submitted - Ottosson"
 	},
 	{
 		"id": "973763131",
@@ -413,7 +413,7 @@ export const data = [
 		"solvable": true,
 		"filename": "a_pyramid_that",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "973763131",
@@ -426,7 +426,7 @@ export const data = [
 		"solvable": true,
 		"filename": "a_pyramid_that_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1261781423",
@@ -439,7 +439,7 @@ export const data = [
 		"solvable": true,
 		"filename": "a_pyramid_that__2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "82733961",
@@ -452,7 +452,7 @@ export const data = [
 		"solvable": true,
 		"filename": "a_real_pyramid_finally",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "82733961",
@@ -465,7 +465,7 @@ export const data = [
 		"solvable": true,
 		"filename": "a_real_pyramid_finally_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2997672380",
@@ -478,7 +478,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abc",
 		"path": "kyodaimahjongg/mkm-abc",
-		"group": "My Kyodai Mahjongg"
+		"collection": "My Kyodai Mahjongg"
 	},
 	{
 		"id": "3356816339",
@@ -491,7 +491,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abcs",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "2301857809",
@@ -504,7 +504,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstract",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2301857809",
@@ -517,7 +517,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstract_3",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3176735621",
@@ -530,7 +530,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstract_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3176735621",
@@ -543,7 +543,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstract_2_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2209111101",
@@ -556,7 +556,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstract_garden",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "3025994197",
@@ -569,7 +569,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstractly_designed_bridge",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3025994197",
@@ -582,7 +582,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstractly_designed_bridge_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2059101500",
@@ -595,7 +595,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstractly_designed_building",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2059101500",
@@ -608,7 +608,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstractly_designed_building_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "4253700593",
@@ -621,7 +621,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstractly_designed_pyramid",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4253700593",
@@ -634,7 +634,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstractly_designed_pyramid_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2388629829",
@@ -647,7 +647,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstractly_designed_staircase",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2388629829",
@@ -660,7 +660,7 @@ export const data = [
 		"solvable": true,
 		"filename": "abstractly_designed_staircase_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "131490899",
@@ -673,7 +673,7 @@ export const data = [
 		"solvable": true,
 		"filename": "akane_(in_kanji)",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "131490899",
@@ -686,7 +686,7 @@ export const data = [
 		"solvable": true,
 		"filename": "akane_(in_kanji)_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1141643581",
@@ -699,7 +699,7 @@ export const data = [
 		"solvable": true,
 		"filename": "alien",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1141643581",
@@ -712,7 +712,7 @@ export const data = [
 		"solvable": true,
 		"filename": "alien_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3122236871",
@@ -725,7 +725,7 @@ export const data = [
 		"solvable": true,
 		"filename": "altar",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3122236871",
@@ -738,7 +738,7 @@ export const data = [
 		"solvable": true,
 		"filename": "altar_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3263615051",
@@ -751,7 +751,7 @@ export const data = [
 		"solvable": true,
 		"filename": "amaze",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3263615051",
@@ -764,7 +764,7 @@ export const data = [
 		"solvable": true,
 		"filename": "amaze_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3952103194",
@@ -777,7 +777,7 @@ export const data = [
 		"solvable": true,
 		"filename": "anchor",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3952103194",
@@ -790,7 +790,7 @@ export const data = [
 		"solvable": true,
 		"filename": "anchor_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "1146659011",
@@ -803,7 +803,7 @@ export const data = [
 		"solvable": true,
 		"filename": "angel",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1146659011",
@@ -816,7 +816,7 @@ export const data = [
 		"solvable": true,
 		"filename": "angel_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1146659011",
@@ -829,7 +829,7 @@ export const data = [
 		"solvable": true,
 		"filename": "angel_3",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1941232304",
@@ -842,7 +842,7 @@ export const data = [
 		"solvable": true,
 		"filename": "another_round",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1941232304",
@@ -855,7 +855,7 @@ export const data = [
 		"solvable": true,
 		"filename": "another_round_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3246425737",
@@ -868,7 +868,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ape",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "1257384226",
@@ -881,7 +881,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aqabs_layout",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1257384226",
@@ -894,7 +894,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aqabs_layout_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1811685753",
@@ -907,7 +907,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aquarius",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1811685753",
@@ -920,7 +920,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aquarius_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "2828319163",
@@ -933,7 +933,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aquarius_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2828319163",
@@ -946,7 +946,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aquarius_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "2327975273",
@@ -959,7 +959,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arena",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2244923190",
@@ -972,7 +972,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arena_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2244923190",
@@ -985,7 +985,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arena_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2327975273",
@@ -998,7 +998,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arena_4",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2244923190",
@@ -1011,7 +1011,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arena_5",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "2244923190",
@@ -1024,7 +1024,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arena_6",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "3894423065",
@@ -1037,7 +1037,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aries",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3894423065",
@@ -1050,7 +1050,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aries_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "2747546799",
@@ -1063,7 +1063,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aries_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2747546799",
@@ -1076,7 +1076,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aries_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "4136515921",
@@ -1089,7 +1089,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arrow",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "4136515921",
@@ -1102,7 +1102,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arrow_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2529300283",
@@ -1115,7 +1115,7 @@ export const data = [
 		"solvable": true,
 		"filename": "arrow_3",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "96141769",
@@ -1128,7 +1128,7 @@ export const data = [
 		"solvable": true,
 		"filename": "art_moderne",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "96141769",
@@ -1141,7 +1141,7 @@ export const data = [
 		"solvable": true,
 		"filename": "art_moderne_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1922837391",
@@ -1154,7 +1154,7 @@ export const data = [
 		"solvable": true,
 		"filename": "atari",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1922837391",
@@ -1167,7 +1167,7 @@ export const data = [
 		"solvable": true,
 		"filename": "atari_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "598227036",
@@ -1180,7 +1180,7 @@ export const data = [
 		"solvable": true,
 		"filename": "atlantis",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "598227036",
@@ -1193,7 +1193,7 @@ export const data = [
 		"solvable": true,
 		"filename": "atlantis_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2494320832",
@@ -1206,7 +1206,7 @@ export const data = [
 		"solvable": true,
 		"filename": "atwinding",
 		"path": "kurenai/kurenai_signs",
-		"group": "Kurenai - Script signs"
+		"collection": "Kurenai - Script signs"
 	},
 	{
 		"id": "3894175530",
@@ -1219,7 +1219,7 @@ export const data = [
 		"solvable": true,
 		"filename": "autumn",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2569363160",
@@ -1232,7 +1232,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aztec",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2569363160",
@@ -1245,7 +1245,7 @@ export const data = [
 		"solvable": true,
 		"filename": "aztec_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2746243513",
@@ -1258,7 +1258,7 @@ export const data = [
 		"solvable": true,
 		"filename": "balance",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2746243513",
@@ -1271,7 +1271,7 @@ export const data = [
 		"solvable": true,
 		"filename": "balance_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2903949053",
@@ -1284,7 +1284,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_1",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1606309921",
@@ -1297,7 +1297,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_2",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "423726998",
@@ -1310,7 +1310,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_3",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1308148287",
@@ -1323,7 +1323,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_4",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1447962209",
@@ -1336,7 +1336,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_5",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "956583719",
@@ -1349,7 +1349,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_6",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "401770083",
@@ -1362,7 +1362,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_7",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "3827315169",
@@ -1375,7 +1375,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_8",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1532575429",
@@ -1388,7 +1388,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bam_9",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1832269123",
@@ -1401,7 +1401,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bamboo",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1551148708",
@@ -1414,7 +1414,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bamboo_3",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "2618382043",
@@ -1427,7 +1427,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bamboo_1",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "1091145872",
@@ -1440,7 +1440,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bamboo_2",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3840345487",
@@ -1453,7 +1453,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bamboo_4",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "719322231",
@@ -1466,7 +1466,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bamboo_5",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3998402127",
@@ -1479,7 +1479,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bamboo_7",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3395189542",
@@ -1492,7 +1492,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bamboo_8",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "2922093337",
@@ -1505,7 +1505,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bat",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2922093337",
@@ -1518,7 +1518,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bat_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "855991334",
@@ -1531,7 +1531,7 @@ export const data = [
 		"solvable": true,
 		"filename": "baxterbuilding",
 		"path": "missfantastic",
-		"group": "Miss Fantastic"
+		"collection": "Miss Fantastic"
 	},
 	{
 		"id": "2220604706",
@@ -1544,7 +1544,7 @@ export const data = [
 		"solvable": true,
 		"filename": "beatle",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2220604706",
@@ -1557,7 +1557,7 @@ export const data = [
 		"solvable": true,
 		"filename": "beatle_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4184054105",
@@ -1570,7 +1570,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bei",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2992078235",
@@ -1583,7 +1583,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bei_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2992078235",
@@ -1596,7 +1596,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bei_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2992078235",
@@ -1609,7 +1609,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bei_4",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "498292843",
@@ -1622,7 +1622,7 @@ export const data = [
 		"solvable": true,
 		"filename": "big_hole",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "498292843",
@@ -1635,7 +1635,7 @@ export const data = [
 		"solvable": true,
 		"filename": "big_hole_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "498292843",
@@ -1648,7 +1648,7 @@ export const data = [
 		"solvable": true,
 		"filename": "big_hole_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "498292843",
@@ -1661,7 +1661,7 @@ export const data = [
 		"solvable": true,
 		"filename": "big_hole_4",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "399314505",
@@ -1674,7 +1674,7 @@ export const data = [
 		"solvable": true,
 		"filename": "big_mountain",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "399314505",
@@ -1687,7 +1687,7 @@ export const data = [
 		"solvable": true,
 		"filename": "big_mountain_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4214638225",
@@ -1700,7 +1700,7 @@ export const data = [
 		"solvable": true,
 		"filename": "big_tile",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "1537258515",
@@ -1713,7 +1713,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bird",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "2445371222",
@@ -1726,7 +1726,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bishop",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2445371222",
@@ -1739,7 +1739,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bishop_2",
 		"path": "phantagia/eplayouts/eplaychess",
-		"group": "Phantagia - Package A - Chess"
+		"collection": "Phantagia - Package A - Chess"
 	},
 	{
 		"id": "103865979",
@@ -1752,7 +1752,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bizarre",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "103865979",
@@ -1765,7 +1765,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bizarre_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4019474613",
@@ -1778,7 +1778,7 @@ export const data = [
 		"solvable": true,
 		"filename": "block",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "985222905",
@@ -1791,7 +1791,7 @@ export const data = [
 		"solvable": true,
 		"filename": "block_2",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "3585119231",
@@ -1804,7 +1804,7 @@ export const data = [
 		"solvable": true,
 		"filename": "blocks",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3585119231",
@@ -1817,7 +1817,7 @@ export const data = [
 		"solvable": true,
 		"filename": "blocks_3",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "983781299",
@@ -1830,7 +1830,7 @@ export const data = [
 		"solvable": true,
 		"filename": "blocks_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "983781299",
@@ -1843,7 +1843,7 @@ export const data = [
 		"solvable": true,
 		"filename": "blocks_2_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "4122326287",
@@ -1856,7 +1856,7 @@ export const data = [
 		"solvable": true,
 		"filename": "boar",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "3694126360",
@@ -1869,7 +1869,7 @@ export const data = [
 		"solvable": true,
 		"filename": "boat",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3694126360",
@@ -1882,7 +1882,7 @@ export const data = [
 		"solvable": true,
 		"filename": "boat_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "205272848",
@@ -1895,7 +1895,7 @@ export const data = [
 		"solvable": true,
 		"filename": "boaz",
 		"path": "mugwump",
-		"group": "Mugwump Dillard"
+		"collection": "Mugwump Dillard"
 	},
 	{
 		"id": "205272848",
@@ -1908,7 +1908,7 @@ export const data = [
 		"solvable": true,
 		"filename": "boaz_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2077375749",
@@ -1921,7 +1921,7 @@ export const data = [
 		"solvable": true,
 		"filename": "boeder",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2077375749",
@@ -1934,7 +1934,7 @@ export const data = [
 		"solvable": true,
 		"filename": "boeder_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1477463469",
@@ -1947,7 +1947,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bordered_pyramid",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "2390778483",
@@ -1960,7 +1960,7 @@ export const data = [
 		"solvable": true,
 		"filename": "borders",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1951993568",
@@ -1973,7 +1973,7 @@ export const data = [
 		"solvable": true,
 		"filename": "borders_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2894080433",
@@ -1986,7 +1986,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bow_tie",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2894080433",
@@ -1999,7 +1999,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bow_tie_3",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "1060801340",
@@ -2012,7 +2012,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bow_tie_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1060801340",
@@ -2025,7 +2025,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bow_tie_2_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "4166915225",
@@ -2038,7 +2038,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bowl",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4166915225",
@@ -2051,7 +2051,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bowl_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2395313013",
@@ -2064,7 +2064,7 @@ export const data = [
 		"solvable": true,
 		"filename": "breakout",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2395313013",
@@ -2077,7 +2077,7 @@ export const data = [
 		"solvable": true,
 		"filename": "breakout_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1990379391",
@@ -2090,7 +2090,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bridge",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1258256580",
@@ -2103,7 +2103,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bridge_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1990379391",
@@ -2116,7 +2116,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bridge_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1258256580",
@@ -2129,7 +2129,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bridge_4",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3692029556",
@@ -2142,7 +2142,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bridge_5",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "2614173575",
@@ -2155,7 +2155,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bridging",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1981371889",
@@ -2168,7 +2168,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bug",
 		"path": "green-mahjong",
-		"group": "Green Mahjong"
+		"collection": "Green Mahjong"
 	},
 	{
 		"id": "1981371889",
@@ -2181,7 +2181,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bug_2",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1981371889",
@@ -2194,7 +2194,7 @@ export const data = [
 		"solvable": true,
 		"filename": "bug_3",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "309366373",
@@ -2207,7 +2207,7 @@ export const data = [
 		"solvable": true,
 		"filename": "butterfly",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3599657819",
@@ -2220,7 +2220,7 @@ export const data = [
 		"solvable": true,
 		"filename": "butterfly_2",
 		"path": "kyodaimahjongg/mkm-butterfly",
-		"group": "My Kyodai Mahjongg"
+		"collection": "My Kyodai Mahjongg"
 	},
 	{
 		"id": "309366373",
@@ -2233,7 +2233,7 @@ export const data = [
 		"solvable": true,
 		"filename": "butterfly_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3715804836",
@@ -2246,7 +2246,7 @@ export const data = [
 		"solvable": true,
 		"filename": "butterfly_4",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "88932506",
@@ -2259,7 +2259,7 @@ export const data = [
 		"solvable": true,
 		"filename": "butterfly_5",
 		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
 		"id": "606211869",
@@ -2272,7 +2272,7 @@ export const data = [
 		"solvable": true,
 		"filename": "calculations",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "3080120832",
@@ -2285,7 +2285,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cancer",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3080120832",
@@ -2298,7 +2298,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cancer_3",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "1109540507",
@@ -2311,7 +2311,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cancer_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1109540507",
@@ -2324,7 +2324,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cancer_2_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "641182621",
@@ -2337,7 +2337,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cancer_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "641182621",
@@ -2350,7 +2350,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cancer_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "2380562471",
@@ -2363,7 +2363,7 @@ export const data = [
 		"solvable": true,
 		"filename": "capricorn",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2380562471",
@@ -2376,7 +2376,7 @@ export const data = [
 		"solvable": true,
 		"filename": "capricorn_3",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "1392295963",
@@ -2389,7 +2389,7 @@ export const data = [
 		"solvable": true,
 		"filename": "capricorn_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1392295963",
@@ -2402,7 +2402,7 @@ export const data = [
 		"solvable": true,
 		"filename": "capricorn_2_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "622383317",
@@ -2415,7 +2415,7 @@ export const data = [
 		"solvable": true,
 		"filename": "capricorn_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "622383317",
@@ -2428,7 +2428,7 @@ export const data = [
 		"solvable": true,
 		"filename": "capricorn_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "3663327479",
@@ -2441,7 +2441,7 @@ export const data = [
 		"solvable": true,
 		"filename": "car",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3663327479",
@@ -2454,7 +2454,7 @@ export const data = [
 		"solvable": true,
 		"filename": "car_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "520899656",
@@ -2467,7 +2467,7 @@ export const data = [
 		"solvable": true,
 		"filename": "card_colours",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2908144187",
@@ -2480,7 +2480,7 @@ export const data = [
 		"solvable": true,
 		"filename": "carnival",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2908144187",
@@ -2493,7 +2493,7 @@ export const data = [
 		"solvable": true,
 		"filename": "carnival_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2355281156",
@@ -2506,7 +2506,7 @@ export const data = [
 		"solvable": true,
 		"filename": "castle",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1610571829",
@@ -2519,7 +2519,7 @@ export const data = [
 		"solvable": true,
 		"filename": "castle_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1610571829",
@@ -2532,7 +2532,7 @@ export const data = [
 		"solvable": true,
 		"filename": "castle_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2355281156",
@@ -2545,7 +2545,7 @@ export const data = [
 		"solvable": true,
 		"filename": "castle_4",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "366036150",
@@ -2558,7 +2558,7 @@ export const data = [
 		"solvable": true,
 		"filename": "castle_5",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "1610571829",
@@ -2571,7 +2571,7 @@ export const data = [
 		"solvable": true,
 		"filename": "castle_6",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "3881608226",
@@ -2584,7 +2584,7 @@ export const data = [
 		"solvable": true,
 		"filename": "castle2",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3881608226",
@@ -2597,7 +2597,7 @@ export const data = [
 		"solvable": true,
 		"filename": "castle2_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1311036818",
@@ -2610,7 +2610,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cat",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "596278017",
@@ -2623,7 +2623,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cat_2",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "1311036818",
@@ -2636,7 +2636,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cat_3",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "4092923114",
@@ -2649,7 +2649,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cat_and_mouse",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4092923114",
@@ -2662,7 +2662,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cat_and_mouse_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "995469741",
@@ -2675,7 +2675,7 @@ export const data = [
 		"solvable": true,
 		"filename": "celtic_cross",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "3955112368",
@@ -2688,7 +2688,7 @@ export const data = [
 		"solvable": true,
 		"filename": "center_of_sun",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3955112368",
@@ -2701,7 +2701,7 @@ export const data = [
 		"solvable": true,
 		"filename": "center_of_sun_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "888948638",
@@ -2714,7 +2714,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ceremonial",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "888948638",
@@ -2727,7 +2727,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ceremonial_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "888948638",
@@ -2740,7 +2740,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ceremonial_3",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "1713308403",
@@ -2753,7 +2753,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ceremonial_well",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1713308403",
@@ -2766,7 +2766,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ceremonial_well_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1618575093",
@@ -2779,7 +2779,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chains",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1618575093",
@@ -2792,7 +2792,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chains_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2867973359",
@@ -2805,7 +2805,7 @@ export const data = [
 		"solvable": true,
 		"filename": "challenger",
 		"path": "phantagia/lyall/lychall",
-		"group": "Phantagia - Submitted - Sanna"
+		"collection": "Phantagia - Submitted - Sanna"
 	},
 	{
 		"id": "2231535005",
@@ -2818,7 +2818,7 @@ export const data = [
 		"solvable": true,
 		"filename": "checkered",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2231535005",
@@ -2831,7 +2831,7 @@ export const data = [
 		"solvable": true,
 		"filename": "checkered_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "830486296",
@@ -2844,7 +2844,7 @@ export const data = [
 		"solvable": true,
 		"filename": "checkers",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3644879803",
@@ -2857,7 +2857,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chessmania",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3644879803",
@@ -2870,7 +2870,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chessmania_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4045161034",
@@ -2883,7 +2883,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chibi",
 		"path": "kurenai/kurenai_signs",
-		"group": "Kurenai - Script signs"
+		"collection": "Kurenai - Script signs"
 	},
 	{
 		"id": "4012729841",
@@ -2896,7 +2896,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chinese_wall",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1273324342",
@@ -2909,7 +2909,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chip",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1273324342",
@@ -2922,7 +2922,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chip_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3034529237",
@@ -2935,7 +2935,7 @@ export const data = [
 		"solvable": true,
 		"filename": "chrysanthemum",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3707622865",
@@ -2948,7 +2948,7 @@ export const data = [
 		"solvable": true,
 		"filename": "circle_1",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "561761413",
@@ -2961,7 +2961,7 @@ export const data = [
 		"solvable": true,
 		"filename": "circle_2",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "1491257241",
@@ -2974,7 +2974,7 @@ export const data = [
 		"solvable": true,
 		"filename": "circle_3",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "1365056270",
@@ -2987,7 +2987,7 @@ export const data = [
 		"solvable": true,
 		"filename": "circle_4",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "2753867361",
@@ -3000,7 +3000,7 @@ export const data = [
 		"solvable": true,
 		"filename": "circle_5",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3738613983",
@@ -3013,7 +3013,7 @@ export const data = [
 		"solvable": true,
 		"filename": "circle_6",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "696971540",
@@ -3026,7 +3026,7 @@ export const data = [
 		"solvable": true,
 		"filename": "circle_7",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "2795841752",
@@ -3039,7 +3039,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cloud",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "2795841752",
@@ -3052,7 +3052,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cloud_2",
 		"path": "green-mahjong",
-		"group": "Green Mahjong"
+		"collection": "Green Mahjong"
 	},
 	{
 		"id": "2795841752",
@@ -3065,7 +3065,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cloud_3",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "1547526568",
@@ -3078,7 +3078,7 @@ export const data = [
 		"solvable": true,
 		"filename": "clubs",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2176801565",
@@ -3091,7 +3091,7 @@ export const data = [
 		"solvable": true,
 		"filename": "clubs_2",
 		"path": "kyodaimahjongg/mkm-clubs",
-		"group": "My Kyodai Mahjongg"
+		"collection": "My Kyodai Mahjongg"
 	},
 	{
 		"id": "3331484719",
@@ -3104,7 +3104,7 @@ export const data = [
 		"solvable": true,
 		"filename": "clubs_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1547526568",
@@ -3117,7 +3117,7 @@ export const data = [
 		"solvable": true,
 		"filename": "clubs_4",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3331484719",
@@ -3130,7 +3130,7 @@ export const data = [
 		"solvable": true,
 		"filename": "clubs_5",
 		"path": "phantagia/eplayouts/eplaycards",
-		"group": "Phantagia - Package A - Cards"
+		"collection": "Phantagia - Package A - Cards"
 	},
 	{
 		"id": "3149527624",
@@ -3143,7 +3143,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cluster",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "2430246487",
@@ -3156,7 +3156,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cluster_2",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "676078633",
@@ -3169,7 +3169,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cobra",
 		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
 		"id": "585974162",
@@ -3182,7 +3182,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cock",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "2167650397",
@@ -3195,7 +3195,7 @@ export const data = [
 		"solvable": true,
 		"filename": "coffee_cup",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2167650397",
@@ -3208,7 +3208,7 @@ export const data = [
 		"solvable": true,
 		"filename": "coffee_cup_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2167650397",
@@ -3221,7 +3221,7 @@ export const data = [
 		"solvable": true,
 		"filename": "coffee_cup_4",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2707205185",
@@ -3234,7 +3234,7 @@ export const data = [
 		"solvable": true,
 		"filename": "coffee_cup_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2627258573",
@@ -3247,7 +3247,7 @@ export const data = [
 		"solvable": true,
 		"filename": "coffin",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "927950349",
@@ -3260,7 +3260,7 @@ export const data = [
 		"solvable": true,
 		"filename": "colesseum",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "927950349",
@@ -3273,7 +3273,7 @@ export const data = [
 		"solvable": true,
 		"filename": "colesseum_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "824648624",
@@ -3286,7 +3286,7 @@ export const data = [
 		"solvable": true,
 		"filename": "columns",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3824962503",
@@ -3299,7 +3299,7 @@ export const data = [
 		"solvable": true,
 		"filename": "columns_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "824648624",
@@ -3312,7 +3312,7 @@ export const data = [
 		"solvable": true,
 		"filename": "columns_3",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3824962503",
@@ -3325,7 +3325,7 @@ export const data = [
 		"solvable": true,
 		"filename": "columns_4",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2970831693",
@@ -3338,7 +3338,7 @@ export const data = [
 		"solvable": true,
 		"filename": "commodore",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2970831693",
@@ -3351,7 +3351,7 @@ export const data = [
 		"solvable": true,
 		"filename": "commodore_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "4185806387",
@@ -3364,7 +3364,7 @@ export const data = [
 		"solvable": true,
 		"filename": "confounding_cross",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "4185806387",
@@ -3377,7 +3377,7 @@ export const data = [
 		"solvable": true,
 		"filename": "confounding_cross_2",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "753923615",
@@ -3390,7 +3390,7 @@ export const data = [
 		"solvable": true,
 		"filename": "corner_stairs",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "3151660650",
@@ -3403,7 +3403,7 @@ export const data = [
 		"solvable": true,
 		"filename": "covered_duct",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2062930018",
@@ -3416,7 +3416,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crab",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3782105817",
@@ -3429,7 +3429,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crab_2",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2062930018",
@@ -3442,7 +3442,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crab_3",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2803694319",
@@ -3455,7 +3455,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crazy_table",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "3835555931",
@@ -3468,7 +3468,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crazy_wheel",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "110453621",
@@ -3481,7 +3481,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "900258477",
@@ -3494,7 +3494,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_2",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "3646809689",
@@ -3507,7 +3507,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_3",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1742490521",
@@ -3520,7 +3520,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_4",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "830175737",
@@ -3533,7 +3533,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_5",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3646809689",
@@ -3546,7 +3546,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_6",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "110453621",
@@ -3559,7 +3559,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_7",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1742490521",
@@ -3572,7 +3572,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_8",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "830175737",
@@ -3585,7 +3585,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_9",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "3520031236",
@@ -3598,7 +3598,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cross_2_2",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "3154821308",
@@ -3611,7 +3611,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crossover",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3154821308",
@@ -3624,7 +3624,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crossover_2",
 		"path": "phantagia/lyall/chlayouts",
-		"group": "Phantagia - Submitted - Chang"
+		"collection": "Phantagia - Submitted - Chang"
 	},
 	{
 		"id": "1312020155",
@@ -3637,7 +3637,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crown",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1499538631",
@@ -3650,7 +3650,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crown_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1312020155",
@@ -3663,7 +3663,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crown_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1499538631",
@@ -3676,7 +3676,7 @@ export const data = [
 		"solvable": true,
 		"filename": "crown_4",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "593282196",
@@ -3689,7 +3689,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cupidos_heart",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "593282196",
@@ -3702,7 +3702,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cupidos_heart_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4046401468",
@@ -3715,7 +3715,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cupola",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4046401468",
@@ -3728,7 +3728,7 @@ export const data = [
 		"solvable": true,
 		"filename": "cupola_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3211640800",
@@ -3741,7 +3741,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dance_dance_revolution",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3211640800",
@@ -3754,7 +3754,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dance_dance_revolution_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1658361380",
@@ -3767,7 +3767,7 @@ export const data = [
 		"solvable": true,
 		"filename": "deceptive",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1658361380",
@@ -3780,7 +3780,7 @@ export const data = [
 		"solvable": true,
 		"filename": "deceptive_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2576010163",
@@ -3793,7 +3793,7 @@ export const data = [
 		"solvable": true,
 		"filename": "deep_well",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2576010163",
@@ -3806,7 +3806,7 @@ export const data = [
 		"solvable": true,
 		"filename": "deep_well_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2576010163",
@@ -3819,7 +3819,7 @@ export const data = [
 		"solvable": true,
 		"filename": "deep_well_3",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "2576010163",
@@ -3832,7 +3832,7 @@ export const data = [
 		"solvable": true,
 		"filename": "deepwell",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "1982003605",
@@ -3845,7 +3845,7 @@ export const data = [
 		"solvable": true,
 		"filename": "default",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "745273906",
@@ -3858,7 +3858,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "3347355407",
@@ -3871,7 +3871,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_10",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "193081203",
@@ -3884,7 +3884,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_11",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "3852139350",
@@ -3897,7 +3897,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_12",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "2469401483",
@@ -3910,7 +3910,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_2",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "1198805425",
@@ -3923,7 +3923,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_3",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "2838738101",
@@ -3936,7 +3936,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_4",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "2730080863",
@@ -3949,7 +3949,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_5",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "2154460746",
@@ -3962,7 +3962,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_6",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "2868340680",
@@ -3975,7 +3975,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_7",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "3115628803",
@@ -3988,7 +3988,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_8",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "2864848114",
@@ -4001,7 +4001,7 @@ export const data = [
 		"solvable": true,
 		"filename": "design_9",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "4136190174",
@@ -4014,7 +4014,7 @@ export const data = [
 		"solvable": true,
 		"filename": "deux_chevaux",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4136190174",
@@ -4027,7 +4027,7 @@ export const data = [
 		"solvable": true,
 		"filename": "deux_chevaux_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "1754629418",
@@ -4040,7 +4040,7 @@ export const data = [
 		"solvable": true,
 		"filename": "diagonal_checkered_layout",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1754629418",
@@ -4053,7 +4053,7 @@ export const data = [
 		"solvable": true,
 		"filename": "diagonal_checkered_layout_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3525155109",
@@ -4066,7 +4066,7 @@ export const data = [
 		"solvable": true,
 		"filename": "diamond",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3525155109",
@@ -4079,7 +4079,7 @@ export const data = [
 		"solvable": true,
 		"filename": "diamond_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4043514211",
@@ -4092,7 +4092,7 @@ export const data = [
 		"solvable": true,
 		"filename": "diamonds",
 		"path": "kyodaimahjongg/mkm-diamonds",
-		"group": "My Kyodai Mahjongg"
+		"collection": "My Kyodai Mahjongg"
 	},
 	{
 		"id": "3520457313",
@@ -4105,7 +4105,7 @@ export const data = [
 		"solvable": true,
 		"filename": "diamonds_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3520457313",
@@ -4118,7 +4118,7 @@ export const data = [
 		"solvable": true,
 		"filename": "diamonds_3",
 		"path": "phantagia/eplayouts/eplaycards",
-		"group": "Phantagia - Package A - Cards"
+		"collection": "Phantagia - Package A - Cards"
 	},
 	{
 		"id": "1593763508",
@@ -4131,7 +4131,7 @@ export const data = [
 		"solvable": true,
 		"filename": "diamonds_are_a_girls_best_friend",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "887863144",
@@ -4144,7 +4144,7 @@ export const data = [
 		"solvable": true,
 		"filename": "difficult",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "4116962659",
@@ -4157,7 +4157,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dog",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "3143232112",
@@ -4170,7 +4170,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dog_2",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "551179349",
@@ -4183,7 +4183,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dollar",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "36792219",
@@ -4196,7 +4196,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dollar_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "36792219",
@@ -4209,7 +4209,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dollar_3",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "551179349",
@@ -4222,7 +4222,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dollar_4",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1901457387",
@@ -4235,7 +4235,7 @@ export const data = [
 		"solvable": true,
 		"filename": "domino",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1901457387",
@@ -4248,7 +4248,7 @@ export const data = [
 		"solvable": true,
 		"filename": "domino_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "539379754",
@@ -4261,7 +4261,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dont_tread_on_me",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "949525326",
@@ -4274,7 +4274,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dong",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "3947254693",
@@ -4287,7 +4287,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dong_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3947254693",
@@ -4300,7 +4300,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dong_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3947254693",
@@ -4313,7 +4313,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dong_4",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "562513980",
@@ -4326,7 +4326,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dot_1",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "3337046881",
@@ -4339,7 +4339,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dots_2",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "3589290135",
@@ -4352,7 +4352,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dots_3",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "3050020863",
@@ -4365,7 +4365,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dots_4",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "4171281685",
@@ -4378,7 +4378,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dots_5",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2736616067",
@@ -4391,7 +4391,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dots_6",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "3753953255",
@@ -4404,7 +4404,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dots_7",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2442299363",
@@ -4417,7 +4417,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dots_8",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1106061515",
@@ -4430,7 +4430,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dots_9",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2921614339",
@@ -4443,7 +4443,7 @@ export const data = [
 		"solvable": true,
 		"filename": "double_pyramid",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2921614339",
@@ -4456,7 +4456,7 @@ export const data = [
 		"solvable": true,
 		"filename": "double_pyramid_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "4121254526",
@@ -4469,7 +4469,7 @@ export const data = [
 		"solvable": true,
 		"filename": "draco",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4121254526",
@@ -4482,7 +4482,7 @@ export const data = [
 		"solvable": true,
 		"filename": "draco_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "753520557",
@@ -4495,7 +4495,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dragon",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "3298243145",
@@ -4508,7 +4508,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dsf",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3298243145",
@@ -4521,7 +4521,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dsf_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1953902364",
@@ -4534,7 +4534,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dude",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1953902364",
@@ -4547,7 +4547,7 @@ export const data = [
 		"solvable": true,
 		"filename": "dude_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4065367751",
@@ -4560,7 +4560,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eagle",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "4065367751",
@@ -4573,7 +4573,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eagle_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3676957603",
@@ -4586,7 +4586,7 @@ export const data = [
 		"solvable": true,
 		"filename": "earth",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3676957603",
@@ -4599,7 +4599,7 @@ export const data = [
 		"solvable": true,
 		"filename": "earth_4",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "1273379967",
@@ -4612,7 +4612,7 @@ export const data = [
 		"solvable": true,
 		"filename": "earth_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1273379967",
@@ -4625,7 +4625,7 @@ export const data = [
 		"solvable": true,
 		"filename": "earth_2_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "4090406879",
@@ -4638,7 +4638,7 @@ export const data = [
 		"solvable": true,
 		"filename": "earth_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4090406879",
@@ -4651,7 +4651,7 @@ export const data = [
 		"solvable": true,
 		"filename": "earth_3_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "1982003605",
@@ -4664,7 +4664,7 @@ export const data = [
 		"solvable": true,
 		"filename": "easy",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "3368092546",
@@ -4677,7 +4677,7 @@ export const data = [
 		"solvable": true,
 		"filename": "easy_rectangles",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "1125761793",
@@ -4690,7 +4690,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eight_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "2085580587",
@@ -4703,7 +4703,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eight_stacks",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2085580587",
@@ -4716,7 +4716,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eight_stacks_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2085580587",
@@ -4729,7 +4729,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eight_stacks_3",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3098326257",
@@ -4742,7 +4742,7 @@ export const data = [
 		"solvable": true,
 		"filename": "electronic_arts",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3098326257",
@@ -4755,7 +4755,7 @@ export const data = [
 		"solvable": true,
 		"filename": "electronic_arts_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2562392856",
@@ -4768,7 +4768,7 @@ export const data = [
 		"solvable": true,
 		"filename": "elephant",
 		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
 		"id": "617914014",
@@ -4781,7 +4781,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eleven_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "801192749",
@@ -4794,7 +4794,7 @@ export const data = [
 		"solvable": true,
 		"filename": "empty_pyramids",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "801192749",
@@ -4807,7 +4807,7 @@ export const data = [
 		"solvable": true,
 		"filename": "empty_pyramids_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4283949265",
@@ -4820,7 +4820,7 @@ export const data = [
 		"solvable": true,
 		"filename": "enterprise",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "4283949265",
@@ -4833,7 +4833,7 @@ export const data = [
 		"solvable": true,
 		"filename": "enterprise_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1204472365",
@@ -4846,7 +4846,7 @@ export const data = [
 		"solvable": true,
 		"filename": "envelope",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1204472365",
@@ -4859,7 +4859,7 @@ export const data = [
 		"solvable": true,
 		"filename": "envelope_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "1192125567",
@@ -4872,7 +4872,7 @@ export const data = [
 		"solvable": true,
 		"filename": "es-small",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3585724525",
@@ -4885,7 +4885,7 @@ export const data = [
 		"solvable": true,
 		"filename": "euro",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2094861327",
@@ -4898,7 +4898,7 @@ export const data = [
 		"solvable": true,
 		"filename": "euro_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2499268487",
@@ -4911,7 +4911,7 @@ export const data = [
 		"solvable": true,
 		"filename": "explosion",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2499268487",
@@ -4924,7 +4924,7 @@ export const data = [
 		"solvable": true,
 		"filename": "explosion_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "254190352",
@@ -4937,7 +4937,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eye",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1500117839",
@@ -4950,7 +4950,7 @@ export const data = [
 		"solvable": true,
 		"filename": "eyeball",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "1821841778",
@@ -4963,7 +4963,7 @@ export const data = [
 		"solvable": true,
 		"filename": "f-15_eagle",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2690364653",
@@ -4976,7 +4976,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fantastic_four",
 		"path": "missfantastic",
-		"group": "Miss Fantastic"
+		"collection": "Miss Fantastic"
 	},
 	{
 		"id": "392868342",
@@ -4989,7 +4989,7 @@ export const data = [
 		"solvable": true,
 		"filename": "farandole",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "392868342",
@@ -5002,7 +5002,7 @@ export const data = [
 		"solvable": true,
 		"filename": "farandole_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "392868342",
@@ -5015,7 +5015,7 @@ export const data = [
 		"solvable": true,
 		"filename": "farandole_3",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "3041475913",
@@ -5028,7 +5028,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fence",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "579110545",
@@ -5041,7 +5041,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fence_2",
 		"path": "ottosson/Fence",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "2210853659",
@@ -5054,7 +5054,7 @@ export const data = [
 		"solvable": true,
 		"filename": "find_two_hided_words",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2210853659",
@@ -5067,7 +5067,7 @@ export const data = [
 		"solvable": true,
 		"filename": "find_two_hided_words_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1885652433",
@@ -5080,7 +5080,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fish",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1885652433",
@@ -5093,7 +5093,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fish_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3486618895",
@@ -5106,7 +5106,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fish_3",
 		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
 		"id": "2173416522",
@@ -5119,7 +5119,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fish_face",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2173416522",
@@ -5132,7 +5132,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fish_face_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2095480368",
@@ -5145,7 +5145,7 @@ export const data = [
 		"solvable": true,
 		"filename": "five_pyramids",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2095480368",
@@ -5158,7 +5158,7 @@ export const data = [
 		"solvable": true,
 		"filename": "five_pyramids_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3406740221",
@@ -5171,7 +5171,7 @@ export const data = [
 		"solvable": true,
 		"filename": "five_pyramids_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3406740221",
@@ -5184,7 +5184,7 @@ export const data = [
 		"solvable": true,
 		"filename": "five_pyramids_2_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1338272962",
@@ -5197,7 +5197,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flat_iron",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1338272962",
@@ -5210,7 +5210,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flat_iron_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3545939663",
@@ -5223,7 +5223,7 @@ export const data = [
 		"solvable": true,
 		"filename": "floating_city",
 		"path": "kurenai/kurenai_floater",
-		"group": "Kurenai - Floater"
+		"collection": "Kurenai - Floater"
 	},
 	{
 		"id": "3545939663",
@@ -5236,7 +5236,7 @@ export const data = [
 		"solvable": true,
 		"filename": "floating_city_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3545939663",
@@ -5249,7 +5249,7 @@ export const data = [
 		"solvable": true,
 		"filename": "floating_city_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2738800341",
@@ -5262,7 +5262,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flot",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2063760521",
@@ -5275,7 +5275,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flower",
 		"path": "green-mahjong",
-		"group": "Green Mahjong"
+		"collection": "Green Mahjong"
 	},
 	{
 		"id": "4004255252",
@@ -5288,7 +5288,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flower_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4004255252",
@@ -5301,7 +5301,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flower_3",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "564580225",
@@ -5314,7 +5314,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flowers",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "987269544",
@@ -5327,7 +5327,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flowers_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "987269544",
@@ -5340,7 +5340,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flowers_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "564580225",
@@ -5353,7 +5353,7 @@ export const data = [
 		"solvable": true,
 		"filename": "flowers_4",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1151913060",
@@ -5366,7 +5366,7 @@ export const data = [
 		"solvable": true,
 		"filename": "for_the_sake_of_symmetry",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1151913060",
@@ -5379,7 +5379,7 @@ export const data = [
 		"solvable": true,
 		"filename": "for_the_sake_of_symmetry_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3908581410",
@@ -5392,7 +5392,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fort_boyard",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3908581410",
@@ -5405,7 +5405,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fort_boyard_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1788101945",
@@ -5418,7 +5418,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fortress",
 		"path": "kurenai/kurenai_floater",
-		"group": "Kurenai - Floater"
+		"collection": "Kurenai - Floater"
 	},
 	{
 		"id": "2038562220",
@@ -5431,7 +5431,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fortress_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4202828188",
@@ -5444,7 +5444,7 @@ export const data = [
 		"solvable": true,
 		"filename": "fortress_3",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "1486686890",
@@ -5457,7 +5457,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_bridges",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "1486686890",
@@ -5470,7 +5470,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_bridges_2",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "1457560241",
@@ -5483,7 +5483,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_chipped_pyramids",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1457560241",
@@ -5496,7 +5496,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_chipped_pyramids_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1963582381",
@@ -5509,7 +5509,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_freedoms_plaza",
 		"path": "missfantastic",
-		"group": "Miss Fantastic"
+		"collection": "Miss Fantastic"
 	},
 	{
 		"id": "1486686890",
@@ -5522,7 +5522,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_hills",
 		"path": "green-mahjong",
-		"group": "Green Mahjong"
+		"collection": "Green Mahjong"
 	},
 	{
 		"id": "3900213635",
@@ -5535,7 +5535,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "3050562587",
@@ -5548,7 +5548,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_pyramids_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3050562587",
@@ -5561,7 +5561,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_pyramids_3",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "906377851",
@@ -5574,7 +5574,7 @@ export const data = [
 		"solvable": true,
 		"filename": "four_pyramids_linked",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "1335749063",
@@ -5587,7 +5587,7 @@ export const data = [
 		"solvable": true,
 		"filename": "full_vision",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1335749063",
@@ -5600,7 +5600,7 @@ export const data = [
 		"solvable": true,
 		"filename": "full_vision_4",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2078677334",
@@ -5613,7 +5613,7 @@ export const data = [
 		"solvable": true,
 		"filename": "full_vision_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2078677334",
@@ -5626,7 +5626,7 @@ export const data = [
 		"solvable": true,
 		"filename": "full_vision_2_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2078677334",
@@ -5639,7 +5639,7 @@ export const data = [
 		"solvable": true,
 		"filename": "full_vision_2_3",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "3638094299",
@@ -5652,7 +5652,7 @@ export const data = [
 		"solvable": true,
 		"filename": "full_vision_3",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3638094299",
@@ -5665,7 +5665,7 @@ export const data = [
 		"solvable": true,
 		"filename": "full_vision_3_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "258283513",
@@ -5678,7 +5678,7 @@ export const data = [
 		"solvable": true,
 		"filename": "future",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "258283513",
@@ -5691,7 +5691,7 @@ export const data = [
 		"solvable": true,
 		"filename": "future_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3091729243",
@@ -5704,7 +5704,7 @@ export const data = [
 		"solvable": true,
 		"filename": "galaxy",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3091729243",
@@ -5717,7 +5717,7 @@ export const data = [
 		"solvable": true,
 		"filename": "galaxy_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3688892402",
@@ -5730,7 +5730,7 @@ export const data = [
 		"solvable": true,
 		"filename": "garden",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3688892402",
@@ -5743,7 +5743,7 @@ export const data = [
 		"solvable": true,
 		"filename": "garden_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2345599479",
@@ -5756,7 +5756,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gayles",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2345599479",
@@ -5769,7 +5769,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gayles_2",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "4073613363",
@@ -5782,7 +5782,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gemini",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4073613363",
@@ -5795,7 +5795,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gemini_3",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "2429040549",
@@ -5808,7 +5808,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gemini_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2429040549",
@@ -5821,7 +5821,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gemini_2_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "1794517029",
@@ -5834,7 +5834,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gemini_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1794517029",
@@ -5847,7 +5847,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gemini_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "3018697002",
@@ -5860,7 +5860,7 @@ export const data = [
 		"solvable": true,
 		"filename": "german_cracking_service",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3891765347",
@@ -5873,7 +5873,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gforgeni",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "47442920",
@@ -5886,7 +5886,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gift",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "3185266654",
@@ -5899,7 +5899,7 @@ export const data = [
 		"solvable": true,
 		"filename": "girl",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3185266654",
@@ -5912,7 +5912,7 @@ export const data = [
 		"solvable": true,
 		"filename": "girl_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "866001765",
@@ -5925,7 +5925,7 @@ export const data = [
 		"solvable": true,
 		"filename": "glade",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "866001765",
@@ -5938,7 +5938,7 @@ export const data = [
 		"solvable": true,
 		"filename": "glade_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2510794721",
@@ -5951,7 +5951,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gong",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2510794721",
@@ -5964,7 +5964,7 @@ export const data = [
 		"solvable": true,
 		"filename": "gong_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2103358194",
@@ -5977,7 +5977,7 @@ export const data = [
 		"solvable": true,
 		"filename": "granchio",
 		"path": "deathm1",
-		"group": "Death Mask"
+		"collection": "Death Mask"
 	},
 	{
 		"id": "2103358194",
@@ -5990,7 +5990,7 @@ export const data = [
 		"solvable": true,
 		"filename": "granchio_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4294293028",
@@ -6003,7 +6003,7 @@ export const data = [
 		"solvable": true,
 		"filename": "grate",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "3445399468",
@@ -6016,7 +6016,7 @@ export const data = [
 		"solvable": true,
 		"filename": "grate_2",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "1927177951",
@@ -6029,7 +6029,7 @@ export const data = [
 		"solvable": true,
 		"filename": "great_wall_of_tiles",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1927177951",
@@ -6042,7 +6042,7 @@ export const data = [
 		"solvable": true,
 		"filename": "great_wall_of_tiles_2",
 		"path": "phantagia/lyall/chlayouts",
-		"group": "Phantagia - Submitted - Chang"
+		"collection": "Phantagia - Submitted - Chang"
 	},
 	{
 		"id": "3062718741",
@@ -6055,7 +6055,7 @@ export const data = [
 		"solvable": true,
 		"filename": "green_dragon",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1521292455",
@@ -6068,7 +6068,7 @@ export const data = [
 		"solvable": true,
 		"filename": "grid",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1521292455",
@@ -6081,7 +6081,7 @@ export const data = [
 		"solvable": true,
 		"filename": "grid_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1939886514",
@@ -6094,7 +6094,7 @@ export const data = [
 		"solvable": true,
 		"filename": "grosses_querformat_1",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1963367158",
@@ -6107,7 +6107,7 @@ export const data = [
 		"solvable": true,
 		"filename": "grosses_querformat_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "25601024",
@@ -6120,7 +6120,7 @@ export const data = [
 		"solvable": true,
 		"filename": "grosses_querformat_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "165762811",
@@ -6133,7 +6133,7 @@ export const data = [
 		"solvable": true,
 		"filename": "guess_who_loves_tamahome",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "165762811",
@@ -6146,7 +6146,7 @@ export const data = [
 		"solvable": true,
 		"filename": "guess_who_loves_tamahome_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2954037716",
@@ -6159,7 +6159,7 @@ export const data = [
 		"solvable": true,
 		"filename": "guo",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2954037716",
@@ -6172,7 +6172,7 @@ export const data = [
 		"solvable": true,
 		"filename": "guo_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1975041593",
@@ -6185,7 +6185,7 @@ export const data = [
 		"solvable": true,
 		"filename": "h_for_haga",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1975041593",
@@ -6198,7 +6198,7 @@ export const data = [
 		"solvable": true,
 		"filename": "h_for_haga_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1247970285",
@@ -6211,7 +6211,7 @@ export const data = [
 		"solvable": true,
 		"filename": "h_for_haga_traditional",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1068093741",
@@ -6224,7 +6224,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hare",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "811336906",
@@ -6237,7 +6237,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hawk",
 		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
 		"id": "2269211056",
@@ -6250,7 +6250,7 @@ export const data = [
 		"solvable": true,
 		"filename": "heap",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2732534775",
@@ -6263,7 +6263,7 @@ export const data = [
 		"solvable": true,
 		"filename": "heart",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2732534775",
@@ -6276,7 +6276,7 @@ export const data = [
 		"solvable": true,
 		"filename": "heart_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "4071844932",
@@ -6289,7 +6289,7 @@ export const data = [
 		"solvable": true,
 		"filename": "heart_&_ribbon",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2613760677",
@@ -6302,7 +6302,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hearts",
 		"path": "kyodaimahjongg/mkm-hearts",
-		"group": "My Kyodai Mahjongg"
+		"collection": "My Kyodai Mahjongg"
 	},
 	{
 		"id": "1992194767",
@@ -6315,7 +6315,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hearts_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1992194767",
@@ -6328,7 +6328,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hearts_3",
 		"path": "phantagia/eplayouts/eplaycards",
-		"group": "Phantagia - Package A - Cards"
+		"collection": "Phantagia - Package A - Cards"
 	},
 	{
 		"id": "3367093096",
@@ -6341,7 +6341,7 @@ export const data = [
 		"solvable": true,
 		"filename": "helios",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3367093096",
@@ -6354,7 +6354,7 @@ export const data = [
 		"solvable": true,
 		"filename": "helios_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1581724313",
@@ -6367,7 +6367,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hexagon_stack",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "1581724313",
@@ -6380,7 +6380,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hexagon_stack_2",
 		"path": "kurenai/kurenai_stacks",
-		"group": "Kurenai - Stacks"
+		"collection": "Kurenai - Stacks"
 	},
 	{
 		"id": "686493674",
@@ -6393,7 +6393,7 @@ export const data = [
 		"solvable": true,
 		"filename": "high_and_low",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "686493674",
@@ -6406,7 +6406,7 @@ export const data = [
 		"solvable": true,
 		"filename": "high_and_low_2",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "2754711182",
@@ -6419,7 +6419,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hohle_pyramide",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "1570577897",
@@ -6432,7 +6432,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hole",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1570577897",
@@ -6445,7 +6445,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hole_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3746583865",
@@ -6458,7 +6458,7 @@ export const data = [
 		"solvable": true,
 		"filename": "horse",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "2381658612",
@@ -6471,7 +6471,7 @@ export const data = [
 		"solvable": true,
 		"filename": "horse_2",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "773416385",
@@ -6484,7 +6484,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hourglass",
 		"path": "kurenai/kurenai_floater",
-		"group": "Kurenai - Floater"
+		"collection": "Kurenai - Floater"
 	},
 	{
 		"id": "1418241770",
@@ -6497,7 +6497,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hourglass_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1418241770",
@@ -6510,7 +6510,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hourglass_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1418241770",
@@ -6523,7 +6523,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hourglass_4",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "1418241770",
@@ -6536,7 +6536,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hourglass_5",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "3957535396",
@@ -6549,7 +6549,7 @@ export const data = [
 		"solvable": true,
 		"filename": "house_of_isty",
 		"path": "mugwump",
-		"group": "Mugwump Dillard"
+		"collection": "Mugwump Dillard"
 	},
 	{
 		"id": "3957535396",
@@ -6562,7 +6562,7 @@ export const data = [
 		"solvable": true,
 		"filename": "house_of_isty_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4232373794",
@@ -6575,7 +6575,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hovercraft",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4232373794",
@@ -6588,7 +6588,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hovercraft_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "767291699",
@@ -6601,7 +6601,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hurdles",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "767291699",
@@ -6614,7 +6614,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hurdles_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1885429584",
@@ -6627,7 +6627,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hurricane",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1885429584",
@@ -6640,7 +6640,7 @@ export const data = [
 		"solvable": true,
 		"filename": "hurricane_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4062306083",
@@ -6653,7 +6653,7 @@ export const data = [
 		"solvable": true,
 		"filename": "i_love_you_sign",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4062306083",
@@ -6666,7 +6666,7 @@ export const data = [
 		"solvable": true,
 		"filename": "i_love_you_sign_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1465112324",
@@ -6679,7 +6679,7 @@ export const data = [
 		"solvable": true,
 		"filename": "il-bul",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1465112324",
@@ -6692,7 +6692,7 @@ export const data = [
 		"solvable": true,
 		"filename": "il-bul_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3166915286",
@@ -6705,7 +6705,7 @@ export const data = [
 		"solvable": true,
 		"filename": "iloveu",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3166915286",
@@ -6718,7 +6718,7 @@ export const data = [
 		"solvable": true,
 		"filename": "iloveu_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2269984935",
@@ -6731,7 +6731,7 @@ export const data = [
 		"solvable": true,
 		"filename": "impossible_mission",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2269984935",
@@ -6744,7 +6744,7 @@ export const data = [
 		"solvable": true,
 		"filename": "impossible_mission_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2966589370",
@@ -6757,7 +6757,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inazuma",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2966589370",
@@ -6770,7 +6770,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inazuma_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4110587426",
@@ -6783,7 +6783,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inca",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4110587426",
@@ -6796,7 +6796,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inca_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2986411492",
@@ -6809,7 +6809,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inca_temple",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2986411492",
@@ -6822,7 +6822,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inca_temple_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2387412163",
@@ -6835,7 +6835,7 @@ export const data = [
 		"solvable": true,
 		"filename": "infinity",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2387412163",
@@ -6848,7 +6848,7 @@ export const data = [
 		"solvable": true,
 		"filename": "infinity_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "1268865479",
@@ -6861,7 +6861,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inner_circle",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1268865479",
@@ -6874,7 +6874,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inner_circle_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1172027382",
@@ -6887,7 +6887,7 @@ export const data = [
 		"solvable": true,
 		"filename": "interweaved",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "1351485734",
@@ -6900,7 +6900,7 @@ export const data = [
 		"solvable": true,
 		"filename": "interweaved_2",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "463673170",
@@ -6913,7 +6913,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inverted_pyramid_with_front",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "463673170",
@@ -6926,7 +6926,7 @@ export const data = [
 		"solvable": true,
 		"filename": "inverted_pyramid_with_front_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "4109886928",
@@ -6939,7 +6939,7 @@ export const data = [
 		"solvable": true,
 		"filename": "isty",
 		"path": "mugwump",
-		"group": "Mugwump Dillard"
+		"collection": "Mugwump Dillard"
 	},
 	{
 		"id": "4109886928",
@@ -6952,7 +6952,7 @@ export const data = [
 		"solvable": true,
 		"filename": "isty_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "857274043",
@@ -6965,7 +6965,7 @@ export const data = [
 		"solvable": true,
 		"filename": "j",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "683762091",
@@ -6978,7 +6978,7 @@ export const data = [
 		"solvable": true,
 		"filename": "jamaican_flag",
 		"path": "kurenai/kurenai_maps",
-		"group": "Kurenai - Maps and flags"
+		"collection": "Kurenai - Maps and flags"
 	},
 	{
 		"id": "3629579948",
@@ -6991,7 +6991,7 @@ export const data = [
 		"solvable": true,
 		"filename": "japan",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3629579948",
@@ -7004,7 +7004,7 @@ export const data = [
 		"solvable": true,
 		"filename": "japan_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3804989351",
@@ -7017,7 +7017,7 @@ export const data = [
 		"solvable": true,
 		"filename": "joined_rings",
 		"path": "phantagia/eplayouts/eplayout04",
-		"group": "Phantagia - Package A - Package 04"
+		"collection": "Phantagia - Package A - Package 04"
 	},
 	{
 		"id": "1110030704",
@@ -7030,7 +7030,7 @@ export const data = [
 		"solvable": true,
 		"filename": "joker",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1110030704",
@@ -7043,7 +7043,7 @@ export const data = [
 		"solvable": true,
 		"filename": "joker_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1103306624",
@@ -7056,7 +7056,7 @@ export const data = [
 		"solvable": true,
 		"filename": "jon_praters_layout",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1103306624",
@@ -7069,7 +7069,7 @@ export const data = [
 		"solvable": true,
 		"filename": "jon_praters_layout_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2418976822",
@@ -7082,7 +7082,7 @@ export const data = [
 		"solvable": true,
 		"filename": "joyce",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3642349487",
@@ -7095,7 +7095,7 @@ export const data = [
 		"solvable": true,
 		"filename": "joystick",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3642349487",
@@ -7108,7 +7108,7 @@ export const data = [
 		"solvable": true,
 		"filename": "joystick_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "717091849",
@@ -7121,7 +7121,7 @@ export const data = [
 		"solvable": true,
 		"filename": "jrr_tolkien",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "3290293230",
@@ -7134,7 +7134,7 @@ export const data = [
 		"solvable": true,
 		"filename": "judas_priest",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "1248150525",
@@ -7147,7 +7147,7 @@ export const data = [
 		"solvable": true,
 		"filename": "jupiter",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1248150525",
@@ -7160,7 +7160,7 @@ export const data = [
 		"solvable": true,
 		"filename": "jupiter_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "2499111603",
@@ -7173,7 +7173,7 @@ export const data = [
 		"solvable": true,
 		"filename": "jusenkyo",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2499111603",
@@ -7186,7 +7186,7 @@ export const data = [
 		"solvable": true,
 		"filename": "jusenkyo_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "534844276",
@@ -7199,7 +7199,7 @@ export const data = [
 		"solvable": true,
 		"filename": "k_for_kyodai",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "534844276",
@@ -7212,7 +7212,7 @@ export const data = [
 		"solvable": true,
 		"filename": "k_for_kyodai_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2735818035",
@@ -7225,7 +7225,7 @@ export const data = [
 		"solvable": true,
 		"filename": "k_for_kyodai_traditional",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2597876854",
@@ -7238,7 +7238,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kenshins_sword",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2597876854",
@@ -7251,7 +7251,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kenshins_sword_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2726308279",
@@ -7264,7 +7264,7 @@ export const data = [
 		"solvable": true,
 		"filename": "key",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2726308279",
@@ -7277,7 +7277,7 @@ export const data = [
 		"solvable": true,
 		"filename": "key_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2954990464",
@@ -7290,7 +7290,7 @@ export const data = [
 		"solvable": true,
 		"filename": "keys_of_fort_boyard",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2954990464",
@@ -7303,7 +7303,7 @@ export const data = [
 		"solvable": true,
 		"filename": "keys_of_fort_boyard_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "939712697",
@@ -7316,7 +7316,7 @@ export const data = [
 		"solvable": true,
 		"filename": "king",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "939712697",
@@ -7329,7 +7329,7 @@ export const data = [
 		"solvable": true,
 		"filename": "king_2",
 		"path": "phantagia/eplayouts/eplaychess",
-		"group": "Phantagia - Package A - Chess"
+		"collection": "Phantagia - Package A - Chess"
 	},
 	{
 		"id": "190911903",
@@ -7342,7 +7342,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kiss",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "190911903",
@@ -7355,7 +7355,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kiss_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "685558013",
@@ -7368,7 +7368,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kisses_and_hugs",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3577486931",
@@ -7381,7 +7381,7 @@ export const data = [
 		"solvable": true,
 		"filename": "km",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3577486931",
@@ -7394,7 +7394,7 @@ export const data = [
 		"solvable": true,
 		"filename": "km_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "439519780",
@@ -7407,7 +7407,7 @@ export const data = [
 		"solvable": true,
 		"filename": "knight",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "439519780",
@@ -7420,7 +7420,7 @@ export const data = [
 		"solvable": true,
 		"filename": "knight_3",
 		"path": "phantagia/eplayouts/eplaychess",
-		"group": "Phantagia - Package A - Chess"
+		"collection": "Phantagia - Package A - Chess"
 	},
 	{
 		"id": "444339136",
@@ -7433,7 +7433,7 @@ export const data = [
 		"solvable": true,
 		"filename": "knight_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "444339136",
@@ -7446,7 +7446,7 @@ export const data = [
 		"solvable": true,
 		"filename": "knight_2_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2744676548",
@@ -7459,7 +7459,7 @@ export const data = [
 		"solvable": true,
 		"filename": "koffin",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2899220310",
@@ -7472,7 +7472,7 @@ export const data = [
 		"solvable": true,
 		"filename": "krebs",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2899220310",
@@ -7485,7 +7485,7 @@ export const data = [
 		"solvable": true,
 		"filename": "krebs_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3710499391",
@@ -7498,7 +7498,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kreuz_und_quer",
 		"path": "kurenai/kurenai_stacks",
-		"group": "Kurenai - Stacks"
+		"collection": "Kurenai - Stacks"
 	},
 	{
 		"id": "2637391598",
@@ -7511,7 +7511,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kujaku_(peacock)",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2637391598",
@@ -7524,7 +7524,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kujaku_(peacock)_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1688221659",
@@ -7537,7 +7537,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kumo",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1688221659",
@@ -7550,7 +7550,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kumo_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "227266071",
@@ -7563,7 +7563,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n14",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "227266071",
@@ -7576,7 +7576,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n14_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3797451329",
@@ -7589,7 +7589,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n17",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3797451329",
@@ -7602,7 +7602,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n17_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3199497073",
@@ -7615,7 +7615,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n18",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3199497073",
@@ -7628,7 +7628,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n18_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2646898848",
@@ -7641,7 +7641,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n20",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2646898848",
@@ -7654,7 +7654,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n20_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2585072105",
@@ -7667,7 +7667,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n23",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2585072105",
@@ -7680,7 +7680,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n23_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1014988091",
@@ -7693,7 +7693,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n24",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1014988091",
@@ -7706,7 +7706,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n24_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4161966166",
@@ -7719,7 +7719,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n25",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4161966166",
@@ -7732,7 +7732,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n25_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2901611809",
@@ -7745,7 +7745,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n26",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2901611809",
@@ -7758,7 +7758,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n26_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2901611809",
@@ -7771,7 +7771,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n26_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1896051125",
@@ -7784,7 +7784,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n27",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1896051125",
@@ -7797,7 +7797,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n27_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1254302692",
@@ -7810,7 +7810,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n28",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1254302692",
@@ -7823,7 +7823,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n28_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "718339480",
@@ -7836,7 +7836,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n41",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "718339480",
@@ -7849,7 +7849,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n41_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2987597802",
@@ -7862,7 +7862,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n42",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2987597802",
@@ -7875,7 +7875,7 @@ export const data = [
 		"solvable": true,
 		"filename": "kyodai_n42_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "47704884",
@@ -7888,7 +7888,7 @@ export const data = [
 		"solvable": true,
 		"filename": "labyrinth",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "47704884",
@@ -7901,7 +7901,7 @@ export const data = [
 		"solvable": true,
 		"filename": "labyrinth_3",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2371645214",
@@ -7914,7 +7914,7 @@ export const data = [
 		"solvable": true,
 		"filename": "labyrinth_2",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "668876602",
@@ -7927,7 +7927,7 @@ export const data = [
 		"solvable": true,
 		"filename": "large_width_tilesets",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "668876602",
@@ -7940,7 +7940,7 @@ export const data = [
 		"solvable": true,
 		"filename": "large_width_tilesets_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "3943660104",
@@ -7953,7 +7953,7 @@ export const data = [
 		"solvable": true,
 		"filename": "lattice",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3943660104",
@@ -7966,7 +7966,7 @@ export const data = [
 		"solvable": true,
 		"filename": "lattice_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1203058582",
@@ -7979,7 +7979,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "1729432473",
@@ -7992,7 +7992,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_10",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "3518081991",
@@ -8005,7 +8005,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_11",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "788739815",
@@ -8018,7 +8018,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_12",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "3361447347",
@@ -8031,7 +8031,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_12b",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "3148518523",
@@ -8044,7 +8044,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_13",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "4132078199",
@@ -8057,7 +8057,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_13b",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "2514145462",
@@ -8070,7 +8070,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_13c",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "526475249",
@@ -8083,7 +8083,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_14",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "2321038051",
@@ -8096,7 +8096,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_14b",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "2357532893",
@@ -8109,7 +8109,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_15",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "74867073",
@@ -8122,7 +8122,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_16",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "1679787586",
@@ -8135,7 +8135,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_17",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "2210728988",
@@ -8148,7 +8148,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_18",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "1556479767",
@@ -8161,7 +8161,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_19",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "1004456829",
@@ -8174,7 +8174,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_19b",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "3400445955",
@@ -8187,7 +8187,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_19c",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "175432772",
@@ -8200,7 +8200,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_2",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "494738204",
@@ -8213,7 +8213,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_20",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "341549848",
@@ -8226,7 +8226,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_20b",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "406315486",
@@ -8239,7 +8239,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_21",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "1730181610",
@@ -8252,7 +8252,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_21b",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "1197894982",
@@ -8265,7 +8265,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_21c",
 		"path": "phantagia/eplayouts/eplayout06",
-		"group": "Phantagia - Package A - Package 06"
+		"collection": "Phantagia - Package A - Package 06"
 	},
 	{
 		"id": "610626715",
@@ -8278,7 +8278,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_22",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "1568107556",
@@ -8291,7 +8291,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_23",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "2633146913",
@@ -8304,7 +8304,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_24",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "1385195423",
@@ -8317,7 +8317,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_25",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "4264106303",
@@ -8330,7 +8330,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_25b",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "2622517500",
@@ -8343,7 +8343,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_26",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "1733734139",
@@ -8356,7 +8356,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_27",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "1310330940",
@@ -8369,7 +8369,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_28",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "555467438",
@@ -8382,7 +8382,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_29",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "1575171401",
@@ -8395,7 +8395,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_3",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "1099575935",
@@ -8408,7 +8408,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_30",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "1523875724",
@@ -8421,7 +8421,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_4",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "852863160",
@@ -8434,7 +8434,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_5",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "1248468815",
@@ -8447,7 +8447,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_6",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "398317811",
@@ -8460,7 +8460,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_7",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "3278660854",
@@ -8473,7 +8473,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_8",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "1872947381",
@@ -8486,7 +8486,7 @@ export const data = [
 		"solvable": true,
 		"filename": "layout_9",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "1796199980",
@@ -8499,7 +8499,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ld-converter",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1796199980",
@@ -8512,7 +8512,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ld-converter_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1796199980",
@@ -8525,7 +8525,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ld-converter_3",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1611092921",
@@ -8538,7 +8538,7 @@ export const data = [
 		"solvable": true,
 		"filename": "leo",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1611092921",
@@ -8551,7 +8551,7 @@ export const data = [
 		"solvable": true,
 		"filename": "leo_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2580151249",
@@ -8564,7 +8564,7 @@ export const data = [
 		"solvable": true,
 		"filename": "leo_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2580151249",
@@ -8577,7 +8577,7 @@ export const data = [
 		"solvable": true,
 		"filename": "leo_4",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "3881110908",
@@ -8590,7 +8590,7 @@ export const data = [
 		"solvable": true,
 		"filename": "leo_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3881110908",
@@ -8603,7 +8603,7 @@ export const data = [
 		"solvable": true,
 		"filename": "leo_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "1133572059",
@@ -8616,7 +8616,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_a",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3598532576",
@@ -8629,7 +8629,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_b",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "2383226667",
@@ -8642,7 +8642,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_c",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3403789422",
@@ -8655,7 +8655,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_d",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "2787009979",
@@ -8668,7 +8668,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_e",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "1616532504",
@@ -8681,7 +8681,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_f",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3300021162",
@@ -8694,7 +8694,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_g",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3670559665",
@@ -8707,7 +8707,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_h",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "1262599531",
@@ -8720,7 +8720,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_i",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3070605277",
@@ -8733,7 +8733,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_j",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "672719661",
@@ -8746,7 +8746,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_k",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3592245710",
@@ -8759,7 +8759,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_l",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "504371340",
@@ -8772,7 +8772,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_m",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "2297007098",
@@ -8785,7 +8785,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_n",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3639452794",
@@ -8798,7 +8798,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_o",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3244241307",
@@ -8811,7 +8811,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_p",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "2745250284",
@@ -8824,7 +8824,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_q",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "1002246526",
@@ -8837,7 +8837,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_r",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "635494972",
@@ -8850,7 +8850,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_s",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3325976145",
@@ -8863,7 +8863,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_t",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "1667472480",
@@ -8876,7 +8876,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_u",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "1103771834",
@@ -8889,7 +8889,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_v",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "461319194",
@@ -8902,7 +8902,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_w",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "1838529",
@@ -8915,7 +8915,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_x",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "4206669307",
@@ -8928,7 +8928,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_y",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "3290588386",
@@ -8941,7 +8941,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letter_z",
 		"path": "kurenai/kuranei_alphabet",
-		"group": "Kurenai - Alphabet"
+		"collection": "Kurenai - Alphabet"
 	},
 	{
 		"id": "190895937",
@@ -8954,7 +8954,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letters",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "190895937",
@@ -8967,7 +8967,7 @@ export const data = [
 		"solvable": true,
 		"filename": "letters_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "167731676",
@@ -8980,7 +8980,7 @@ export const data = [
 		"solvable": true,
 		"filename": "libra",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "167731676",
@@ -8993,7 +8993,7 @@ export const data = [
 		"solvable": true,
 		"filename": "libra_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "1026361872",
@@ -9006,7 +9006,7 @@ export const data = [
 		"solvable": true,
 		"filename": "libra_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1026361872",
@@ -9019,7 +9019,7 @@ export const data = [
 		"solvable": true,
 		"filename": "libra_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "1958773376",
@@ -9032,7 +9032,7 @@ export const data = [
 		"solvable": true,
 		"filename": "lion",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1958773376",
@@ -9045,7 +9045,7 @@ export const data = [
 		"solvable": true,
 		"filename": "lion_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2851034255",
@@ -9058,7 +9058,7 @@ export const data = [
 		"solvable": true,
 		"filename": "little_stairway",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2851034255",
@@ -9071,7 +9071,7 @@ export const data = [
 		"solvable": true,
 		"filename": "little_stairway_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3361584571",
@@ -9084,7 +9084,7 @@ export const data = [
 		"solvable": true,
 		"filename": "lost_in_the_layout_3",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "3361584571",
@@ -9097,7 +9097,7 @@ export const data = [
 		"solvable": true,
 		"filename": "lost_in_the_layout",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3361584571",
@@ -9110,7 +9110,7 @@ export const data = [
 		"solvable": true,
 		"filename": "lost_in_the_layout_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3353038262",
@@ -9123,7 +9123,7 @@ export const data = [
 		"solvable": true,
 		"filename": "macross",
 		"path": "maclay",
-		"group": "Oneam's Brain Dump"
+		"collection": "Oneam's Brain Dump"
 	},
 	{
 		"id": "3353038262",
@@ -9136,7 +9136,7 @@ export const data = [
 		"solvable": true,
 		"filename": "macross_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4159611925",
@@ -9149,7 +9149,7 @@ export const data = [
 		"solvable": true,
 		"filename": "magic_four",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "1339922391",
@@ -9162,7 +9162,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mahjongg",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1339922391",
@@ -9175,7 +9175,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mahjongg_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "3538368137",
@@ -9188,7 +9188,7 @@ export const data = [
 		"solvable": true,
 		"filename": "manipulation_test_36_tiles_oo_72",
 		"path": "kurenai/kurenai_floater",
-		"group": "Kurenai - Floater"
+		"collection": "Kurenai - Floater"
 	},
 	{
 		"id": "715486314",
@@ -9201,7 +9201,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mars",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "715486314",
@@ -9214,7 +9214,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mars_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "837919735",
@@ -9227,7 +9227,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mask",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "837919735",
@@ -9240,7 +9240,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mask_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "4116723508",
@@ -9253,7 +9253,7 @@ export const data = [
 		"solvable": true,
 		"filename": "maya",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "4116723508",
@@ -9266,7 +9266,7 @@ export const data = [
 		"solvable": true,
 		"filename": "maya_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3527565493",
@@ -9279,7 +9279,7 @@ export const data = [
 		"solvable": true,
 		"filename": "maze",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3527565493",
@@ -9292,7 +9292,7 @@ export const data = [
 		"solvable": true,
 		"filename": "maze_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2065971026",
@@ -9305,7 +9305,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mei",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2065971026",
@@ -9318,7 +9318,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mei_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "752097716",
@@ -9331,7 +9331,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mercury",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "752097716",
@@ -9344,7 +9344,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mercury_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "639681959",
@@ -9357,7 +9357,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mesh",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "639681959",
@@ -9370,7 +9370,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mesh_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1017674015",
@@ -9383,7 +9383,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mesh_5",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "955549400",
@@ -9396,7 +9396,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mesh_2_2",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "651233341",
@@ -9409,7 +9409,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mesh_3",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "3196712128",
@@ -9422,7 +9422,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mesh_4",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "1556330788",
@@ -9435,7 +9435,7 @@ export const data = [
 		"solvable": true,
 		"filename": "michael_jordans_number",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1556330788",
@@ -9448,7 +9448,7 @@ export const data = [
 		"solvable": true,
 		"filename": "michael_jordans_number_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "4241582617",
@@ -9461,7 +9461,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mini_traditional",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4241582617",
@@ -9474,7 +9474,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mini_traditional_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "794033805",
@@ -9487,7 +9487,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mini-layout",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "794033805",
@@ -9500,7 +9500,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mini-layout_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3748222100",
@@ -9513,7 +9513,7 @@ export const data = [
 		"solvable": true,
 		"filename": "monkey",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "2882124909",
@@ -9526,7 +9526,7 @@ export const data = [
 		"solvable": true,
 		"filename": "monopoly",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2882124909",
@@ -9539,7 +9539,7 @@ export const data = [
 		"solvable": true,
 		"filename": "monopoly_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "1760841046",
@@ -9552,7 +9552,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moo",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1760841046",
@@ -9565,7 +9565,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moo_2",
 		"path": "phantagia/lyall/lycows",
-		"group": "Phantagia - Submitted - Jones"
+		"collection": "Phantagia - Submitted - Jones"
 	},
 	{
 		"id": "462823426",
@@ -9578,7 +9578,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moon",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "462823426",
@@ -9591,7 +9591,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moon_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "533037812",
@@ -9604,7 +9604,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moorhuhn_reticule",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "533037812",
@@ -9617,7 +9617,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moorhuhn_reticule_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "1962092925",
@@ -9630,7 +9630,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moraff_based_1",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1962092925",
@@ -9643,7 +9643,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moraff_based_1_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2795796319",
@@ -9656,7 +9656,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moraff_based_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2795796319",
@@ -9669,7 +9669,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moraff_based_2_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2734813287",
@@ -9682,7 +9682,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moraff_based_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2734813287",
@@ -9695,7 +9695,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moraff_based_3_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3515732163",
@@ -9708,7 +9708,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mosque",
 		"path": "kyodaimahjongg/mosque-1",
-		"group": "My Kyodai Mahjongg"
+		"collection": "My Kyodai Mahjongg"
 	},
 	{
 		"id": "232703814",
@@ -9721,7 +9721,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moth",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "232703814",
@@ -9734,7 +9734,7 @@ export const data = [
 		"solvable": true,
 		"filename": "moth_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2233937669",
@@ -9747,7 +9747,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mumlum",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2461579435",
@@ -9760,7 +9760,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_0",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2037684945",
@@ -9773,7 +9773,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_1",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1221337629",
@@ -9786,7 +9786,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2569066241",
@@ -9799,7 +9799,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "571678466",
@@ -9812,7 +9812,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_4",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3359607993",
@@ -9825,7 +9825,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_5",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "789018477",
@@ -9838,7 +9838,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_6",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1678815876",
@@ -9851,7 +9851,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_7",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "381980598",
@@ -9864,7 +9864,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_8",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "291623222",
@@ -9877,7 +9877,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_9",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3114324741",
@@ -9890,7 +9890,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_a",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "493187313",
@@ -9903,7 +9903,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_b",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2969024900",
@@ -9916,7 +9916,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_c",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3710069567",
@@ -9929,7 +9929,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_d",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2676240917",
@@ -9942,7 +9942,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_e",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3562919809",
@@ -9955,7 +9955,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_f",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "983826891",
@@ -9968,7 +9968,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_g",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3966082772",
@@ -9981,7 +9981,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_h",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2077786746",
@@ -9994,7 +9994,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_i",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4155710822",
@@ -10007,7 +10007,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_j",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3857189643",
@@ -10020,7 +10020,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_k",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3762453163",
@@ -10033,7 +10033,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_l",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "692114042",
@@ -10046,7 +10046,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_m",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1070141885",
@@ -10059,7 +10059,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_n",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3194621223",
@@ -10072,7 +10072,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_o",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2598030491",
@@ -10085,7 +10085,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_p",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1105946135",
@@ -10098,7 +10098,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_r",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "819042223",
@@ -10111,7 +10111,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_s",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2302878824",
@@ -10124,7 +10124,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_t",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1475005769",
@@ -10137,7 +10137,7 @@ export const data = [
 		"solvable": true,
 		"filename": "mykyodai_u",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2544283948",
@@ -10150,7 +10150,7 @@ export const data = [
 		"solvable": true,
 		"filename": "n_for_namida",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2544283948",
@@ -10163,7 +10163,7 @@ export const data = [
 		"solvable": true,
 		"filename": "n_for_namida_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2565966582",
@@ -10176,7 +10176,7 @@ export const data = [
 		"solvable": true,
 		"filename": "n_for_namida_traditional",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4031465934",
@@ -10189,7 +10189,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nan",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "598146782",
@@ -10202,7 +10202,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nan_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "598146782",
@@ -10215,7 +10215,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nan_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "598146782",
@@ -10228,7 +10228,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nan_4",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3747783141",
@@ -10241,7 +10241,7 @@ export const data = [
 		"solvable": true,
 		"filename": "naoki_haga_traditional",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3031448891",
@@ -10254,7 +10254,7 @@ export const data = [
 		"solvable": true,
 		"filename": "neptune",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3031448891",
@@ -10267,7 +10267,7 @@ export const data = [
 		"solvable": true,
 		"filename": "neptune_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "2319211744",
@@ -10280,7 +10280,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_31",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "3324674693",
@@ -10293,7 +10293,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_32",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "2146914058",
@@ -10306,7 +10306,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_33",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "2935116370",
@@ -10319,7 +10319,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_35",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "3141979257",
@@ -10332,7 +10332,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_36",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "89350433",
@@ -10345,7 +10345,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_37",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "657924587",
@@ -10358,7 +10358,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_38",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "2377561746",
@@ -10371,7 +10371,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_39",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "3825625177",
@@ -10384,7 +10384,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_42",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "2951345991",
@@ -10397,7 +10397,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_43",
 		"path": "phantagia/eplayout11",
-		"group": "Phantagia - Package 11"
+		"collection": "Phantagia - Package 11"
 	},
 	{
 		"id": "1342163551",
@@ -10410,7 +10410,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_44",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "817236197",
@@ -10423,7 +10423,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_45",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "2705266745",
@@ -10436,7 +10436,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_46",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "2726324939",
@@ -10449,7 +10449,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_47",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "1725916504",
@@ -10462,7 +10462,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_48",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "2222830475",
@@ -10475,7 +10475,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_49",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "1514702089",
@@ -10488,7 +10488,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_50",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "1357381702",
@@ -10501,7 +10501,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_51",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "2936863209",
@@ -10514,7 +10514,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_52",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "4119297695",
@@ -10527,7 +10527,7 @@ export const data = [
 		"solvable": true,
 		"filename": "new_layout_53",
 		"path": "phantagia/eplayout12",
-		"group": "Phantagia - Package 12"
+		"collection": "Phantagia - Package 12"
 	},
 	{
 		"id": "667251381",
@@ -10540,7 +10540,7 @@ export const data = [
 		"solvable": true,
 		"filename": "news",
 		"path": "kurenai/kurenai_signs",
-		"group": "Kurenai - Script signs"
+		"collection": "Kurenai - Script signs"
 	},
 	{
 		"id": "4280670947",
@@ -10553,7 +10553,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nine_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "661647240",
@@ -10566,7 +10566,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "3744152664",
@@ -10579,7 +10579,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl10",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "2071017386",
@@ -10592,7 +10592,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl11",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "74922194",
@@ -10605,7 +10605,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl12",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "176493978",
@@ -10618,7 +10618,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl13",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "3370093785",
@@ -10631,7 +10631,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl14",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "1265952434",
@@ -10644,7 +10644,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl15",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "1108681195",
@@ -10657,7 +10657,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl16",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "3185910950",
@@ -10670,7 +10670,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl17",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "1990714555",
@@ -10683,7 +10683,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl18",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "2461621",
@@ -10696,7 +10696,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl19",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "1539238147",
@@ -10709,7 +10709,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl2",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "992960987",
@@ -10722,7 +10722,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl20",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "966699389",
@@ -10735,7 +10735,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl21",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "2742112175",
@@ -10748,7 +10748,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl22",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "241191433",
@@ -10761,7 +10761,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl23",
 		"path": "phantagia/eplayouts/eplayout09",
-		"group": "Phantagia - Package A - Package 09"
+		"collection": "Phantagia - Package A - Package 09"
 	},
 	{
 		"id": "2414499452",
@@ -10774,7 +10774,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl24",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "155838889",
@@ -10787,7 +10787,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl25",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "2282385103",
@@ -10800,7 +10800,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl26",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "576519085",
@@ -10813,7 +10813,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl27",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "1934333837",
@@ -10826,7 +10826,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl28",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "2412271147",
@@ -10839,7 +10839,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl29",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "967657496",
@@ -10852,7 +10852,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl3",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "1655503235",
@@ -10865,7 +10865,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl30",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "1649986344",
@@ -10878,7 +10878,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl34",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "552788862",
@@ -10891,7 +10891,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl4",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "4024332033",
@@ -10904,7 +10904,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl40",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "513236605",
@@ -10917,7 +10917,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl41",
 		"path": "phantagia/eplayouts/eplayout10",
-		"group": "Phantagia - Package A - Package 10"
+		"collection": "Phantagia - Package A - Package 10"
 	},
 	{
 		"id": "2711668945",
@@ -10930,7 +10930,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl5",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "3937825982",
@@ -10943,7 +10943,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl6",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "3434576825",
@@ -10956,7 +10956,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl7",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "2262378409",
@@ -10969,7 +10969,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl8",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "4038207135",
@@ -10982,7 +10982,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nl9",
 		"path": "phantagia/eplayouts/eplayout08",
-		"group": "Phantagia - Package A - Package 08"
+		"collection": "Phantagia - Package A - Package 08"
 	},
 	{
 		"id": "1349811473",
@@ -10995,7 +10995,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nordertor",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "262766441",
@@ -11008,7 +11008,7 @@ export const data = [
 		"solvable": true,
 		"filename": "north_european_flag",
 		"path": "kurenai/kurenai_maps",
-		"group": "Kurenai - Maps and flags"
+		"collection": "Kurenai - Maps and flags"
 	},
 	{
 		"id": "765100323",
@@ -11021,7 +11021,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nut",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "89250262",
@@ -11034,7 +11034,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nylyak",
 		"path": "mugwump",
-		"group": "Mugwump Dillard"
+		"collection": "Mugwump Dillard"
 	},
 	{
 		"id": "89250262",
@@ -11047,7 +11047,7 @@ export const data = [
 		"solvable": true,
 		"filename": "nylyak_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2475747857",
@@ -11060,7 +11060,7 @@ export const data = [
 		"solvable": true,
 		"filename": "obtuse",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3808256638",
@@ -11073,7 +11073,7 @@ export const data = [
 		"solvable": true,
 		"filename": "octaeder_field",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2196279142",
@@ -11086,7 +11086,7 @@ export const data = [
 		"solvable": true,
 		"filename": "okies_nitemare",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2196279142",
@@ -11099,7 +11099,7 @@ export const data = [
 		"solvable": true,
 		"filename": "okies_nitemare_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3053946084",
@@ -11112,7 +11112,7 @@ export const data = [
 		"solvable": true,
 		"filename": "old_dragon",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3053946084",
@@ -11125,7 +11125,7 @@ export const data = [
 		"solvable": true,
 		"filename": "old_dragon_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3053946084",
@@ -11138,7 +11138,7 @@ export const data = [
 		"solvable": true,
 		"filename": "old_dragon_3",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "2735800859",
@@ -11151,7 +11151,7 @@ export const data = [
 		"solvable": true,
 		"filename": "olympics_archery",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1307249898",
@@ -11164,7 +11164,7 @@ export const data = [
 		"solvable": true,
 		"filename": "olympics_triple_jump",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4126636623",
@@ -11177,7 +11177,7 @@ export const data = [
 		"solvable": true,
 		"filename": "om",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4126636623",
@@ -11190,7 +11190,7 @@ export const data = [
 		"solvable": true,
 		"filename": "om_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2235638477",
@@ -11203,7 +11203,7 @@ export const data = [
 		"solvable": true,
 		"filename": "one_pyramid",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "211101486",
@@ -11216,7 +11216,7 @@ export const data = [
 		"solvable": true,
 		"filename": "oracle",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "211101486",
@@ -11229,7 +11229,7 @@ export const data = [
 		"solvable": true,
 		"filename": "oracle_2",
 		"path": "phantagia/lyall/mllayouts",
-		"group": "Phantagia - Submitted - Lesselberg"
+		"collection": "Phantagia - Submitted - Lesselberg"
 	},
 	{
 		"id": "4151898624",
@@ -11242,7 +11242,7 @@ export const data = [
 		"solvable": true,
 		"filename": "orbital",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4151898624",
@@ -11255,7 +11255,7 @@ export const data = [
 		"solvable": true,
 		"filename": "orbital_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "824604235",
@@ -11268,7 +11268,7 @@ export const data = [
 		"solvable": true,
 		"filename": "orchid",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "1085877384",
@@ -11281,7 +11281,7 @@ export const data = [
 		"solvable": true,
 		"filename": "orchis",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "415908076",
@@ -11294,7 +11294,7 @@ export const data = [
 		"solvable": true,
 		"filename": "order",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "415908076",
@@ -11307,7 +11307,7 @@ export const data = [
 		"solvable": true,
 		"filename": "order_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3495377992",
@@ -11320,7 +11320,7 @@ export const data = [
 		"solvable": true,
 		"filename": "otarus_sword",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3495377992",
@@ -11333,7 +11333,7 @@ export const data = [
 		"solvable": true,
 		"filename": "otarus_sword_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3944423797",
@@ -11346,7 +11346,7 @@ export const data = [
 		"solvable": true,
 		"filename": "oval",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3944423797",
@@ -11359,7 +11359,7 @@ export const data = [
 		"solvable": true,
 		"filename": "oval_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3476425158",
@@ -11372,7 +11372,7 @@ export const data = [
 		"solvable": true,
 		"filename": "overpass",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "24997037",
@@ -11385,7 +11385,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ox",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "1556676486",
@@ -11398,7 +11398,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ox_2",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "282625011",
@@ -11411,7 +11411,7 @@ export const data = [
 		"solvable": true,
 		"filename": "oyster_shell",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "288149218",
@@ -11424,7 +11424,7 @@ export const data = [
 		"solvable": true,
 		"filename": "p_for_pappnase",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "288149218",
@@ -11437,7 +11437,7 @@ export const data = [
 		"solvable": true,
 		"filename": "p_for_pappnase_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "288149218",
@@ -11450,7 +11450,7 @@ export const data = [
 		"solvable": true,
 		"filename": "p_for_pappnase_3",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "3524681398",
@@ -11463,7 +11463,7 @@ export const data = [
 		"solvable": true,
 		"filename": "palanquin",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3524681398",
@@ -11476,7 +11476,7 @@ export const data = [
 		"solvable": true,
 		"filename": "palanquin_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "845392802",
@@ -11489,7 +11489,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pantheon",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "845392802",
@@ -11502,7 +11502,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pantheon_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "748148480",
@@ -11515,7 +11515,7 @@ export const data = [
 		"solvable": true,
 		"filename": "papillon",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "748148480",
@@ -11528,7 +11528,7 @@ export const data = [
 		"solvable": true,
 		"filename": "papillon_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "748148480",
@@ -11541,7 +11541,7 @@ export const data = [
 		"solvable": true,
 		"filename": "papillon_3",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "2531881786",
@@ -11554,7 +11554,7 @@ export const data = [
 		"solvable": true,
 		"filename": "parabolic_structure",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "3560858185",
@@ -11567,7 +11567,7 @@ export const data = [
 		"solvable": true,
 		"filename": "parted_tables",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2119882521",
@@ -11580,7 +11580,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pattern",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2119882521",
@@ -11593,7 +11593,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pattern_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3924434879",
@@ -11606,7 +11606,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pattern_3",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "3484769577",
@@ -11619,7 +11619,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pattern_2_2",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "440067930",
@@ -11632,7 +11632,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pawn",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "440067930",
@@ -11645,7 +11645,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pawn_3",
 		"path": "phantagia/eplayouts/eplaychess",
-		"group": "Phantagia - Package A - Chess"
+		"collection": "Phantagia - Package A - Chess"
 	},
 	{
 		"id": "2624449695",
@@ -11658,7 +11658,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pawn_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2624449695",
@@ -11671,7 +11671,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pawn_2_2",
 		"path": "phantagia/eplayouts/eplaychess",
-		"group": "Phantagia - Package A - Chess"
+		"collection": "Phantagia - Package A - Chess"
 	},
 	{
 		"id": "4274187132",
@@ -11684,7 +11684,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pc",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4274187132",
@@ -11697,7 +11697,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pc_2",
 		"path": "ottosson/Pc",
-		"group": "Monika Ottosson"
+		"collection": "Monika Ottosson"
 	},
 	{
 		"id": "4274187132",
@@ -11710,7 +11710,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pc_3",
 		"path": "phantagia/lyall/molayouts",
-		"group": "Phantagia - Submitted - Ottosson"
+		"collection": "Phantagia - Submitted - Ottosson"
 	},
 	{
 		"id": "1739376940",
@@ -11723,7 +11723,7 @@ export const data = [
 		"solvable": true,
 		"filename": "peace_symbol",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1739376940",
@@ -11736,7 +11736,7 @@ export const data = [
 		"solvable": true,
 		"filename": "peace_symbol_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "602939675",
@@ -11749,7 +11749,7 @@ export const data = [
 		"solvable": true,
 		"filename": "penta",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "602939675",
@@ -11762,7 +11762,7 @@ export const data = [
 		"solvable": true,
 		"filename": "penta_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "288493640",
@@ -11775,7 +11775,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pharaohs_monument",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "1125676962",
@@ -11788,7 +11788,7 @@ export const data = [
 		"solvable": true,
 		"filename": "phoenix",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1125676962",
@@ -11801,7 +11801,7 @@ export const data = [
 		"solvable": true,
 		"filename": "phoenix_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "607851965",
@@ -11814,7 +11814,7 @@ export const data = [
 		"solvable": true,
 		"filename": "phoenix_4",
 		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
 		"id": "4244965514",
@@ -11827,7 +11827,7 @@ export const data = [
 		"solvable": true,
 		"filename": "phoenix_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4121754133",
@@ -11840,7 +11840,7 @@ export const data = [
 		"solvable": true,
 		"filename": "picture_frame",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "242916191",
@@ -11853,7 +11853,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pier_four",
 		"path": "missfantastic",
-		"group": "Miss Fantastic"
+		"collection": "Miss Fantastic"
 	},
 	{
 		"id": "3861299312",
@@ -11866,7 +11866,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pikachu",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3861299312",
@@ -11879,7 +11879,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pikachu_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1375221449",
@@ -11892,7 +11892,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pillars",
 		"path": "deathm1",
-		"group": "Death Mask"
+		"collection": "Death Mask"
 	},
 	{
 		"id": "4276837622",
@@ -11905,7 +11905,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pillars_2",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1375221449",
@@ -11918,7 +11918,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pillars_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4276837622",
@@ -11931,7 +11931,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pillars_4",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2573416175",
@@ -11944,7 +11944,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pillars_with_roof",
 		"path": "kurenai/kurenai_floater",
-		"group": "Kurenai - Floater"
+		"collection": "Kurenai - Floater"
 	},
 	{
 		"id": "2491027000",
@@ -11957,7 +11957,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pioneer",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2491027000",
@@ -11970,7 +11970,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pioneer_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "899719862",
@@ -11983,7 +11983,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pirates",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "899719862",
@@ -11996,7 +11996,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pirates_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1029001384",
@@ -12009,7 +12009,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pisces",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1029001384",
@@ -12022,7 +12022,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pisces_3",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "3431613183",
@@ -12035,7 +12035,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pisces_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3431613183",
@@ -12048,7 +12048,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pisces_2_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "3367570202",
@@ -12061,7 +12061,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pisces_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3367570202",
@@ -12074,7 +12074,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pisces_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "555423839",
@@ -12087,7 +12087,7 @@ export const data = [
 		"solvable": true,
 		"filename": "platform_with_stairs",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2439610559",
@@ -12100,7 +12100,7 @@ export const data = [
 		"solvable": true,
 		"filename": "plugging_system",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2401906780",
@@ -12113,7 +12113,7 @@ export const data = [
 		"solvable": true,
 		"filename": "plum",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2639411117",
@@ -12126,7 +12126,7 @@ export const data = [
 		"solvable": true,
 		"filename": "plum_blossom",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "1777024141",
@@ -12139,7 +12139,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pluto",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1777024141",
@@ -12152,7 +12152,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pluto_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "405110434",
@@ -12165,7 +12165,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pong",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "405110434",
@@ -12178,7 +12178,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pong_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "664876438",
@@ -12191,7 +12191,7 @@ export const data = [
 		"solvable": true,
 		"filename": "portal",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "664876438",
@@ -12204,7 +12204,7 @@ export const data = [
 		"solvable": true,
 		"filename": "portal_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1552388717",
@@ -12217,7 +12217,7 @@ export const data = [
 		"solvable": true,
 		"filename": "poseidon",
 		"path": "deathm1",
-		"group": "Death Mask"
+		"collection": "Death Mask"
 	},
 	{
 		"id": "1552388717",
@@ -12230,7 +12230,7 @@ export const data = [
 		"solvable": true,
 		"filename": "poseidon_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4255716921",
@@ -12243,7 +12243,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pq",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2160884406",
@@ -12256,7 +12256,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1815369337",
@@ -12269,7 +12269,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2160884406",
@@ -12282,7 +12282,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_4",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "973763131",
@@ -12295,7 +12295,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_5",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "1264183354",
@@ -12308,7 +12308,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_1",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1264183354",
@@ -12321,7 +12321,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_1_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3337320195",
@@ -12334,7 +12334,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3337320195",
@@ -12347,7 +12347,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_2_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "96679716",
@@ -12360,7 +12360,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_2_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "96679716",
@@ -12373,7 +12373,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramid_2_4",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2621355221",
@@ -12386,7 +12386,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramids_walls",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "2621355221",
@@ -12399,7 +12399,7 @@ export const data = [
 		"solvable": true,
 		"filename": "pyramids_walls_2",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "1450564008",
@@ -12412,7 +12412,7 @@ export const data = [
 		"solvable": true,
 		"filename": "qi",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1450564008",
@@ -12425,7 +12425,7 @@ export const data = [
 		"solvable": true,
 		"filename": "qi_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "4276739528",
@@ -12438,7 +12438,7 @@ export const data = [
 		"solvable": true,
 		"filename": "qix",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1549765796",
@@ -12451,7 +12451,7 @@ export const data = [
 		"solvable": true,
 		"filename": "quad",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1549765796",
@@ -12464,7 +12464,7 @@ export const data = [
 		"solvable": true,
 		"filename": "quad_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "669159619",
@@ -12477,7 +12477,7 @@ export const data = [
 		"solvable": true,
 		"filename": "quake_3_arena",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "669159619",
@@ -12490,7 +12490,7 @@ export const data = [
 		"solvable": true,
 		"filename": "quake_3_arena_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "4148848645",
@@ -12503,7 +12503,7 @@ export const data = [
 		"solvable": true,
 		"filename": "queen",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4148848645",
@@ -12516,7 +12516,7 @@ export const data = [
 		"solvable": true,
 		"filename": "queen_2",
 		"path": "phantagia/eplayouts/eplaychess",
-		"group": "Phantagia - Package A - Chess"
+		"collection": "Phantagia - Package A - Chess"
 	},
 	{
 		"id": "503883115",
@@ -12529,7 +12529,7 @@ export const data = [
 		"solvable": true,
 		"filename": "question_mark",
 		"path": "kurenai/kurenai_signs",
-		"group": "Kurenai - Script signs"
+		"collection": "Kurenai - Script signs"
 	},
 	{
 		"id": "2840966378",
@@ -12542,7 +12542,7 @@ export const data = [
 		"solvable": true,
 		"filename": "r_is_for_richards_traditional",
 		"path": "missfantastic",
-		"group": "Miss Fantastic"
+		"collection": "Miss Fantastic"
 	},
 	{
 		"id": "1043291500",
@@ -12555,7 +12555,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rain_2",
 		"path": "phantagia/eplayouts/eplayout07",
-		"group": "Phantagia - Package A - Package 07"
+		"collection": "Phantagia - Package A - Package 07"
 	},
 	{
 		"id": "947157326",
@@ -12568,7 +12568,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ram",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "3193259879",
@@ -12581,7 +12581,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rat",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "903410617",
@@ -12594,7 +12594,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rat_2",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "3407851255",
@@ -12607,7 +12607,7 @@ export const data = [
 		"solvable": true,
 		"filename": "re-pfanne",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3407851255",
@@ -12620,7 +12620,7 @@ export const data = [
 		"solvable": true,
 		"filename": "re-pfanne_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2385777971",
@@ -12633,7 +12633,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rectangle",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2385777971",
@@ -12646,7 +12646,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rectangle_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1817746850",
@@ -12659,7 +12659,7 @@ export const data = [
 		"solvable": true,
 		"filename": "red_dragon",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "3941481208",
@@ -12672,7 +12672,7 @@ export const data = [
 		"solvable": true,
 		"filename": "red_dragon_2",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1719491738",
@@ -12685,7 +12685,7 @@ export const data = [
 		"solvable": true,
 		"filename": "red_dragon_3",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "1817746850",
@@ -12698,7 +12698,7 @@ export const data = [
 		"solvable": true,
 		"filename": "red_dragon_4",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "3505729965",
@@ -12711,7 +12711,7 @@ export const data = [
 		"solvable": true,
 		"filename": "red_red_wine",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2557830227",
@@ -12724,7 +12724,7 @@ export const data = [
 		"solvable": true,
 		"filename": "reindeer",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2557830227",
@@ -12737,7 +12737,7 @@ export const data = [
 		"solvable": true,
 		"filename": "reindeer_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "579765333",
@@ -12750,7 +12750,7 @@ export const data = [
 		"solvable": true,
 		"filename": "reloop_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "579765333",
@@ -12763,7 +12763,7 @@ export const data = [
 		"solvable": true,
 		"filename": "reloop_2_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2292857960",
@@ -12776,7 +12776,7 @@ export const data = [
 		"solvable": true,
 		"filename": "revised_earth_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2292857960",
@@ -12789,7 +12789,7 @@ export const data = [
 		"solvable": true,
 		"filename": "revised_earth_2_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "1961003509",
@@ -12802,7 +12802,7 @@ export const data = [
 		"solvable": true,
 		"filename": "revised_earth_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1961003509",
@@ -12815,7 +12815,7 @@ export const data = [
 		"solvable": true,
 		"filename": "revised_earth_3_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "3799196961",
@@ -12828,7 +12828,7 @@ export const data = [
 		"solvable": true,
 		"filename": "revised_sun",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3799196961",
@@ -12841,7 +12841,7 @@ export const data = [
 		"solvable": true,
 		"filename": "revised_sun_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "420194901",
@@ -12854,7 +12854,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ridicolous",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "2965256094",
@@ -12867,7 +12867,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rings",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2965256094",
@@ -12880,7 +12880,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rings_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2210878121",
@@ -12893,7 +12893,7 @@ export const data = [
 		"solvable": true,
 		"filename": "river_bridge",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2210878121",
@@ -12906,7 +12906,7 @@ export const data = [
 		"solvable": true,
 		"filename": "river_bridge_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3123312289",
@@ -12919,7 +12919,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rivers__to_you",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3123312289",
@@ -12932,7 +12932,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rivers__to_you_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2961465005",
@@ -12945,7 +12945,7 @@ export const data = [
 		"solvable": true,
 		"filename": "robot",
 		"path": "ogs-mahjong/robot",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3354271298",
@@ -12958,7 +12958,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rocket",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3354271298",
@@ -12971,7 +12971,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rocket_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3209246241",
@@ -12984,7 +12984,7 @@ export const data = [
 		"solvable": true,
 		"filename": "roland",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3209246241",
@@ -12997,7 +12997,7 @@ export const data = [
 		"solvable": true,
 		"filename": "roland_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "3918587104",
@@ -13010,7 +13010,7 @@ export const data = [
 		"solvable": true,
 		"filename": "roman_arena",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3918587104",
@@ -13023,7 +13023,7 @@ export const data = [
 		"solvable": true,
 		"filename": "roman_arena_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2693517433",
@@ -13036,7 +13036,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rook",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2693517433",
@@ -13049,7 +13049,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rook_2",
 		"path": "phantagia/eplayouts/eplaychess",
-		"group": "Phantagia - Package A - Chess"
+		"collection": "Phantagia - Package A - Chess"
 	},
 	{
 		"id": "129836694",
@@ -13062,7 +13062,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rooster",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "750091527",
@@ -13075,7 +13075,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rugby",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "750091527",
@@ -13088,7 +13088,7 @@ export const data = [
 		"solvable": true,
 		"filename": "rugby_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1341718890",
@@ -13101,7 +13101,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sagittarius",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1341718890",
@@ -13114,7 +13114,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sagittarius_3",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "2231426145",
@@ -13127,7 +13127,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sagittarius_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2231426145",
@@ -13140,7 +13140,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sagittarius_2_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "3348443461",
@@ -13153,7 +13153,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sagittarius_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3348443461",
@@ -13166,7 +13166,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sagittarius_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "1408203062",
@@ -13179,7 +13179,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sailorchibimoons_symbol",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1408203062",
@@ -13192,7 +13192,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sailorchibimoons_symbol_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1138510898",
@@ -13205,7 +13205,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sailormoons_symbol",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1138510898",
@@ -13218,7 +13218,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sailormoons_symbol_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1547831626",
@@ -13231,7 +13231,7 @@ export const data = [
 		"solvable": true,
 		"filename": "san_wells",
 		"path": "phantagia/lyall/ulayouts",
-		"group": "Phantagia - Submitted - Ulixes"
+		"collection": "Phantagia - Submitted - Ulixes"
 	},
 	{
 		"id": "1965888185",
@@ -13244,7 +13244,7 @@ export const data = [
 		"solvable": true,
 		"filename": "saturn",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1965888185",
@@ -13257,7 +13257,7 @@ export const data = [
 		"solvable": true,
 		"filename": "saturn_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "2311773576",
@@ -13270,7 +13270,7 @@ export const data = [
 		"solvable": true,
 		"filename": "saturn_3",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2909252068",
@@ -13283,7 +13283,7 @@ export const data = [
 		"solvable": true,
 		"filename": "scales_of_justice",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2554183215",
@@ -13296,7 +13296,7 @@ export const data = [
 		"solvable": true,
 		"filename": "scarab",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2554183215",
@@ -13309,7 +13309,7 @@ export const data = [
 		"solvable": true,
 		"filename": "scarab_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3536494631",
@@ -13322,7 +13322,7 @@ export const data = [
 		"solvable": true,
 		"filename": "schneider",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3536494631",
@@ -13335,7 +13335,7 @@ export const data = [
 		"solvable": true,
 		"filename": "schneider_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "887863144",
@@ -13348,7 +13348,7 @@ export const data = [
 		"solvable": true,
 		"filename": "schoon",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "3615662730",
@@ -13361,7 +13361,7 @@ export const data = [
 		"solvable": true,
 		"filename": "scorpio",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3615662730",
@@ -13374,7 +13374,7 @@ export const data = [
 		"solvable": true,
 		"filename": "scorpio_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "2643603826",
@@ -13387,7 +13387,7 @@ export const data = [
 		"solvable": true,
 		"filename": "scorpio_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2643603826",
@@ -13400,7 +13400,7 @@ export const data = [
 		"solvable": true,
 		"filename": "scorpio_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "4253132997",
@@ -13413,7 +13413,7 @@ export const data = [
 		"solvable": true,
 		"filename": "scorpion",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1808417696",
@@ -13426,7 +13426,7 @@ export const data = [
 		"solvable": true,
 		"filename": "screw_up",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1808417696",
@@ -13439,7 +13439,7 @@ export const data = [
 		"solvable": true,
 		"filename": "screw_up_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "440450612",
@@ -13452,7 +13452,7 @@ export const data = [
 		"solvable": true,
 		"filename": "seven",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "440450612",
@@ -13465,7 +13465,7 @@ export const data = [
 		"solvable": true,
 		"filename": "seven_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4096347333",
@@ -13478,7 +13478,7 @@ export const data = [
 		"solvable": true,
 		"filename": "seven_inverted_pyramids",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4096347333",
@@ -13491,7 +13491,7 @@ export const data = [
 		"solvable": true,
 		"filename": "seven_inverted_pyramids_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1882729133",
@@ -13504,7 +13504,7 @@ export const data = [
 		"solvable": true,
 		"filename": "seven_pyramids",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1882729133",
@@ -13517,7 +13517,7 @@ export const data = [
 		"solvable": true,
 		"filename": "seven_pyramids_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1564310151",
@@ -13530,7 +13530,7 @@ export const data = [
 		"solvable": true,
 		"filename": "shapeshifter",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1564310151",
@@ -13543,7 +13543,7 @@ export const data = [
 		"solvable": true,
 		"filename": "shapeshifter_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2224463725",
@@ -13556,7 +13556,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sheep",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "4056249389",
@@ -13569,7 +13569,7 @@ export const data = [
 		"solvable": true,
 		"filename": "shi_huangdis_tomb",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "3183980309",
@@ -13582,7 +13582,7 @@ export const data = [
 		"solvable": true,
 		"filename": "shield",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "485469509",
@@ -13595,7 +13595,7 @@ export const data = [
 		"solvable": true,
 		"filename": "shield_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3183980309",
@@ -13608,7 +13608,7 @@ export const data = [
 		"solvable": true,
 		"filename": "shield_3",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "485469509",
@@ -13621,7 +13621,7 @@ export const data = [
 		"solvable": true,
 		"filename": "shield_4",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2187429792",
@@ -13634,7 +13634,7 @@ export const data = [
 		"solvable": true,
 		"filename": "siam",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2187429792",
@@ -13647,7 +13647,7 @@ export const data = [
 		"solvable": true,
 		"filename": "siam_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2018576025",
@@ -13660,7 +13660,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sinus_twins",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2018576025",
@@ -13673,7 +13673,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sinus_twins_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "958516524",
@@ -13686,7 +13686,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sinuskurve",
 		"path": "kurenai/kurenai_maps",
-		"group": "Kurenai - Maps and flags"
+		"collection": "Kurenai - Maps and flags"
 	},
 	{
 		"id": "665022597",
@@ -13699,7 +13699,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sinuskurve_2",
 		"path": "kurenai/kurenai_maps",
-		"group": "Kurenai - Maps and flags"
+		"collection": "Kurenai - Maps and flags"
 	},
 	{
 		"id": "704995892",
@@ -13712,7 +13712,7 @@ export const data = [
 		"solvable": true,
 		"filename": "six_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "2861519433",
@@ -13725,7 +13725,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sixpack",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "1454940585",
@@ -13738,7 +13738,7 @@ export const data = [
 		"solvable": true,
 		"filename": "smiley_face",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1454940585",
@@ -13751,7 +13751,7 @@ export const data = [
 		"solvable": true,
 		"filename": "smiley_face_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "229002817",
@@ -13764,7 +13764,7 @@ export const data = [
 		"solvable": true,
 		"filename": "snake",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "842846075",
@@ -13777,7 +13777,7 @@ export const data = [
 		"solvable": true,
 		"filename": "snake_2",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "434410639",
@@ -13790,7 +13790,7 @@ export const data = [
 		"solvable": true,
 		"filename": "south_wind",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3175810889",
@@ -13803,7 +13803,7 @@ export const data = [
 		"solvable": true,
 		"filename": "space_ship",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3175810889",
@@ -13816,7 +13816,7 @@ export const data = [
 		"solvable": true,
 		"filename": "space_ship_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3447400928",
@@ -13829,7 +13829,7 @@ export const data = [
 		"solvable": true,
 		"filename": "space_shuttle",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3447400928",
@@ -13842,7 +13842,7 @@ export const data = [
 		"solvable": true,
 		"filename": "space_shuttle_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1729114828",
@@ -13855,7 +13855,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spades",
 		"path": "kyodaimahjongg/mkm-spades",
-		"group": "My Kyodai Mahjongg"
+		"collection": "My Kyodai Mahjongg"
 	},
 	{
 		"id": "2934368433",
@@ -13868,7 +13868,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spades_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2934368433",
@@ -13881,7 +13881,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spades_3",
 		"path": "phantagia/eplayouts/eplaycards",
-		"group": "Phantagia - Package A - Cards"
+		"collection": "Phantagia - Package A - Cards"
 	},
 	{
 		"id": "479433777",
@@ -13894,7 +13894,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spider",
 		"path": "green-mahjong",
-		"group": "Green Mahjong"
+		"collection": "Green Mahjong"
 	},
 	{
 		"id": "479433777",
@@ -13907,7 +13907,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spider_2",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "479433777",
@@ -13920,7 +13920,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spider_3",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "316100047",
@@ -13933,7 +13933,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spiral",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "3504808784",
@@ -13946,7 +13946,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spiral_2",
 		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
 		"id": "4040081818",
@@ -13959,7 +13959,7 @@ export const data = [
 		"solvable": true,
 		"filename": "spring",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2770588367",
@@ -13972,7 +13972,7 @@ export const data = [
 		"solvable": true,
 		"filename": "square",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "197651226",
@@ -13985,7 +13985,7 @@ export const data = [
 		"solvable": true,
 		"filename": "squares",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "197651226",
@@ -13998,7 +13998,7 @@ export const data = [
 		"solvable": true,
 		"filename": "squares_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2113918525",
@@ -14011,7 +14011,7 @@ export const data = [
 		"solvable": true,
 		"filename": "squaring",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2113918525",
@@ -14024,7 +14024,7 @@ export const data = [
 		"solvable": true,
 		"filename": "squaring_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3809320809",
@@ -14037,7 +14037,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stadion",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3809320809",
@@ -14050,7 +14050,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stadion_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2752531207",
@@ -14063,7 +14063,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stage_1",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2752531207",
@@ -14076,7 +14076,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stage_1_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1383888312",
@@ -14089,7 +14089,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stage_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1383888312",
@@ -14102,7 +14102,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stage_2_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2008479602",
@@ -14115,7 +14115,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stahl-pfanne",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2008479602",
@@ -14128,7 +14128,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stahl-pfanne_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "747295201",
@@ -14141,7 +14141,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stain_glass_window",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "747295201",
@@ -14154,7 +14154,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stain_glass_window_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2756127619",
@@ -14167,7 +14167,7 @@ export const data = [
 		"solvable": true,
 		"filename": "staircase",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2756127619",
@@ -14180,7 +14180,7 @@ export const data = [
 		"solvable": true,
 		"filename": "staircase_3",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3140703365",
@@ -14193,7 +14193,7 @@ export const data = [
 		"solvable": true,
 		"filename": "staircase_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3140703365",
@@ -14206,7 +14206,7 @@ export const data = [
 		"solvable": true,
 		"filename": "staircase_2_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3924234198",
@@ -14219,7 +14219,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stairs",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3282089043",
@@ -14232,7 +14232,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stairs_2",
 		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
+		"collection": "Kurenai - Other"
 	},
 	{
 		"id": "1466559264",
@@ -14245,7 +14245,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stairs_3",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2344589173",
@@ -14258,7 +14258,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stairs_4",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1466559264",
@@ -14271,7 +14271,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stairs_5",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2344589173",
@@ -14284,7 +14284,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stairs_6",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3924234198",
@@ -14297,7 +14297,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stairs_7",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "4123272421",
@@ -14310,7 +14310,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stairs_8",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "2941966843",
@@ -14323,7 +14323,7 @@ export const data = [
 		"solvable": true,
 		"filename": "star",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2601320973",
@@ -14336,7 +14336,7 @@ export const data = [
 		"solvable": true,
 		"filename": "star_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2941966843",
@@ -14349,7 +14349,7 @@ export const data = [
 		"solvable": true,
 		"filename": "star_4",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2601320973",
@@ -14362,7 +14362,7 @@ export const data = [
 		"solvable": true,
 		"filename": "star_5",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3065411998",
@@ -14375,7 +14375,7 @@ export const data = [
 		"solvable": true,
 		"filename": "star_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3065411998",
@@ -14388,7 +14388,7 @@ export const data = [
 		"solvable": true,
 		"filename": "star_2_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "461557704",
@@ -14401,7 +14401,7 @@ export const data = [
 		"solvable": true,
 		"filename": "star_ship",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "461557704",
@@ -14414,7 +14414,7 @@ export const data = [
 		"solvable": true,
 		"filename": "star_ship_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1256216672",
@@ -14427,7 +14427,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stargate",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1256216672",
@@ -14440,7 +14440,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stargate_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1495673083",
@@ -14453,7 +14453,7 @@ export const data = [
 		"solvable": true,
 		"filename": "statue",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1495673083",
@@ -14466,7 +14466,7 @@ export const data = [
 		"solvable": true,
 		"filename": "statue_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "1808274618",
@@ -14479,7 +14479,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stax",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1808274618",
@@ -14492,7 +14492,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stax_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1136887457",
@@ -14505,7 +14505,7 @@ export const data = [
 		"solvable": true,
 		"filename": "step_pyramid",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1136887457",
@@ -14518,7 +14518,7 @@ export const data = [
 		"solvable": true,
 		"filename": "step_pyramid_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2279049454",
@@ -14531,7 +14531,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stonehenge",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2279049454",
@@ -14544,7 +14544,7 @@ export const data = [
 		"solvable": true,
 		"filename": "stonehenge_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "722614844",
@@ -14557,7 +14557,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sukis",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "722614844",
@@ -14570,7 +14570,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sukis_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2126814547",
@@ -14583,7 +14583,7 @@ export const data = [
 		"solvable": true,
 		"filename": "summer",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2301178431",
@@ -14596,7 +14596,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sun",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3522304997",
@@ -14609,7 +14609,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sun_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2301178431",
@@ -14622,7 +14622,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sun_4",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "3522304997",
@@ -14635,7 +14635,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sun_5",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3173174396",
@@ -14648,7 +14648,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sun_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3173174396",
@@ -14661,7 +14661,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sun_2_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "33459067",
@@ -14674,7 +14674,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sunmoon",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "33459067",
@@ -14687,7 +14687,7 @@ export const data = [
 		"solvable": true,
 		"filename": "sunmoon_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4271413565",
@@ -14700,7 +14700,7 @@ export const data = [
 		"solvable": true,
 		"filename": "suspension",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2149882958",
@@ -14713,7 +14713,7 @@ export const data = [
 		"solvable": true,
 		"filename": "swine",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "219111934",
@@ -14726,7 +14726,7 @@ export const data = [
 		"solvable": true,
 		"filename": "swirl",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "219111934",
@@ -14739,7 +14739,7 @@ export const data = [
 		"solvable": true,
 		"filename": "swirl_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3480472529",
@@ -14752,7 +14752,7 @@ export const data = [
 		"solvable": true,
 		"filename": "switch",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3480472529",
@@ -14765,7 +14765,7 @@ export const data = [
 		"solvable": true,
 		"filename": "switch_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "199312434",
@@ -14778,7 +14778,7 @@ export const data = [
 		"solvable": true,
 		"filename": "symbol",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "2320225011",
@@ -14791,7 +14791,7 @@ export const data = [
 		"solvable": true,
 		"filename": "symbol_2",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "1353483191",
@@ -14804,7 +14804,7 @@ export const data = [
 		"solvable": true,
 		"filename": "symbol_3",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "801165327",
@@ -14817,7 +14817,7 @@ export const data = [
 		"solvable": true,
 		"filename": "symbol_4",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "4244076779",
@@ -14830,7 +14830,7 @@ export const data = [
 		"solvable": true,
 		"filename": "symmetrically_designed_building",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4244076779",
@@ -14843,7 +14843,7 @@ export const data = [
 		"solvable": true,
 		"filename": "symmetrically_designed_building_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "792508481",
@@ -14856,7 +14856,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ta-internal",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "887863144",
@@ -14869,7 +14869,7 @@ export const data = [
 		"solvable": true,
 		"filename": "taipei",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "1916363969",
@@ -14882,7 +14882,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tarot_celtic_cross",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "48138551",
@@ -14895,7 +14895,7 @@ export const data = [
 		"solvable": true,
 		"filename": "taurus",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "48138551",
@@ -14908,7 +14908,7 @@ export const data = [
 		"solvable": true,
 		"filename": "taurus_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "3995813611",
@@ -14921,7 +14921,7 @@ export const data = [
 		"solvable": true,
 		"filename": "taurus_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3995813611",
@@ -14934,7 +14934,7 @@ export const data = [
 		"solvable": true,
 		"filename": "taurus_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "107988161",
@@ -14947,7 +14947,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tea_for_two",
 		"path": "kyodaimahjongg/mkm-teafortwo",
-		"group": "My Kyodai Mahjongg"
+		"collection": "My Kyodai Mahjongg"
 	},
 	{
 		"id": "2585994950",
@@ -14960,7 +14960,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2188780762",
@@ -14973,7 +14973,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_3",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2188780762",
@@ -14986,7 +14986,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_4",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2585994950",
@@ -14999,7 +14999,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_5",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3806780319",
@@ -15012,7 +15012,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_6",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "2830280886",
@@ -15025,7 +15025,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_1",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2830280886",
@@ -15038,7 +15038,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_1_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3168926235",
@@ -15051,7 +15051,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3168926235",
@@ -15064,7 +15064,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_2_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1649917893",
@@ -15077,7 +15077,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_2_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1649917893",
@@ -15090,7 +15090,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_2_4",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "3457932158",
@@ -15103,7 +15103,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_3_2",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "1452669287",
@@ -15116,7 +15116,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temple_4_2",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "3574916435",
@@ -15129,7 +15129,7 @@ export const data = [
 		"solvable": true,
 		"filename": "temporary",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2891912585",
@@ -15142,7 +15142,7 @@ export const data = [
 		"solvable": true,
 		"filename": "ten_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "3293616003",
@@ -15155,7 +15155,7 @@ export const data = [
 		"solvable": true,
 		"filename": "teotihucan",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3293616003",
@@ -15168,7 +15168,7 @@ export const data = [
 		"solvable": true,
 		"filename": "teotihucan_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1050860479",
@@ -15181,7 +15181,7 @@ export const data = [
 		"solvable": true,
 		"filename": "test_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3141534491",
@@ -15194,7 +15194,7 @@ export const data = [
 		"solvable": true,
 		"filename": "test_short",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1497313757",
@@ -15207,7 +15207,7 @@ export const data = [
 		"solvable": true,
 		"filename": "test_short_4_winds",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3000657314",
@@ -15220,7 +15220,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tf1",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3000657314",
@@ -15233,7 +15233,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tf1_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "4089214850",
@@ -15246,7 +15246,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_arrow_of_cupid",
 		"path": "missfantastic",
-		"group": "Miss Fantastic"
+		"collection": "Miss Fantastic"
 	},
 	{
 		"id": "4278732921",
@@ -15259,7 +15259,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_dome_1",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1658189337",
@@ -15272,7 +15272,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_door",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1658189337",
@@ -15285,7 +15285,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_door_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1559941241",
@@ -15298,7 +15298,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_great_wall",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1559941241",
@@ -15311,7 +15311,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_great_wall_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1614323479",
@@ -15324,7 +15324,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_nightmare",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1614323479",
@@ -15337,7 +15337,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_nightmare_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2447397392",
@@ -15350,7 +15350,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_owl",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2447397392",
@@ -15363,7 +15363,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_owl_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "667736988",
@@ -15376,7 +15376,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_spacebridge",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "667736988",
@@ -15389,7 +15389,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_spacebridge_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3960151760",
@@ -15402,7 +15402,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_temples_of_the_sun_and_moon",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "542337926",
@@ -15415,7 +15415,7 @@ export const data = [
 		"solvable": true,
 		"filename": "the_ziggurat",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "3397480659",
@@ -15428,7 +15428,7 @@ export const data = [
 		"solvable": true,
 		"filename": "theater",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3397480659",
@@ -15441,7 +15441,7 @@ export const data = [
 		"solvable": true,
 		"filename": "theater_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3397480659",
@@ -15454,7 +15454,7 @@ export const data = [
 		"solvable": true,
 		"filename": "theater_3",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "1521782420",
@@ -15467,7 +15467,7 @@ export const data = [
 		"solvable": true,
 		"filename": "theatre",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2212342995",
@@ -15480,7 +15480,7 @@ export const data = [
 		"solvable": true,
 		"filename": "three_boxes",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2212342995",
@@ -15493,7 +15493,7 @@ export const data = [
 		"solvable": true,
 		"filename": "three_boxes_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "894315919",
@@ -15506,7 +15506,7 @@ export const data = [
 		"solvable": true,
 		"filename": "three_elevated_wells",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "894315919",
@@ -15519,7 +15519,7 @@ export const data = [
 		"solvable": true,
 		"filename": "three_elevated_wells_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "522948307",
@@ -15532,7 +15532,7 @@ export const data = [
 		"solvable": true,
 		"filename": "three_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "1848672823",
@@ -15545,7 +15545,7 @@ export const data = [
 		"solvable": true,
 		"filename": "three_pyramids_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1848672823",
@@ -15558,7 +15558,7 @@ export const data = [
 		"solvable": true,
 		"filename": "three_pyramids_3",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1912139279",
@@ -15571,7 +15571,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tic-tac-toe",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "1912139279",
@@ -15584,7 +15584,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tic-tac-toe_2",
 		"path": "mahjongg-builder",
-		"group": "Mahjongg Builder"
+		"collection": "Mahjongg Builder"
 	},
 	{
 		"id": "3347763925",
@@ -15597,7 +15597,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tiger",
 		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"collection": "Kurenai - Chinese Zodiac"
 	},
 	{
 		"id": "2352411231",
@@ -15610,7 +15610,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tiger_2",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "4016260910",
@@ -15623,7 +15623,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tile_fighter",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4016260910",
@@ -15636,7 +15636,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tile_fighter_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1059895176",
@@ -15649,7 +15649,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tilemap_world",
 		"path": "kurenai/kurenai_maps",
-		"group": "Kurenai - Maps and flags"
+		"collection": "Kurenai - Maps and flags"
 	},
 	{
 		"id": "3913450466",
@@ -15662,7 +15662,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tilepiles",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3913450466",
@@ -15675,7 +15675,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tilepiles_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1026788785",
@@ -15688,7 +15688,7 @@ export const data = [
 		"solvable": true,
 		"filename": "time_tunnel",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1026788785",
@@ -15701,7 +15701,7 @@ export const data = [
 		"solvable": true,
 		"filename": "time_tunnel_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "4042438650",
@@ -15714,7 +15714,7 @@ export const data = [
 		"solvable": true,
 		"filename": "togepi",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4042438650",
@@ -15727,7 +15727,7 @@ export const data = [
 		"solvable": true,
 		"filename": "togepi_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1340888280",
@@ -15740,7 +15740,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tomb",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1340888280",
@@ -15753,7 +15753,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tomb_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2906772039",
@@ -15766,7 +15766,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tombstone",
 		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"collection": "Phantagia - Package A - Package 02"
 	},
 	{
 		"id": "891068842",
@@ -15779,7 +15779,7 @@ export const data = [
 		"solvable": true,
 		"filename": "top_view_of_titanic",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "891068842",
@@ -15792,7 +15792,7 @@ export const data = [
 		"solvable": true,
 		"filename": "top_view_of_titanic_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2202947272",
@@ -15805,7 +15805,7 @@ export const data = [
 		"solvable": true,
 		"filename": "totally_random-made_layout",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2202947272",
@@ -15818,7 +15818,7 @@ export const data = [
 		"solvable": true,
 		"filename": "totally_random-made_layout_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3394695960",
@@ -15831,7 +15831,7 @@ export const data = [
 		"solvable": true,
 		"filename": "totem",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3394695960",
@@ -15844,7 +15844,7 @@ export const data = [
 		"solvable": true,
 		"filename": "totem_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "852722183",
@@ -15857,7 +15857,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tower",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "852722183",
@@ -15870,7 +15870,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tower_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "4286999529",
@@ -15883,7 +15883,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tower_and_walls",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4286999529",
@@ -15896,7 +15896,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tower_and_walls_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3050525069",
@@ -15909,7 +15909,7 @@ export const data = [
 		"solvable": true,
 		"filename": "towers_and_arch",
 		"path": "kurenai/kurenai_floater",
-		"group": "Kurenai - Floater"
+		"collection": "Kurenai - Floater"
 	},
 	{
 		"id": "2971999966",
@@ -15922,7 +15922,7 @@ export const data = [
 		"solvable": true,
 		"filename": "traditional",
 		"path": "kurenai/kurenai_stacks",
-		"group": "Kurenai - Stacks"
+		"collection": "Kurenai - Stacks"
 	},
 	{
 		"id": "1982003605",
@@ -15935,7 +15935,7 @@ export const data = [
 		"solvable": true,
 		"filename": "traditional_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "4203766614",
@@ -15948,7 +15948,7 @@ export const data = [
 		"solvable": true,
 		"filename": "traditional_based_three_flats",
 		"path": "kurenai/kurenai_stacks",
-		"group": "Kurenai - Stacks"
+		"collection": "Kurenai - Stacks"
 	},
 	{
 		"id": "1909951976",
@@ -15961,7 +15961,7 @@ export const data = [
 		"solvable": true,
 		"filename": "traditional_reviewed",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1909951976",
@@ -15974,7 +15974,7 @@ export const data = [
 		"solvable": true,
 		"filename": "traditional_reviewed_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2312441978",
@@ -15987,7 +15987,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tree_of_life",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2312441978",
@@ -16000,7 +16000,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tree_of_life_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1940000399",
@@ -16013,7 +16013,7 @@ export const data = [
 		"solvable": true,
 		"filename": "triangle",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "1940000399",
@@ -16026,7 +16026,7 @@ export const data = [
 		"solvable": true,
 		"filename": "triangle_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "3227780732",
@@ -16039,7 +16039,7 @@ export const data = [
 		"solvable": true,
 		"filename": "triangle_palette_stack",
 		"path": "kurenai/kurenai_stacks",
-		"group": "Kurenai - Stacks"
+		"collection": "Kurenai - Stacks"
 	},
 	{
 		"id": "3109518435",
@@ -16052,7 +16052,7 @@ export const data = [
 		"solvable": true,
 		"filename": "trika",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3109518435",
@@ -16065,7 +16065,7 @@ export const data = [
 		"solvable": true,
 		"filename": "trika_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1451993694",
@@ -16078,7 +16078,7 @@ export const data = [
 		"solvable": true,
 		"filename": "triumph-adler",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1451993694",
@@ -16091,7 +16091,7 @@ export const data = [
 		"solvable": true,
 		"filename": "triumph-adler_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "3740147841",
@@ -16104,7 +16104,7 @@ export const data = [
 		"solvable": true,
 		"filename": "truck",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3740147841",
@@ -16117,7 +16117,7 @@ export const data = [
 		"solvable": true,
 		"filename": "truck_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "1563646933",
@@ -16130,7 +16130,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tsuku",
 		"path": "kurenai/kurenai_signs",
-		"group": "Kurenai - Script signs"
+		"collection": "Kurenai - Script signs"
 	},
 	{
 		"id": "1982003605",
@@ -16143,7 +16143,7 @@ export const data = [
 		"solvable": true,
 		"filename": "turtle",
 		"path": "gnome-mahjongg",
-		"group": "GNOME Mahjongg"
+		"collection": "GNOME Mahjongg"
 	},
 	{
 		"id": "1982003605",
@@ -16156,7 +16156,7 @@ export const data = [
 		"solvable": true,
 		"filename": "turtle_2",
 		"path": "green-mahjong",
-		"group": "Green Mahjong"
+		"collection": "Green Mahjong"
 	},
 	{
 		"id": "1198627347",
@@ -16169,7 +16169,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tv_and_stand",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1198627347",
@@ -16182,7 +16182,7 @@ export const data = [
 		"solvable": true,
 		"filename": "tv_and_stand_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2615767807",
@@ -16195,7 +16195,7 @@ export const data = [
 		"solvable": true,
 		"filename": "twelve_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "3445440499",
@@ -16208,7 +16208,7 @@ export const data = [
 		"solvable": true,
 		"filename": "twin",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3445440499",
@@ -16221,7 +16221,7 @@ export const data = [
 		"solvable": true,
 		"filename": "twin_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1000296996",
@@ -16234,7 +16234,7 @@ export const data = [
 		"solvable": true,
 		"filename": "twin_temple",
 		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"collection": "Phantagia - Package A - Package 05"
 	},
 	{
 		"id": "38848691",
@@ -16247,7 +16247,7 @@ export const data = [
 		"solvable": true,
 		"filename": "two_domes",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "38848691",
@@ -16260,7 +16260,7 @@ export const data = [
 		"solvable": true,
 		"filename": "two_domes_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3819806461",
@@ -16273,7 +16273,7 @@ export const data = [
 		"solvable": true,
 		"filename": "two_hollow_tubes",
 		"path": "kurenai/kurenai_floater",
-		"group": "Kurenai - Floater"
+		"collection": "Kurenai - Floater"
 	},
 	{
 		"id": "1141109271",
@@ -16286,7 +16286,7 @@ export const data = [
 		"solvable": true,
 		"filename": "two_pyramids",
 		"path": "kurenai/kurenai_pyramids",
-		"group": "Kurenai - Pyramids"
+		"collection": "Kurenai - Pyramids"
 	},
 	{
 		"id": "17730839",
@@ -16299,7 +16299,7 @@ export const data = [
 		"solvable": true,
 		"filename": "two_stacks",
 		"path": "kurenai/kurenai_stacks",
-		"group": "Kurenai - Stacks"
+		"collection": "Kurenai - Stacks"
 	},
 	{
 		"id": "2103460062",
@@ -16312,7 +16312,7 @@ export const data = [
 		"solvable": true,
 		"filename": "two_walls",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2103460062",
@@ -16325,7 +16325,7 @@ export const data = [
 		"solvable": true,
 		"filename": "two_walls_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1978257814",
@@ -16338,7 +16338,7 @@ export const data = [
 		"solvable": true,
 		"filename": "u_for_usagi",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1978257814",
@@ -16351,7 +16351,7 @@ export const data = [
 		"solvable": true,
 		"filename": "u_for_usagi_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "1627353380",
@@ -16364,7 +16364,7 @@ export const data = [
 		"solvable": true,
 		"filename": "u_for_usagi_traditional",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1627353380",
@@ -16377,7 +16377,7 @@ export const data = [
 		"solvable": true,
 		"filename": "u_for_usagi_traditional_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2508375743",
@@ -16390,7 +16390,7 @@ export const data = [
 		"solvable": true,
 		"filename": "union_jack",
 		"path": "kurenai/kurenai_maps",
-		"group": "Kurenai - Maps and flags"
+		"collection": "Kurenai - Maps and flags"
 	},
 	{
 		"id": "1563688240",
@@ -16403,7 +16403,7 @@ export const data = [
 		"solvable": true,
 		"filename": "united_artists",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1563688240",
@@ -16416,7 +16416,7 @@ export const data = [
 		"solvable": true,
 		"filename": "united_artists_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "101398505",
@@ -16429,7 +16429,7 @@ export const data = [
 		"solvable": true,
 		"filename": "unterteil_rh-anlage_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "101398505",
@@ -16442,7 +16442,7 @@ export const data = [
 		"solvable": true,
 		"filename": "unterteil_rh-anlage_2_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "101398505",
@@ -16455,7 +16455,7 @@ export const data = [
 		"solvable": true,
 		"filename": "unterteil_rh-anlage_2_3",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "3971148181",
@@ -16468,7 +16468,7 @@ export const data = [
 		"solvable": true,
 		"filename": "up&down",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "3971148181",
@@ -16481,7 +16481,7 @@ export const data = [
 		"solvable": true,
 		"filename": "up&down_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1778784774",
@@ -16494,7 +16494,7 @@ export const data = [
 		"solvable": true,
 		"filename": "uranus",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1778784774",
@@ -16507,7 +16507,7 @@ export const data = [
 		"solvable": true,
 		"filename": "uranus_3",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "1859142899",
@@ -16520,7 +16520,7 @@ export const data = [
 		"solvable": true,
 		"filename": "uranus_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1859142899",
@@ -16533,7 +16533,7 @@ export const data = [
 		"solvable": true,
 		"filename": "uranus_2_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "3722620574",
@@ -16546,7 +16546,7 @@ export const data = [
 		"solvable": true,
 		"filename": "vagues",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "3722620574",
@@ -16559,7 +16559,7 @@ export const data = [
 		"solvable": true,
 		"filename": "vagues_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1394718707",
@@ -16572,7 +16572,7 @@ export const data = [
 		"solvable": true,
 		"filename": "variation_on_deep_well",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1634707973",
@@ -16585,7 +16585,7 @@ export const data = [
 		"solvable": true,
 		"filename": "variation_on_deep_well_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "1394718707",
@@ -16598,7 +16598,7 @@ export const data = [
 		"solvable": true,
 		"filename": "variation_on_deep_well_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1634707973",
@@ -16611,7 +16611,7 @@ export const data = [
 		"solvable": true,
 		"filename": "variation_on_deep_well_4",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1272864807",
@@ -16624,7 +16624,7 @@ export const data = [
 		"solvable": true,
 		"filename": "venus",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1272864807",
@@ -16637,7 +16637,7 @@ export const data = [
 		"solvable": true,
 		"filename": "venus_2",
 		"path": "phantagia/eplayouts/eplayastro",
-		"group": "Phantagia - Package A - Astro"
+		"collection": "Phantagia - Package A - Astro"
 	},
 	{
 		"id": "2706430961",
@@ -16650,7 +16650,7 @@ export const data = [
 		"solvable": true,
 		"filename": "vestax",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2706430961",
@@ -16663,7 +16663,7 @@ export const data = [
 		"solvable": true,
 		"filename": "vestax_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "11321633",
@@ -16676,7 +16676,7 @@ export const data = [
 		"solvable": true,
 		"filename": "vi",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "11321633",
@@ -16689,7 +16689,7 @@ export const data = [
 		"solvable": true,
 		"filename": "vi_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1365615385",
@@ -16702,7 +16702,7 @@ export const data = [
 		"solvable": true,
 		"filename": "victory__peace_sign",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1365615385",
@@ -16715,7 +16715,7 @@ export const data = [
 		"solvable": true,
 		"filename": "victory__peace_sign_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "2529300283",
@@ -16728,7 +16728,7 @@ export const data = [
 		"solvable": true,
 		"filename": "victory_arrow",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2529300283",
@@ -16741,7 +16741,7 @@ export const data = [
 		"solvable": true,
 		"filename": "victory_arrow_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1319312927",
@@ -16754,7 +16754,7 @@ export const data = [
 		"solvable": true,
 		"filename": "virgo",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1319312927",
@@ -16767,7 +16767,7 @@ export const data = [
 		"solvable": true,
 		"filename": "virgo_2",
 		"path": "phantagia/eplayouts/eplayzod",
-		"group": "Phantagia - Package A - Zodiac"
+		"collection": "Phantagia - Package A - Zodiac"
 	},
 	{
 		"id": "3170119387",
@@ -16780,7 +16780,7 @@ export const data = [
 		"solvable": true,
 		"filename": "virgo_2600",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3170119387",
@@ -16793,7 +16793,7 @@ export const data = [
 		"solvable": true,
 		"filename": "virgo_2600_2",
 		"path": "phantagia/eplayouts/eplayza2600",
-		"group": "Phantagia - Package A - Atari 2600"
+		"collection": "Phantagia - Package A - Atari 2600"
 	},
 	{
 		"id": "3356956819",
@@ -16806,7 +16806,7 @@ export const data = [
 		"solvable": true,
 		"filename": "viva",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "1573132560",
@@ -16819,7 +16819,7 @@ export const data = [
 		"solvable": true,
 		"filename": "volcano",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "326606010",
@@ -16832,7 +16832,7 @@ export const data = [
 		"solvable": true,
 		"filename": "volcano_2",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "1621318038",
@@ -16845,7 +16845,7 @@ export const data = [
 		"solvable": true,
 		"filename": "waffle",
 		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"collection": "Phantagia - Submitted - Bushell"
 	},
 	{
 		"id": "1203418192",
@@ -16858,7 +16858,7 @@ export const data = [
 		"solvable": true,
 		"filename": "walzengeruest",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2127951264",
@@ -16871,7 +16871,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_1",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "4077255104",
@@ -16884,7 +16884,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_2",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "3148462146",
@@ -16897,7 +16897,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_3",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "4105122829",
@@ -16910,7 +16910,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_3_2",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3257051347",
@@ -16923,7 +16923,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_4",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2391318261",
@@ -16936,7 +16936,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_5",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1494345380",
@@ -16949,7 +16949,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_5_2",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3105062194",
@@ -16962,7 +16962,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_6",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "3300056717",
@@ -16975,7 +16975,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_6_2",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3010770227",
@@ -16988,7 +16988,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_7",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "141375807",
@@ -17001,7 +17001,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_8",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1434979280",
@@ -17014,7 +17014,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_8_2",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "1135871896",
@@ -17027,7 +17027,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wan_9",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "2629759861",
@@ -17040,7 +17040,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wavelets",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2629759861",
@@ -17053,7 +17053,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wavelets_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1302075135",
@@ -17066,7 +17066,7 @@ export const data = [
 		"solvable": true,
 		"filename": "wedges",
 		"path": "xmahjongg",
-		"group": "XMahjongg"
+		"collection": "XMahjongg"
 	},
 	{
 		"id": "4057804901",
@@ -17079,7 +17079,7 @@ export const data = [
 		"solvable": true,
 		"filename": "well",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "4057804901",
@@ -17092,7 +17092,7 @@ export const data = [
 		"solvable": true,
 		"filename": "well_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "1734686256",
@@ -17105,7 +17105,7 @@ export const data = [
 		"solvable": true,
 		"filename": "what_the",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2828981270",
@@ -17118,7 +17118,7 @@ export const data = [
 		"solvable": true,
 		"filename": "whatever",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2828981270",
@@ -17131,7 +17131,7 @@ export const data = [
 		"solvable": true,
 		"filename": "whatever_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3934240155",
@@ -17144,7 +17144,7 @@ export const data = [
 		"solvable": true,
 		"filename": "white_dragon",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1978725752",
@@ -17157,7 +17157,7 @@ export const data = [
 		"solvable": true,
 		"filename": "white_dragon_2",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "3798389402",
@@ -17170,7 +17170,7 @@ export const data = [
 		"solvable": true,
 		"filename": "whom_the_bell_tolls",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "3798389402",
@@ -17183,7 +17183,7 @@ export const data = [
 		"solvable": true,
 		"filename": "whom_the_bell_tolls_2",
 		"path": "step5",
-		"group": "Step5"
+		"collection": "Step5"
 	},
 	{
 		"id": "2583115303",
@@ -17196,7 +17196,7 @@ export const data = [
 		"solvable": true,
 		"filename": "win",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2583115303",
@@ -17209,7 +17209,7 @@ export const data = [
 		"solvable": true,
 		"filename": "win_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1283370737",
@@ -17222,7 +17222,7 @@ export const data = [
 		"solvable": true,
 		"filename": "win_one_for_the_gipper",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4077882770",
@@ -17235,7 +17235,7 @@ export const data = [
 		"solvable": true,
 		"filename": "winter",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "896679526",
@@ -17248,7 +17248,7 @@ export const data = [
 		"solvable": true,
 		"filename": "winter_2",
 		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"collection": "Phantagia - Package A - Mahjong"
 	},
 	{
 		"id": "2120689425",
@@ -17261,7 +17261,7 @@ export const data = [
 		"solvable": true,
 		"filename": "woman",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2120689425",
@@ -17274,7 +17274,7 @@ export const data = [
 		"solvable": true,
 		"filename": "woman_2",
 		"path": "phantagia/eplayouts/eplayout01",
-		"group": "Phantagia - Package A - Package 01"
+		"collection": "Phantagia - Package A - Package 01"
 	},
 	{
 		"id": "2114945082",
@@ -17287,7 +17287,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "3587299016",
@@ -17300,7 +17300,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x_marks_the_spot",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2063043413",
@@ -17313,7 +17313,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x_shaped",
 		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"collection": "KMahjongg"
 	},
 	{
 		"id": "2063043413",
@@ -17326,7 +17326,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x_shaped_2",
 		"path": "ogs-mahjong",
-		"group": "OGS"
+		"collection": "OGS"
 	},
 	{
 		"id": "2540397744",
@@ -17339,7 +17339,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x-files",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "902786969",
@@ -17352,7 +17352,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x-files_2",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2540397744",
@@ -17365,7 +17365,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x-files_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "902786969",
@@ -17378,7 +17378,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x-files_4",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2732360256",
@@ -17391,7 +17391,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x-shape",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "2732360256",
@@ -17404,7 +17404,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x-shape_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "4038656964",
@@ -17417,7 +17417,7 @@ export const data = [
 		"solvable": true,
 		"filename": "x2",
 		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
+		"collection": "Phantagia - Package A - Package 03"
 	},
 	{
 		"id": "3301426927",
@@ -17430,7 +17430,7 @@ export const data = [
 		"solvable": true,
 		"filename": "xi",
 		"path": "kurenai/kurenai_layouts",
-		"group": "Kurenai - Tile Layouts"
+		"collection": "Kurenai - Tile Layouts"
 	},
 	{
 		"id": "1244658321",
@@ -17443,7 +17443,7 @@ export const data = [
 		"solvable": true,
 		"filename": "xi_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1244658321",
@@ -17456,7 +17456,7 @@ export const data = [
 		"solvable": true,
 		"filename": "xi_3",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "1244658321",
@@ -17469,7 +17469,7 @@ export const data = [
 		"solvable": true,
 		"filename": "xi_4",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	},
 	{
 		"id": "3964262414",
@@ -17482,7 +17482,7 @@ export const data = [
 		"solvable": true,
 		"filename": "yin_and_yang",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "267338900",
@@ -17495,7 +17495,7 @@ export const data = [
 		"solvable": true,
 		"filename": "yummy",
 		"path": "kyodai",
-		"group": "Kyodai Extras"
+		"collection": "Kyodai Extras"
 	},
 	{
 		"id": "267338900",
@@ -17508,7 +17508,7 @@ export const data = [
 		"solvable": true,
 		"filename": "yummy_2",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2746693386",
@@ -17521,7 +17521,7 @@ export const data = [
 		"solvable": true,
 		"filename": "zhong",
 		"path": "mykyodai",
-		"group": "MyKyodai"
+		"collection": "MyKyodai"
 	},
 	{
 		"id": "2746693386",
@@ -17534,6 +17534,6 @@ export const data = [
 		"solvable": true,
 		"filename": "zhong_2",
 		"path": "phantagia/lyall/eclayouts",
-		"group": "Phantagia - Submitted - Kamimura"
+		"collection": "Phantagia - Submitted - Kamimura"
 	}
 ];

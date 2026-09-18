@@ -2,8 +2,8 @@ import {Layout} from './type.ts';
 import {svg_file_url} from './helper.ts';
 import './Item.css';
 
-export function Item(props: { layout: Layout, onOpen: () => void, showGroup: boolean, showAuthor: boolean }) {
-	const {layout, onOpen, showGroup, showAuthor} = props;
+export function Item(props: { layout: Layout, onOpen: () => void, showCollection: boolean, showAuthor: boolean }) {
+	const {layout, onOpen, showCollection, showAuthor} = props;
 
 	return (
 		<div
@@ -16,8 +16,8 @@ export function Item(props: { layout: Layout, onOpen: () => void, showGroup: boo
 				}
 			}}
 		>
-			<div className={`head${showGroup ? '' : ' head-end'}`}>
-				{showGroup && <span className="group">{layout.group}</span>}
+			<div className={`head${showCollection ? '' : ' head-end'}`}>
+				{showCollection && <span className="collection">{layout.collection}</span>}
 				<span className="tiles">{layout.tiles}</span>
 			</div>
 			<div className="image"><img loading="lazy" src={svg_file_url(layout)} alt={layout.name}/></div>

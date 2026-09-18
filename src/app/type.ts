@@ -9,7 +9,7 @@ export interface Layout {
 	source: string;
 	filename: string;
 	path: string;
-	group: string;
+	collection: string;
 	selected: boolean;
 }
 
