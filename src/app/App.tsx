@@ -32,6 +32,7 @@ function App() {
 	const [filterGroup, setFilterGroup] = useState<string | undefined>();
 	const [filterCount, setFilterCount] = useState<string | undefined>();
 	const [filterAuthor, setFilterAuthor] = useState<string | undefined>();
+	const [dedupe, setDedupe] = useState<boolean>(true);
 
 	useEffect(() => {
 		let list = layouts;
@@ -47,8 +48,18 @@ function App() {
 		if (filterAuthor && filterAuthor.length > 0) {
 			list = list.filter(layout => (layout.by || 'unknown') === filterAuthor);
 		}
+		if (dedupe) {
+			const seen = new Set<string>();
+			list = list.filter(layout => {
+				if (seen.has(layout.id)) {
+					return false;
+				}
+				seen.add(layout.id);
+				return true;
+			});
+		}
 		setFiltered(list);
-	}, [filterText, filterGroup, filterAuthor, filterCount])
+	}, [filterText, filterGroup, filterAuthor, filterCount, dedupe])
 
 	return (
 		<>
@@ -56,27 +67,43 @@ function App() {
 				<div className="header-content">
 					<div className="title"><i className="waving"></i> <span>Mahjong Solitaire Layout Museum</span> <i className="waving"></i></div>
 					<div className="header-filters">
-						<input type="text" placeholder="Search for name…" onChange={e => setFilterText(e.target.value.toLowerCase())}/>
-						<select defaultValue="" onChange={e => setFilterGroup(e.target.value)}>
-							<option value="">All groups</option>
-							{GROUPS.map((entry => (
-								<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
-							)))}
-						</select>
-						<select defaultValue="" onChange={e => setFilterAuthor(e.target.value)}>
-							<option value="">All authors</option>
-							{AUTHORS.map((entry => (
-								<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
-							)))}
-						</select>
-						<select  defaultValue="" onChange={e => setFilterCount(e.target.value)}>
-							<option value="">All Tiles Count</option>
-							{TILES_COUNT.map(entry => (
-								<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
-							))}
-						</select>
-						<div>
-							Layouts: {filtered.length}
+						<div className="filter-field filter-search">
+							<svg className="filter-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+								<path fill="currentColor" d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19zm-6 0A4.5 4.5 0 1 1 14 9.5A4.5 4.5 0 0 1 9.5 14"/>
+							</svg>
+							<input type="text" placeholder="Search for name…" onChange={e => setFilterText(e.target.value.toLowerCase())}/>
+						</div>
+						<div className="filter-field">
+							<select defaultValue="" onChange={e => setFilterGroup(e.target.value)}>
+								<option value="">All groups</option>
+								{GROUPS.map((entry => (
+									<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
+								)))}
+							</select>
+						</div>
+						<div className="filter-field">
+							<select defaultValue="" onChange={e => setFilterAuthor(e.target.value)}>
+								<option value="">All authors</option>
+								{AUTHORS.map((entry => (
+									<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
+								)))}
+							</select>
+						</div>
+						<div className="filter-field">
+							<select defaultValue="" onChange={e => setFilterCount(e.target.value)}>
+								<option value="">All Tiles Count</option>
+								{TILES_COUNT.map(entry => (
+									<option key={entry[0]} value={entry[0]}>{entry[0]} ({entry[1]})</option>
+								))}
+							</select>
+						</div>
+						<label className="filter-toggle">
+							<input type="checkbox" checked={dedupe} onChange={e => setDedupe(e.target.checked)}/>
+							<span className="filter-toggle-track"><span className="filter-toggle-thumb"></span></span>
+							<span className="filter-toggle-label">Hide duplicates</span>
+						</label>
+						<div className="filter-count">
+							{filtered.length} layouts
 						</div>
 					</div>
 				</div>
@@ -84,7 +111,13 @@ function App() {
 			<div className="main">
 				<div className="layouts">
 					{filtered.map((layout: Layout) => (
-						<Item key={layout.id} layout={layout} onOpen={() => setOpened(layout)}></Item>
+						<Item
+							key={`${layout.path}/${layout.filename}`}
+							layout={layout}
+							onOpen={() => setOpened(layout)}
+							showGroup={!filterGroup}
+							showAuthor={!filterAuthor}
+						></Item>
 					))}
 				</div>
 			</div>
