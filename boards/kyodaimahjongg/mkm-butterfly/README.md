@@ -7,4 +7,4 @@
 
 |My Kyodai Mahjongg||Layouts: 1|
 |:--:|:--:|:--:|
-|Butterfly<br><img src="./butterfly.svg" height="180" width="175"><br> <sub>Mary M</sub> <br>[.lay](./butterfly.lay)  [.layout](./butterfly.layout)  [.mah](./butterfly.mah) |
+|Butterfly<br><img src="./butterfly_2.svg" height="180" width="175"><br> <sub>Mary M</sub> <br>[.lay](./butterfly_2.lay)  [.layout](./butterfly_2.layout)  [.mah](./butterfly_2.mah) |

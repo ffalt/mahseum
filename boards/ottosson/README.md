@@ -142,7 +142,7 @@
 
 |[Fence](Fence/README.md) ||Layouts: 1|
 |:--:|:--:|:--:|
-|Fence<br><img src="./Fence/fence.svg" height="180" width="175"><br> <sub>Monica Ottosson</sub> <br>[.lay](./Fence/fence.lay)  [.layout](./Fence/fence.layout)  [.mah](./Fence/fence.mah) |
+|Fence<br><img src="./Fence/fence_2.svg" height="180" width="175"><br> <sub>Monica Ottosson</sub> <br>[.lay](./Fence/fence_2.lay)  [.layout](./Fence/fence_2.layout)  [.mah](./Fence/fence_2.mah) |
 
 ## Monika Ottosson
 * Source: 
@@ -154,4 +154,4 @@
 
 |[Pc](Pc/README.md) ||Layouts: 1|
 |:--:|:--:|:--:|
-|PC<br><img src="./Pc/pc.svg" height="180" width="175"><br> <sub>Monica Ottosson</sub> <br>[.lay](./Pc/pc.lay)  [.layout](./Pc/pc.layout)  [.mah](./Pc/pc.mah) |
+|PC<br><img src="./Pc/pc_2.svg" height="180" width="175"><br> <sub>Monica Ottosson</sub> <br>[.lay](./Pc/pc_2.lay)  [.layout](./Pc/pc_2.layout)  [.mah](./Pc/pc_2.mah) |

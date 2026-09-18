@@ -7,4 +7,4 @@
 
 |My Kyodai Mahjongg||Layouts: 1|
 |:--:|:--:|:--:|
-|Clubs<br><img src="./clubs.svg" height="180" width="175"><br> <sub>Mary M</sub> <br>[.lay](./clubs.lay)  [.layout](./clubs.layout)  [.mah](./clubs.mah) |
+|Clubs<br><img src="./clubs_2.svg" height="180" width="175"><br> <sub>Mary M</sub> <br>[.lay](./clubs_2.lay)  [.layout](./clubs_2.layout)  [.mah](./clubs_2.mah) |

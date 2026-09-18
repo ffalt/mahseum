@@ -22,7 +22,7 @@
 
 |[mkm-butterfly](mkm-butterfly/README.md) ||Layouts: 1|
 |:--:|:--:|:--:|
-|Butterfly<br><img src="./mkm-butterfly/butterfly.svg" height="180" width="175"><br> <sub>Mary M</sub> <br>[.lay](./mkm-butterfly/butterfly.lay)  [.layout](./mkm-butterfly/butterfly.layout)  [.mah](./mkm-butterfly/butterfly.mah) |
+|Butterfly<br><img src="./mkm-butterfly/butterfly_2.svg" height="180" width="175"><br> <sub>Mary M</sub> <br>[.lay](./mkm-butterfly/butterfly_2.lay)  [.layout](./mkm-butterfly/butterfly_2.layout)  [.mah](./mkm-butterfly/butterfly_2.mah) |
 
 ## My Kyodai Mahjongg
 * Source: 
@@ -34,7 +34,7 @@
 
 |[mkm-clubs](mkm-clubs/README.md) ||Layouts: 1|
 |:--:|:--:|:--:|
-|Clubs<br><img src="./mkm-clubs/clubs.svg" height="180" width="175"><br> <sub>Mary M</sub> <br>[.lay](./mkm-clubs/clubs.lay)  [.layout](./mkm-clubs/clubs.layout)  [.mah](./mkm-clubs/clubs.mah) |
+|Clubs<br><img src="./mkm-clubs/clubs_2.svg" height="180" width="175"><br> <sub>Mary M</sub> <br>[.lay](./mkm-clubs/clubs_2.lay)  [.layout](./mkm-clubs/clubs_2.layout)  [.mah](./mkm-clubs/clubs_2.mah) |
 
 ## My Kyodai Mahjongg
 * Source: 

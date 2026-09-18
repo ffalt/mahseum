@@ -7,4 +7,4 @@
 
 |Monika Ottosson||Layouts: 1|
 |:--:|:--:|:--:|
-|Fence<br><img src="./fence.svg" height="180" width="175"><br> <sub>Monica Ottosson</sub> <br>[.lay](./fence.lay)  [.layout](./fence.layout)  [.mah](./fence.mah) |
+|Fence<br><img src="./fence_2.svg" height="180" width="175"><br> <sub>Monica Ottosson</sub> <br>[.lay](./fence_2.lay)  [.layout](./fence_2.layout)  [.mah](./fence_2.mah) |
