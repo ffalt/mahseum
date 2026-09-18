@@ -9,8 +9,132 @@ import {generateExportKmahjongg, generateExportKyodai, generateExportMah} from '
 import {statsSolveMapping} from 'mah/src/app/model/tasks';
 import yauzl from 'yauzl';
 
+const NEW_FORMAT_SITES = new Set(['gnome-mahjongg', 'xmahjongg', 'green-mahjong']);
+
+type RawImportLayout = Parameters<typeof cleanImportLayout>[0];
+
 function mdLink(href: string, content: string): string {
 	return `[${content}](${href}) `;
+}
+
+function sortMapping(mapping: Mapping): Mapping {
+	return [...mapping].sort((a, b) => (a[0] - b[0]) || (a[1] - b[1]) || (a[2] - b[2]));
+}
+
+function convertGnomeMap(data: string): Array<RawImportLayout> {
+	const attributes = (line: string): { [key: string]: string } =>
+		Object.fromEntries([...line.matchAll(/(\w+)="([^"]*)"/g)].map(m => [m[1], m[2]]));
+	const maps: Array<{ name: string; mapping: Array<[number, number, number]> }> = [];
+	let current: { name: string; mapping: Array<[number, number, number]> } | undefined;
+	let layerZ = 0;
+	for (const raw of data.split('\n')) {
+		const line = raw.trim();
+		if (line.startsWith('<map')) {
+			current = {name: attributes(line).name, mapping: []};
+			layerZ = 0;
+			maps.push(current);
+			continue;
+		}
+		if (!current || line.startsWith('</map')) {
+			continue;
+		}
+		if (line.startsWith('<layer')) {
+			layerZ = Number(attributes(line).z ?? 0);
+			continue;
+		}
+		const a = attributes(line);
+		const z = a.z === undefined ? layerZ : Number(a.z);
+		const push = (x: number, y: number) => current?.mapping.push([z, Math.round(x * 2), Math.round(y * 2)]);
+		if (line.startsWith('<tile')) {
+			push(Number(a.x), Number(a.y));
+		} else if (line.startsWith('<row')) {
+			for (let x = Number(a.left); x <= Number(a.right); x++) {
+				push(x, Number(a.y));
+			}
+		} else if (line.startsWith('<column')) {
+			for (let y = Number(a.top); y <= Number(a.bottom); y++) {
+				push(Number(a.x), y);
+			}
+		} else if (line.startsWith('<block')) {
+			for (let y = Number(a.top); y <= Number(a.bottom); y++) {
+				for (let x = Number(a.left); x <= Number(a.right); x++) {
+					push(x, y);
+				}
+			}
+		}
+	}
+	return maps.map(m => ({name: m.name, by: '', cat: 'uncategorized', mapping: m.mapping} as RawImportLayout));
+}
+
+function convertXmahjonggPlain(data: string, name: string): RawImportLayout {
+	const mapping = data.split('\n')
+		.map(line => line.trim())
+		.filter(line => line && !line.startsWith('#'))
+		.map(line => line.split(/\s+/).map(Number))
+		.filter(values => values.length >= 3 && values.every(v => Number.isFinite(v)))
+		.map(([row, col, lev]): [number, number, number] => [lev, col, row]);
+	return {name, by: '', cat: 'uncategorized', mapping} as RawImportLayout;
+}
+
+function humanizeKey(key: string): string {
+	return key.replace(/([a-z])([A-Z])/g, '$1 $2').replace(/^./, c => c.toUpperCase());
+}
+
+function convertGreenMahjong(data: string, key: string): RawImportLayout {
+	const extractField = (field: string): Array<number> => {
+		const match = data.match(new RegExp(`\\.${field}\\s*=\\s*\\[([\\s\\S]*?)\\];`));
+		if (!match) {
+			throw new Error(`Missing ${field} in green-mahjong/${key}.js`);
+		}
+		return match[1].replace(/\/\/[^\n]*/g, '').split(',').map(s => s.trim()).filter(Boolean).map(Number);
+	};
+	const positionX = extractField('positionX');
+	const positionY = extractField('positionY');
+	const shift = extractField('shift');
+	const mapping: Array<[number, number, number]> = positionX.map((x, index) =>
+		[shift[index], Math.round(x * 2), Math.round(positionY[index] * 2)]);
+	return {name: humanizeKey(key), by: '', cat: 'uncategorized', mapping} as RawImportLayout;
+}
+
+function convertMahjonggBuilder(list: Buffer, data: Buffer): Array<RawImportLayout> {
+	// Mahjongg Builder ships its boards as a bitmask blob (games_data) plus an id/offset index
+	// (games_list, six bytes per entry: a 3-byte id followed by a 3-byte big-endian offset).
+	const uint24 = (buffer: Buffer, offset: number): number => (buffer[offset] << 16) + (buffer[offset + 1] << 8) + buffer[offset + 2];
+	// Mahjongg Builder's "The Ziggurat" is a near-duplicate of GNOME's version (one floating
+	// tile placed a grid-step differently, so they don't dedupe as the same board) - dropped
+	// here in favor of keeping just GNOME's.
+	const SKIP = new Set(['The Ziggurat']);
+	const layouts: Array<RawImportLayout> = [];
+	for (let index = 0; index < list.length; index += 6) {
+		let offset = uint24(list, index + 3);
+		const nameLength = data[offset++];
+		const name = data.subarray(offset, offset + nameLength).toString();
+		offset += nameLength;
+		const authorLength = data[offset++];
+		const by = authorLength ? data.subarray(offset, offset + authorLength).toString() : '';
+		offset += authorLength;
+		offset++; // win chance
+		const layerCount = data[offset++];
+		const width = data[offset++];
+		const height = data[offset++];
+		const rowLength = (width + 7) >> 3;
+		const mapping: Array<[number, number, number]> = [];
+		for (let z = 0; z < layerCount; z++) {
+			for (let y = 0; y < height; y++) {
+				const row = data.subarray(offset, offset + rowLength);
+				offset += rowLength;
+				for (let x = 0; x < width; x++) {
+					if (row[x >> 3] & (0x80 >> (x & 7))) {
+						mapping.push([z, x, y]);
+					}
+				}
+			}
+		}
+		if (!SKIP.has(name)) {
+			layouts.push({name, by, cat: 'uncategorized', mapping} as RawImportLayout);
+		}
+	}
+	return layouts;
 }
 
 const all: Array<ScanBoard> = [];
@@ -82,20 +206,38 @@ class ScanFile {
 	async loadData(data: string, dest: string, filenames: Array<string>): Promise<void> {
 		let layouts: Array<LoadLayout>;
 		const ext = (this.source.split('.').pop() || '').toLowerCase();
+		const site = this.parent.name;
 		if (ext === 'lay') {
 			layouts = [cleanImportLayout(await convertKyodai(data, path.basename(this.source)))];
 		} else if (ext === 'layout') {
 			layouts = [cleanImportLayout(await convertKmahjongg(data, path.basename(this.source)))];
 			layouts.forEach(l => l.by = 'Alexey Charkov')
+		} else if (site === 'gnome-mahjongg') {
+			layouts = convertGnomeMap(data).map(l => cleanImportLayout(l));
+		} else if (site === 'xmahjongg') {
+			layouts = data.startsWith('Kyodai')
+				? [cleanImportLayout(await convertKyodai(data, path.basename(this.source)))]
+				: [cleanImportLayout(convertXmahjonggPlain(data, path.basename(this.source)))];
+		} else if (site === 'green-mahjong') {
+			layouts = [cleanImportLayout(convertGreenMahjong(data, path.basename(this.source, '.js')))];
 		} else {
 			const mah: MahFormat = JSON.parse(data);
 			layouts = mah.boards;
 		}
+		await this.saveLayouts(layouts, dest, filenames);
+	}
+
+	async loadBuilderData(list: Buffer, data: Buffer, dest: string, filenames: Array<string>): Promise<void> {
+		const layouts = convertMahjonggBuilder(list, data).map(l => cleanImportLayout(l));
+		await this.saveLayouts(layouts, dest, filenames);
+	}
+
+	async saveLayouts(layouts: Array<LoadLayout>, dest: string, filenames: Array<string>): Promise<void> {
 		for (const o of layouts) {
 			const mapping: Mapping = expandMapping(o.map || []);
 			const solvable = await this.solve(mapping);
 			const layout: Layout = {
-				id: o.id && o.id !== '' ? o.id : mappingToID(mapping),
+				id: mappingToID(sortMapping(mapping)),
 				name: o.name,
 				by: o.by,
 				category: '', //o.cat || '',
@@ -231,7 +373,7 @@ async function museum(boards: Array<ScanBoard>) {
 		return ({
 			id: board.layout.id,
 			name: board.layout.name,
-			by: board.layout.by,
+			by: board.layout.by || 'Unknown',
 			tiles: board.layout.mapping.length,
 			data: JSON.stringify(JSON.parse(board.data['.mah']).boards[0].map),
 			source: `${board.parent.parent.link}${board.parent.parent.link.endsWith('.zip') ? '#' : ''}${path.basename(board.parent.source)}`,
@@ -246,6 +388,17 @@ async function museum(boards: Array<ScanBoard>) {
 	await fse.writeFile(path.join('..', 'src', 'app', 'data.ts'), `export const data = ${JSON.stringify(result, undefined, '\t')};`);
 }
 
+function boardSource(board: ScanBoard): string {
+	const link = board.parent.parent.link;
+	return `${link}${link.endsWith('.zip') ? '#' : ''}${path.basename(board.parent.source)}`;
+}
+
+function pickDuplicate(candidates: Array<ScanBoard>): ScanBoard {
+	const withAuthor = candidates.filter(b => (b.layout.by ?? '').trim() !== '');
+	const pool = withAuthor.length > 0 ? withAuthor : candidates;
+	return [...pool].sort((a, b) => boardSource(a).localeCompare(boardSource(b)))[0];
+}
+
 async function checkDups(): Promise<Array<ScanBoard>> {
 	const o: { [id: string]: Array<ScanBoard> } = {};
 	for (const board of all) {
@@ -255,7 +408,7 @@ async function checkDups(): Promise<Array<ScanBoard>> {
 	const result: Array<ScanBoard> = [];
 	const keys = Object.keys(o);
 	for (const key of keys) {
-		result.push(o[key][0]);
+		result.push(pickDuplicate(o[key]));
 		if (o[key].length > 1) {
 			const names: Array<string> = [];
 			const by: Array<string> = [];
@@ -304,6 +457,7 @@ async function extract(dest: string): Promise<ScanDir> {
 	const root = new ScanDir(dest, 'All Layouts', 0);
 	const filenames: Array<string> = [];
 	const zipfile = await openZip();
+	const builderRaw: { list?: Buffer; data?: Buffer } = {};
 	return new Promise((resolve, reject) => {
 		zipfile.readEntry();
 		zipfile.on('entry', function(entry) {
@@ -315,7 +469,27 @@ async function extract(dest: string): Promise<ScanDir> {
 			} else {
 				// file entry
 				console.log(entry.fileName);
-				if (['.lay', '.layout', '.mah'].includes(path.extname(entry.fileName).toLowerCase())) {
+				const topDir = entry.fileName.split('/')[0];
+				const ext = path.extname(entry.fileName).toLowerCase();
+				if (topDir === 'mahjongg-builder' && !entry.fileName.endsWith('.md')) {
+					// games_list/games_data need each other to be read, so they are buffered
+					// here and only converted once both have come in, see the 'end' handler.
+					zipfile.openReadStream(entry, function(err, readStream) {
+						if (err) throw err;
+						const chunks: Buffer[] = [];
+						readStream.on('end', function() {
+							const buffer = Buffer.concat(chunks);
+							const filename = path.basename(entry.fileName);
+							if (filename === 'games_list') {
+								builderRaw.list = buffer;
+							} else if (filename === 'games_data') {
+								builderRaw.data = buffer;
+							}
+							zipfile.readEntry();
+						});
+						readStream.on('data', buf => chunks.push(buf));
+					});
+				} else if (['.lay', '.layout', '.mah'].includes(ext) || (NEW_FORMAT_SITES.has(topDir) && ext !== '.md')) {
 					zipfile.openReadStream(entry, function(err, readStream) {
 						if (err) throw err;
 						const chunks: Buffer[] = [];
@@ -358,7 +532,16 @@ async function extract(dest: string): Promise<ScanDir> {
 			}
 		});
 		zipfile.on('end', () => {
-			resolve(root);
+			if (builderRaw.list && builderRaw.data) {
+				const dir = getDir(['mahjongg-builder'], root);
+				const file = new ScanFile(dir, 'games_data');
+				dir.files.push(file);
+				file.loadBuilderData(builderRaw.list, builderRaw.data, dir.dest, filenames).then(() => {
+					resolve(root);
+				}).catch(e => reject(e));
+			} else {
+				resolve(root);
+			}
 		})
 	});
 }

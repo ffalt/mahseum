@@ -27,6 +27,8 @@
   },
   "include": [
     "./build.ts",
+    "./pack.ts",
+    "./unpack.ts",
     "../mah/src/app/**/*.ts",
   ],
   "exclude": [
