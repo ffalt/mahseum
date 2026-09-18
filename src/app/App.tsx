@@ -33,6 +33,18 @@ function App() {
 	const [filterCount, setFilterCount] = useState<string | undefined>();
 	const [filterAuthor, setFilterAuthor] = useState<string | undefined>();
 	const [dedupe, setDedupe] = useState<boolean>(true);
+	const [geocitiesOn, setGeocitiesOn] = useState<boolean>(false);
+	const [geocitiesHover, setGeocitiesHover] = useState<boolean>(false);
+	const [visitorNumber] = useState<number>(() => {
+		try {
+			const next = Number(localStorage.getItem('geocitiesVisitor') || '13370') + 1;
+			localStorage.setItem('geocitiesVisitor', String(next));
+			return next;
+		} catch {
+			return 13371;
+		}
+	});
+	const geocities = geocitiesOn || geocitiesHover;
 
 	useEffect(() => {
 		let list = layouts;
@@ -62,10 +74,22 @@ function App() {
 	}, [filterText, filterGroup, filterAuthor, filterCount, dedupe])
 
 	return (
-		<>
+		<div className={geocities ? 'geocities' : undefined}>
 			<header>
 				<div className="header-content">
-					<div className="title"><i className="waving"></i> <span>Mahjong Solitaire Layout Museum</span> <i className="waving"></i></div>
+					<div
+						className="title"
+						onClick={() => setGeocitiesOn(on => !on)}
+						onMouseEnter={() => setGeocitiesHover(true)}
+						onMouseLeave={() => setGeocitiesHover(false)}
+					>
+						<i className="waving"></i> <span>Mahjong Solitaire Layout Museum</span> <i className="waving"></i>
+					</div>
+					{geocities && (
+						<div className="geocities-marquee">
+							<span>🚧 UNDER CONSTRUCTION 🚧 BEST VIEWED IN NETSCAPE NAVIGATOR AT 800x600 🚧 YOU ARE VISITOR #{visitorNumber} 🚧 SIGN MY GUESTBOOK 🚧</span>
+						</div>
+					)}
 					<div className="header-filters">
 						<div className="filter-field filter-search">
 							<svg className="filter-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
@@ -106,6 +130,13 @@ function App() {
 							{filtered.length} layouts
 						</div>
 					</div>
+					{geocities && (
+						<div className="geocities-badges">
+							<span className="badge">🖥️ BEST VIEWED IN NETSCAPE</span>
+							<span className="badge">🐹 HAMSTER-POWERED SERVER</span>
+							<span className="badge">🔥 100% ORGANIC HTML</span>
+						</div>
+					)}
 				</div>
 			</header>
 			<div className="main">
@@ -122,7 +153,7 @@ function App() {
 				</div>
 			</div>
 			{opened && <Overlay layout={opened} requestClose={() => setOpened(undefined)}/>}
-		</>
+		</div>
 	);
 }
 

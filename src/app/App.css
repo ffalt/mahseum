@@ -1,6 +1,5 @@
 header {
 	flex: 0;
-	font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", "Marker Felt", "Purisa", "URW Chancery L", cursive, sans-serif;
 	background-color: #000;
 	color: white;
 	text-align: center;
@@ -21,6 +20,7 @@ header {
 	.title {
 		font-size: 2em;
 		padding-bottom: 8px;
+		cursor: pointer;
 	}
 }
 
@@ -31,7 +31,7 @@ header {
 	align-items: center;
 	gap: 10px;
 	padding-bottom: 8px;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 .filter-field {
@@ -195,7 +195,7 @@ header {
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
-	max-width: 1400px;
+	max-width: 2000px;
 	margin: 0 auto;
 }
 
@@ -247,5 +247,123 @@ header {
 	100% {
 		transform: rotate(0.0deg)
 	}
+}
+
+.geocities {
+	min-height: 100vh;
+	background-color: #000;
+	background-image:
+		radial-gradient(circle, #fff 1px, transparent 1.5px),
+		repeating-linear-gradient(45deg, #ff00de 0 10px, #00e5ff 10px 20px, #fff700 20px 30px, #21ff00 30px 40px, #ff0000 40px 50px);
+	background-size: 22px 22px, 200px 200px;
+	background-blend-mode: screen;
+	animation: geocities-bg-scroll 25s linear infinite;
+	font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", cursive, sans-serif;
+}
+
+.geocities input, .geocities select, .geocities button {
+	font-family: inherit;
+}
+
+.geocities .item {
+	border: 3px dashed #ff00de;
+}
+
+@keyframes geocities-bg-scroll {
+	from {
+		background-position: 0 0, 0 0;
+	}
+	to {
+		background-position: 1000px 1000px, 400px 0;
+	}
+}
+
+.geocities header {
+	background-image: repeating-linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet, red);
+	background-size: 400% 100%;
+	animation: geocities-rainbow-slide 6s linear infinite;
+	border-bottom: 6px dashed #fff700;
+}
+
+@keyframes geocities-rainbow-slide {
+	from {
+		background-position: 0 0;
+	}
+	to {
+		background-position: 100% 0;
+	}
+}
+
+.geocities .header-content .title span {
+	background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet, red);
+	background-size: 200% auto;
+	background-clip: text;
+	color: transparent;
+	-webkit-text-stroke: 1px #000;
+	animation: geocities-rainbow-text 3s linear infinite, geocities-blink 1.2s steps(1) infinite;
+}
+
+@keyframes geocities-rainbow-text {
+	to {
+		background-position: 200% center;
+	}
+}
+
+@keyframes geocities-blink {
+	50% {
+		opacity: 0.4;
+	}
+}
+
+.geocities .waving {
+	animation-name: wave-animation;
+	animation-duration: 0.6s;
+	animation-iteration-count: infinite;
+	transform-origin: 70% 70%;
+}
+
+.geocities-marquee {
+	overflow: hidden;
+	white-space: nowrap;
+	background-color: #000;
+	color: #0f0;
+	font-family: "Courier New", monospace;
+	border: 2px solid #0f0;
+	padding: 4px 0;
+	margin-bottom: 8px;
+}
+
+.geocities-marquee span {
+	display: inline-block;
+	padding-left: 100%;
+	animation: geocities-marquee-scroll 16s linear infinite;
+}
+
+@keyframes geocities-marquee-scroll {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(-100%);
+	}
+}
+
+.geocities-badges {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 6px;
+	margin-top: 8px;
+}
+
+.geocities-badges .badge {
+	background-image: linear-gradient(180deg, #eee, #999);
+	border: 2px outset #ccc;
+	border-radius: 2px;
+	color: #000;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 4px 8px;
+	text-shadow: 1px 1px #fff;
 }
 
