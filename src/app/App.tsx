@@ -54,6 +54,9 @@ function App() {
 		}
 	});
 	const geocities = geocitiesOn || geocitiesHover;
+	const openedIndex = opened ? filtered.findIndex(layout => layoutKey(layout) === layoutKey(opened)) : -1;
+	const onPrev = openedIndex > 0 ? () => setOpened(filtered[openedIndex - 1]) : undefined;
+	const onNext = openedIndex >= 0 && openedIndex < filtered.length - 1 ? () => setOpened(filtered[openedIndex + 1]) : undefined;
 
 	useEffect(() => {
 		let list = layouts;
@@ -174,7 +177,7 @@ function App() {
 					))}
 				</div>
 			</div>
-			{opened && <Overlay layout={opened} requestClose={() => setOpened(undefined)}/>}
+			{opened && <Overlay layout={opened} requestClose={() => setOpened(undefined)} onPrev={onPrev} onNext={onNext}/>}
 		</div>
 	);
 }
