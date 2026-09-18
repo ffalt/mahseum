@@ -9,7 +9,9 @@ import {generateExportKmahjongg, generateExportKyodai, generateExportMah} from '
 import {statsSolveMapping} from 'mah/src/app/model/tasks';
 import yauzl from 'yauzl';
 
-const NEW_FORMAT_SITES = new Set(['gnome-mahjongg', 'xmahjongg', 'green-mahjong']);
+const NEW_FORMAT_SITES = new Set(['gnome-mahjongg', 'xmahjongg', 'green-mahjong', 'mahjongg-dos', 'pysolfc', 'solitile']);
+const BINARY_SITES = new Set(['solitile']);
+const SKIP_EXTENSIONS = new Set(['.md', '.zip', '.exe']);
 
 type RawImportLayout = Parameters<typeof cleanImportLayout>[0];
 
@@ -94,6 +96,75 @@ function convertGreenMahjong(data: string, key: string): RawImportLayout {
 	const mapping: Array<[number, number, number]> = positionX.map((x, index) =>
 		[shift[index], Math.round(x * 2), Math.round(positionY[index] * 2)]);
 	return {name: humanizeKey(key), by: '', cat: 'uncategorized', mapping} as RawImportLayout;
+}
+
+function humanizeFilename(name: string): string {
+	const spaced = name === name.toUpperCase() ? name.toLowerCase() : name.replace(/([a-z])([A-Z])/g, '$1 $2');
+	return spaced.replace(/^./, c => c.toUpperCase());
+}
+
+function convertSolitile(data: Buffer, name: string): RawImportLayout {
+	// Solitile stores an eight byte header starting with the tile count, then one
+	// three byte x/y/z record per tile, with the author's name at offset 0x200.
+	const count = data.readUInt16LE(0);
+	const mapping: Array<[number, number, number]> = [];
+	for (let i = 0; i < count; i++) {
+		const offset = 8 + (i * 3);
+		mapping.push([data[offset + 2], data[offset], data[offset + 1]]);
+	}
+	const by = data.subarray(0x200).toString('latin1').split('\0')[0].trim();
+	return {name: humanizeFilename(name), by, cat: 'uncategorized', mapping} as RawImportLayout;
+}
+
+function convertNelsBoard(data: string, name: string): RawImportLayout {
+	// Nels Anderson's boards are plain text: a two character header line, then one
+	// '0'/'1' grid per layer on the full tile grid, separated by blank lines.
+	const mapping: Array<[number, number, number]> = [];
+	const layers = data.split(/\r?\n/).slice(1).join('\n')
+		.split(/\n\s*\n/)
+		.map(block => block.split('\n').filter(Boolean))
+		.filter(block => block.length > 0);
+	for (const [z, rows] of layers.entries()) {
+		for (const [y, row] of rows.entries()) {
+			for (const [x, cell] of [...row].entries()) {
+				if (cell === '1') {
+					mapping.push([z, x * 2, y * 2]);
+				}
+			}
+		}
+	}
+	return {name: humanizeFilename(name), by: 'Nels Anderson', cat: 'uncategorized', mapping} as RawImportLayout;
+}
+
+function convertPySol(data: string): Array<RawImportLayout> {
+	// PySolFC registers a game per r(...) call and encodes the board as one base52
+	// triple per tile: a combined level/height character, then the x and y position.
+	const alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+	const layouts: Array<RawImportLayout> = [];
+	for (const entry of data.matchAll(/^r\(([\s\S]*?)\)\s*$/gm)) {
+		const body = entry[1];
+		const shortName = body.match(/^\s*\d+\s*,\s*"([^"]*)"/);
+		const longName = body.match(/name\s*=\s*_?\(?"([^"]*)"/);
+		const raw = body.match(/layout\s*=\s*([\s\S]*)$/);
+		if (!shortName || !raw) {
+			continue;
+		}
+		const encoded = [...raw[1].matchAll(/"([^"]*)"/g)].map(part => part[1]).join('');
+		const mapping: Array<[number, number, number]> = [];
+		for (let i = 1; i < encoded.length; i += 3) {
+			const n = alphabet.indexOf(encoded[i]);
+			const level = Math.floor(n / 7);
+			const height = (n % 7) + 1;
+			const x = alphabet.indexOf(encoded[i + 1]);
+			const y = alphabet.indexOf(encoded[i + 2]);
+			for (let z = level; z < level + height; z++) {
+				mapping.push([z, x, y]);
+			}
+		}
+		const name = (longName ? longName[1] : `Mahjongg ${shortName[1]}`).replace('Mahjongg ', '').trim();
+		layouts.push({name, by: '', cat: 'uncategorized', mapping} as RawImportLayout);
+	}
+	return layouts;
 }
 
 function convertMahjonggBuilder(list: Buffer, data: Buffer): Array<RawImportLayout> {
@@ -183,7 +254,7 @@ class ScanBoard {
 class ScanFile {
 	boards: Array<ScanBoard> = [];
 
-	constructor(public parent: ScanDir, public source: string) {
+	constructor(public parent: ScanDir, public source: string, public site: string) {
 
 	}
 
@@ -203,10 +274,18 @@ class ScanFile {
 		return await this.loadData(data, dest, filenames);
 	}
 
+	async loadBuffer(buffer: Buffer, dest: string, filenames: Array<string>): Promise<void> {
+		if (!BINARY_SITES.has(this.site)) {
+			return await this.loadData(buffer.toString(), dest, filenames);
+		}
+		const name = path.basename(this.source, path.extname(this.source));
+		await this.saveLayouts([cleanImportLayout(convertSolitile(buffer, name))], dest, filenames);
+	}
+
 	async loadData(data: string, dest: string, filenames: Array<string>): Promise<void> {
 		let layouts: Array<LoadLayout>;
 		const ext = (this.source.split('.').pop() || '').toLowerCase();
-		const site = this.parent.name;
+		const site = this.site;
 		if (ext === 'lay') {
 			layouts = [cleanImportLayout(await convertKyodai(data, path.basename(this.source)))];
 		} else if (ext === 'layout') {
@@ -220,6 +299,10 @@ class ScanFile {
 				: [cleanImportLayout(convertXmahjonggPlain(data, path.basename(this.source)))];
 		} else if (site === 'green-mahjong') {
 			layouts = [cleanImportLayout(convertGreenMahjong(data, path.basename(this.source, '.js')))];
+		} else if (site === 'mahjongg-dos') {
+			layouts = [cleanImportLayout(convertNelsBoard(data, path.basename(this.source, path.extname(this.source))))];
+		} else if (site === 'pysolfc') {
+			layouts = convertPySol(data).map(l => cleanImportLayout(l));
 		} else {
 			const mah: MahFormat = JSON.parse(data);
 			layouts = mah.boards;
@@ -421,18 +504,12 @@ async function extract(dest: string): Promise<ScanDir> {
 		zipfile.readEntry();
 		zipfile.on('entry', function(entry) {
 			if (/\/$/.test(entry.fileName)) {
-				// Directory file names end with '/'.
-				// Note that entries for directories themselves are optional.
-				// An entry's fileName implicitly requires its parent directories to exist.
 				zipfile.readEntry();
 			} else {
-				// file entry
 				console.log(entry.fileName);
 				const topDir = entry.fileName.split('/')[0];
 				const ext = path.extname(entry.fileName).toLowerCase();
 				if (topDir === 'mahjongg-builder' && !entry.fileName.endsWith('.md')) {
-					// games_list/games_data need each other to be read, so they are buffered
-					// here and only converted once both have come in, see the 'end' handler.
 					zipfile.openReadStream(entry, function(err, readStream) {
 						if (err) throw err;
 						const chunks: Buffer[] = [];
@@ -448,7 +525,7 @@ async function extract(dest: string): Promise<ScanDir> {
 						});
 						readStream.on('data', buf => chunks.push(buf));
 					});
-				} else if (['.lay', '.layout', '.mah'].includes(ext) || (NEW_FORMAT_SITES.has(topDir) && ext !== '.md')) {
+				} else if (['.lay', '.layout', '.mah'].includes(ext) || (NEW_FORMAT_SITES.has(topDir) && !SKIP_EXTENSIONS.has(ext))) {
 					zipfile.openReadStream(entry, function(err, readStream) {
 						if (err) throw err;
 						const chunks: Buffer[] = [];
@@ -456,9 +533,9 @@ async function extract(dest: string): Promise<ScanDir> {
 							const parents = path.dirname(entry.fileName).split('/');
 							const dir = getDir(parents, root);
 							const filename = path.basename(entry.fileName);
-							const file = new ScanFile(dir, filename);
+							const file = new ScanFile(dir, filename, topDir);
 							dir.files.push(file);
-							file.loadData(Buffer.concat(chunks).toString(), dir.dest, filenames).then(() => {
+							file.loadBuffer(Buffer.concat(chunks), dir.dest, filenames).then(() => {
 								zipfile.readEntry();
 							}).catch(e => {
 								reject(e);
@@ -493,7 +570,7 @@ async function extract(dest: string): Promise<ScanDir> {
 		zipfile.on('end', () => {
 			if (builderRaw.list && builderRaw.data) {
 				const dir = getDir(['mahjongg-builder'], root);
-				const file = new ScanFile(dir, 'games_data');
+				const file = new ScanFile(dir, 'games_data', 'mahjongg-builder');
 				dir.files.push(file);
 				file.loadBuilderData(builderRaw.list, builderRaw.data, dir.dest, filenames).then(() => {
 					resolve(root);
