@@ -1,6 +1,6 @@
 export const data = [
 	{
-		"id": "782465909",
+		"id": "2413951355",
 		"name": "@",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -13,7 +13,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2256378761",
+		"id": "2413951355",
+		"name": "@",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,7]]],[1,[1,17]],[3,[0,18]],[4,[[6,2],12]],[5,[0,4,10,19]],[6,12],[7,[0,4,19]],[8,12],[9,[0,4,10,19]],[10,[[6,2],13,17]],[11,[0,15]],[12,19],[13,[1,17]],[14,[3,15]],[15,[[5,5]]]]],[1,[[0,[[3,7]]],[1,[1,17]],[3,[0,18]],[4,[[6,2],12]],[5,[0,4,10,19]],[6,12],[7,[0,4,19]],[8,12],[9,[0,4,10,19]],[10,[[6,2],13,17]],[11,[0,15]],[12,19],[13,[1,17]],[14,[3,15]],[15,[[5,5]]]]],[2,[[0,[[3,7]]],[1,[1,17]],[3,[0,18]],[4,[[6,2],12]],[5,[0,4,10,19]],[6,12],[7,[0,4,19]],[8,12],[9,[0,4,10,19]],[10,[[6,2],13,17]],[11,[0,15]],[12,19],[13,[1,17]],[14,[3,15]],[15,[[5,5]]]]],[3,[[12,19],[13,17],[14,[3,15]],[15,[[5,5]]]]],[4,[[12,19],[13,17],[14,15],[15,[[9,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#At Sign.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "@_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "247107683",
 		"name": "$tep5's Challenge",
 		"by": "Patrick Becker",
 		"tiles": 100,
@@ -26,7 +39,7 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "1142589759",
+		"id": "1068543571",
 		"name": "12 Bars",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -39,7 +52,20 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "2766103049",
+		"id": "1068543571",
+		"name": "12 Bars",
+		"by": "Monica Ottosson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[10,4]]],[3,[[0,4],[10,4]]],[6,[[0,4],[10,4]]],[9,[[0,4],[10,4]]],[12,[[0,4],[10,4]]],[15,[[0,4],[10,4]]]]],[1,[[0,[[0,4],[10,4]]],[3,[[0,4],[10,4]]],[6,[[0,4],[10,4]]],[9,[[0,4],[10,4]]],[12,[[0,4],[10,4]]],[15,[[0,4],[10,4]]]]],[2,[[0,[[0,4],[10,4]]],[3,[[0,4],[10,4]]],[6,[[0,4],[10,4]]],[9,[[0,4],[10,4]]],[12,[[0,4],[10,4]]],[15,[[0,4],[10,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#molayouts.zip#12 bars.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "12_bars_2",
+		"path": "phantagia/lyall/molayouts",
+		"group": "Phantagia - Submitted - Ottosson"
+	},
+	{
+		"id": "1359647925",
 		"name": "12345 Layout",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -52,7 +78,7 @@ export const data = [
 		"group": "Kurenai - Script signs"
 	},
 	{
-		"id": "1322424675",
+		"id": "4216247489",
 		"name": "144",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -65,7 +91,20 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "2742593195",
+		"id": "4216247489",
+		"name": "144",
+		"by": "Monica Ottosson",
+		"tiles": 144,
+		"data": "[[0,[[0,[2,5,12,15,22,25]],[1,[0,7,10,17,20,27]],[2,[2,5,12,15,22,25]],[5,[2,5,12,15,22,25]],[6,[0,7,10,17,20,27]],[7,[2,5,12,15,22,25]],[10,[2,5,12,15,22,25]],[11,[0,7,10,17,20,27]],[12,[2,5,12,15,22,25]]]],[1,[[0,[2,5,12,15,22,25]],[1,[0,7,10,17,20,27]],[2,[2,5,12,15,22,25]],[5,[2,5,12,15,22,25]],[6,[0,7,10,17,20,27]],[7,[2,5,12,15,22,25]],[10,[2,5,12,15,22,25]],[11,[0,7,10,17,20,27]],[12,[2,5,12,15,22,25]]]],[2,[[0,[2,5,12,15,22,25]],[2,[2,5,12,15,22,25]],[5,[2,5,12,15,22,25]],[7,[2,5,12,15,22,25]],[10,[2,5,12,15,22,25]],[12,[2,5,12,15,22,25]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#molayouts.zip#144.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "144_2",
+		"path": "phantagia/lyall/molayouts",
+		"group": "Phantagia - Submitted - Ottosson"
+	},
+	{
+		"id": "1464471147",
 		"name": "144b",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -78,7 +117,7 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "3326544943",
+		"id": "1657284523",
 		"name": "144cc",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -91,7 +130,7 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "1342001547",
+		"id": "222094299",
 		"name": "2 X 6 X 6",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -104,7 +143,7 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "3812657073",
+		"id": "550212455",
 		"name": "2002",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -117,7 +156,7 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "2923939053",
+		"id": "177115249",
 		"name": "3 1/2 Disk",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -130,7 +169,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2774597379",
+		"id": "177115249",
+		"name": "3 1/2 Disk",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,8]]],[8,[[0,8]]],[10,[[0,8]]],[12,[[2,7]]]]],[1,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,8]]],[8,[[0,8]]],[10,[[0,8]]],[12,[[2,7]]]]],[2,[[0,[[2,6]]],[2,[[2,6]]],[4,[[2,6]]],[6,[[2,6]]],[10,[[4,4]]],[12,[4,[8,2]]]]],[3,[[2,[[5,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#312 Disk.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "3_1_2_disk_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3034328183",
+		"name": "3 Crowns",
+		"by": "Patrick Becker",
+		"tiles": 120,
+		"data": "[[0,[[0,[9,16,23]],[2,[[10,2],[15,2],[20,2]]],[4,[[11,6]]],[6,[[12,5]]],[10,[0,7,14,18,25,32]],[12,[[1,2],[6,2],[11,2],[19,2],[24,2],[29,2]]],[14,[[2,6],[20,6]]],[16,[[3,5],[21,5]]]]],[1,[[0,[9,16,23]],[2,[[10,2],[15,2],[20,2]]],[4,[[11,6]]],[6,[[12,5]]],[10,[0,7,14,18,25,32]],[12,[[1,2],[6,2],[11,2],[19,2],[24,2],[29,2]]],[14,[[2,6],[20,6]]],[16,[[3,5],[21,5]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#3 CROWNS.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "3_crowns",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3034328183",
 		"name": "3 Crowns",
 		"by": "Patrick Becker",
 		"tiles": 120,
@@ -138,12 +203,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#3 CROWNS.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "3_crowns",
+		"filename": "3_crowns_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1966629708",
+		"id": "3465156822",
 		"name": "3 Mars",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -156,7 +221,7 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "767105147",
+		"id": "757156507",
 		"name": "3 X 6",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -169,7 +234,20 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "2408425908",
+		"id": "757156507",
+		"name": "3 X 6",
+		"by": "Monica Ottosson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[5,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[7,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[10,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[12,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]]]],[1,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[5,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[7,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[10,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[12,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#molayouts.zip#3 x 6.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "3_x_6_2",
+		"path": "phantagia/lyall/molayouts",
+		"group": "Phantagia - Submitted - Ottosson"
+	},
+	{
+		"id": "1430227406",
 		"name": "3D Pyramid",
 		"by": "MyKyodai",
 		"tiles": 136,
@@ -182,7 +260,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4004836902",
+		"id": "3169279734",
 		"name": "4 Winds",
 		"by": "Alexey Charkov",
 		"tiles": 128,
@@ -195,7 +273,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3121408031",
+		"id": "3169279734",
+		"name": "4 Winds",
+		"by": "Alexey Charkov",
+		"tiles": 128,
+		"data": "[[0,[[0,[4,[8,2],[16,2],22]],[2,[[4,10]]],[4,[4,[8,6],22]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[4,[8,6],22]],[12,[[4,10]]],[14,[4,[8,2],[16,2],22]]]],[1,[[0,[4,8,18,22]],[2,[[4,3],[18,3]]],[4,[4,[8,6],22]],[6,[[4,3],[18,3]]],[7,[2,[12,2],24]],[8,[[4,3],[18,3]]],[10,[4,[8,6],22]],[12,[[4,3],[18,3]]],[14,[4,8,18,22]]]],[2,[[7,13]]],[3,[[7,13]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/download4_winds.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "4_winds_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1510609989",
 		"name": "5 1/2 Disk",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -208,7 +299,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1090620743",
+		"id": "1510609989",
+		"name": "5 1/2 Disk",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,8]]],[4,[[0,9]]],[6,[[0,4],[10,4]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[[0,8]]],[4,[[0,9]]],[6,[[0,4],[10,4]]],[8,[[0,9]]],[10,[[0,4],[10,4]]],[12,[[0,4],[10,4]]],[14,[[0,9]]]]],[2,[[2,[[3,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#514 Disk.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "5_1_2_disk_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2384931023",
 		"name": "6 Bars",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -221,7 +325,20 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "1242660747",
+		"id": "2384931023",
+		"name": "6 Bars",
+		"by": "Monica Ottosson",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,4,8,12,16,20]],[2,[0,4,8,12,16,20]],[4,[0,4,8,12,16,20]],[6,[0,4,8,12,16,20]],[8,[0,4,8,12,16,20]],[10,[0,4,8,12,16,20]]]],[1,[[0,[0,4,8,12,16,20]],[2,[0,4,8,12,16,20]],[4,[0,4,8,12,16,20]],[6,[0,4,8,12,16,20]],[8,[0,4,8,12,16,20]],[10,[0,4,8,12,16,20]]]],[2,[[0,[0,4,8,12,16,20]],[2,[0,4,8,12,16,20]],[4,[0,4,8,12,16,20]],[6,[0,4,8,12,16,20]],[8,[0,4,8,12,16,20]],[10,[0,4,8,12,16,20]]]],[3,[[0,[0,4,8,12,16,20]],[2,[0,4,8,12,16,20]],[4,[0,4,8,12,16,20]],[6,[0,4,8,12,16,20]],[8,[0,4,8,12,16,20]],[10,[0,4,8,12,16,20]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#molayouts.zip#6 bars.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "6_bars_2",
+		"path": "phantagia/lyall/molayouts",
+		"group": "Phantagia - Submitted - Ottosson"
+	},
+	{
+		"id": "444957301",
 		"name": "6 X 24",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -234,7 +351,20 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "601628362",
+		"id": "1146468334",
+		"name": "711",
+		"by": "Patrick Becker",
+		"tiles": 100,
+		"data": "[[0,[[0,[[0,6],20,30]],[2,[[0,6],[18,2],[28,2]]],[4,[[6,2],[16,3],[26,3]]],[6,[[4,2],[14,4],[24,4]]],[8,[[3,2],[14,4],[24,4]]],[10,[[2,2],[14,4],[24,4]]],[12,[[2,2],[14,4],[24,4]]]]],[1,[[1,[[1,5]]],[3,[7,19,29]],[5,[6,[17,2],[27,2]]],[7,[4,[15,3],[25,3]]],[9,[3,[15,3],[25,3]]],[11,[3,[15,3],[25,3]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#711.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "711",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1146468334",
 		"name": "711",
 		"by": "Patrick Becker",
 		"tiles": 100,
@@ -242,12 +372,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#711.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "711",
+		"filename": "711_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2314490115",
+		"id": "2140984643",
 		"name": "9 Bars",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -260,7 +390,33 @@ export const data = [
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "477210603",
+		"id": "2140984643",
+		"name": "9 Bars",
+		"by": "Monica Ottosson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2]]],[2,[[0,2],[5,2],[10,2]]],[5,[[0,2],[5,2],[10,2]]],[7,[[0,2],[5,2],[10,2]]],[10,[[0,2],[5,2],[10,2]]],[12,[[0,2],[5,2],[10,2]]]]],[1,[[0,[[0,2],[5,2],[10,2]]],[2,[[0,2],[5,2],[10,2]]],[5,[[0,2],[5,2],[10,2]]],[7,[[0,2],[5,2],[10,2]]],[10,[[0,2],[5,2],[10,2]]],[12,[[0,2],[5,2],[10,2]]]]],[2,[[0,[[0,2],[5,2],[10,2]]],[2,[[0,2],[5,2],[10,2]]],[5,[[0,2],[5,2],[10,2]]],[7,[[0,2],[5,2],[10,2]]],[10,[[0,2],[5,2],[10,2]]],[12,[[0,2],[5,2],[10,2]]]]],[3,[[0,[[0,2],[5,2],[10,2]]],[2,[[0,2],[5,2],[10,2]]],[5,[[0,2],[5,2],[10,2]]],[7,[[0,2],[5,2],[10,2]]],[10,[[0,2],[5,2],[10,2]]],[12,[[0,2],[5,2],[10,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#molayouts.zip#9 Bars.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "9_bars_2",
+		"path": "phantagia/lyall/molayouts",
+		"group": "Phantagia - Submitted - Ottosson"
+	},
+	{
+		"id": "973763131",
+		"name": "A Pyramid, THAT?!",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[2,10]]],[6,[[4,8]]],[8,[[4,8]]],[10,[[2,10]]],[12,[[0,12]]],[14,[[0,12]]]]],[1,[[2,[[4,8]]],[4,[[6,6]]],[6,[[6,6]]],[8,[[6,6]]],[10,[[6,6]]],[12,[[4,8]]]]],[2,[[4,[[8,4]]],[6,[8,14]],[8,[8,14]],[10,[[8,4]]]]],[3,[[4,[[10,2]]],[6,[8,14]],[8,[8,14]],[10,[[10,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Pyramid.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "a_pyramid_that",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "973763131",
 		"name": "A Pyramid, THAT?!",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -268,12 +424,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Pyramid.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "a_pyramid_that",
+		"filename": "a_pyramid_that_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3805170223",
+		"id": "1261781423",
 		"name": "A Pyramid, THAT?! 2",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -286,7 +442,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3562886705",
+		"id": "82733961",
 		"name": "A REAL Pyramid, Finally",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -299,7 +455,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1720520956",
+		"id": "82733961",
+		"name": "A REAL Pyramid, Finally",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,8]]],[2,[[5,8]]],[4,[0,[5,8],23]],[6,[[5,8]]],[8,[[5,8]]],[10,[0,[5,8],23]],[12,[[5,8]]],[14,[[5,8]]],[17,[0,12,23]]]],[1,[[2,[[7,6]]],[4,[0,[7,6],23]],[6,[[7,6]]],[8,[[7,6]]],[10,[0,[7,6],23]],[12,[[7,6]]]]],[2,[[4,[0,[9,4],23]],[6,[[9,4]]],[8,[[9,4]]],[10,[0,[9,4],23]]]],[3,[[4,[0,23]],[6,[[11,2]]],[8,[[11,2]]],[10,[0,23]]]],[4,[[4,[0,23]],[7,12],[10,[0,23]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Pyramid and Pillars.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "a_real_pyramid_finally_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2997672380",
 		"name": "ABC",
 		"by": "Mary M",
 		"tiles": 144,
@@ -312,7 +481,7 @@ export const data = [
 		"group": "My Kyodai Mahjongg"
 	},
 	{
-		"id": "557166365",
+		"id": "3356816339",
 		"name": "ABC's",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -325,7 +494,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "2461803795",
+		"id": "2301857809",
 		"name": "Abstract",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -338,7 +507,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1479344149",
+		"id": "2301857809",
+		"name": "Abstract",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[9,4],[18,4]]],[2,[[0,4],[9,4],[18,4]]],[4,[[0,4],[9,4],[18,4]]],[6,[[0,4],[9,4],[18,4]]],[9,[[0,4],[9,4],[18,4]]],[11,[[0,4],[9,4],[18,4]]],[13,[[0,4],[9,4],[18,4]]],[15,[[0,4],[9,4],[18,4]]]]],[1,[[2,[2,[11,2],22]],[4,[4,[11,2],20]],[11,[4,[11,2],20]],[13,[2,[11,2],22]]]],[2,[[1,[1,10,14,23]],[5,[5,10,14,19]],[10,[5,10,14,19]],[14,[1,10,14,23]]]],[3,[[0,[0,9,15,24]],[6,[6,9,15,18]],[9,[6,9,15,18]],[15,[0,9,15,24]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Abstract.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "abstract_3",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3176735621",
 		"name": "Abstract 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -351,7 +533,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2036373485",
+		"id": "3176735621",
+		"name": "Abstract 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[0,12]]],[14,[[0,12]]]]],[1,[[2,[[2,2],[10,2],[18,2]]],[4,[[2,2],[10,2],[18,2]]],[10,[[2,2],[10,2],[18,2]]],[12,[[2,2],[10,2],[18,2]]]]],[2,[[5,[5,9,13,17]],[9,[5,9,13,17]]]],[3,[[6,[[6,2],[14,2]]],[8,[[6,2],[14,2]]]]],[4,[[6,[[6,2],[14,2]]],[8,[[6,2],[14,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Abstract 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "abstract_2_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2209111101",
 		"name": "Abstract Garden",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -364,7 +559,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "115474701",
+		"id": "3025994197",
 		"name": "Abstractly Designed Bridge",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -377,7 +572,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3866173256",
+		"id": "3025994197",
+		"name": "Abstractly Designed Bridge",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,26]],[2,[[2,3],[24,3]]],[4,[[0,16]]],[6,[[2,3],[24,3]]],[8,[4,26]]]],[1,[[0,[[3,2],[25,2]]],[2,[[3,2],[25,2]]],[4,[[1,15]]],[6,[[3,2],[25,2]]],[8,[[3,2],[25,2]]]]],[2,[[0,[4,26]],[2,[4,26]],[4,[[2,14]]],[6,[4,26]],[8,[4,26]]]],[3,[[0,[[3,2],[25,2]]],[2,[[3,2],[25,2]]],[4,[[3,13]]],[6,[[3,2],[25,2]]],[8,[[3,2],[25,2]]]]],[4,[[0,[4,26]],[2,[[2,3],[24,3]]],[4,[[2,14]]],[6,[[2,3],[24,3]]],[8,[4,26]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Abstract Bridge.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "abstractly_designed_bridge_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2059101500",
 		"name": "Abstractly Designed Building",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -390,7 +598,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1444175453",
+		"id": "2059101500",
+		"name": "Abstractly Designed Building",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[2,[2,8,14]],[6,[[6,3]]],[8,[2,[6,3],14]],[10,[[6,3]]],[14,[2,8,14]]]],[1,[[1,[[1,2],[7,2],[13,2]]],[3,[[1,2],[7,2],[13,2]]],[7,[[1,2],[7,2],[13,2]]],[9,[[1,2],[7,2],[13,2]]],[13,[[1,2],[7,2],[13,2]]],[15,[[1,2],[7,2],[13,2]]]]],[2,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,3],[12,3]]],[8,[[0,3],8,[12,3]]],[10,[[0,3],[12,3]]],[12,[[0,9]]],[14,[[0,9]]],[16,[[0,9]]]]],[3,[[3,8],[5,[[5,4]]],[7,[5,11]],[8,[3,8,13]],[9,[5,11]],[11,[[5,4]]],[13,8]]],[4,[[8,8]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Abstract Building.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "abstractly_designed_building_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "4253700593",
 		"name": "Abstractly Designed Pyramid",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -403,7 +624,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2559906015",
+		"id": "4253700593",
+		"name": "Abstractly Designed Pyramid",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,10],[2,[[0,3],10,[16,3]]],[4,[0,[8,3],20]],[5,[6,14]],[6,[0,4,10,16,20]],[8,[[0,11]]],[10,[0,4,10,16,20]],[11,[6,14]],[12,[0,[8,3],20]],[14,[[0,3],10,[16,3]]]]],[1,[[2,[[0,2],10,[18,2]]],[4,[0,10,20]],[5,[8,12]],[6,[0,6,10,14,20]],[8,[[0,11]]],[10,[0,6,10,14,20]],[11,[8,12]],[12,[0,10,20]],[14,[[0,2],10,[18,2]]]]],[2,[[2,10],[4,10],[6,[0,[8,3],20]],[8,[[0,11]]],[10,[0,[8,3],20]],[12,10],[14,10]]],[3,[[2,10],[4,10],[6,10],[8,[[2,9]]],[10,10],[12,10],[14,10]]],[4,[[2,10],[4,10],[6,10],[8,[[4,7]]],[10,10],[12,10],[14,10]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Abstract Pyramid.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "abstractly_designed_pyramid_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2388629829",
 		"name": "Abstractly Designed Staircase",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -416,7 +650,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2952882297",
+		"id": "2388629829",
+		"name": "Abstractly Designed Staircase",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[[0,10]]],[4,[[0,10]]],[6,[[0,10]]]]],[1,[[0,[[0,4],[12,4]]],[1,9],[2,[[0,4],[12,4]]],[3,9],[4,[[0,4],[12,4]]],[5,9],[6,[[0,4],[12,4]]]]],[2,[[0,[[0,3],[14,3]]],[1,9],[2,[[0,3],[14,3]]],[3,[6,9,12]],[4,[[0,3],[14,3]]],[5,9],[6,[[0,3],[14,3]]]]],[3,[[0,[[0,2],[16,2]]],[2,[[0,2],[16,2]]],[3,[[4,2],9,[12,2]]],[4,[[0,2],[16,2]]],[6,[[0,2],[16,2]]]]],[4,[[0,[0,18]],[1,[2,16]],[2,[0,18]],[3,[[3,7]]],[4,[0,18]],[5,[2,16]],[6,[0,18]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Abstract Staircase.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "abstractly_designed_staircase_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "131490899",
 		"name": "Akane (in Kanji)",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -429,7 +676,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2839662817",
+		"id": "131490899",
+		"name": "Akane (in Kanji)",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,12]],[1,[[0,2],[6,3],[14,2]]],[2,[4,12]],[5,[[0,9]]],[7,[5,9]],[9,[[0,9]]],[11,[0,5,9,16]],[13,[[0,3],[10,4]]],[15,[0,16]],[17,[[0,9]]]]],[1,[[0,[4,12]],[1,[[0,2],[6,3],[14,2]]],[2,[4,12]],[5,[[0,9]]],[7,[5,9]],[9,[[0,9]]],[11,[0,5,9,16]],[13,[[0,3],[10,4]]],[15,[0,16]],[17,[[0,9]]]]],[2,[[1,[[2,2],[12,2]]],[5,[[1,2],[11,3]]],[6,[5,9]],[8,[5,9]],[9,[[1,2],7,[11,3]]],[10,[5,9]],[11,[0,16]],[13,[[1,2],[11,3]]],[15,[0,16]],[17,[[1,8]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Nyue.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "akane_(in_kanji)_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1141643581",
 		"name": "Alien",
 		"by": "Alexey Charkov",
 		"tiles": 152,
@@ -442,7 +702,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "4141011603",
+		"id": "1141643581",
+		"name": "Alien",
+		"by": "Alexey Charkov",
+		"tiles": 152,
+		"data": "[[0,[[0,[[9,6]]],[2,[[1,14]]],[4,[1,[8,7],27]],[6,[1,[10,5],27]],[8,[[10,5]]],[10,[[12,3]]],[12,[12,16]],[14,[[0,7],[16,7]]]]],[1,[[0,[[10,5]]],[2,[[1,3],[10,5],[23,3]]],[4,[1,[13,2],27]],[6,[1,[13,2],27]],[8,[[13,2]]],[10,14],[14,[[0,6],[18,6]]]]],[2,[[0,[[11,4]]],[2,[[1,2],[11,4],[25,2]]],[4,[1,14,27]],[6,14],[8,14],[14,[[0,5],[20,5]]]]],[3,[[0,[[12,3]]],[2,[1,11,17,27]],[4,14],[6,14],[14,[[0,4],[22,4]]]]],[4,[[0,[[13,2]]],[2,[11,17]],[4,14],[14,[[2,2],[24,2]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadalien.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "alien_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3122236871",
 		"name": "Altar",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -455,7 +728,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1861655803",
+		"id": "3122236871",
+		"name": "Altar",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[8,8],[28,2]]],[2,[[0,2],[8,8],[28,2]]],[4,[[8,8]]],[6,[[8,8]]],[8,[[8,8]]],[10,[[14,2]]],[12,[[0,2],[14,2],[28,2]]],[14,[[0,2],[14,2],[28,2]]]]],[1,[[1,[[0,2],[28,2]]],[2,[[10,6]]],[4,[[10,6]]],[6,[[10,6]]],[8,15],[10,15],[12,15],[13,[[0,2],[28,2]]],[14,15]]],[2,[[1,[1,29]],[2,[[10,6]]],[4,[[10,6]]],[6,[[10,6]]],[8,15],[10,15],[12,15],[13,[1,29]]]],[3,[[2,[[11,5]]],[4,[[11,5]]],[6,[[11,5]]],[8,15],[10,15]]],[4,[[2,[[14,2]]],[4,[[12,4]]],[6,[[13,3]]],[8,15]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadaltar.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "altar_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3263615051",
+		"name": "Amaze",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,16]]],[2,[0,10,14,20,30]],[4,[[0,4],10,14,[18,2],[24,2],30]],[6,[0,10,24,30]],[8,[0,4,[8,2],[14,7],30]],[10,[0,4,14,22,30]],[12,[0,[4,4],[14,3],22,[26,3]]],[14,[0,10,22,30]],[16,[[0,4],[10,8],[28,2]]]]],[1,[[0,[0,30]],[2,[10,14,20]],[4,[[2,3],10,14,[18,2],[24,2]]],[6,[10,24]],[8,[4,[8,2],[14,7]]],[10,[4,14,22]],[12,[[4,4],[14,3],22,[26,2]]],[14,[10,22]],[16,[0,[4,2],[10,2],[22,2],[28,2]]]]],[2,[[0,[0,30]],[16,[0,6,10,24,28]]]],[3,[[16,[6,10,24,28]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Labyrinth.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "amaze",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3263615051",
 		"name": "Amaze",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -463,12 +762,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Labyrinth.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "amaze",
+		"filename": "amaze_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1780951754",
+		"id": "3952103194",
 		"name": "Anchor",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -481,12 +780,25 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1300789223",
+		"id": "3952103194",
+		"name": "Anchor",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[11,4]]],[2,[[9,2],[17,2]]],[4,[[11,4]]],[5,[2,26]],[6,[0,[13,2],28]],[7,[[9,2],[17,2]]],[8,[[0,2],[13,2],[26,2]]],[10,[[0,3],[13,2],[24,3]]],[12,[[2,3],[12,3],[22,3]]],[14,[[4,11]]]]],[1,[[0,[[11,4]]],[2,[[9,2],[17,2]]],[4,[[11,4]]],[5,[2,26]],[6,[0,[13,2],28]],[7,[[9,2],[17,2]]],[8,[[0,2],[13,2],[26,2]]],[10,[[0,3],[13,2],[24,3]]],[12,[[2,3],[12,3],[22,3]]],[14,[[4,11]]]]],[2,[[0,[[12,3]]],[2,[10,18]],[4,[[12,3]]],[6,14],[7,[[10,2],[16,2]]],[8,14],[10,[2,14,26]],[12,[4,[12,3],24]],[14,[[6,9]]]]],[3,[[7,14]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Anchor.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "anchor_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "1146659011",
 		"name": "Angel",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
 		"data": "[[0,[[0,[[2,4],[20,4]]],[1,[10,14,18]],[2,[0,4,7,21,24,28]],[3,[[11,4]]],[4,[0,3,6,22,25,28]],[5,[9,[12,3],19]],[6,[2,5,23,26]],[7,[8,[13,2],20]],[8,[1,4,24,27]],[9,[7,[13,2],21]],[10,[0,3,25,28]],[11,[7,[13,2],21]],[12,[0,3,25,28]],[13,[[13,2]]],[14,[[0,2],[26,2]]],[15,[[13,2]]],[16,[0,28]],[17,[2,14,26]],[18,[0,28]]]],[1,[[1,[[3,3],[21,3]]],[2,[9,19]],[3,[2,5,23,26]],[4,[[13,2]]],[5,[1,4,24,27]],[6,14],[7,[3,25]],[9,[2,14,26]],[11,[2,14,26]],[13,[2,14,26]],[15,14],[16,[2,26]]]],[2,[[2,[[4,3],[20,3]]],[4,[2,5,23,26]],[6,[4,24]],[8,[3,25]],[10,[3,25]],[14,[2,26]]]],[3,[[2,[[5,2],[21,2]]],[4,[4,24]],[6,[4,24]],[8,[3,25]]]],[4,[[2,[6,22]],[4,[5,23]],[6,[5,23]],[7,[3,25]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Evangelion Angel.lay",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Angel.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
 		"filename": "angel",
@@ -494,7 +806,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1420136716",
+		"id": "1146659011",
+		"name": "Angel",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,4],[20,4]]],[1,[10,14,18]],[2,[0,4,7,21,24,28]],[3,[[11,4]]],[4,[0,3,6,22,25,28]],[5,[9,[12,3],19]],[6,[2,5,23,26]],[7,[8,[13,2],20]],[8,[1,4,24,27]],[9,[7,[13,2],21]],[10,[0,3,25,28]],[11,[7,[13,2],21]],[12,[0,3,25,28]],[13,[[13,2]]],[14,[[0,2],[26,2]]],[15,[[13,2]]],[16,[0,28]],[17,[2,14,26]],[18,[0,28]]]],[1,[[1,[[3,3],[21,3]]],[2,[9,19]],[3,[2,5,23,26]],[4,[[13,2]]],[5,[1,4,24,27]],[6,14],[7,[3,25]],[9,[2,14,26]],[11,[2,14,26]],[13,[2,14,26]],[15,14],[16,[2,26]]]],[2,[[2,[[4,3],[20,3]]],[4,[2,5,23,26]],[6,[4,24]],[8,[3,25]],[10,[3,25]],[14,[2,26]]]],[3,[[2,[[5,2],[21,2]]],[4,[4,24]],[6,[4,24]],[8,[3,25]]]],[4,[[2,[6,22]],[4,[5,23]],[6,[5,23]],[7,[3,25]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Evangelion Angel.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "angel_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1146659011",
+		"name": "Angel",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,4],[20,4]]],[1,[10,14,18]],[2,[0,4,7,21,24,28]],[3,[[11,4]]],[4,[0,3,6,22,25,28]],[5,[9,[12,3],19]],[6,[2,5,23,26]],[7,[8,[13,2],20]],[8,[1,4,24,27]],[9,[7,[13,2],21]],[10,[0,3,25,28]],[11,[7,[13,2],21]],[12,[0,3,25,28]],[13,[[13,2]]],[14,[[0,2],[26,2]]],[15,[[13,2]]],[16,[0,28]],[17,[2,14,26]],[18,[0,28]]]],[1,[[1,[[3,3],[21,3]]],[2,[9,19]],[3,[2,5,23,26]],[4,[[13,2]]],[5,[1,4,24,27]],[6,14],[7,[3,25]],[9,[2,14,26]],[11,[2,14,26]],[13,[2,14,26]],[15,14],[16,[2,26]]]],[2,[[2,[[4,3],[20,3]]],[4,[2,5,23,26]],[6,[4,24]],[8,[3,25]],[10,[3,25]],[14,[2,26]]]],[3,[[2,[[5,2],[21,2]]],[4,[4,24]],[6,[4,24]],[8,[3,25]]]],[4,[[2,[6,22]],[4,[5,23]],[6,[5,23]],[7,[3,25]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Evangelion Angel.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "angel_3",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1941232304",
+		"name": "Another Round",
+		"by": "Naoki Haga",
+		"tiles": 140,
+		"data": "[[0,[[0,[[6,7]]],[2,[[4,9]]],[4,[[4,4],[14,4]]],[5,[2,22]],[6,[0,[4,4],[14,4],24]],[7,[2,22]],[8,[0,[4,4],[14,4],24]],[9,[2,22]],[10,[[4,4],[14,4]]],[12,[[4,9]]],[14,[[6,7]]]]],[1,[[1,[[7,2],[15,2]]],[3,[[5,3],[15,3]]],[5,[[5,3],[15,3]]],[6,[3,21]],[7,[1,[5,3],[15,3],23]],[8,[3,21]],[9,[[5,3],[15,3]]],[11,[[5,3],[15,3]]],[13,[[7,2],[15,2]]]]],[2,[[2,[8,16]],[4,[[6,2],[16,2]]],[6,[[6,2],[16,2]]],[7,[4,20]],[8,[[6,2],[16,2]]],[10,[[6,2],[16,2]]],[12,[8,16]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Another Round.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "another_round",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1941232304",
 		"name": "Another Round",
 		"by": "Naoki Haga",
 		"tiles": 140,
@@ -502,12 +853,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Another Round.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "another_round",
+		"filename": "another_round_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3659998909",
+		"id": "3246425737",
 		"name": "Ape",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -520,7 +871,20 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "2529896236",
+		"id": "1257384226",
+		"name": "Aqab's Layout",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,[10,5],24]],[2,[2,[12,3],26]],[3,[7,22]],[4,[0,[10,5],28]],[6,[[0,15]]],[8,[0,[10,5],28]],[9,[7,22]],[10,[2,[12,3],26]],[12,[4,[10,5],24]]]],[1,[[0,[4,[10,5],24]],[2,[2,[12,3],26]],[4,[0,[10,5],28]],[6,[[0,15]]],[8,[0,[10,5],28]],[10,[2,[12,3],26]],[12,[4,[10,5],24]]]],[2,[[0,[4,24]],[2,[2,14,26]],[4,[0,[12,3],28]],[6,[0,[10,5],28]],[8,[0,[12,3],28]],[10,[2,14,26]],[12,[4,24]]]],[3,[[4,14],[6,[0,[12,3],28]],[8,14]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Aqab's.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "aqabs_layout",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1257384226",
 		"name": "Aqab's Layout",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -528,12 +892,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Aqab's.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "aqabs_layout",
+		"filename": "aqabs_layout_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3197263995",
+		"id": "1811685753",
 		"name": "Aquarius",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -546,7 +910,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1143187447",
+		"id": "1811685753",
+		"name": "Aquarius",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,12,20,28]],[2,[[2,3],[10,3],[18,3],[26,2]]],[4,[[0,2],[6,3],[14,3],[22,3]]],[6,[0,8,16,24]],[8,[4,12,20,28]],[10,[[2,3],[10,3],[18,3],[26,2]]],[12,[[0,2],[6,3],[14,3],[22,3]]],[14,[0,8,16,24]]]],[1,[[0,[4,12,20,28]],[2,[[2,3],[10,3],[18,3],[26,2]]],[4,[[0,2],[6,3],[14,3],[22,3]]],[6,[0,8,16,24]],[8,[4,12,20,28]],[10,[[2,3],[10,3],[18,3],[26,2]]],[12,[[0,2],[6,3],[14,3],[22,3]]],[14,[0,8,16,24]]]],[2,[[2,[[3,2],[11,2],[19,2]]],[4,[[7,2],[15,2],[23,2]]],[10,[[3,2],[11,2],[19,2]]],[12,[[7,2],[15,2],[23,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Aquarius.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "aquarius_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "2828319163",
 		"name": "Aquarius 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -559,7 +936,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "800869",
+		"id": "2828319163",
+		"name": "Aquarius 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[14,20,24]],[2,[[6,2],18,22,26]],[4,[[4,2],10,14,20,24]],[6,[[2,5],18,22,26]],[8,[[0,5],20,24]],[10,[[0,4]]],[12,[[0,3]]]]],[1,[[0,[14,20,24]],[2,[[6,2],18,22,26]],[4,[[4,2],10,14,20,24]],[6,[[2,5],18,22,26]],[8,[[0,5],20,24]],[10,[[0,4]]],[12,[[0,3]]]]],[2,[[0,[14,20,24]],[2,[[6,2],18,22,26]],[4,[[4,2],10,14,20,24]],[6,[[2,5],18,22,26]],[8,[[0,5],20,24]],[10,[[0,4]]],[12,[[0,3]]]]],[3,[[0,[14,20,24]],[2,[[6,2],18,22,26]],[4,[[4,2],10,14,20,24]],[6,[[2,5],18,22,26]],[8,[[0,5],20,24]],[10,[[0,4]]],[12,[[0,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Aquarius 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "aquarius_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "2327975273",
 		"name": "Arena",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -572,7 +962,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3672380284",
+		"id": "2244923190",
+		"name": "Arena",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[16,5]]],[2,[[0,4],[10,3],[18,4]]],[4,[[0,3],12,[20,3]]],[6,[[0,2],[10,3],[22,2]]],[8,[[0,3],12,[20,3]]],[10,[[0,4],[10,3],[18,4]]],[12,[[0,5],[16,5]]]]],[1,[[0,[[0,4],[18,4]]],[2,[[0,3],12,[20,3]]],[4,[[0,2],[22,2]]],[6,[0,12,24]],[8,[[0,2],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],[18,4]]]]],[2,[[0,[[0,3],[20,3]]],[2,[[0,2],[22,2]]],[4,[0,24]],[8,[0,24]],[10,[[0,2],[22,2]]],[12,[[0,3],[20,3]]]]],[3,[[0,[[0,2],[22,2]]],[2,[0,24]],[10,[0,24]],[12,[[0,2],[22,2]]]]],[4,[[0,[0,24]],[12,[0,24]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Arena.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "arena_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2244923190",
 		"name": "Arena",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -585,7 +988,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "529412935",
+		"id": "2327975273",
+		"name": "Arena",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,14]]],[2,[[0,4],[20,4]]],[4,[[0,3],[22,3]]],[6,[[0,3],[22,3]]],[8,[[0,3],[22,3]]],[10,[[0,4],[20,4]]],[12,[[0,5],[18,5]]]]],[1,[[0,[[0,4],[20,4]]],[2,[[0,3],[22,3]]],[4,[[0,2],[24,2]]],[6,[[0,2],[24,2]]],[8,[[0,2],[24,2]]],[10,[[0,3],[22,3]]],[12,[[0,4],[20,4]]]]],[2,[[0,[[0,2],[24,2]]],[2,[[0,2],[24,2]]],[4,[[0,2],[24,2]]],[6,[[0,2],[24,2]]],[8,[[0,2],[24,2]]],[10,[[0,2],[24,2]]],[12,[[0,2],[24,2]]]]],[3,[[0,[[0,2],[24,2]]],[2,[0,26]],[4,[0,26]],[6,[0,26]],[8,[0,26]],[10,[0,26]],[12,[[0,2],[24,2]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadarena.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "arena_4",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2244923190",
+		"name": "Arena",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[16,5]]],[2,[[0,4],[10,3],[18,4]]],[4,[[0,3],12,[20,3]]],[6,[[0,2],[10,3],[22,2]]],[8,[[0,3],12,[20,3]]],[10,[[0,4],[10,3],[18,4]]],[12,[[0,5],[16,5]]]]],[1,[[0,[[0,4],[18,4]]],[2,[[0,3],12,[20,3]]],[4,[[0,2],[22,2]]],[6,[0,12,24]],[8,[[0,2],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],[18,4]]]]],[2,[[0,[[0,3],[20,3]]],[2,[[0,2],[22,2]]],[4,[0,24]],[8,[0,24]],[10,[[0,2],[22,2]]],[12,[[0,3],[20,3]]]]],[3,[[0,[[0,2],[22,2]]],[2,[0,24]],[10,[0,24]],[12,[[0,2],[22,2]]]]],[4,[[0,[0,24]],[12,[0,24]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/arena",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "arena_5",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "2244923190",
+		"name": "Arena",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[16,5]]],[2,[[0,4],[10,3],[18,4]]],[4,[[0,3],12,[20,3]]],[6,[[0,2],[10,3],[22,2]]],[8,[[0,3],12,[20,3]]],[10,[[0,4],[10,3],[18,4]]],[12,[[0,5],[16,5]]]]],[1,[[0,[[0,4],[18,4]]],[2,[[0,3],12,[20,3]]],[4,[[0,2],[22,2]]],[6,[0,12,24]],[8,[[0,2],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],[18,4]]]]],[2,[[0,[[0,3],[20,3]]],[2,[[0,2],[22,2]]],[4,[0,24]],[8,[0,24]],[10,[[0,2],[22,2]]],[12,[[0,3],[20,3]]]]],[3,[[0,[[0,2],[22,2]]],[2,[0,24]],[10,[0,24]],[12,[[0,2],[22,2]]]]],[4,[[0,[0,24]],[12,[0,24]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "arena_6",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "3894423065",
 		"name": "Aries",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -598,7 +1040,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "705455417",
+		"id": "3894423065",
+		"name": "Aries",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,3],[17,3]]],[2,[[1,2],[8,2],[14,2],[22,2]]],[4,[[0,2],[11,2],[23,2]]],[6,[2,[11,2],23]],[8,[[11,2]]],[10,[[11,2]]],[12,[[11,2]]],[14,[[11,2]]],[16,[[11,2]]]]],[1,[[0,[[4,3],[17,3]]],[2,[[1,2],[8,2],[14,2],[22,2]]],[4,[[0,2],[11,2],[23,2]]],[6,[2,[11,2],23]],[8,[[11,2]]],[10,[[11,2]]],[12,[[11,2]]],[14,[[11,2]]],[16,[[11,2]]]]],[2,[[0,[[4,3],[17,3]]],[2,[[1,2],[8,2],[14,2],[22,2]]],[4,[[0,2],[11,2],[23,2]]],[6,[2,[11,2],23]],[8,[[11,2]]],[10,[[11,2]]],[12,[[11,2]]],[14,[[11,2]]],[16,[[11,2]]]]],[3,[[0,[[4,3],[17,3]]],[2,[[1,2],[8,2],[14,2],[22,2]]],[4,[[0,2],[11,2],[23,2]]],[6,[2,[11,2],23]],[8,[[11,2]]],[10,[[11,2]]],[12,[[11,2]]],[14,[[11,2]]],[16,[[11,2]]]]],[4,[[2,[9,15]],[4,12],[6,12],[8,12],[10,12],[12,12],[14,12]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Aries.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "aries_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "2747546799",
 		"name": "Aries 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -611,7 +1066,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3308828937",
+		"id": "2747546799",
+		"name": "Aries 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,2]]],[2,[[2,2],[8,2]]],[4,[[0,5],12,16,[20,2]]],[6,[0,[6,2],12,[16,2]]],[8,[[0,2],[10,2],[16,4]]],[10,[[2,5],[14,3]]],[12,[[12,4]]],[14,[[12,3],[20,2]]]]],[1,[[0,[[6,2]]],[2,[[2,2],[8,2]]],[4,[[0,5],12,16,[20,2]]],[6,[0,[6,2],12,[16,2]]],[8,[[0,2],[10,2],[16,4]]],[10,[[2,5],[14,3]]],[12,[[12,4]]],[14,[[12,3],[20,2]]]]],[2,[[0,[[6,2]]],[2,[[2,2],[8,2]]],[4,[[0,5],12,16,[20,2]]],[6,[0,[6,2],12,[16,2]]],[8,[[0,2],[10,2],[16,4]]],[10,[[2,5],[14,3]]],[12,[[12,4]]],[14,[[12,3],[20,2]]]]],[3,[[12,[[12,3]]],[14,[[12,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Aries 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "aries_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "4136515921",
 		"name": "Arrow",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -624,7 +1092,46 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "957298849",
+		"id": "4136515921",
+		"name": "Arrow",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,0],[1,16],[2,[[0,2],18]],[3,[16,20]],[4,[[0,8],18,22]],[5,[16,20,24]],[6,[[0,8],18,22,[26,2]]],[7,[16,20,24]],[8,[[0,8],18,22]],[9,[16,20]],[10,[[0,2],18]],[11,16],[12,0]]],[1,[[2,1],[3,17],[4,[[1,8],19]],[5,[17,21]],[6,[[1,8],19,23]],[7,[17,21]],[8,[[1,8],19]],[9,17],[10,1]]],[2,[[4,[[2,8]]],[5,18],[6,[[2,8],20]],[7,18],[8,[[2,8]]]]],[3,[[4,[[5,6]]],[6,[[5,7]]],[8,[[5,6]]]]],[4,[[4,[[10,3]]],[6,[[10,4]]],[8,[[10,3]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadarrow.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "arrow_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2529300283",
+		"name": "Arrow",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,19],[1,[[0,7],21]],[2,23],[3,[0,12,21,25]],[4,[[3,4],27]],[5,[0,[12,2],[21,3],29]],[6,[3,9,16]],[7,[0,6,[12,2],[18,7]]],[8,[3,9,16]],[9,[0,[12,2],[21,3],29]],[10,[[3,4],27]],[11,[0,12,21,25]],[12,23],[13,[[0,7],21]],[14,19]]],[1,[[1,[[2,5]]],[2,[0,12]],[3,21],[4,[0,[5,2],12]],[5,[3,9,[21,3]]],[6,[0,[12,2]]],[7,[3,9,[16,8]]],[8,[0,[12,2]]],[9,[3,9,[21,3]]],[10,[0,[5,2],12]],[11,21],[12,[0,12]],[13,[[2,5]]]]],[2,[[1,[[3,4]]],[3,[0,12]],[5,[0,12]],[7,[0,[13,8]]],[9,[0,12]],[11,[0,12]],[13,[[3,4]]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/arrow",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "arrow_3",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "96141769",
+		"name": "Art Moderne",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,7],[20,2]]],[1,0],[2,[11,15,[19,3]]],[3,[0,3]],[4,[11,15,[18,2],23]],[5,[[0,2]]],[6,[[11,7]]],[7,[[0,2]]],[8,[11,15,[18,2],23]],[9,[0,3]],[10,[11,15,[19,3]]],[11,0],[12,[[2,7],[20,2]]]]],[1,[[0,[[3,6],[21,2]]],[2,[[20,3]]],[3,[4,11,15]],[4,[0,[19,3]]],[5,[3,11,15]],[6,[0,[18,3]]],[7,[3,11,15]],[8,[0,[19,3]]],[9,[4,11,15]],[10,[[20,3]]],[12,[[3,6],[21,2]]]]],[2,[[0,[[22,2]]],[2,[[21,3]]],[3,[5,10]],[4,[[20,3]]],[5,[4,10]],[6,[12,[19,2]]],[7,[4,10]],[8,[[20,3]]],[9,[5,10]],[10,[[21,3]]],[12,[[22,2]]]]],[3,[[3,[6,9]],[5,[5,9]],[6,11],[7,[5,9]],[9,[6,9]]]],[4,[[3,7],[5,[[6,2]]],[6,10],[7,[[6,2]]],[9,7]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Modern Art.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "art_moderne",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "96141769",
 		"name": "Art Moderne",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -632,12 +1139,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Modern Art.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "art_moderne",
+		"filename": "art_moderne_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3690074735",
+		"id": "1922837391",
+		"name": "ATARI",
+		"by": "Patrick Becker",
+		"tiles": 120,
+		"data": "[[0,[[0,[[6,2],[11,2],[16,2]]],[2,[[6,2],[11,2],[16,2]]],[4,[[6,2],[11,2],[16,2]]],[6,[[6,2],[11,2],[16,2]]],[8,[[6,2],[11,2],[16,2]]],[10,[[6,2],[11,2],[16,2]]],[12,[[5,2],[11,2],[17,2]]],[14,[[4,2],[11,2],[18,2]]],[16,[[2,2],[11,2],[20,2]]],[18,[[0,2],[11,2],[22,2]]]]],[1,[[0,[[6,2],[11,2],[16,2]]],[2,[[6,2],[11,2],[16,2]]],[4,[[6,2],[11,2],[16,2]]],[6,[[6,2],[11,2],[16,2]]],[8,[[6,2],[11,2],[16,2]]],[10,[[6,2],[11,2],[16,2]]],[12,[[5,2],[11,2],[17,2]]],[14,[[4,2],[11,2],[18,2]]],[16,[[2,2],[11,2],[20,2]]],[18,[[0,2],[11,2],[22,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#ATARI.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "atari",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1922837391",
 		"name": "ATARI",
 		"by": "Patrick Becker",
 		"tiles": 120,
@@ -645,12 +1165,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#ATARI.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "atari",
+		"filename": "atari_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1104516628",
+		"id": "598227036",
 		"name": "Atlantis",
 		"by": "Alexey Charkov",
 		"tiles": 132,
@@ -663,7 +1183,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3870390332",
+		"id": "598227036",
+		"name": "Atlantis",
+		"by": "Alexey Charkov",
+		"tiles": 132,
+		"data": "[[0,[[0,[0,30]],[2,[[0,2],[28,2]]],[4,[[0,2],[28,2]]],[5,[[4,12]]],[6,[[0,2],[28,2]]],[7,[4,[12,4],26]],[8,[[0,2],[28,2]]],[9,[[4,12]]],[10,[[0,2],[28,2]]],[12,[[0,2],[28,2]]],[14,[0,30]]]],[1,[[2,[[0,2],[28,2]]],[4,[0,30]],[5,[[6,10]]],[6,[[0,2],[28,2]]],[7,[[14,2]]],[8,[[0,2],[28,2]]],[9,[[6,10]]],[10,[0,30]],[12,[[0,2],[28,2]]]]],[2,[[3,[0,30]],[5,[0,[8,3],[18,3],30]],[7,[2,15,28]],[9,[0,[8,3],[18,3],30]],[11,[0,30]]]],[3,[[4,[0,30]],[5,[10,20]],[7,15],[9,[10,20]],[10,[0,30]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadatlantis.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "atlantis_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2494320832",
 		"name": "Atwinding",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -676,7 +1209,7 @@ export const data = [
 		"group": "Kurenai - Script signs"
 	},
 	{
-		"id": "909291656",
+		"id": "3894175530",
 		"name": "Autumn",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -689,7 +1222,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1994656420",
+		"id": "2569363160",
 		"name": "Aztec",
 		"by": "Alexey Charkov",
 		"tiles": 142,
@@ -702,7 +1235,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3067393467",
+		"id": "2569363160",
+		"name": "Aztec",
+		"by": "Alexey Charkov",
+		"tiles": 142,
+		"data": "[[0,[[0,[1,27]],[1,[[8,7]]],[2,[[0,2],[26,2]]],[3,[[8,7]]],[4,[[0,4],[22,4]]],[5,[[8,7]]],[6,[[0,4],[22,4]]],[7,[[8,7]]],[8,[[0,4],[22,4]]],[9,[[8,7]]],[10,[[0,2],[26,2]]],[11,[[8,7]]],[12,[1,27]]]],[1,[[0,[1,27]],[1,[8,20]],[3,[[10,5]]],[5,[[2,3],[10,5],[22,3]]],[7,[[2,3],[10,5],[22,3]]],[9,[[10,5]]],[11,[8,20]],[12,[1,27]]]],[2,[[3,[10,18]],[5,[[11,4]]],[6,[[2,2],[24,2]]],[7,[[11,4]]],[9,[10,18]]]],[3,[[6,[3,[11,4],25]]]],[4,[[6,[12,16]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadaztec.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "aztec_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2746243513",
 		"name": "Balance",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -715,7 +1261,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1603098797",
+		"id": "2746243513",
+		"name": "Balance",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[[4,5],[16,5]]],[2,14],[3,[4,24]],[4,14],[5,[[2,3],[22,3]]],[6,14],[7,[2,6,22,26]],[8,14],[9,[[0,5],[20,5]]],[10,14],[11,[[3,2],[23,2]]],[12,14],[14,[[6,9]]]]],[1,[[0,14],[1,[[4,5],[16,5]]],[2,14],[3,[4,24]],[4,14],[5,[2,6,22,26]],[6,14],[8,14],[9,[[1,4],[21,4]]],[10,14],[11,[4,24]],[12,14],[14,[[7,8]]]]],[2,[[0,14],[1,[4,24]],[2,14],[3,[4,24]],[4,14],[5,[2,6,22,26]],[6,14],[8,14],[9,[[2,3],[22,3]]],[10,14],[11,[4,24]],[12,14],[14,[[9,6]]]]],[3,[[0,14],[1,[4,24]],[2,14],[9,[[3,2],[23,2]]],[11,[4,24]],[14,[[11,4]]]]],[4,[[0,14],[1,[4,24]],[2,14],[9,[4,24]],[14,[[13,2]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadbalance.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "balance_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2903949053",
 		"name": "Bam 1",
 		"by": "Tsubassa Kurenai",
 		"tiles": 128,
@@ -728,7 +1287,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3021237531",
+		"id": "1606309921",
 		"name": "Bam 2",
 		"by": "Tsubassa Kurenai",
 		"tiles": 136,
@@ -741,7 +1300,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "2455387946",
+		"id": "423726998",
 		"name": "Bam 3",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -754,7 +1313,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1013107583",
+		"id": "1308148287",
 		"name": "Bam 4",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -767,7 +1326,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3218191069",
+		"id": "1447962209",
 		"name": "Bam 5",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -780,7 +1339,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "848098107",
+		"id": "956583719",
 		"name": "Bam 6",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -793,7 +1352,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1169925537",
+		"id": "401770083",
 		"name": "Bam 7",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -806,7 +1365,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "567007933",
+		"id": "3827315169",
 		"name": "Bam 8",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -819,7 +1378,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1629849317",
+		"id": "1532575429",
 		"name": "Bam 9",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -832,7 +1391,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "2867170225",
+		"id": "1832269123",
 		"name": "Bamboo",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -845,7 +1404,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3172171464",
+		"id": "1551148708",
 		"name": "Bamboo",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -858,7 +1417,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "1314447379",
+		"id": "2618382043",
 		"name": "Bamboo 1",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -871,7 +1430,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "3138226726",
+		"id": "1091145872",
 		"name": "Bamboo 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -884,7 +1443,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "4045231057",
+		"id": "3840345487",
 		"name": "Bamboo 4",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -897,7 +1456,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "1069345139",
+		"id": "719322231",
 		"name": "Bamboo 5",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -910,7 +1469,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "3429247031",
+		"id": "3998402127",
 		"name": "Bamboo 7",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -923,7 +1482,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "1870648008",
+		"id": "3395189542",
 		"name": "Bamboo 8",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -936,7 +1495,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "926293461",
+		"id": "2922093337",
 		"name": "Bat",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -949,7 +1508,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3733097770",
+		"id": "2922093337",
+		"name": "Bat",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[2,26]],[1,[0,[11,4],28]],[2,[[2,2],[24,2]]],[3,[0,[13,2],28]],[4,[[2,4],[20,4]]],[5,[0,[13,2],28]],[6,[[2,5],[18,5]]],[7,[0,[12,3],28]],[8,[[2,5],[18,5]]],[9,[0,[12,3],28]],[10,[[2,5],[18,5]]],[11,[0,14,28]],[12,[[2,2],[8,2],[18,2],[24,2]]],[13,[0,28]],[14,[2,10,18,26]]]],[1,[[0,[2,26]],[1,14],[2,[2,26]],[3,14],[4,[2,6,22,26]],[5,14],[6,[[0,3],8,20,[24,3]]],[7,14],[8,[[0,3],8,20,[24,3]]],[9,14],[10,[2,6,22,26]],[12,[2,26]],[14,[2,10,18,26]]]],[2,[[0,[2,26]],[2,[2,26]],[4,[2,26]],[10,[2,26]],[12,[2,26]],[14,[2,26]]]],[3,[[0,[2,26]],[14,[2,26]]]],[4,[[0,[2,26]],[14,[2,26]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadbat.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "bat_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "855991334",
 		"name": "BaxterBuilding",
 		"by": "Carolyne Smythe",
 		"tiles": 144,
@@ -962,7 +1534,20 @@ export const data = [
 		"group": "Miss Fantastic"
 	},
 	{
-		"id": "3833444126",
+		"id": "2220604706",
+		"name": "Beatle",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[20,2]]],[2,[[8,6]]],[4,[[4,9]]],[6,[[3,10]]],[8,[[4,9]]],[10,[[8,6]]],[12,[[4,2],[20,2]]]]],[1,[[1,[7,19]],[2,[[9,5]]],[4,[[3,9]]],[6,[[4,9]]],[8,[[3,9]]],[10,[[9,5]]],[11,[7,19]]]],[2,[[4,[2,[6,7]]],[6,[[4,8]]],[8,[2,[6,7]]]]],[3,[[3,1],[4,[[7,6]]],[6,[[5,7]]],[8,[[7,6]]],[9,1]]],[4,[[0,0],[2,0],[6,[[6,6]]],[10,0],[12,0]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Beatle.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "beatle",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2220604706",
 		"name": "Beatle",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -970,12 +1555,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Beatle.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "beatle",
+		"filename": "beatle_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "59833315",
+		"id": "4184054105",
 		"name": "Bei",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -988,7 +1573,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1517579441",
+		"id": "2992078235",
 		"name": "Bei",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -1001,7 +1586,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2770595719",
+		"id": "2992078235",
+		"name": "Bei",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[8,11]],[2,[8,11,21]],[3,[[0,2],19]],[4,[[4,3],11,17]],[5,[[13,2]]],[6,[8,11]],[8,[8,11]],[10,[[6,2],11,21]],[11,4],[12,[2,8,12,20]],[13,0],[14,[8,[13,4]]]]],[1,[[0,[8,11]],[2,[8,11,21]],[3,[[0,2],19]],[4,[[4,3],11,17]],[5,[[13,2]]],[6,[8,11]],[8,[8,11]],[10,[[6,2],11,21]],[11,4],[12,[2,8,12,20]],[13,0],[14,[8,[13,4]]]]],[2,[[0,[8,11]],[2,[8,11,21]],[3,[[0,2],19]],[4,[[4,3],11,17]],[5,[[13,2]]],[6,[8,11]],[8,[8,11]],[10,[[6,2],11,21]],[11,4],[12,[2,8,12,20]],[13,0],[14,[8,[13,4]]]]],[3,[[0,[8,11]],[2,[8,11,21]],[3,[[0,2],19]],[4,[[4,3],11,17]],[5,[[13,2]]],[6,[8,11]],[8,[8,11]],[10,[[6,2],11,21]],[11,4],[12,[2,8,12,20]],[13,0],[14,[8,[13,4]]]]],[4,[[0,[8,11]],[2,21],[3,0],[5,11],[10,21],[13,0],[14,8]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Four Winds Bei.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "bei_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2992078235",
+		"name": "Bei",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[8,11]],[2,[8,11,21]],[3,[[0,2],19]],[4,[[4,3],11,17]],[5,[[13,2]]],[6,[8,11]],[8,[8,11]],[10,[[6,2],11,21]],[11,4],[12,[2,8,12,20]],[13,0],[14,[8,[13,4]]]]],[1,[[0,[8,11]],[2,[8,11,21]],[3,[[0,2],19]],[4,[[4,3],11,17]],[5,[[13,2]]],[6,[8,11]],[8,[8,11]],[10,[[6,2],11,21]],[11,4],[12,[2,8,12,20]],[13,0],[14,[8,[13,4]]]]],[2,[[0,[8,11]],[2,[8,11,21]],[3,[[0,2],19]],[4,[[4,3],11,17]],[5,[[13,2]]],[6,[8,11]],[8,[8,11]],[10,[[6,2],11,21]],[11,4],[12,[2,8,12,20]],[13,0],[14,[8,[13,4]]]]],[3,[[0,[8,11]],[2,[8,11,21]],[3,[[0,2],19]],[4,[[4,3],11,17]],[5,[[13,2]]],[6,[8,11]],[8,[8,11]],[10,[[6,2],11,21]],[11,4],[12,[2,8,12,20]],[13,0],[14,[8,[13,4]]]]],[4,[[0,[8,11]],[2,21],[3,0],[5,11],[10,21],[13,0],[14,8]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Bei.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "bei_4",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "498292843",
+		"name": "Big Hole",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,3],[10,3]]],[6,[[0,3],[10,3]]],[8,[[0,8]]],[10,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[2,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[3,[[0,[[0,8]]],[2,[[4,4]]],[4,[4,10]],[6,[4,10]],[8,[[4,4]]],[10,[[0,8]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Big Hole.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "big_hole",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "498292843",
 		"name": "Big Hole",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -1009,12 +1633,51 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Big Hole.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "big_hole",
+		"filename": "big_hole_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1802466765",
+		"id": "498292843",
+		"name": "Big Hole",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,3],[10,3]]],[6,[[0,3],[10,3]]],[8,[[0,8]]],[10,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[2,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[3,[[0,[[0,8]]],[2,[[4,4]]],[4,[4,10]],[6,[4,10]],[8,[[4,4]]],[10,[[0,8]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Big hole centered.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "big_hole_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "498292843",
+		"name": "Big Hole",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,3],[10,3]]],[6,[[0,3],[10,3]]],[8,[[0,8]]],[10,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[2,[[0,[[0,8]]],[2,[[2,6]]],[4,[[2,2],[10,2]]],[6,[[2,2],[10,2]]],[8,[[2,6]]],[10,[[0,8]]]]],[3,[[0,[[0,8]]],[2,[[4,4]]],[4,[4,10]],[6,[4,10]],[8,[[4,4]]],[10,[[0,8]]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "big_hole_4",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "399314505",
+		"name": "Big Mountain",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,32]],[3,[[14,2]]],[4,[12,18]],[5,[10,[14,2],20]],[6,[8,12,18,22]],[7,[6,10,[14,2],20,24]],[8,[4,8,12,18,22,26]],[9,[6,10,[14,2],20,24]],[10,[8,12,18,22]],[11,[10,[14,2],20]],[12,[12,18]],[13,[[14,2]]],[16,[0,32]]]],[1,[[4,[[13,3]]],[5,[11,19]],[6,[9,[13,3],21]],[7,[7,11,19,23]],[8,[5,9,[13,3],21,25]],[9,[7,11,19,23]],[10,[9,[13,3],21]],[11,[11,19]],[12,[[13,3]]]]],[2,[[5,[[12,4]]],[6,[10,20]],[7,[8,[12,4],22]],[8,[6,10,20,24]],[9,[8,[12,4],22]],[10,[10,20]],[11,[[12,4]]]]],[3,[[6,[[11,5]]],[7,[9,21]],[8,[7,[11,5],23]],[9,[9,21]],[10,[[11,5]]]]],[4,[[7,[[10,6]]],[8,[8,22]],[9,[[10,6]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Big Mountain.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "big_mountain",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "399314505",
 		"name": "Big Mountain",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -1022,12 +1685,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Big Mountain.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "big_mountain",
+		"filename": "big_mountain_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3949916821",
+		"id": "4214638225",
 		"name": "Big Tile",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -1040,7 +1703,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "3942598133",
+		"id": "1537258515",
 		"name": "Bird",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1053,7 +1716,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "908672184",
+		"id": "2445371222",
 		"name": "Bishop",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1066,7 +1729,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3716270185",
+		"id": "2445371222",
+		"name": "Bishop",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,2]]],[2,[[10,4]]],[4,[[8,6]]],[6,[[6,8]]],[8,[[6,8]]],[10,[[8,6]]],[12,[[1,3],[10,4],[21,3]]],[14,[0,[6,8],26]]]],[1,[[0,[[12,2]]],[2,[[10,4]]],[4,[[8,6]]],[6,[[6,8]]],[8,[[6,8]]],[10,[[8,6]]],[12,[[1,3],[10,4],[21,3]]],[14,[0,[6,8],26]]]],[2,[[0,[[12,2]]],[2,[10,16]],[4,[8,13,18]],[6,[6,13,20]],[7,[[9,2],[15,2]]],[8,[6,13,20]],[10,[8,13,18]],[12,[[1,3],10,16,[21,3]]],[14,[0,[8,6],26]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaychess.zip#Bishop.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "bishop_2",
+		"path": "phantagia/eplayouts/eplaychess",
+		"group": "Phantagia - Package A - Chess"
+	},
+	{
+		"id": "103865979",
+		"name": "Bizarre",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,32]],[1,[[10,7]]],[3,[[10,7]]],[5,[[10,7]]],[7,[[10,7]]],[9,[[10,7]]],[11,[[10,7]]],[13,[[10,7]]],[15,[[10,7]]],[16,[0,32]]]],[1,[[1,[[10,7]]],[3,[[10,7]]],[5,[[10,7]]],[7,[[10,3],[18,3]]],[9,[[12,5]]],[11,[[12,5]]],[13,[[12,5]]]]],[2,[[1,[[10,7]]],[3,[[10,7]]],[5,[[10,2],[20,2]]],[7,[[10,2],[20,2]]],[9,[[14,3]]],[11,[[14,3]]]]],[3,[[1,[[10,7]]],[3,[10,22]],[5,[10,22]],[7,[10,22]],[9,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Bizarre.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "bizarre",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "103865979",
 		"name": "Bizarre",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -1074,12 +1763,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Bizarre.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "bizarre",
+		"filename": "bizarre_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1262972989",
+		"id": "4019474613",
 		"name": "Block",
 		"by": "Jens Rose",
 		"tiles": 140,
@@ -1092,7 +1781,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "1903931625",
+		"id": "985222905",
 		"name": "Block",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1105,7 +1794,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "3027345551",
+		"id": "3585119231",
 		"name": "Blocks",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1118,7 +1807,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1693522015",
+		"id": "3585119231",
+		"name": "Blocks",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[12,3]]],[2,[[0,3],[12,3]]],[4,[[0,3],[12,3]]],[10,[[0,3],[12,3]]],[12,[[0,3],[12,3]]],[14,[[0,3],[12,3]]]]],[1,[[0,[[0,3],[12,3]]],[2,[[0,3],[12,3]]],[4,[[0,3],[12,3]]],[10,[[0,3],[12,3]]],[12,[[0,3],[12,3]]],[14,[[0,3],[12,3]]]]],[2,[[0,[[0,3],[12,3]]],[2,[[0,3],[12,3]]],[4,[[0,3],[12,3]]],[10,[[0,3],[12,3]]],[12,[[0,3],[12,3]]],[14,[[0,3],[12,3]]]]],[3,[[0,[[0,3],[12,3]]],[2,[[0,3],[12,3]]],[4,[[0,3],[12,3]]],[10,[[0,3],[12,3]]],[12,[[0,3],[12,3]]],[14,[[0,3],[12,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Blocks.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "blocks_3",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "983781299",
 		"name": "Blocks 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1131,7 +1833,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3265747126",
+		"id": "983781299",
+		"name": "Blocks 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[12,3]]],[2,[[0,3],[12,3]]],[4,[[0,3],[12,3]]],[6,[[6,3]]],[8,[[6,3]]],[10,[[0,3],[12,3]]],[12,[[0,3],[12,3]]],[14,[[0,3],[12,3]]]]],[1,[[0,[[0,3],[12,3]]],[2,[[0,3],[12,3]]],[4,[[0,3],[12,3]]],[6,[[6,3]]],[8,[[6,3]]],[10,[[0,3],[12,3]]],[12,[[0,3],[12,3]]],[14,[[0,3],[12,3]]]]],[2,[[0,[[0,3],[12,3]]],[2,[[0,3],[12,3]]],[4,[[0,3],[12,3]]],[6,[[7,2]]],[8,[[7,2]]],[10,[[0,3],[12,3]]],[12,[[0,3],[12,3]]],[14,[[0,3],[12,3]]]]],[3,[[0,[2,14]],[2,[[0,3],[12,3]]],[4,[2,14]],[10,[2,14]],[12,[[0,3],[12,3]]],[14,[2,14]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Blocks 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "blocks_2_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "4122326287",
+		"name": "Boar",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[2,[[0,3],[10,5],[24,3]]],[4,[0,4,[12,3],24,28]],[6,[0,[10,5],28]],[8,[[0,2],[6,9],[26,2]]],[10,[[0,5],[12,3],[20,5]]],[12,[[2,3],[10,5],[22,3]]],[14,[[13,2]]]]],[1,[[2,[[1,2],[12,3],[25,2]]],[4,[[12,3]]],[5,[0,28]],[6,[[10,5]]],[7,[0,28]],[8,[[10,5]]],[10,[[1,4],[12,3],[21,4]]],[12,[[3,2],[12,3],[23,2]]],[14,14]]],[2,[[2,[2,[13,2],26]],[4,[[13,2]]],[6,[0,[11,4],28]],[8,[[11,4]]],[10,[[2,3],[13,2],[22,3]]],[12,[4,[13,2],24]]]],[3,[[2,14],[4,14],[6,[[13,2]]],[8,[[13,2]]],[10,14],[12,14]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/boar",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "boar",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "3694126360",
+		"name": "Boat",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,15,19]],[2,[[9,2],15,[19,2]]],[4,[[7,3],15,[19,3]]],[6,[[5,4],15,[19,4]]],[8,[[3,5],15,[19,5]]],[10,15],[12,[[0,16]]],[14,[[3,13]]],[16,[[8,8]]]]],[1,[[2,[11,19]],[4,[[9,2],[19,2]]],[6,[[7,3],[19,3]]],[8,[[5,4],[19,4]]],[12,[[2,14]]],[14,[[5,11]]],[16,[[10,6]]]]],[2,[[4,[11,19]],[6,[[9,2],[19,2]]],[8,[[7,3],[19,3]]]]],[3,[[6,[11,19]],[8,[[9,2],[19,2]]]]],[4,[[8,[11,19]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Boat.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "boat",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3694126360",
 		"name": "Boat",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -1139,12 +1880,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Boat.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "boat",
+		"filename": "boat_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2871799820",
+		"id": "205272848",
 		"name": "Boaz",
 		"by": "Mugwump Dillard",
 		"tiles": 144,
@@ -1157,7 +1898,33 @@ export const data = [
 		"group": "Mugwump Dillard"
 	},
 	{
-		"id": "3981763997",
+		"id": "205272848",
+		"name": "Boaz",
+		"by": "Mugwump Dillard",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[14,4]]],[2,[[2,9]]],[4,[[2,2],[16,2]]],[5,[[6,5]]],[6,[[2,2],[16,2]]],[8,[[2,9]]],[10,[[2,2],[16,2]]],[11,[[6,5]]],[12,[[2,2],[16,2]]],[14,[[2,9]]],[16,[[0,4],[14,4]]]]],[1,[[0,[[1,3],[15,3]]],[2,[[3,3],[13,3]]],[4,[[3,2],[15,2]]],[5,[7,13]],[6,[[3,2],[15,2]]],[8,[[3,3],[13,3]]],[10,[[3,2],[15,2]]],[11,[7,13]],[12,[[3,2],[15,2]]],[14,[[3,3],[13,3]]],[16,[[1,3],[15,3]]]]],[2,[[2,[8,12]],[5,[8,12]],[8,[8,12]],[11,[8,12]],[14,[8,12]]]],[3,[[2,[[9,2]]],[5,[[9,2]]],[8,[[9,2]]],[11,[[9,2]]],[14,[[9,2]]]]],[4,[[2,10],[5,10],[8,10],[11,10],[14,10]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#BOAZ-MD.LAY",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "boaz_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2077375749",
+		"name": "Boeder",
+		"by": "Patrick Becker",
+		"tiles": 132,
+		"data": "[[0,[[0,[9,13]],[2,[9,13]],[4,[9,13]],[6,[9,13]],[8,[9,13]],[9,[[3,3],11,[15,3]]],[10,[1,9,13,21]],[12,[0,9,13,22]],[14,[1,7,15,21]],[15,[[3,2],[17,2]]]]],[1,[[0,[9,13]],[2,[9,13]],[4,[9,13]],[6,[9,13]],[8,[9,13]],[9,[[3,3],11,[15,3]]],[10,[1,9,13,21]],[12,[0,9,13,22]],[14,[1,7,15,21]],[15,[[3,2],[17,2]]]]],[2,[[0,[9,13]],[2,[9,13]],[4,[9,13]],[6,[9,13]],[8,[9,13]],[9,[[3,3],11,[15,3]]],[10,[1,9,13,21]],[12,[0,9,13,22]],[14,[1,7,15,21]],[15,[[3,2],[17,2]]]]],[3,[[0,[9,13]],[2,[9,13]],[4,[9,13]],[6,[9,13]],[8,[9,13]],[9,[[3,3],11,[15,3]]],[10,[1,9,13,21]],[12,[0,9,13,22]],[14,[1,7,15,21]],[15,[[3,2],[17,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#BOEDER.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "boeder",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2077375749",
 		"name": "Boeder",
 		"by": "Patrick Becker",
 		"tiles": 132,
@@ -1165,12 +1932,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#BOEDER.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "boeder",
+		"filename": "boeder_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "3197016669",
+		"id": "1477463469",
 		"name": "Bordered Pyramid",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -1183,7 +1950,7 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "930647217",
+		"id": "2390778483",
 		"name": "Borders",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -1191,12 +1958,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Borders 2.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "borders_2",
+		"filename": "borders",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1644550088",
+		"id": "1951993568",
 		"name": "Borders",
 		"by": "JimPQ",
 		"tiles": 108,
@@ -1204,12 +1971,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Borders.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "borders",
+		"filename": "borders_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1398387921",
+		"id": "2894080433",
 		"name": "Bow Tie",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1222,7 +1989,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2780958420",
+		"id": "2894080433",
+		"name": "Bow Tie",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[14,4]]],[2,[[0,5],[12,5]]],[4,[[0,11]]],[6,[[0,5],[12,5]]],[8,[[0,4],[14,4]]]]],[1,[[0,[[0,4],[14,4]]],[2,[[0,5],[12,5]]],[4,[[0,11]]],[6,[[0,5],[12,5]]],[8,[[0,4],[14,4]]]]],[2,[[0,[[0,4],[14,4]]],[2,[0,8,12,20]],[4,[0,10,20]],[6,[0,8,12,20]],[8,[[0,4],[14,4]]]]],[3,[[0,[[0,4],[14,4]]],[2,[8,12]],[4,[0,10,20]],[6,[8,12]],[8,[[0,4],[14,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Bow Tie.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "bow_tie_3",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "1060801340",
 		"name": "Bow Tie 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1235,7 +2015,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2441086043",
+		"id": "1060801340",
+		"name": "Bow Tie 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[14,4]]],[2,[[0,5],[12,5]]],[4,[[0,11]]],[6,[[0,5],[12,5]]],[8,[[0,4],[14,4]]]]],[1,[[0,[[0,4],[14,4]]],[2,[[0,5],[12,5]]],[4,[[0,11]]],[6,[[0,5],[12,5]]],[8,[[0,4],[14,4]]]]],[2,[[0,[[0,4],[14,4]]],[2,[[0,5],[12,5]]],[4,[[0,5],[12,5]]],[6,[[0,5],[12,5]]],[8,[[0,4],[14,4]]]]],[3,[[3,[0,20]],[5,[0,20]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Bow Tie 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "bow_tie_2_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "4166915225",
 		"name": "Bowl",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1248,7 +2041,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "894045811",
+		"id": "4166915225",
+		"name": "Bowl",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,7]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[2,7]]]]],[1,[[0,[[2,7]]],[2,[[0,3],[12,3]]],[4,[[0,2],[7,2],[14,2]]],[6,[[0,2],[7,2],[14,2]]],[8,[[0,3],[12,3]]],[10,[[2,7]]]]],[2,[[0,[[2,7]]],[2,[[0,2],[14,2]]],[4,[[0,2],[7,2],[14,2]]],[6,[[0,2],[7,2],[14,2]]],[8,[[0,2],[14,2]]],[10,[[2,7]]]]],[3,[[0,[[2,7]]],[2,[0,16]],[4,[0,16]],[6,[0,16]],[8,[0,16]],[10,[[2,7]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Bowl.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "bowl_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2395313013",
+		"name": "Breakout",
+		"by": "Patrick Becker",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,16]]],[2,[0,32]],[4,[0,[4,13],32]],[6,[0,[4,3],[14,5],28,32]],[8,[0,[4,3],[14,5],28,32]],[10,[0,32]],[11,23],[12,[0,32]],[13,20],[14,[0,32]],[15,17],[16,[0,32]],[18,[0,[14,4],32]]]],[1,[[0,[[1,16]]],[2,[0,32]],[4,[0,[4,13],32]],[6,[0,[4,3],[14,5],28,32]],[8,[0,[4,3],[14,5],28,32]],[10,[0,32]],[11,23],[12,[0,32]],[13,20],[14,[0,32]],[16,[0,32]],[18,[0,[14,4],32]]]],[2,[[11,23]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#BREAKOUT.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "breakout",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2395313013",
 		"name": "Breakout",
 		"by": "Patrick Becker",
 		"tiles": 144,
@@ -1256,25 +2075,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#BREAKOUT.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "breakout",
+		"filename": "breakout_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2596235091",
+		"id": "1990379391",
 		"name": "Bridge",
 		"by": "Fude",
 		"tiles": 144,
 		"data": "[[0,[[0,[0,24]],[2,[0,24]],[3,[[6,2],[16,2]]],[4,[0,24]],[5,[[6,2],[16,2]]],[6,[0,24]],[8,[0,24]]]],[1,[[0,[1,23]],[2,[1,[5,3],[15,3],23]],[4,[1,[5,3],[15,3],23]],[6,[1,[5,3],[15,3],23]],[8,[1,23]]]],[2,[[0,[2,22]],[1,[[4,4],[14,4]]],[2,[2,22]],[3,[[4,4],[14,4]]],[4,[2,22]],[5,[[4,4],[14,4]]],[6,[2,22]],[7,[[4,4],[14,4]]],[8,[2,22]]]],[3,[[0,[[3,10]]],[2,[[3,10]]],[4,[[3,10]]],[6,[[3,10]]],[8,[[3,10]]]]],[4,[[0,[3,12,21]],[8,[3,12,21]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Bridge.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Bridge.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
 		"solvable": true,
 		"filename": "bridge",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"path": "kyodai",
+		"group": "Kyodai Extras"
 	},
 	{
-		"id": "2964694814",
+		"id": "1258256580",
 		"name": "Bridge",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1287,7 +2106,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "445739977",
+		"id": "1990379391",
+		"name": "Bridge",
+		"by": "Fude",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,24]],[2,[0,24]],[3,[[6,2],[16,2]]],[4,[0,24]],[5,[[6,2],[16,2]]],[6,[0,24]],[8,[0,24]]]],[1,[[0,[1,23]],[2,[1,[5,3],[15,3],23]],[4,[1,[5,3],[15,3],23]],[6,[1,[5,3],[15,3],23]],[8,[1,23]]]],[2,[[0,[2,22]],[1,[[4,4],[14,4]]],[2,[2,22]],[3,[[4,4],[14,4]]],[4,[2,22]],[5,[[4,4],[14,4]]],[6,[2,22]],[7,[[4,4],[14,4]]],[8,[2,22]]]],[3,[[0,[[3,10]]],[2,[[3,10]]],[4,[[3,10]]],[6,[[3,10]]],[8,[[3,10]]]]],[4,[[0,[3,12,21]],[8,[3,12,21]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Bridge.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "bridge_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1258256580",
+		"name": "Bridge",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[13,2],[26,2]]],[2,[[0,15]]],[4,[[4,11]]],[6,[[4,11]]],[8,[[4,11]]],[10,[[4,11]]],[12,[[0,15]]],[14,[[0,2],[13,2],[26,2]]]]],[1,[[0,[[0,2],[13,2],[26,2]]],[2,[[2,13]]],[12,[[2,13]]],[14,[[0,2],[13,2],[26,2]]]]],[2,[[0,14],[2,[[6,9]]],[12,[[6,9]]],[14,14]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Bridge.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "bridge_4",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3692029556",
+		"name": "Bridge",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,26]],[2,[[0,2],[24,2]]],[4,[[0,3],[22,3]]],[5,[[12,2]]],[6,[[0,4],[20,4]]],[7,[[8,6]]],[8,[[0,4],[20,4]]],[9,13],[10,[[0,3],[22,3]]],[12,[[0,2],[24,2]]],[14,[0,26]]]],[1,[[0,[0,26]],[2,[[0,2],[24,2]]],[4,[[0,3],[22,3]]],[6,[[0,3],[22,3]]],[7,[[9,5]]],[8,[[0,3],[22,3]]],[10,[[0,3],[22,3]]],[12,[[0,2],[24,2]]],[14,[0,26]]]],[2,[[0,[0,26]],[2,[[0,2],[24,2]]],[4,[[0,2],[24,2]]],[6,[[0,2],[24,2]]],[7,[[10,4]]],[8,[[0,2],[24,2]]],[10,[[0,2],[24,2]]],[12,[[0,2],[24,2]]],[14,[0,26]]]],[3,[[0,[0,26]],[2,[0,26]],[4,[0,26]],[6,[0,26]],[7,[[11,3]]],[8,[0,26]],[10,[0,26]],[12,[0,26]],[14,[0,26]]]],[4,[[7,[[12,2]]]]],[5,[[7,13]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/bridge",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "bridge_5",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "2614173575",
 		"name": "Bridging",
 		"by": "MyKyodai",
 		"tiles": 120,
@@ -1300,7 +2158,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2072264091",
+		"id": "1981371889",
+		"name": "Bug",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[7,13,19]],[1,[9,15,21]],[3,[0,[8,8]]],[4,[2,24]],[5,[[6,9],26]],[6,[4,24]],[7,[2,[6,9],26]],[8,[4,24]],[9,[[6,9],26]],[10,[2,24]],[11,[0,[8,8]]],[13,[9,15,21]],[14,[7,13,19]]]],[1,[[0,[7,13,19]],[3,0],[5,[[8,8]]],[6,4],[7,[2,[6,10]]],[8,4],[9,[[8,8]]],[11,0],[14,[7,13,19]]]],[2,[[3,0],[5,[[9,7]]],[6,4],[7,[[8,7]]],[8,4],[9,[[9,7]]],[11,0]]],[3,[[6,4],[7,[[9,6]]],[8,4]]],[4,[[7,[[10,5]]]]]]",
+		"source": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/bug.js",
+		"site": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/",
+		"solvable": true,
+		"filename": "bug",
+		"path": "green-mahjong",
+		"group": "Green Mahjong"
+	},
+	{
+		"id": "1981371889",
 		"name": "Bug",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -1308,25 +2179,38 @@ export const data = [
 		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/bug.layout",
 		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
 		"solvable": true,
-		"filename": "bug",
+		"filename": "bug_2",
 		"path": "kmahjongg",
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1803885424",
-		"name": "Butterfly",
-		"by": "Vivian Bushell",
+		"id": "1981371889",
+		"name": "Bug",
+		"by": "Alexey Charkov",
 		"tiles": 144,
-		"data": "[[0,[[0,[8,14]],[1,[[0,3],[18,3]]],[2,[6,[10,2],16]],[3,[0,8,14,22]],[4,[2,6,[10,2],16,20]],[5,[4,8,14,18]],[6,[6,[10,2],16]],[7,[4,8,14,18]],[8,[6,[10,2],16]],[9,[4,8,14,18]],[10,[2,[10,2],20]],[11,[0,6,16,22]],[12,[[2,2],[8,4],[18,2]]],[13,[0,6,16,22]],[14,[[2,2],[10,2],[18,2]]]]],[1,[[0,[8,14]],[1,[[0,3],[18,3]]],[2,[6,11,16]],[3,[0,8,14,22]],[4,[2,6,11,16,20]],[5,[4,18]],[6,[6,11,16]],[7,[8,14]],[8,[6,11,16]],[9,[4,18]],[10,[2,11,20]],[11,[0,22]],[12,[8,11,14]],[13,[0,6,16,22]],[14,[[2,2],11,[18,2]]]]],[2,[[1,[[1,2],[19,2]]],[2,11],[3,[0,7,15,22]],[4,[2,20]],[5,[4,18]],[7,[7,15]],[9,[4,18]],[10,[2,20]],[12,[0,8,14,22]],[13,[6,16]],[14,[3,19]]]]]",
-		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#vblayouts.zip#Butterfly.lay",
-		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"data": "[[0,[[0,[7,13,19]],[1,[9,15,21]],[3,[0,[8,8]]],[4,[2,24]],[5,[[6,9],26]],[6,[4,24]],[7,[2,[6,9],26]],[8,[4,24]],[9,[[6,9],26]],[10,[2,24]],[11,[0,[8,8]]],[13,[9,15,21]],[14,[7,13,19]]]],[1,[[0,[7,13,19]],[3,0],[5,[[8,8]]],[6,4],[7,[2,[6,10]]],[8,4],[9,[[8,8]]],[11,0],[14,[7,13,19]]]],[2,[[3,0],[5,[[9,7]]],[6,4],[7,[[8,7]]],[8,4],[9,[[9,7]]],[11,0]]],[3,[[6,4],[7,[[9,6]]],[8,4]]],[4,[[7,[[10,5]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadbug.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
 		"solvable": true,
-		"filename": "butterfly_5",
-		"path": "phantagia/lyall/vblayouts",
-		"group": "Phantagia - Submitted - Bushell"
+		"filename": "bug_3",
+		"path": "ogs-mahjong",
+		"group": "OGS"
 	},
 	{
-		"id": "3321901409",
+		"id": "309366373",
+		"name": "Butterfly",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,2],[25,2]]],[1,[3,9,[15,2],23,29]],[2,[1,11,21,31]],[3,[[13,4]]],[4,[0,[5,2],[25,2],32]],[5,[[15,2]]],[6,[0,[5,2],[25,2],32]],[7,[[13,4]]],[8,[1,11,21,31]],[9,[3,9,[15,2],23,29]],[10,[7,25]],[11,[5,[15,2],27]],[12,[13,19]],[13,[4,8,[15,2],24,28]],[14,[12,20]],[15,[5,27]],[16,[[7,3],[21,3]]]]],[1,[[1,[9,16,23]],[2,[11,21]],[3,[6,[13,4],26]],[5,[4,8,16,24,28]],[7,[6,[13,4],26]],[8,[11,21]],[9,[9,16,23]],[11,[[15,2]]],[12,[13,19]],[13,[8,16,24]],[14,[12,20]],[16,[11,21]]]],[2,[[3,[13,16,19]],[4,[[5,2],[25,2]]],[5,16],[6,[[5,2],[25,2]]],[7,[13,16,19]],[9,16],[11,16],[12,[13,19]],[13,[8,24]]]],[3,[[3,[6,16,26]],[5,[[4,3],[24,3]]],[7,[6,16,26]],[11,16]]],[4,[[5,[6,26]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Butterfly.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "butterfly",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3599657819",
 		"name": "Butterfly",
 		"by": "Mary M",
 		"tiles": 144,
@@ -1334,25 +2218,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20170903145616mp_/https://kyodaimahjongg.weebly.com/uploads/9/5/2/9/9529146/mkm-butterfly.zip#mkm-Butterfly.lay",
 		"site": "https://web.archive.org/web/20170903145616/http://kyodaimahjongg.weebly.com/layouts.html",
 		"solvable": true,
-		"filename": "butterfly",
+		"filename": "butterfly_2",
 		"path": "kyodaimahjongg/mkm-butterfly",
 		"group": "My Kyodai Mahjongg"
 	},
 	{
-		"id": "3857723364",
-		"name": "Butterfly",
-		"by": "Alexey Charkov",
-		"tiles": 144,
-		"data": "[[0,[[0,[12,16]],[1,[0,4,24,28]],[2,[6,14,22]],[3,[0,4,8,20,24,28]],[4,[2,6,10,14,18,22,26]],[5,[0,4,8,12,16,20,24,28]],[6,[2,6,10,14,18,22,26]],[7,[0,4,8,12,16,20,24,28]],[8,[2,6,10,14,18,22,26]],[9,[0,4,8,12,16,20,24,28]],[10,[2,6,10,14,18,22,26]],[11,[0,4,8,20,24,28]],[12,[2,6,14,22,26]],[13,[0,4,24,28]],[14,14]]],[1,[[0,[12,16]],[2,14],[3,[6,22]],[4,[4,14,24]],[5,[2,[6,2],[20,2],26]],[6,[0,10,14,18,28]],[7,[8,12,16,20]],[8,[0,10,14,18,28]],[9,[2,[6,2],[20,2],26]],[10,[4,14,24]],[11,[6,22]],[12,14],[14,14]]],[2,[[0,[12,16]],[2,14],[4,14],[6,14],[8,14],[10,14],[12,14],[14,14]]],[3,[[0,[12,16]],[4,14],[6,14],[8,14],[10,14],[12,14]]],[4,[[6,14],[8,14],[10,14],[12,14]]]]",
-		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadbutterfly.layout",
-		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
-		"solvable": true,
-		"filename": "butterfly_2",
-		"path": "ogs-mahjong",
-		"group": "OGS"
-	},
-	{
-		"id": "3912513263",
+		"id": "309366373",
 		"name": "Butterfly",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -1365,7 +2236,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3520262171",
+		"id": "3715804836",
+		"name": "Butterfly",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[12,16]],[1,[0,4,24,28]],[2,[6,14,22]],[3,[0,4,8,20,24,28]],[4,[2,6,10,14,18,22,26]],[5,[0,4,8,12,16,20,24,28]],[6,[2,6,10,14,18,22,26]],[7,[0,4,8,12,16,20,24,28]],[8,[2,6,10,14,18,22,26]],[9,[0,4,8,12,16,20,24,28]],[10,[2,6,10,14,18,22,26]],[11,[0,4,8,20,24,28]],[12,[2,6,14,22,26]],[13,[0,4,24,28]],[14,14]]],[1,[[0,[12,16]],[2,14],[3,[6,22]],[4,[4,14,24]],[5,[2,[6,2],[20,2],26]],[6,[0,10,14,18,28]],[7,[8,12,16,20]],[8,[0,10,14,18,28]],[9,[2,[6,2],[20,2],26]],[10,[4,14,24]],[11,[6,22]],[12,14],[14,14]]],[2,[[0,[12,16]],[2,14],[4,14],[6,14],[8,14],[10,14],[12,14],[14,14]]],[3,[[0,[12,16]],[4,14],[6,14],[8,14],[10,14],[12,14]]],[4,[[6,14],[8,14],[10,14],[12,14]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadbutterfly.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "butterfly_4",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "88932506",
+		"name": "Butterfly",
+		"by": "Vivian Bushell",
+		"tiles": 144,
+		"data": "[[0,[[0,[8,14]],[1,[[0,3],[18,3]]],[2,[6,[10,2],16]],[3,[0,8,14,22]],[4,[2,6,[10,2],16,20]],[5,[4,8,14,18]],[6,[6,[10,2],16]],[7,[4,8,14,18]],[8,[6,[10,2],16]],[9,[4,8,14,18]],[10,[2,[10,2],20]],[11,[0,6,16,22]],[12,[[2,2],[8,4],[18,2]]],[13,[0,6,16,22]],[14,[[2,2],[10,2],[18,2]]]]],[1,[[0,[8,14]],[1,[[0,3],[18,3]]],[2,[6,11,16]],[3,[0,8,14,22]],[4,[2,6,11,16,20]],[5,[4,18]],[6,[6,11,16]],[7,[8,14]],[8,[6,11,16]],[9,[4,18]],[10,[2,11,20]],[11,[0,22]],[12,[8,11,14]],[13,[0,6,16,22]],[14,[[2,2],11,[18,2]]]]],[2,[[1,[[1,2],[19,2]]],[2,11],[3,[0,7,15,22]],[4,[2,20]],[5,[4,18]],[7,[7,15]],[9,[4,18]],[10,[2,20]],[12,[0,8,14,22]],[13,[6,16]],[14,[3,19]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#vblayouts.zip#Butterfly.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "butterfly_5",
+		"path": "phantagia/lyall/vblayouts",
+		"group": "Phantagia - Submitted - Bushell"
+	},
+	{
+		"id": "606211869",
 		"name": "Calculations",
 		"by": "Patrick Becker",
 		"tiles": 144,
@@ -1378,7 +2275,7 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "3140406824",
+		"id": "3080120832",
 		"name": "Cancer",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1391,7 +2288,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3216462963",
+		"id": "3080120832",
+		"name": "Cancer",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[9,4]]],[1,[[5,2],[17,2]]],[2,21],[3,[[3,2]]],[5,[[2,3],[18,3]]],[7,[0,8,16,24]],[9,[0,8,16,24]],[11,[[2,3],[18,3]]],[13,[[19,2]]],[14,3],[15,[[5,2],[17,2]]],[16,[[9,4]]]]],[1,[[0,[[9,4]]],[1,[[5,2],[17,2]]],[2,21],[3,[[3,2]]],[5,[[2,3],[18,3]]],[7,[0,8,16,24]],[9,[0,8,16,24]],[11,[[2,3],[18,3]]],[13,[[19,2]]],[14,3],[15,[[5,2],[17,2]]],[16,[[9,4]]]]],[2,[[0,[[9,4]]],[1,[[5,2],[17,2]]],[3,[[3,2]]],[5,[[2,3],[18,3]]],[7,[0,8,16,24]],[9,[0,8,16,24]],[11,[[2,3],[18,3]]],[13,[[19,2]]],[15,[[5,2],[17,2]]],[16,[[9,4]]]]],[3,[[5,[[2,3],[18,3]]],[7,[0,8,16,24]],[9,[0,8,16,24]],[11,[[2,3],[18,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Cancer.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "cancer_3",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "1109540507",
 		"name": "Cancer 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1404,7 +2314,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3229764267",
+		"id": "1109540507",
+		"name": "Cancer 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,15]]],[2,[0,8]],[4,[0,8]],[6,[0,8,[24,3]]],[8,[[2,3],22,30]],[10,[22,30]],[12,[22,30]],[13,0],[14,[[2,14]]]]],[1,[[0,[[2,15]]],[2,[0,8]],[4,[0,8]],[6,[0,8,[24,3]]],[8,[[2,3],22,30]],[10,[22,30]],[12,[22,30]],[13,0],[14,[[2,14]]]]],[2,[[0,[[2,15]]],[2,[0,8]],[4,[0,8]],[6,[0,8,[24,3]]],[8,[[2,3],22,30]],[10,[22,30]],[12,[22,30]],[13,0],[14,[[2,14]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Cancer 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "cancer_2_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "641182621",
 		"name": "Cancer 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -1417,7 +2340,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2084864295",
+		"id": "641182621",
+		"name": "Cancer 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,4],14,18,22]],[2,[[0,3],10,16,20]],[4,[2,8,[12,6]]],[6,[[6,10]]],[8,[2,8,[12,6]]],[10,[[0,3],10,16,20]],[12,[[2,4],14,18,22]]]],[1,[[0,[[2,4],14,18,22]],[2,[[0,3],10,16,20]],[4,[2,8,[12,6]]],[6,[[6,10]]],[8,[2,8,[12,6]]],[10,[[0,3],10,16,20]],[12,[[2,4],14,18,22]]]],[2,[[0,[[2,4]]],[2,[[0,3]]],[4,[2,8,[12,6]]],[6,[[6,10]]],[8,[2,8,[12,6]]],[10,[[0,3]]],[12,[[2,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Cancer 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "cancer_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "2380562471",
 		"name": "Capricorn",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1430,7 +2366,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1793791787",
+		"id": "2380562471",
+		"name": "Capricorn",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,18]],[1,[2,16]],[2,[[4,6]]],[4,12],[5,[[8,2],[14,2]]],[6,[6,18]],[7,[4,8,20]],[8,2],[9,[0,7,21]],[11,[7,21]],[13,[8,20]],[15,[9,19]],[16,[[11,4]]]]],[1,[[0,[0,18]],[1,[2,16]],[2,[[4,6]]],[4,12],[5,[[8,2],[14,2]]],[6,[6,18]],[7,[4,8,20]],[8,2],[9,[0,7,21]],[11,[7,21]],[13,[8,20]],[15,[9,19]],[16,[[11,4]]]]],[2,[[0,[0,18]],[1,[2,16]],[2,[[4,6]]],[4,12],[5,[[8,2],[14,2]]],[6,[6,18]],[7,[4,8,20]],[8,2],[9,[0,7,21]],[11,[7,21]],[13,[8,20]],[15,[9,19]],[16,[[11,4]]]]],[3,[[0,[0,18]],[1,[2,16]],[2,[[4,6]]],[4,12],[5,[[8,2],[14,2]]],[6,[6,18]],[7,[4,8,20]],[9,[7,21]],[11,[7,21]],[13,[8,20]],[15,[9,19]],[16,[[11,4]]]]],[4,[[0,[0,18]],[1,[2,16]],[2,[[4,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Capricorn.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "capricorn_3",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "1392295963",
 		"name": "Capricorn 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1443,7 +2392,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "343919895",
+		"id": "1392295963",
+		"name": "Capricorn 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[14,2]]],[1,[12,18]],[2,2],[3,[12,18]],[4,2],[5,[[8,5]]],[6,[2,6,18]],[7,[8,20]],[8,[[2,3]]],[9,21],[10,[[2,2]]],[11,21],[12,2],[13,20],[14,7],[15,[9,19]],[16,[[11,4]]]]],[1,[[0,[[0,2],[14,2]]],[1,[12,18]],[2,2],[3,[12,18]],[4,2],[5,[[8,5]]],[6,[2,6,18]],[7,[8,20]],[8,[[2,3]]],[9,21],[10,[[2,2]]],[11,21],[12,2],[13,20],[14,7],[15,[9,19]],[16,[[11,4]]]]],[2,[[0,[[0,2],[14,2]]],[1,[12,18]],[2,2],[3,[12,18]],[4,2],[5,[[8,5]]],[6,[2,6,18]],[7,[8,20]],[8,[[2,3]]],[9,21],[10,[[2,2]]],[11,21],[12,2],[13,20],[14,7],[15,[9,19]],[16,[[11,4]]]]],[3,[[0,[[0,2],[14,2]]],[1,[12,18]],[2,2],[3,[12,18]],[4,2],[5,[[8,5]]],[6,[2,6,18]],[7,[8,20]],[8,[[2,3]]],[9,21],[10,[[2,2]]],[11,21],[12,2],[13,20],[14,7],[15,[9,19]],[16,[[11,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Capricorn 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "capricorn_2_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "622383317",
 		"name": "Capricorn 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -1456,7 +2418,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "565502003",
+		"id": "622383317",
+		"name": "Capricorn 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[8,[12,2],[18,2]]],[2,[[10,4]]],[4,[[10,3]]],[6,[0,[8,7]]],[8,[0,[4,7]]],[10,[[2,6],[18,2]]],[12,[4,8]],[14,[[6,2],12]]]],[1,[[0,[8,[12,2],[18,2]]],[2,[[10,4]]],[4,[[10,3]]],[6,[0,[8,7]]],[8,[0,[4,7]]],[10,[[2,6],[18,2]]],[12,[4,8]],[14,[[6,2],12]]]],[2,[[0,[8,[12,2],[18,2]]],[2,[[10,4]]],[4,[[10,3]]],[6,[0,[8,7]]],[8,[0,[4,7]]],[10,[[2,6],[18,2]]],[12,[4,8]],[14,[[6,2],12]]]],[3,[[6,[0,[10,3]]],[8,[0,[4,6]]],[10,[[2,6]]],[12,[4,8]],[14,[[6,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Capricorn 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "capricorn_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "3663327479",
 		"name": "Car",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1469,7 +2444,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1002267330",
+		"id": "3663327479",
+		"name": "Car",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,8]]],[2,[[2,2],[18,2]]],[4,[[2,2],[18,2]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[4,2],[16,2]]],[14,[[4,2],[16,2]]]]],[1,[[0,[[4,8]]],[2,[[2,2],[18,2]]],[4,[[2,2],[18,2]]],[6,[[1,11]]],[8,[1,[5,7],21]],[10,[[1,11]]]]],[2,[[0,[[5,7]]],[2,[4,18]],[4,[4,18]],[6,[[1,11]]],[8,[1,[5,7],21]],[10,[[1,3],[17,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Car.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "car_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "520899656",
 		"name": "Card Colours",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -1482,7 +2470,20 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "2532346819",
+		"id": "2908144187",
+		"name": "Carnival",
+		"by": "Patrick Becker",
+		"tiles": 132,
+		"data": "[[0,[[0,[[4,2],16,[26,2]]],[2,[[3,3],[15,2],[25,3]]],[4,[[2,4],[14,3],[24,4]]],[6,[[1,5],[13,4],[23,5]]],[8,[[0,2],[6,3],[13,4],[22,3],[30,2]]],[10,[1,[7,10],31]],[12,[[7,10]]],[14,[[7,10]]]]],[1,[[10,[[8,9]]],[12,[[8,9]]],[14,[[8,9]]]]],[2,[[10,[[10,7]]],[12,[[10,7]]],[14,[[10,7]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Carnival.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "carnival",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2908144187",
 		"name": "Carnival",
 		"by": "Patrick Becker",
 		"tiles": 132,
@@ -1490,12 +2491,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Carnival.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "carnival",
+		"filename": "carnival_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "839491732",
+		"id": "2355281156",
 		"name": "Castle",
 		"by": "Alexey Charkov",
 		"tiles": 156,
@@ -1508,7 +2509,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2961791455",
+		"id": "1610571829",
+		"name": "Castle",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,7]]],[2,[[0,7]]],[4,[[0,8]]],[6,[[0,9]]],[8,[[0,8]]],[10,[[0,7]]],[12,[[0,7]]]]],[1,[[0,[[0,7]]],[2,[0,12]],[3,[[3,4]]],[4,[0,12]],[5,[[3,4]]],[6,[0,[12,2]]],[7,[[3,4]]],[8,[0,12]],[9,[[3,4]]],[10,[0,12]],[12,[[0,7]]]]],[2,[[0,[[0,7]]],[2,[0,12]],[4,[0,[4,3],12]],[6,[0,[4,3],12]],[8,[0,[4,3],12]],[10,[0,12]],[12,[[0,7]]]]],[3,[[0,[0,12]],[4,[0,12]],[5,[[5,2]]],[7,[[5,2]]],[8,[0,12]],[12,[0,12]]]],[4,[[0,[0,12]],[6,6],[12,[0,12]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Castle.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "castle_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1610571829",
 		"name": "Castle",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -1521,7 +2535,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3004151636",
+		"id": "2355281156",
+		"name": "Castle",
+		"by": "Alexey Charkov",
+		"tiles": 156,
+		"data": "[[0,[[0,[[1,4],[19,4]]],[2,[[1,4],[12,2],[19,4]]],[4,[[5,9]]],[6,[[0,2],[9,5],[24,2]]],[8,[0,[8,6],26]],[10,[[4,10]]],[12,[[0,4],[10,4],[20,4]]],[14,[[0,4],[11,3],[20,4]]]]],[1,[[0,[[3,3],[19,3]]],[2,[[3,3],[12,2],[19,3]]],[4,[7,19]],[6,[[0,2],[11,3],[24,2]]],[8,[0,[10,4],26]],[10,[[8,6]]],[12,[[2,3],[20,3]]],[14,[[2,3],[11,3],[20,3]]]]],[2,[[1,[[4,2],[20,2]]],[2,13],[6,13],[8,[[12,2]]],[10,[[12,2]]],[13,[[3,2],[21,2]]],[14,13]]],[3,[[1,[[4,2],[20,2]]],[2,13],[8,[[12,2]]],[10,[[12,2]]],[13,[[3,2],[21,2]]],[14,13]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadcastle.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "castle_4",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "366036150",
 		"name": "Castle",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1534,7 +2561,20 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "3588772822",
+		"id": "1610571829",
+		"name": "Castle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,7]]],[2,[[0,7]]],[4,[[0,8]]],[6,[[0,9]]],[8,[[0,8]]],[10,[[0,7]]],[12,[[0,7]]]]],[1,[[0,[[0,7]]],[2,[0,12]],[3,[[3,4]]],[4,[0,12]],[5,[[3,4]]],[6,[0,[12,2]]],[7,[[3,4]]],[8,[0,12]],[9,[[3,4]]],[10,[0,12]],[12,[[0,7]]]]],[2,[[0,[[0,7]]],[2,[0,12]],[4,[0,[4,3],12]],[6,[0,[4,3],12]],[8,[0,[4,3],12]],[10,[0,12]],[12,[[0,7]]]]],[3,[[0,[0,12]],[4,[0,12]],[5,[[5,2]]],[7,[[5,2]]],[8,[0,12]],[12,[0,12]]]],[4,[[0,[0,12]],[6,6],[12,[0,12]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "castle_6",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "3881608226",
 		"name": "Castle2",
 		"by": "Alexey Charkov",
 		"tiles": 146,
@@ -1547,20 +2587,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "968593509",
-		"name": "Cat",
-		"by": "Tsubassa Kurenai",
-		"tiles": 144,
-		"data": "[[0,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[2,[9,2]]],[16,9]]],[1,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[2,[9,2]]],[16,9]]],[2,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[2,[9,2]]],[16,9]]],[3,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[2,[9,2]]],[16,9]]],[4,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[[9,2]]],[16,9]]]]",
-		"source": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/Cat.lay",
-		"site": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/",
+		"id": "3881608226",
+		"name": "Castle2",
+		"by": "Alexey Charkov",
+		"tiles": 146,
+		"data": "[[0,[[0,[[24,2]]],[2,[[22,4]]],[4,[4,8,12,16,19,[22,2],28]],[6,[[4,13]]],[8,[[4,13]]],[10,[[2,3],[10,10]]],[12,[[0,7],[16,7]]],[14,[[0,6],[18,3],[28,2]]]]],[1,[[0,25],[2,[[22,4]]],[4,[22,28]],[6,[[4,10],28]],[8,[4,22,28]],[10,[4,14,22,28]],[12,[4,12,16,22,28]],[14,[4,[8,2],[18,3],28]]]],[2,[[0,25],[2,[22,25,28]],[6,[4,8,12,16,20]],[8,[22,28]],[10,[4,14]],[12,[12,16,22,28]],[14,[4,10,18,22,28]]]],[3,[[0,25],[2,25],[10,14],[12,[12,16]],[14,[22,28]]]],[4,[[1,25],[10,14]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadcastle2.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
 		"solvable": true,
-		"filename": "cat",
-		"path": "kurenai/kurenai_zodiacs",
-		"group": "Kurenai - Chinese Zodiac"
+		"filename": "castle2_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
 	},
 	{
-		"id": "1274017354",
+		"id": "1311036818",
 		"name": "Cat",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -1568,12 +2608,51 @@ export const data = [
 		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/cat.layout",
 		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
 		"solvable": true,
-		"filename": "cat_2",
+		"filename": "cat",
 		"path": "kmahjongg",
 		"group": "KMahjongg"
 	},
 	{
-		"id": "844991462",
+		"id": "596278017",
+		"name": "Cat",
+		"by": "Tsubassa Kurenai",
+		"tiles": 144,
+		"data": "[[0,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[2,[9,2]]],[16,9]]],[1,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[2,[9,2]]],[16,9]]],[2,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[2,[9,2]]],[16,9]]],[3,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[2,[9,2]]],[16,9]]],[4,[[0,1],[2,1],[3,3],[4,[1,5,19]],[5,7],[6,[0,5,9,[14,3]]],[8,[5,9,15]],[9,2],[10,[4,9,15]],[11,6],[12,[3,9,15]],[13,13],[14,[[9,2]]],[16,9]]]]",
+		"source": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/Cat.lay",
+		"site": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/",
+		"solvable": true,
+		"filename": "cat_2",
+		"path": "kurenai/kurenai_zodiacs",
+		"group": "Kurenai - Chinese Zodiac"
+	},
+	{
+		"id": "1311036818",
+		"name": "Cat",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,28],[1,30],[2,32],[4,[[16,7],34]],[5,14],[6,[[2,4],[16,8],34]],[7,[[12,2]]],[8,[[0,5],[16,9]]],[9,[[12,2]]],[10,[[0,5],[16,9]]],[11,[[12,2]]],[12,[[0,5],[16,9]]],[13,[10,14]],[14,[[2,4],[16,8]]]]],[1,[[0,28],[1,30],[2,32],[6,[[18,6]]],[8,[[4,2],[16,8]]],[9,14],[10,[[2,4],[16,8]]],[12,[[4,2],[18,6]]]]],[2,[[8,[[18,5]]],[9,[[4,2]]],[10,[[18,5]]],[11,[[4,2]]]]],[3,[[9,[[20,3]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadcat.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "cat_3",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "4092923114",
+		"name": "Cat And Mouse",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,8],27,31]],[1,[3,21]],[2,[1,23,[27,3]]],[3,[[7,3],25]],[4,[0,[27,3]]],[5,[[7,3]]],[6,0],[7,[[7,3],20,27]],[8,[1,18,22,31]],[9,[16,27]],[10,[2,14,23,31]],[11,[[4,5]]],[12,[18,22]],[13,20],[14,[[26,4]]]]],[1,[[0,[[5,8],27,31]],[1,[3,21]],[2,[1,23,[27,3]]],[3,25],[4,[0,[8,2],[27,3]]],[6,[0,[8,2]]],[7,[20,27]],[8,[1,18,22,31]],[9,[16,27]],[10,[2,14,23,31]],[11,[[4,5]]],[12,[18,22]],[13,20],[14,[[26,4]]]]],[2,[[0,[5,9,13,17,27,31]],[2,29],[3,[[7,3]]],[4,[27,31]],[5,[[7,3]]],[7,[[7,3]]],[10,27],[11,[4,8,12,31]],[13,26],[14,[[28,3]]]]],[3,[[4,[[8,2]]],[6,[[8,2]]],[11,27],[12,31]]],[4,[[3,9],[5,[7,11]],[7,9]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Cat and Mouse.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "cat_and_mouse",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4092923114",
 		"name": "Cat And Mouse",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -1581,12 +2660,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cat and Mouse.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "cat_and_mouse",
+		"filename": "cat_and_mouse_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1028317393",
+		"id": "995469741",
 		"name": "Celtic Cross",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1599,7 +2678,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "3737829698",
+		"id": "3955112368",
 		"name": "Center Of Sun",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1612,7 +2691,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1492921254",
+		"id": "3955112368",
+		"name": "Center Of Sun",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,6]]],[2,[[4,2],[20,2]]],[4,[2,24]],[6,[[0,14]]],[8,[[0,14]]],[10,[2,24]],[12,[[4,2],[20,2]]],[14,[[8,6]]]]],[1,[[0,[[8,6]]],[2,[[4,2],[20,2]]],[4,[2,24]],[6,[[0,14]]],[8,[[0,14]]],[10,[2,24]],[12,[[4,2],[20,2]]],[14,[[8,6]]]]],[2,[[0,[[8,6]]],[2,[[4,2],[20,2]]],[4,[2,24]],[6,[2,24]],[7,[0,[4,10],26]],[8,[2,24]],[10,[2,24]],[12,[[4,2],[20,2]]],[14,[[8,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Center of Sun.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "center_of_sun_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "888948638",
+		"name": "Ceremonial",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,2],[9,7],[26,2]]],[2,[[3,2],[25,2]]],[3,[0,15,30]],[4,[[4,2],13,17,[24,2]]],[5,[0,[8,2],15,[20,2],30]],[6,[12,18]],[7,[0,15,30]],[8,[12,18]],[9,[0,[8,2],15,[20,2],30]],[10,[[4,2],13,17,[24,2]]],[11,[0,15,30]],[12,[[3,2],[25,2]]],[14,[[2,2],[9,7],[26,2]]]]],[1,[[0,[[2,2],[10,6],[26,2]]],[2,[[3,2],[25,2]]],[4,[0,[4,2],[14,2],[24,2],30]],[5,[[8,2],[20,2]]],[6,[0,12,15,18,30]],[8,[0,12,15,18,30]],[9,[[8,2],[20,2]]],[10,[0,[4,2],[14,2],[24,2],30]],[12,[[3,2],[25,2]]],[14,[[2,2],[10,6],[26,2]]]]],[2,[[0,[[13,3]]],[4,15],[6,15],[7,[0,30]],[8,15],[10,15],[14,[[13,3]]]]],[3,[[7,15]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Ceremonial.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "ceremonial",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "888948638",
 		"name": "Ceremonial",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -1620,12 +2725,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Ceremonial.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "ceremonial",
+		"filename": "ceremonial_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "279179905",
+		"id": "888948638",
+		"name": "Ceremonial",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,2],[9,7],[26,2]]],[2,[[3,2],[25,2]]],[3,[0,15,30]],[4,[[4,2],13,17,[24,2]]],[5,[0,[8,2],15,[20,2],30]],[6,[12,18]],[7,[0,15,30]],[8,[12,18]],[9,[0,[8,2],15,[20,2],30]],[10,[[4,2],13,17,[24,2]]],[11,[0,15,30]],[12,[[3,2],[25,2]]],[14,[[2,2],[9,7],[26,2]]]]],[1,[[0,[[2,2],[10,6],[26,2]]],[2,[[3,2],[25,2]]],[4,[0,[4,2],[14,2],[24,2],30]],[5,[[8,2],[20,2]]],[6,[0,12,15,18,30]],[8,[0,12,15,18,30]],[9,[[8,2],[20,2]]],[10,[0,[4,2],[14,2],[24,2],30]],[12,[[3,2],[25,2]]],[14,[[2,2],[10,6],[26,2]]]]],[2,[[0,[[13,3]]],[4,15],[6,15],[7,[0,30]],[8,15],[10,15],[14,[[13,3]]]]],[3,[[7,15]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/ceremonial",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "ceremonial_3",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "1713308403",
 		"name": "Ceremonial Well",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -1638,7 +2756,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "287563923",
+		"id": "1713308403",
+		"name": "Ceremonial Well",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[8,14]],[2,[[6,6]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[6,6]]],[10,[8,14]]]],[1,[[0,[8,14]],[2,[[6,6]]],[4,[[2,4],[14,4]]],[6,[[2,4],[14,4]]],[8,[[6,6]]],[10,[8,14]]]],[2,[[0,[8,14]],[2,[[6,6]]],[4,[[4,3],[14,3]]],[6,[[4,3],[14,3]]],[8,[[6,6]]],[10,[8,14]]]],[3,[[0,[8,14]],[2,[[6,6]]],[4,[[6,2],[14,2]]],[6,[[6,2],[14,2]]],[8,[[6,6]]],[10,[8,14]]]],[4,[[0,[8,14]],[2,[[6,6]]],[4,[8,14]],[6,[8,14]],[8,[[6,6]]],[10,[8,14]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Ceremonial Well.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "ceremonial_well_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1618575093",
 		"name": "Chains",
 		"by": "Alexey Charkov",
 		"tiles": 120,
@@ -1651,7 +2782,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3742665117",
+		"id": "1618575093",
+		"name": "Chains",
+		"by": "Alexey Charkov",
+		"tiles": 120,
+		"data": "[[0,[[0,[[0,16]]],[2,[3,11,19,27]],[3,[1,5,9,13,17,21,25,29]],[5,[1,5,9,13,17,21,25,29]],[6,[3,11,19,27]],[8,[3,11,19,27]],[9,[1,5,9,13,17,21,25,29]],[11,[1,5,9,13,17,21,25,29]],[12,[3,11,19,27]],[14,[[0,16]]]]],[1,[[0,[3,11,19,27]],[2,[3,11,19,27]],[6,[3,11,19,27]],[8,[3,11,19,27]],[12,[3,11,19,27]],[14,[3,11,19,27]]]],[2,[[2,[3,11,19,27]],[6,[3,11,19,27]],[8,[3,11,19,27]],[12,[3,11,19,27]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadchains.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "chains_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2867973359",
 		"name": "Challenger",
 		"by": "Jeanette Sanna",
 		"tiles": 144,
@@ -1664,7 +2808,7 @@ export const data = [
 		"group": "Phantagia - Submitted - Sanna"
 	},
 	{
-		"id": "1511536267",
+		"id": "2231535005",
 		"name": "Checkered",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -1677,7 +2821,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1589486008",
+		"id": "2231535005",
+		"name": "Checkered",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,28]],[1,[[2,13]]],[3,[[2,13]]],[5,[[2,13]]],[7,[[2,13]]],[9,[[2,13]]],[11,[[2,13]]],[13,[[2,13]]],[14,[0,28]]]],[1,[[0,[0,28]],[1,[4,8,12,16,20,24]],[3,[2,6,10,14,18,22,26]],[5,[4,8,12,16,20,24]],[7,[2,6,10,14,18,22,26]],[9,[4,8,12,16,20,24]],[11,[2,6,10,14,18,22,26]],[13,[4,8,12,16,20,24]],[14,[0,28]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadcheckered.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "checkered_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "830486296",
 		"name": "Checkers",
 		"by": "MyKyodai",
 		"tiles": 68,
@@ -1690,7 +2847,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1708784685",
+		"id": "3644879803",
+		"name": "ChessMania",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[27,3]]],[1,[[8,8]]],[2,[0,27]],[3,[[8,8],29]],[4,[0,31]],[5,[[8,8]]],[6,[[0,3],[27,3]]],[7,[[8,8]]],[9,[0,4,[8,8],[27,3]]],[11,[0,4,[8,8],27]],[12,[2,29]],[13,[0,4,[8,8],31]],[15,[0,4,[8,8],[27,3]]]]],[1,[[1,[10,14,18,22]],[3,[8,12,16,20,29]],[5,[10,14,18,22]],[7,[8,12,16,20]],[9,[10,14,18,22]],[11,[8,12,16,20]],[12,[2,29]],[13,[10,14,18,22]],[15,[8,12,16,20]]]],[2,[[5,[[13,3]]],[7,13],[8,15],[9,13],[11,[[13,3]]]]],[3,[[8,15]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#ChessMania.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "chessmania",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3644879803",
 		"name": "ChessMania",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -1698,12 +2868,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#ChessMania.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "chessmania",
+		"filename": "chessmania_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2344418956",
+		"id": "4045161034",
 		"name": "Chibi",
 		"by": "Tsubassa Kurenai",
 		"tiles": 124,
@@ -1716,7 +2886,7 @@ export const data = [
 		"group": "Kurenai - Script signs"
 	},
 	{
-		"id": "2802813753",
+		"id": "4012729841",
 		"name": "Chinese Wall",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -1729,7 +2899,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2873742032",
+		"id": "1273324342",
 		"name": "Chip",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -1742,7 +2912,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "627858325",
+		"id": "1273324342",
+		"name": "Chip",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,8,12,16,19]],[2,[[4,10]]],[3,[[0,2],[24,2]]],[4,[[4,10]]],[6,[[0,14]]],[8,[[4,10]]],[9,[[0,2],[24,2]]],[10,[[4,10]]],[12,[4,8,12,16,20]]]],[1,[[2,[[4,10]]],[3,[2,24]],[4,[[4,10]]],[6,[[2,4],[18,4]]],[8,[[4,10]]],[9,[2,24]],[10,[[4,10]]]]],[2,[[4,[[6,8]]],[6,[6,20]],[8,[[6,8]]]]],[3,[[6,[6,20]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadchip.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "chip_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3034529237",
 		"name": "Chrysanthemum",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1755,7 +2938,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "2756157531",
+		"id": "3707622865",
 		"name": "Circle 1",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1768,7 +2951,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "2215397839",
+		"id": "561761413",
 		"name": "Circle 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1781,7 +2964,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "3980059095",
+		"id": "1491257241",
 		"name": "Circle 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1794,7 +2977,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "3823721832",
+		"id": "1365056270",
 		"name": "Circle 4",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1807,7 +2990,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "363543263",
+		"id": "2753867361",
 		"name": "Circle 5",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1820,7 +3003,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "2838350141",
+		"id": "3738613983",
 		"name": "Circle 6",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1833,7 +3016,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "2414236372",
+		"id": "696971540",
 		"name": "Circle 7",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1846,33 +3029,46 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "1934170097",
-		"name": "Clubs",
-		"by": "Mary M",
+		"id": "2795841752",
+		"name": "Cloud",
+		"by": "Unknown",
 		"tiles": 144,
-		"data": "[[0,[[0,[0,[12,3],28]],[2,[10,18]],[4,[10,18]],[5,[12,16]],[6,[[5,2],14,[21,2]]],[7,[9,19]],[8,[3,[13,2],25]],[9,[11,17]],[10,[3,9,[13,2],19,25]],[12,[[5,2],14,[21,2]]],[14,[[13,2]]],[16,[0,28]]]],[1,[[0,[0,[12,3],28]],[2,[10,18]],[4,[10,18]],[5,[12,16]],[6,[[5,2],14,[21,2]]],[7,[9,19]],[8,[3,[13,2],25]],[9,[11,17]],[10,[3,9,[13,2],19,25]],[12,[[5,2],14,[21,2]]],[14,[[13,2]]],[16,[0,28]]]],[2,[[0,[[12,3]]],[2,[10,18]],[4,[10,18]],[5,[12,16]],[6,[[5,2],14,[21,2]]],[7,[9,19]],[8,[3,[13,2],25]],[9,[11,17]],[10,[3,9,[13,2],19,25]],[12,[[5,2],14,[21,2]]],[14,[[13,2]]]]],[3,[[0,[[12,3]]],[2,[10,18]],[4,[10,18]],[5,[12,16]],[6,14],[7,[[6,2],[20,2]]],[8,[4,14,24]],[9,[[10,2],[16,2]]],[10,[4,8,14,24]],[11,[6,[20,2]]],[12,14],[14,[[13,2]]]]]]",
-		"source": "https://web.archive.org/web/20170903145616mp_/https://kyodaimahjongg.weebly.com/uploads/9/5/2/9/9529146/mkm-clubs.zip#mkm-CLUBS.lay",
-		"site": "https://web.archive.org/web/20170903145616/http://kyodaimahjongg.weebly.com/layouts.html",
+		"data": "[[0,[[0,[[0,14]]],[2,[[0,14]]],[4,[[0,14]]],[6,[[0,14]]],[8,[[0,14]]],[11,[[5,9]]]]],[1,[[0,[0,4,8,12,16,20,24]],[2,[0,4,8,12,16,20,24]],[4,[0,4,8,12,16,20,24]],[6,[0,4,8,12,16,20,24]],[11,[[6,8]]]]],[2,[[0,[0,4,8,12,16,20,24]],[2,[0,4,8,12,16,20,24]],[4,[0,4,8,12,16,20,24]],[6,[0,4,8,12,16,20,24]],[11,12]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
 		"solvable": true,
-		"filename": "clubs",
-		"path": "kyodaimahjongg/mkm-clubs",
-		"group": "My Kyodai Mahjongg"
+		"filename": "cloud",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
 	},
 	{
-		"id": "4012285945",
-		"name": "Clubs",
-		"by": "Ernie Polegato",
+		"id": "2795841752",
+		"name": "Cloud",
+		"by": "Unknown",
 		"tiles": 144,
-		"data": "[[0,[[0,[[10,3]]],[2,[[8,5]]],[4,[[8,5]]],[6,[[2,3],[10,3],[18,3]]],[8,[[0,13]]],[10,[[0,13]]],[12,[[2,3],10,14,[18,3]]],[14,12],[16,[[10,3]]]]],[1,[[0,[[10,3]]],[2,[[8,5]]],[4,[[8,5]]],[6,[[2,3],[10,3],[18,3]]],[8,[[0,13]]],[10,[[0,13]]],[12,[[2,3],10,14,[18,3]]],[14,12],[16,[[10,3]]]]],[2,[[1,[[11,2]]],[3,[[11,2]]],[8,[[3,2],[19,2]]],[10,[[3,2],[19,2]]]]],[3,[[1,[[11,2]]],[3,[[11,2]]],[8,[[3,2],[19,2]]],[10,[[3,2],[19,2]]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cards - Clubs.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"data": "[[0,[[0,[[0,14]]],[2,[[0,14]]],[4,[[0,14]]],[6,[[0,14]]],[8,[[0,14]]],[11,[[5,9]]]]],[1,[[0,[0,4,8,12,16,20,24]],[2,[0,4,8,12,16,20,24]],[4,[0,4,8,12,16,20,24]],[6,[0,4,8,12,16,20,24]],[11,[[6,8]]]]],[2,[[0,[0,4,8,12,16,20,24]],[2,[0,4,8,12,16,20,24]],[4,[0,4,8,12,16,20,24]],[6,[0,4,8,12,16,20,24]],[11,12]]]]",
+		"source": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/cloud.js",
+		"site": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/",
 		"solvable": true,
-		"filename": "clubs_4",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "cloud_2",
+		"path": "green-mahjong",
+		"group": "Green Mahjong"
 	},
 	{
-		"id": "4036233900",
+		"id": "2795841752",
+		"name": "Cloud",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,14]]],[2,[[0,14]]],[4,[[0,14]]],[6,[[0,14]]],[8,[[0,14]]],[11,[[5,9]]]]],[1,[[0,[0,4,8,12,16,20,24]],[2,[0,4,8,12,16,20,24]],[4,[0,4,8,12,16,20,24]],[6,[0,4,8,12,16,20,24]],[11,[[6,8]]]]],[2,[[0,[0,4,8,12,16,20,24]],[2,[0,4,8,12,16,20,24]],[4,[0,4,8,12,16,20,24]],[6,[0,4,8,12,16,20,24]],[11,12]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "cloud_3",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "1547526568",
 		"name": "Clubs",
 		"by": "Alexey Charkov",
 		"tiles": 74,
@@ -1880,12 +3076,64 @@ export const data = [
 		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/clubs.layout",
 		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
 		"solvable": true,
-		"filename": "clubs_2",
+		"filename": "clubs",
 		"path": "kmahjongg",
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3543844826",
+		"id": "2176801565",
+		"name": "Clubs",
+		"by": "Mary M",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[12,3],28]],[2,[10,18]],[4,[10,18]],[5,[12,16]],[6,[[5,2],14,[21,2]]],[7,[9,19]],[8,[3,[13,2],25]],[9,[11,17]],[10,[3,9,[13,2],19,25]],[12,[[5,2],14,[21,2]]],[14,[[13,2]]],[16,[0,28]]]],[1,[[0,[0,[12,3],28]],[2,[10,18]],[4,[10,18]],[5,[12,16]],[6,[[5,2],14,[21,2]]],[7,[9,19]],[8,[3,[13,2],25]],[9,[11,17]],[10,[3,9,[13,2],19,25]],[12,[[5,2],14,[21,2]]],[14,[[13,2]]],[16,[0,28]]]],[2,[[0,[[12,3]]],[2,[10,18]],[4,[10,18]],[5,[12,16]],[6,[[5,2],14,[21,2]]],[7,[9,19]],[8,[3,[13,2],25]],[9,[11,17]],[10,[3,9,[13,2],19,25]],[12,[[5,2],14,[21,2]]],[14,[[13,2]]]]],[3,[[0,[[12,3]]],[2,[10,18]],[4,[10,18]],[5,[12,16]],[6,14],[7,[[6,2],[20,2]]],[8,[4,14,24]],[9,[[10,2],[16,2]]],[10,[4,8,14,24]],[11,[6,[20,2]]],[12,14],[14,[[13,2]]]]]]",
+		"source": "https://web.archive.org/web/20170903145616mp_/https://kyodaimahjongg.weebly.com/uploads/9/5/2/9/9529146/mkm-clubs.zip#mkm-CLUBS.lay",
+		"site": "https://web.archive.org/web/20170903145616/http://kyodaimahjongg.weebly.com/layouts.html",
+		"solvable": true,
+		"filename": "clubs_2",
+		"path": "kyodaimahjongg/mkm-clubs",
+		"group": "My Kyodai Mahjongg"
+	},
+	{
+		"id": "3331484719",
+		"name": "Clubs",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,3]]],[2,[[8,5]]],[4,[[8,5]]],[6,[[2,3],[10,3],[18,3]]],[8,[[0,13]]],[10,[[0,13]]],[12,[[2,3],10,14,[18,3]]],[14,12],[16,[[10,3]]]]],[1,[[0,[[10,3]]],[2,[[8,5]]],[4,[[8,5]]],[6,[[2,3],[10,3],[18,3]]],[8,[[0,13]]],[10,[[0,13]]],[12,[[2,3],10,14,[18,3]]],[14,12],[16,[[10,3]]]]],[2,[[1,[[11,2]]],[3,[[11,2]]],[8,[[3,2],[19,2]]],[10,[[3,2],[19,2]]]]],[3,[[1,[[11,2]]],[3,[[11,2]]],[8,[[3,2],[19,2]]],[10,[[3,2],[19,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cards - Clubs.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "clubs_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1547526568",
+		"name": "Clubs",
+		"by": "Alexey Charkov",
+		"tiles": 74,
+		"data": "[[0,[[0,[3,11,19,27]],[1,[1,5,9,13,17,21,25,29]],[3,[0,[6,2],[14,2],[22,2],30]],[5,[1,5,9,13,17,21,25,29]],[6,[3,11,19,27]],[8,[3,11,19,27]],[9,[1,5,9,13,17,21,25,29]],[11,[0,[6,2],[14,2],[22,2],30]],[13,[1,5,9,13,17,21,25,29]],[14,[3,11,19,27]]]],[1,[[3,[7,15,23]],[7,[3,11,19,27]],[11,[7,15,23]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadclubs.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "clubs_4",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3331484719",
+		"name": "Clubs",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,3]]],[2,[[8,5]]],[4,[[8,5]]],[6,[[2,3],[10,3],[18,3]]],[8,[[0,13]]],[10,[[0,13]]],[12,[[2,3],10,14,[18,3]]],[14,12],[16,[[10,3]]]]],[1,[[0,[[10,3]]],[2,[[8,5]]],[4,[[8,5]]],[6,[[2,3],[10,3],[18,3]]],[8,[[0,13]]],[10,[[0,13]]],[12,[[2,3],10,14,[18,3]]],[14,12],[16,[[10,3]]]]],[2,[[1,[[11,2]]],[3,[[11,2]]],[8,[[3,2],[19,2]]],[10,[[3,2],[19,2]]]]],[3,[[1,[[11,2]]],[3,[[11,2]]],[8,[[3,2],[19,2]]],[10,[[3,2],[19,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaycards.zip#Clubs.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "clubs_5",
+		"path": "phantagia/eplayouts/eplaycards",
+		"group": "Phantagia - Package A - Cards"
+	},
+	{
+		"id": "3149527624",
 		"name": "Cluster",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1898,7 +3146,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "1248896243",
+		"id": "2430246487",
 		"name": "Cluster 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1911,7 +3159,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "1776832357",
+		"id": "676078633",
 		"name": "Cobra",
 		"by": "Vivian Bushell",
 		"tiles": 144,
@@ -1924,7 +3172,7 @@ export const data = [
 		"group": "Phantagia - Submitted - Bushell"
 	},
 	{
-		"id": "1297450128",
+		"id": "585974162",
 		"name": "Cock",
 		"by": "Tsubassa Kurenai",
 		"tiles": 132,
@@ -1937,7 +3185,33 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "481713413",
+		"id": "2167650397",
+		"name": "Coffee Cup",
+		"by": "Patrick Becker",
+		"tiles": 108,
+		"data": "[[0,[[0,[1,5,10]],[2,[0,6,9]],[4,[1,5,10]],[7,[[0,7]]],[9,[[0,9]]],[11,[[0,7],17]],[13,[[0,9]]],[15,[[0,7]]],[17,[[2,5]]]]],[1,[[0,[1,5,10]],[2,[0,6,9]],[4,[1,5,10]],[7,[[0,7]]],[9,[[0,9]]],[11,[[0,7],17]],[13,[[0,9]]],[15,[[0,7]]],[17,[[2,5]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#CoffeeCup.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "coffee_cup",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2167650397",
+		"name": "Coffee Cup",
+		"by": "Patrick Becker",
+		"tiles": 108,
+		"data": "[[0,[[0,[1,5,10]],[2,[0,6,9]],[4,[1,5,10]],[7,[[0,7]]],[9,[[0,9]]],[11,[[0,7],17]],[13,[[0,9]]],[15,[[0,7]]],[17,[[2,5]]]]],[1,[[0,[1,5,10]],[2,[0,6,9]],[4,[1,5,10]],[7,[[0,7]]],[9,[[0,9]]],[11,[[0,7],17]],[13,[[0,9]]],[15,[[0,7]]],[17,[[2,5]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#CoffeeCup_Step5.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "coffee_cup_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2167650397",
 		"name": "Coffee Cup",
 		"by": "Patrick Becker",
 		"tiles": 108,
@@ -1945,12 +3219,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#CoffeeCup_Step5.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "coffee_cup",
+		"filename": "coffee_cup_4",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1240849343",
+		"id": "2707205185",
 		"name": "Coffee Cup 2",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -1958,12 +3232,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Coffee Cup.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "coffee_cup_2_2",
+		"filename": "coffee_cup_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1959161101",
+		"id": "2627258573",
 		"name": "Coffin",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -1976,7 +3250,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "2574252853",
+		"id": "927950349",
 		"name": "Colesseum",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -1989,20 +3263,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3412656095",
-		"name": "Columns",
-		"by": "Ernie Polegato",
+		"id": "927950349",
+		"name": "Colesseum",
+		"by": "Nanami Kamimura",
 		"tiles": 144,
-		"data": "[[0,[[0,[[0,3],[7,3],[14,3],[21,3],[28,3]]],[2,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[4,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[6,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[8,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[10,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[12,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[14,[[0,3],[7,3],[14,3],[21,3],[28,3]]]]],[1,[[0,[[0,3],[7,3],[14,3],[21,3],[28,3]]],[2,[2,9,16,23,30]],[4,[2,9,16,23,30]],[6,16],[7,[9,23]],[8,16],[10,[2,9,16,23,30]],[12,[2,9,16,23,30]],[14,[[0,3],[7,3],[14,3],[21,3],[28,3]]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Columns.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"data": "[[0,[[0,[[0,10]]],[2,[[0,4],[12,4]]],[4,[[0,3],[14,3]]],[6,[[0,2],[16,2]]],[8,[0,[8,2],18]],[10,[0,[8,2],18]],[12,[[0,2],[16,2]]],[14,[[0,3],[14,3]]],[16,[[0,4],[12,4]]],[18,[[0,10]]]]],[1,[[0,[[0,4],[12,4]]],[2,[[0,3],[14,3]]],[4,[[0,2],[16,2]]],[6,[0,18]],[12,[0,18]],[14,[[0,2],[16,2]]],[16,[[0,3],[14,3]]],[18,[[0,4],[12,4]]]]],[2,[[0,[[0,3],[14,3]]],[2,[[0,2],[16,2]]],[4,[0,18]],[14,[0,18]],[16,[[0,2],[16,2]]],[18,[[0,3],[14,3]]]]],[3,[[0,[[0,2],[16,2]]],[2,[0,18]],[16,[0,18]],[18,[[0,2],[16,2]]]]],[4,[[0,[0,18]],[18,[0,18]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Colesseum with Stage.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
 		"solvable": true,
-		"filename": "columns_3",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "colesseum_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
 	},
 	{
-		"id": "3549156628",
+		"id": "824648624",
 		"name": "Columns",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -2015,7 +3289,59 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "158738793",
+		"id": "3824962503",
+		"name": "Columns",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[7,3],[14,3],[21,3],[28,3]]],[2,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[4,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[6,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[8,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[10,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[12,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[14,[[0,3],[7,3],[14,3],[21,3],[28,3]]]]],[1,[[0,[[0,3],[7,3],[14,3],[21,3],[28,3]]],[2,[2,9,16,23,30]],[4,[2,9,16,23,30]],[6,16],[7,[9,23]],[8,16],[10,[2,9,16,23,30]],[12,[2,9,16,23,30]],[14,[[0,3],[7,3],[14,3],[21,3],[28,3]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Columns.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "columns_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "824648624",
+		"name": "Columns",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,9]]],[1,[4,24]],[2,[[6,2],14,[20,2]]],[3,[[0,3],[24,3]]],[4,[6,[10,5],22]],[5,[0,28]],[6,[6,10,18,22]],[7,[0,[12,3],28]],[8,[6,10,18,22]],[9,[0,28]],[10,[6,[10,5],22]],[11,[[0,3],[24,3]]],[12,[[6,2],14,[20,2]]],[13,[4,24]],[14,[[6,9]]]]],[1,[[0,[6,22]],[3,[[0,2],[26,2]]],[4,[10,18]],[5,[0,6,22,28]],[7,[6,14,22]],[9,[0,6,22,28]],[10,[10,18]],[11,[[0,2],[26,2]]],[14,[6,22]]]],[2,[[0,[6,22]],[3,[0,28]],[4,[10,18]],[7,[6,14,22]],[10,[10,18]],[11,[0,28]],[14,[6,22]]]],[3,[[0,[6,22]],[3,[0,28]],[4,[10,18]],[7,[6,14,22]],[10,[10,18]],[11,[0,28]],[14,[6,22]]]],[4,[[0,[6,22]],[3,[0,28]],[4,[10,18]],[7,14],[10,18],[11,[0,28]],[14,[6,22]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadcolumns.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "columns_3",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3824962503",
+		"name": "Columns",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[7,3],[14,3],[21,3],[28,3]]],[2,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[4,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[6,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[8,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[10,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[12,[[1,2],[8,2],[15,2],[22,2],[29,2]]],[14,[[0,3],[7,3],[14,3],[21,3],[28,3]]]]],[1,[[0,[[0,3],[7,3],[14,3],[21,3],[28,3]]],[2,[2,9,16,23,30]],[4,[2,9,16,23,30]],[6,16],[7,[9,23]],[8,16],[10,[2,9,16,23,30]],[12,[2,9,16,23,30]],[14,[[0,3],[7,3],[14,3],[21,3],[28,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Columns.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "columns_4",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2970831693",
+		"name": "Commodore",
+		"by": "Patrick Becker",
+		"tiles": 124,
+		"data": "[[0,[[0,[[10,4]]],[1,[[4,3]]],[2,[[10,4]]],[3,[[2,4]]],[5,[[2,3],[18,5]]],[6,0],[7,[[2,2],[18,3]]],[8,0],[9,[[2,2]]],[10,0],[11,[[2,2],[18,3]]],[12,0],[13,[[2,3],[18,5]]],[15,[[2,4]]],[16,[[10,4]]],[17,[[4,3]]],[18,[[10,4]]]]],[1,[[0,[[10,4]]],[1,[[4,3]]],[2,[[10,4]]],[3,[[2,4]]],[5,[[2,3],[18,5]]],[6,0],[7,[[2,2],[18,3]]],[8,0],[9,[[2,2]]],[10,0],[11,[[2,2],[18,3]]],[12,0],[13,[[2,3],[18,5]]],[15,[[2,4]]],[16,[[10,4]]],[17,[[4,3]]],[18,[[10,4]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#COMMODORE.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "commodore",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2970831693",
 		"name": "Commodore",
 		"by": "Patrick Becker",
 		"tiles": 124,
@@ -2023,12 +3349,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#COMMODORE.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "commodore",
+		"filename": "commodore_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1457801351",
+		"id": "4185806387",
+		"name": "Confounding Cross",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,10],[2,[[2,9]]],[4,[[2,2],10,[16,2]]],[6,[2,10,18]],[8,[[0,11]]],[10,[2,10,18]],[12,[[2,2],10,[16,2]]],[14,[[2,9]]],[16,10]]],[1,[[1,10],[2,[[2,3],[14,3]]],[3,10],[4,[[2,2],[16,2]]],[5,10],[6,[2,18]],[7,[[9,2]]],[8,[[1,4],[13,4]]],[9,[[9,2]]],[10,[2,18]],[11,10],[12,[[2,2],[16,2]]],[13,10],[14,[[2,3],[14,3]]],[15,10]]],[2,[[2,[[2,2],10,[16,2]]],[4,[2,10,18]],[6,10],[8,[[2,9]]],[10,10],[12,[2,10,18]],[14,[[2,2],10,[16,2]]]]],[3,[[2,[2,18]],[3,10],[5,10],[7,[[9,2]]],[8,[[3,3],[13,3]]],[9,[[9,2]]],[11,10],[13,10],[14,[2,18]]]],[4,[[4,10],[6,10],[8,[[6,5]]],[10,10],[12,10]]],[5,[[8,10]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
+		"solvable": true,
+		"filename": "confounding_cross",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
+	},
+	{
+		"id": "4185806387",
+		"name": "Confounding Cross",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,10],[2,[[2,9]]],[4,[[2,2],10,[16,2]]],[6,[2,10,18]],[8,[[0,11]]],[10,[2,10,18]],[12,[[2,2],10,[16,2]]],[14,[[2,9]]],[16,10]]],[1,[[1,10],[2,[[2,3],[14,3]]],[3,10],[4,[[2,2],[16,2]]],[5,10],[6,[2,18]],[7,[[9,2]]],[8,[[1,4],[13,4]]],[9,[[9,2]]],[10,[2,18]],[11,10],[12,[[2,2],[16,2]]],[13,10],[14,[[2,3],[14,3]]],[15,10]]],[2,[[2,[[2,2],10,[16,2]]],[4,[2,10,18]],[6,10],[8,[[2,9]]],[10,10],[12,[2,10,18]],[14,[[2,2],10,[16,2]]]]],[3,[[2,[2,18]],[3,10],[5,10],[7,[[9,2]]],[8,[[3,3],[13,3]]],[9,[[9,2]]],[11,10],[13,10],[14,[2,18]]]],[4,[[4,10],[6,10],[8,[[6,5]]],[10,10],[12,10]]],[5,[[8,10]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "confounding_cross_2",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "753923615",
 		"name": "Corner Stairs",
 		"by": "Jens Rose",
 		"tiles": 140,
@@ -2041,7 +3393,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "3604048038",
+		"id": "3151660650",
 		"name": "Covered Duct",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2054,20 +3406,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "1607194751",
-		"name": "Crab",
-		"by": "Alexey Charkov",
-		"tiles": 144,
-		"data": "[[0,[[0,[[2,3],[22,3]]],[1,[0,8,20,28]],[2,[[10,5]]],[3,[0,4,23,28]],[4,[10,18]],[5,[0,28]],[6,[[2,5],14,[18,5]]],[8,[6,10,18,22]],[10,[[4,11]]],[12,[4,24]],[13,[8,12,16,20]],[14,[[4,2],10,14,18,[22,2]]]]],[1,[[0,[[2,3],[22,3]]],[1,[0,8,20,28]],[2,[[12,3]]],[3,[0,4,23,28]],[4,[10,18]],[5,[0,28]],[6,[[2,3],10,14,18,[22,3]]],[8,[6,10,18,22]],[10,[4,[10,5],24]],[12,[4,24]],[13,[8,12,16,20]],[14,[4,24]]]],[2,[[0,[4,24]],[1,[8,20]],[2,14],[3,[0,28]],[6,[4,24]],[10,[4,24]],[12,[4,24]],[13,[8,12,16,20]],[14,[4,24]]]],[3,[[0,[4,24]],[3,[0,28]],[6,[4,24]],[10,[4,24]],[12,[4,24]],[13,[8,12,16,20]]]]]",
-		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/dragon.layout",
-		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
-		"solvable": true,
-		"filename": "crab_2",
-		"path": "kmahjongg",
-		"group": "KMahjongg"
-	},
-	{
-		"id": "1830783848",
+		"id": "2062930018",
 		"name": "Crab",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -2080,7 +3419,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3166778069",
+		"id": "3782105817",
+		"name": "Crab",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,3],[22,3]]],[1,[0,8,20,28]],[2,[[10,5]]],[3,[0,4,23,28]],[4,[10,18]],[5,[0,28]],[6,[[2,5],14,[18,5]]],[8,[6,10,18,22]],[10,[[4,11]]],[12,[4,24]],[13,[8,12,16,20]],[14,[[4,2],10,14,18,[22,2]]]]],[1,[[0,[[2,3],[22,3]]],[1,[0,8,20,28]],[2,[[12,3]]],[3,[0,4,23,28]],[4,[10,18]],[5,[0,28]],[6,[[2,3],10,14,18,[22,3]]],[8,[6,10,18,22]],[10,[4,[10,5],24]],[12,[4,24]],[13,[8,12,16,20]],[14,[4,24]]]],[2,[[0,[4,24]],[1,[8,20]],[2,14],[3,[0,28]],[6,[4,24]],[10,[4,24]],[12,[4,24]],[13,[8,12,16,20]],[14,[4,24]]]],[3,[[0,[4,24]],[3,[0,28]],[6,[4,24]],[10,[4,24]],[12,[4,24]],[13,[8,12,16,20]]]]]",
+		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/dragon.layout",
+		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
+		"solvable": true,
+		"filename": "crab_2",
+		"path": "kmahjongg",
+		"group": "KMahjongg"
+	},
+	{
+		"id": "2062930018",
+		"name": "Crab",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,4],[19,4]]],[2,[[1,4],[12,2],[19,4]]],[4,[[5,9]]],[6,[[0,2],[9,5],[24,2]]],[8,[0,[8,6],26]],[10,[[4,10]]],[12,[[0,4],[10,4],[20,4]]],[14,[[0,4],[11,3],[20,4]]]]],[1,[[0,[[3,3],[19,3]]],[2,[[3,3],[12,2],[19,3]]],[4,[7,19]],[6,[[0,2],[11,3],[24,2]]],[8,[0,[10,4],26]],[10,[[8,6]]],[12,[[2,3],[20,3]]],[14,[[2,3],[11,3],[20,3]]]]],[2,[[1,[[4,2],[20,2]]],[2,13],[6,13],[8,[[12,2]]],[10,[[12,2]]],[13,[[3,2],[21,2]]],[14,13]]],[3,[[8,13],[10,13]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadcrab.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "crab_3",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2803694319",
 		"name": "Crazy Table",
 		"by": "Tsubassa Kurenai",
 		"tiles": 100,
@@ -2093,7 +3458,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "2418219187",
+		"id": "3835555931",
 		"name": "Crazy Wheel",
 		"by": "Tsubassa Kurenai",
 		"tiles": 128,
@@ -2106,20 +3471,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "867896753",
-		"name": "Cross",
-		"by": "Patrick Becker",
-		"tiles": 128,
-		"data": "[[0,[[0,[[6,4]]],[2,[6,12]],[3,9],[4,[6,12]],[5,9],[6,[[0,4],[12,4]]],[7,9],[8,[0,18]],[9,[[3,7]]],[10,[0,18]],[11,9],[12,[[0,4],[12,4]]],[13,9],[14,[6,12]],[15,9],[16,[6,12]],[18,[[6,4]]]]],[1,[[1,[[7,3]]],[3,[[7,3]]],[5,[[7,3]]],[7,[[1,9]]],[9,[[1,9]]],[11,[[1,9]]],[13,[[7,3]]],[15,[[7,3]]],[17,[[7,3]]]]],[2,[[2,[[8,2]]],[4,[[8,2]]],[8,[[2,2],[8,2],[14,2]]],[10,[[2,2],[8,2],[14,2]]],[14,[[8,2]]],[16,[[8,2]]]]],[3,[[3,[[8,2]]],[9,[[2,2],[8,2],[14,2]]],[15,[[8,2]]]]],[4,[[3,9],[9,[3,15]],[15,9]]]]",
-		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#CROSS.lay",
-		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
-		"solvable": true,
-		"filename": "cross",
-		"path": "step5",
-		"group": "Step5"
-	},
-	{
-		"id": "2729997867",
+		"id": "110453621",
 		"name": "Cross",
 		"by": "Alexey Charkov",
 		"tiles": 222,
@@ -2127,12 +3479,12 @@ export const data = [
 		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/cross.layout",
 		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
 		"solvable": true,
-		"filename": "cross_3",
+		"filename": "cross",
 		"path": "kmahjongg",
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3125280279",
+		"id": "900258477",
 		"name": "Cross",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -2145,20 +3497,20 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "3643477177",
+		"id": "3646809689",
 		"name": "Cross",
 		"by": "MinderTech",
 		"tiles": 144,
 		"data": "[[0,[[0,[[4,6]]],[2,[[2,8]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[2,8]]],[12,[[4,6]]]]],[1,[[0,[[6,4]]],[2,[[4,6]]],[4,[[0,4],[12,4]]],[6,[[0,10]]],[8,[[0,4],[12,4]]],[10,[[4,6]]],[12,[[6,4]]]]],[2,[[0,[6,12]],[2,[[4,2],[12,2]]],[4,[[2,3],[12,3]]],[8,[[2,3],[12,3]]],[10,[[4,2],[12,2]]],[12,[6,12]]]],[3,[[2,[6,12]],[4,[[2,3],[12,3]]],[8,[[2,3],[12,3]]],[10,[6,12]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cross.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Cross.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
 		"solvable": true,
-		"filename": "cross_5",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "cross_3",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
 	},
 	{
-		"id": "4091707031",
+		"id": "1742490521",
 		"name": "Cross",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2166,12 +3518,77 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cross 2.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
+		"filename": "cross_4",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "830175737",
+		"name": "Cross",
+		"by": "Patrick Becker",
+		"tiles": 128,
+		"data": "[[0,[[0,[[6,4]]],[2,[6,12]],[3,9],[4,[6,12]],[5,9],[6,[[0,4],[12,4]]],[7,9],[8,[0,18]],[9,[[3,7]]],[10,[0,18]],[11,9],[12,[[0,4],[12,4]]],[13,9],[14,[6,12]],[15,9],[16,[6,12]],[18,[[6,4]]]]],[1,[[1,[[7,3]]],[3,[[7,3]]],[5,[[7,3]]],[7,[[1,9]]],[9,[[1,9]]],[11,[[1,9]]],[13,[[7,3]]],[15,[[7,3]]],[17,[[7,3]]]]],[2,[[2,[[8,2]]],[4,[[8,2]]],[8,[[2,2],[8,2],[14,2]]],[10,[[2,2],[8,2],[14,2]]],[14,[[8,2]]],[16,[[8,2]]]]],[3,[[3,[[8,2]]],[9,[[2,2],[8,2],[14,2]]],[15,[[8,2]]]]],[4,[[3,9],[9,[3,15]],[15,9]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cross 3.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "cross_5",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3646809689",
+		"name": "Cross",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,6]]],[2,[[2,8]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[2,8]]],[12,[[4,6]]]]],[1,[[0,[[6,4]]],[2,[[4,6]]],[4,[[0,4],[12,4]]],[6,[[0,10]]],[8,[[0,4],[12,4]]],[10,[[4,6]]],[12,[[6,4]]]]],[2,[[0,[6,12]],[2,[[4,2],[12,2]]],[4,[[2,3],[12,3]]],[8,[[2,3],[12,3]]],[10,[[4,2],[12,2]]],[12,[6,12]]]],[3,[[2,[6,12]],[4,[[2,3],[12,3]]],[8,[[2,3],[12,3]]],[10,[6,12]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cross.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
 		"filename": "cross_6",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "732680134",
+		"id": "110453621",
+		"name": "Cross",
+		"by": "Alexey Charkov",
+		"tiles": 222,
+		"data": "[[0,[[0,[0,[6,10],30]],[1,[2,28]],[2,[0,4,[14,2],26,30]],[3,[2,6,24,28]],[4,[4,8,[14,2],22,26]],[5,[6,10,20,24]],[6,[8,[12,4],22]],[7,[10,20]],[8,[8,[12,4],22]],[9,[6,10,20,24]],[10,[4,8,[14,2],22,26]],[11,[2,6,24,28]],[12,[0,4,[14,2],26,30]],[13,[2,28]],[14,[0,[6,10],30]]]],[1,[[0,[0,[8,8],30]],[1,[2,28]],[2,[0,4,[14,2],26,30]],[3,[2,6,24,28]],[4,[4,8,[14,2],22,26]],[5,[6,24]],[6,[8,[14,2],22]],[8,[8,[14,2],22]],[9,[6,24]],[10,[4,8,[14,2],22,26]],[11,[2,6,24,28]],[12,[0,4,[14,2],26,30]],[13,[2,28]],[14,[0,[8,8],30]]]],[2,[[0,[0,[10,6],30]],[1,[2,28]],[2,[0,4,[14,2],26,30]],[3,[2,6,24,28]],[4,[4,8,[14,2],22,26]],[5,[6,24]],[6,[8,[14,2],22]],[8,[8,[14,2],22]],[9,[6,24]],[10,[4,8,[14,2],22,26]],[11,[2,6,24,28]],[12,[0,4,[14,2],26,30]],[13,[2,28]],[14,[0,[10,6],30]]]],[3,[[0,15],[2,15],[4,15],[6,15],[8,15],[10,15],[12,15],[14,15]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadcross.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "cross_7",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1742490521",
+		"name": "Cross",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,7]]],[2,[[6,7]]],[4,[[0,13]]],[6,[[0,13]]],[8,[[0,13]]],[10,[[0,13]]],[12,[[6,7]]],[14,[[6,7]]]]],[1,[[2,[[8,5]]],[4,[[8,5]]],[6,[[2,11]]],[8,[[2,11]]],[10,[[8,5]]],[12,[[8,5]]]]],[2,[[4,[[10,3]]],[6,[[10,3]]],[7,[[4,3],[16,3]]],[8,[[10,3]]],[10,[[10,3]]]]],[3,[[5,12],[7,[10,14]],[9,12]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Cross.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "cross_8",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "830175737",
+		"name": "Cross",
+		"by": "Patrick Becker",
+		"tiles": 128,
+		"data": "[[0,[[0,[[6,4]]],[2,[6,12]],[3,9],[4,[6,12]],[5,9],[6,[[0,4],[12,4]]],[7,9],[8,[0,18]],[9,[[3,7]]],[10,[0,18]],[11,9],[12,[[0,4],[12,4]]],[13,9],[14,[6,12]],[15,9],[16,[6,12]],[18,[[6,4]]]]],[1,[[1,[[7,3]]],[3,[[7,3]]],[5,[[7,3]]],[7,[[1,9]]],[9,[[1,9]]],[11,[[1,9]]],[13,[[7,3]]],[15,[[7,3]]],[17,[[7,3]]]]],[2,[[2,[[8,2]]],[4,[[8,2]]],[8,[[2,2],[8,2],[14,2]]],[10,[[2,2],[8,2],[14,2]]],[14,[[8,2]]],[16,[[8,2]]]]],[3,[[3,[[8,2]]],[9,[[2,2],[8,2],[14,2]]],[15,[[8,2]]]]],[4,[[3,9],[9,[3,15]],[15,9]]]]",
+		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#CROSS.lay",
+		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
+		"solvable": true,
+		"filename": "cross_9",
+		"path": "step5",
+		"group": "Step5"
+	},
+	{
+		"id": "3520031236",
 		"name": "Cross 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2184,7 +3601,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "1495388682",
+		"id": "3154821308",
 		"name": "Crossover",
 		"by": "Eugene Chang",
 		"tiles": 144,
@@ -2197,7 +3614,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2125877223",
+		"id": "3154821308",
+		"name": "Crossover",
+		"by": "Eugene Chang",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[9,3],22]],[1,[7,15]],[2,[5,[9,3],17]],[3,[0,22]],[4,[[3,9]]],[6,[0,[3,9],22]],[8,[[3,9]]],[9,[0,22]],[10,[5,[9,3],17]],[11,[7,15]],[12,[0,[9,3],22]]]],[1,[[1,[0,11,22]],[2,[7,15]],[3,11],[4,[7,15]],[5,[0,22]],[6,[[4,8]]],[7,[0,22]],[8,[7,15]],[9,11],[10,[7,15]],[11,[0,11,22]]]],[2,[[1,[7,15]],[2,[0,11,22]],[4,[0,22]],[6,[5,9,13,17]],[8,[0,22]],[10,[0,11,22]],[11,[7,15]]]],[3,[[1,[0,22]],[2,[7,15]],[3,11],[5,[0,22]],[6,[[6,6]]],[7,[0,22]],[9,11],[10,[7,15]],[11,[0,22]]]],[4,[[2,[0,22]],[3,[7,15]],[4,[0,11,22]],[5,[7,15]],[6,[0,11,22]],[7,[7,15]],[8,[0,11,22]],[9,[7,15]],[10,[0,22]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#chlayouts.zip#Crossover.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "crossover_2",
+		"path": "phantagia/lyall/chlayouts",
+		"group": "Phantagia - Submitted - Chang"
+	},
+	{
+		"id": "1312020155",
+		"name": "Crown",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[10,5],[22,4]]],[2,[[0,4],[10,5],[22,4]]],[4,[0,[4,2],[10,2],[16,2],[22,2],28]],[6,[0,[4,5],[16,5],28]],[8,[0,[4,5],[16,5],28]],[10,[0,28]],[12,[[0,6],14,[18,6]]],[14,[[0,15]]]]],[1,[[0,[[0,4],[10,5],[22,4]]],[2,[0,6,10,14,18,22,28]],[4,[0,6,10,18,22,28]],[6,[0,[6,3],[18,3],28]],[8,[0,28]],[10,[0,28]],[12,[0,14,28]],[14,[[0,6],14,[18,6]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Crown.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "crown",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1499538631",
 		"name": "Crown",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2210,7 +3653,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3980225593",
+		"id": "1312020155",
 		"name": "Crown",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -2218,12 +3661,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Crown.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "crown",
+		"filename": "crown_3",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2299064800",
+		"id": "1499538631",
+		"name": "Crown",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[12,16]],[2,14],[4,[[8,7]]],[5,[6,22]],[6,[[2,2],14,[24,2]]],[8,[[0,2],[10,5],[26,2]]],[10,[[0,2],[8,7],[26,2]]],[12,[[0,15]]],[14,[[0,15]]]]],[1,[[4,[[8,7]]],[5,[6,22]],[6,[4,14,24]],[8,[[0,2],[12,3],[26,2]]],[10,[[0,2],[10,5],[26,2]]],[12,[[0,3],[8,7],[24,3]]],[14,[[0,15]]]]],[2,[[8,14],[10,[0,[12,3],28]],[12,[[0,2],14,[26,2]]],[14,[[0,4],[22,4]]]]],[3,[[10,14]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Crown 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "crown_4",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "593282196",
+		"name": "Cupido's Heart",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,21]],[1,[9,13,19,23]],[3,[0,3,8,14,18,24]],[4,[16,28]],[5,[1,4,7,25,30]],[7,[[2,7],[24,5]]],[9,[1,4,9,23,30]],[10,28],[11,[0,3,10,22]],[13,[12,20]],[15,[14,18]],[16,16]]],[1,[[0,[11,21]],[1,[9,13,19,23]],[3,[8,14,18,24]],[4,16],[5,[1,4,7,25,30]],[7,[[2,7],[24,5]]],[9,[1,4,9,23,30]],[11,[10,22]],[13,[12,20]],[15,[14,18]],[16,16]]],[2,[[0,[11,21]],[1,[9,13,19,23]],[3,[8,14,18,24]],[4,16],[5,[7,25]],[7,[[2,7],[24,5]]],[9,[9,23]],[11,[10,22]],[13,[12,20]],[15,[14,18]],[16,16]]],[3,[[0,[11,21]],[1,[9,13,19,23]],[3,[8,14,18,24]],[4,16],[5,[7,25]],[7,24],[9,[9,23]],[11,[10,22]],[13,[12,20]],[15,[14,18]],[16,16]]],[4,[[4,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Cupido's Heart.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "cupidos_heart",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "593282196",
 		"name": "Cupido's Heart",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -2231,12 +3700,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cupido's Heart.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "cupidos_heart",
+		"filename": "cupidos_heart_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4173785214",
+		"id": "4046401468",
+		"name": "Cupola",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,6]]],[1,[6,20]],[2,[4,22]],[3,[2,24]],[5,[1,14,25]],[7,[0,[9,6],26]],[9,[0,14,26]],[11,[1,25]],[13,[2,24]],[14,[4,22]],[15,[6,20]],[16,[[8,6]]]]],[1,[[1,[[9,5]]],[2,[7,19]],[3,[5,21]],[4,[3,23]],[5,14],[6,[2,24]],[7,[[10,5]]],[8,[1,25]],[9,14],[10,[2,24]],[12,[3,23]],[13,[5,21]],[14,[7,19]],[15,[[9,5]]]]],[2,[[2,[[10,4]]],[3,[8,18]],[4,[6,20]],[5,[4,14,22]],[7,[3,[11,4],23]],[9,[3,14,23]],[11,[4,22]],[12,[6,20]],[13,[8,18]],[14,[[10,4]]]]],[3,[[3,[[11,3]]],[4,[9,17]],[5,[7,14,19]],[6,[5,21]],[7,[[12,3]]],[8,[4,22]],[9,14],[10,[5,21]],[11,[7,19]],[12,[9,17]],[13,[[11,3]]]]],[4,[[5,[8,14,18]],[6,[6,20]],[7,[[13,2]]],[8,[5,21]],[9,14],[10,[6,20]],[11,[8,18]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Cupola.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "cupola",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4046401468",
 		"name": "Cupola",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -2244,12 +3726,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cupola.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "cupola",
+		"filename": "cupola_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3013157546",
+		"id": "3211640800",
 		"name": "Dance Dance Revolution",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -2262,7 +3744,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3769673824",
+		"id": "3211640800",
+		"name": "Dance Dance Revolution",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[1,[0,[8,4],22]],[3,[[8,4]]],[5,[[8,4]]],[7,[[0,12]]],[9,[[0,12]]],[11,[[0,12]]],[13,[[8,4]]],[15,[[8,4]]],[17,[0,[8,4],22]]]],[1,[[1,[[8,4]]],[3,[[8,4]]],[5,[[8,4]]],[7,[[0,4],[16,4]]],[9,[[0,4],[16,4]]],[11,[[0,4],[16,4]]],[13,[[8,4]]],[15,[[8,4]]],[17,[[8,4]]]]],[2,[[0,11],[1,[9,13]],[2,[7,11,15]],[4,11],[6,[3,11,19]],[7,[1,21]],[9,[[0,4],[16,4]]],[11,[1,21]],[12,[3,11,19]],[14,11],[16,[7,11,15]],[17,[9,13]],[18,11]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#DDR Dance Pod.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "dance_dance_revolution_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1658361380",
+		"name": "Deceptive",
+		"by": "Leonard Enos",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,12,24]],[1,[2,22]],[2,[4,12,20]],[3,[6,18]],[4,[8,12,16]],[6,[4,[10,3],20]],[7,[2,6,18,22]],[8,[0,4,[8,5],20,24]],[9,[2,6,18,22]],[10,[4,[10,3],20]],[12,[8,12,16]],[13,[6,18]],[14,[4,12,20]],[15,[2,22]],[16,[0,12,24]]]],[1,[[0,[1,23]],[1,[3,12,21]],[2,[5,19]],[3,[7,12,17]],[5,[9,12,15]],[7,[[11,2]]],[8,[[1,5],[15,5]]],[9,[[11,2]]],[11,[9,12,15]],[13,[7,12,17]],[14,[5,19]],[15,[3,12,21]],[16,[1,23]]]],[2,[[1,[0,24]],[2,[2,12,22]],[3,[4,20]],[4,[6,12,18]],[5,[8,16]],[6,[10,14]],[8,[[2,4],[11,2],[16,4]]],[10,[10,14]],[11,[8,16]],[12,[6,12,18]],[13,[4,20]],[14,[2,12,22]],[15,[0,24]]]],[3,[[3,12],[5,12],[7,12],[8,[[3,3],[17,3]]],[9,12],[11,12],[13,12]]],[4,[[8,12]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Loose Ends.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "deceptive",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1658361380",
 		"name": "Deceptive",
 		"by": "Leonard Enos",
 		"tiles": 144,
@@ -2270,12 +3778,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Loose Ends.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "deceptive",
+		"filename": "deceptive_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1666676571",
+		"id": "2576010163",
+		"name": "Deep Well",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,6]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,3],[10,3]]],[8,[[0,3],[10,3]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[2,6]]]]],[1,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[2,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[3,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]],[4,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Deep Well.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "deep_well",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2576010163",
 		"name": "Deep Well",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -2283,12 +3804,51 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Deep Well.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "deep_well",
+		"filename": "deep_well_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "481134024",
+		"id": "2576010163",
+		"name": "Deep Well",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,6]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,3],[10,3]]],[8,[[0,3],[10,3]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[2,6]]]]],[1,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[2,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[3,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]],[4,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "deep_well_3",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "2576010163",
+		"name": "Deepwell",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,6]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,3],[10,3]]],[8,[[0,3],[10,3]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[2,6]]]]],[1,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[2,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[3,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]],[4,[[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/deepwell",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "deepwell",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "1982003605",
+		"name": "Default",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,[26,2]]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[[8,6]]],[4,[[8,6]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[8,6]]],[12,[[8,6]]]]],[2,[[4,[[10,4]]],[6,[[10,4]]],[8,[[10,4]]],[10,[[10,4]]]]],[3,[[6,[[12,2]]],[8,[[12,2]]]]],[4,[[7,13]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/default",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "default",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "745273906",
 		"name": "Design",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2301,7 +3861,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "1177843183",
+		"id": "3347355407",
 		"name": "Design 10",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2314,7 +3874,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "2685039141",
+		"id": "193081203",
 		"name": "Design 11",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2327,7 +3887,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "2625106760",
+		"id": "3852139350",
 		"name": "Design 12",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2340,7 +3900,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "1316105633",
+		"id": "2469401483",
 		"name": "Design 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2353,7 +3913,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "3102151701",
+		"id": "1198805425",
 		"name": "Design 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2366,7 +3926,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "2005171541",
+		"id": "2838738101",
 		"name": "Design 4",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2379,7 +3939,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "3844894403",
+		"id": "2730080863",
 		"name": "Design 5",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2392,7 +3952,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "3474851692",
+		"id": "2154460746",
 		"name": "Design 6",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2405,7 +3965,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "3644724842",
+		"id": "2868340680",
 		"name": "Design 7",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2418,7 +3978,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "377055413",
+		"id": "3115628803",
 		"name": "Design 8",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2431,7 +3991,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "3012543672",
+		"id": "2864848114",
 		"name": "Design 9",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2444,7 +4004,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "2634343130",
+		"id": "4136190174",
 		"name": "Deux Chevaux",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -2457,7 +4017,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3859638056",
+		"id": "4136190174",
+		"name": "Deux Chevaux",
+		"by": "Marc Lesselberg",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,2],[8,2],13,17]],[2,[0,4,7,13,17]],[4,[3,7,13,17]],[6,[3,7,13,17]],[8,[2,7,13,17]],[10,[1,7,[14,2]]],[12,[[0,3],[8,2],15]]]],[1,[[0,[[1,2],[8,2],13,17]],[2,[0,4,7,13,17]],[4,[3,7,13,17]],[6,[3,7,13,17]],[8,[2,7,13,17]],[10,[1,7,[14,2]]],[12,[[0,3],[8,2],15]]]],[2,[[0,[[1,2],[8,2],13,17]],[2,[0,4,7,13,17]],[4,[3,7,13,17]],[6,[3,7,13,17]],[8,[2,7,13,17]],[10,[1,7,[14,2]]],[12,[[0,3],[8,2],15]]]],[3,[[0,[[1,2],[8,2],13,17]],[2,[0,4,7,13,17]],[4,[3,7,13,17]],[6,[3,7,13,17]],[8,[2,7,13,17]],[10,[1,7,[14,2]]],[12,[[0,3],[8,2],15]]]],[4,[[0,[[8,2]]],[2,7],[4,7],[6,7],[8,7],[10,7],[12,[[0,3],[8,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#2 CV.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "deux_chevaux_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "1754629418",
 		"name": "Diagonal Checkered Layout",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -2470,7 +4043,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2216269037",
+		"id": "1754629418",
+		"name": "Diagonal Checkered Layout",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[7,11,15,19]],[2,[0,5,9,13,17,21,26]],[4,[7,11,15,19]],[5,[0,26]],[6,[5,9,13,17,21]],[8,[0,7,11,15,19,26]],[10,[5,9,13,17,21]],[11,[0,26]],[12,[7,11,15,19]],[14,[0,5,9,13,17,21,26]]]],[1,[[1,[6,10,14,18]],[3,[0,8,12,16,20,26]],[5,[6,10,14,18]],[6,[0,26]],[7,[8,12,16,20]],[9,[0,6,10,14,18,26]],[11,[8,12,16,20]],[12,[0,26]],[13,[6,10,14,18]]]],[2,[[2,[9,13,17]],[4,[0,7,11,15,19,26]],[6,[9,13,17]],[7,[0,26]],[8,[7,11,15,19]],[10,[0,9,13,17,26]],[12,[7,11,15,19]],[13,[0,26]]]],[3,[[3,[8,12,16]],[5,[0,10,14,18,26]],[7,[8,12,16]],[8,[0,26]],[9,[10,14,18]],[11,[0,8,12,16,26]],[14,[0,26]]]],[4,[[4,[11,15]],[6,[9,13,17]],[8,[11,15]],[10,[9,13,17]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Checkered Layout.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "diagonal_checkered_layout_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3525155109",
+		"name": "Diamond",
+		"by": "Alexis Bonvin",
+		"tiles": 140,
+		"data": "[[0,[[0,[[8,2]]],[2,[[6,4]]],[4,[[4,6]]],[6,[[2,8]]],[8,[[0,10]]],[10,[[0,10]]],[12,[[2,8]]],[14,[[4,6]]],[16,[[6,4]]],[18,[[8,2]]]]],[1,[[2,[[8,2]]],[4,[[6,4]]],[6,[[4,6]]],[8,[[2,8]]],[10,[[2,8]]],[12,[[4,6]]],[14,[[6,4]]],[16,[[8,2]]]]],[2,[[4,[[8,2]]],[6,[[6,4]]],[8,[[4,6]]],[10,[[4,6]]],[12,[[6,4]]],[14,[[8,2]]]]],[3,[[6,[[8,2]]],[8,[[6,4]]],[10,[[6,4]]],[12,[[8,2]]]]],[4,[[8,[[8,2]]],[10,[[8,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Diamond.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "diamond",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3525155109",
 		"name": "Diamond",
 		"by": "Alexis Bonvin",
 		"tiles": 140,
@@ -2478,12 +4077,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Diamond.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "diamond",
+		"filename": "diamond_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "644423731",
+		"id": "4043514211",
 		"name": "Diamonds",
 		"by": "Mary M",
 		"tiles": 144,
@@ -2496,7 +4095,7 @@ export const data = [
 		"group": "My Kyodai Mahjongg"
 	},
 	{
-		"id": "2785231447",
+		"id": "3520457313",
 		"name": "Diamonds",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2509,7 +4108,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3780501818",
+		"id": "3520457313",
+		"name": "Diamonds",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,8],[2,[[6,3]]],[4,[[4,5]]],[6,[[2,7]]],[8,[[0,9]]],[10,[[2,7]]],[12,[[4,5]]],[14,[[6,3]]],[16,8]]],[1,[[0,8],[2,[[6,3]]],[4,[[4,5]]],[6,[[2,7]]],[8,[[0,9]]],[10,[[2,7]]],[12,[[4,5]]],[14,[[6,3]]],[16,8]]],[2,[[2,8],[4,[[6,3]]],[6,[[4,5]]],[8,[[2,7]]],[10,[[4,5]]],[12,[[6,3]]],[14,8]]],[3,[[2,8],[4,[[6,3]]],[6,[[4,5]]],[8,[[2,6]]],[10,[[4,5]]],[12,[[6,3]]],[14,8]]],[4,[[4,8],[6,[[6,3]]],[8,[[4,5]]],[10,[[6,3]]],[12,8]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaycards.zip#Diamonds.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "diamonds_3",
+		"path": "phantagia/eplayouts/eplaycards",
+		"group": "Phantagia - Package A - Cards"
+	},
+	{
+		"id": "1593763508",
 		"name": "Diamonds Are A Girls Best Friend",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -2522,7 +4134,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1790252771",
+		"id": "887863144",
+		"name": "Difficult",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,5]]],[1,[[1,2],[17,2]]],[2,[[5,6]]],[3,[[1,2],[17,2]]],[4,[[6,5]]],[5,[[2,2],[16,2]]],[6,[0,[6,5],20]],[7,[[2,2],[16,2]]],[8,[[6,5]]],[9,[[1,2],[17,2]]],[10,[[5,6]]],[11,[[1,2],[17,2]]],[12,[[6,5]]]]],[1,[[0,[7,13]],[1,[[9,2]]],[2,[[2,3],[14,3]]],[3,[[8,3]]],[4,[[3,2],[15,2]]],[5,[[7,4]]],[6,[[3,2],[15,2]]],[7,[[7,4]]],[8,[[3,2],[15,2]]],[9,[[8,3]]],[10,[[2,3],[14,3]]],[11,[[9,2]]],[12,[7,13]]]],[2,[[4,[[5,6]]],[6,[[4,7]]],[8,[[5,6]]]]],[3,[[5,[[7,4]]],[6,[5,15]],[7,[[7,4]]]]],[4,[[6,[[8,3]]]]],[5,[[6,[[9,2]]]]],[6,[[6,10]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "difficult",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "4116962659",
 		"name": "Dog",
 		"by": "Tsubassa Kurenai",
 		"tiles": 124,
@@ -2535,7 +4160,33 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "807452199",
+		"id": "3143232112",
+		"name": "Dog",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,5]]],[2,[[2,13]]],[4,[[0,3],[8,2],14,[18,2],[24,3]]],[6,[[0,3],[8,7],[24,3]]],[8,[[2,2],[10,2],[16,2],[24,2]]],[10,[[2,2],[10,5],[24,2]]],[12,14],[14,[[12,2]]]]],[1,[[0,[[10,5]]],[2,[[3,2],[10,5],[23,2]]],[3,[8,20]],[4,[[1,2],10,14,18,[25,2]]],[5,[8,20]],[6,[[1,2],[10,5],[25,2]]],[8,[3,[10,2],[16,2],25]],[10,[3,[10,5],25]]]],[2,[[0,[[13,2]]],[2,[4,[10,5],24]],[4,[2,[8,2],14,[18,2],26]],[6,[2,[10,5],26]],[8,[11,17]],[10,[[11,4]]]]],[3,[[2,[[11,4]]],[4,[9,19]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/dog",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "dog_2",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "551179349",
+		"name": "Dollar",
+		"by": "Patrick Becker",
+		"tiles": 128,
+		"data": "[[0,[[0,[7,11]],[2,[[4,7]]],[3,[2,18]],[4,[0,[4,7]]],[5,2],[6,[0,7,11]],[7,2],[8,[0,[4,6]]],[9,[2,16]],[10,[[4,6],18]],[11,16],[12,[7,11,18]],[13,16],[14,[[2,7],18]],[15,[0,16]],[16,[[2,7]]],[18,[7,11]]]],[1,[[0,[7,11]],[2,[[4,7]]],[3,[2,18]],[4,[0,[4,7]]],[5,2],[6,[0,7,11]],[7,2],[8,[0,[4,6]]],[9,[2,16]],[10,[[4,6],18]],[11,16],[12,[7,11,18]],[13,16],[14,[[2,7],18]],[15,[0,16]],[16,[[2,7]]],[18,[7,11]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#DOLLARS5.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "dollar",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "36792219",
 		"name": "Dollar",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -2548,7 +4199,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1054054025",
+		"id": "36792219",
+		"name": "Dollar",
+		"by": "Marc Lesselberg",
+		"tiles": 144,
+		"data": "[[0,[[0,[12,18]],[2,[[2,14]]],[3,[0,30]],[4,[2,12,18]],[5,0],[6,[[2,14]]],[7,30],[8,[12,18,[26,2]]],[9,30],[10,[12,18,[26,2]]],[11,[0,30]],[12,[[2,14]]],[14,[12,18]]]],[1,[[0,[12,18]],[2,[[2,14]]],[3,[0,30]],[4,[2,12,18]],[5,0],[6,[[2,14]]],[7,30],[8,[12,18,[26,2]]],[9,30],[10,[12,18,[26,2]]],[11,[0,30]],[12,[[2,14]]],[14,[12,18]]]],[2,[[0,[12,18]],[2,[12,18]],[4,[12,18]],[6,[12,18]],[8,[12,18]],[10,[12,18]],[12,[12,18]],[14,[12,18]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Dollar.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "dollar_3",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "551179349",
 		"name": "Dollar",
 		"by": "Patrick Becker",
 		"tiles": 128,
@@ -2556,12 +4220,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#DOLLARS5.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "dollar",
+		"filename": "dollar_4",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "4020190765",
+		"id": "1901457387",
 		"name": "Domino",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -2574,7 +4238,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2881230726",
+		"id": "1901457387",
+		"name": "Domino",
+		"by": "Marc Lesselberg",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,17]]],[2,[0,16,32]],[3,[[3,2],[8,2],13,19,[22,2],[27,2]]],[4,[0,16,32]],[6,[0,[3,2],[8,2],13,16,19,[22,2],[27,2],32]],[8,[0,16,32]],[9,[[3,2],[8,2],13,19,[22,2],[27,2]]],[10,[0,16,32]],[12,[[0,17]]]]],[1,[[2,16],[3,[[3,2],[8,2],13,19,[22,2],[27,2]]],[4,16],[6,[[3,2],[8,2],13,16,19,[22,2],[27,2]]],[8,16],[9,[[3,2],[8,2],13,19,[22,2],[27,2]]],[10,16]]],[2,[[3,[[3,2],[8,2],13,19,[22,2],[27,2]]],[6,[[3,2],[8,2],13,19,[22,2],[27,2]]],[9,[[3,2],[8,2],13,19,[22,2],[27,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Domino.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "domino_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "539379754",
 		"name": "Don't Tread On Me",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -2587,20 +4264,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "659377307",
-		"name": "Dong",
-		"by": "Nanami Kamimura",
-		"tiles": 144,
-		"data": "[[0,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[1,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[2,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[3,[[0,8],[1,[0,16]],[4,[2,14]],[10,[2,14]],[16,[1,15]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Four Winds Dong.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
-		"solvable": true,
-		"filename": "dong_2",
-		"path": "mykyodai",
-		"group": "MyKyodai"
-	},
-	{
-		"id": "3567029120",
+		"id": "949525326",
 		"name": "Dong",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2613,7 +4277,46 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "2164140682",
+		"id": "3947254693",
+		"name": "Dong",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[1,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[2,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[3,[[0,8],[1,[0,16]],[4,[2,14]],[10,[2,14]],[16,[1,15]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Dong.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "dong_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3947254693",
+		"name": "Dong",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[1,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[2,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[3,[[0,8],[1,[0,16]],[4,[2,14]],[10,[2,14]],[16,[1,15]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Four Winds Dong.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "dong_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3947254693",
+		"name": "Dong",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[1,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[2,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[2,7]]],[6,[2,8,14]],[7,[[4,2],[10,2]]],[8,[2,8,14]],[10,[[2,7]]],[12,[[6,3]]],[13,[4,12]],[14,8],[15,[3,13]],[16,[1,8,15]]]],[3,[[0,8],[1,[0,16]],[4,[2,14]],[10,[2,14]],[16,[1,15]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Dong.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "dong_4",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "562513980",
 		"name": "Dot 1",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2626,7 +4329,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "608951243",
+		"id": "3337046881",
 		"name": "Dots 2",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2639,7 +4342,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3300224407",
+		"id": "3589290135",
 		"name": "Dots 3",
 		"by": "Tsubassa Kurenai",
 		"tiles": 108,
@@ -2652,7 +4355,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "761842603",
+		"id": "3050020863",
 		"name": "Dots 4",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2665,7 +4368,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "198994157",
+		"id": "4171281685",
 		"name": "Dots 5",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2678,7 +4381,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1649803891",
+		"id": "2736616067",
 		"name": "Dots 6",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2691,7 +4394,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "2387719831",
+		"id": "3753953255",
 		"name": "Dots 7",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -2704,7 +4407,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3710825243",
+		"id": "2442299363",
 		"name": "Dots 8",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2717,7 +4420,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1531868083",
+		"id": "1106061515",
 		"name": "Dots 9",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2730,7 +4433,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "682688915",
+		"id": "2921614339",
 		"name": "Double Pyramid",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -2743,7 +4446,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2755498108",
+		"id": "2921614339",
+		"name": "Double Pyramid",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]]]],[1,[[1,[[1,5],[13,5]]],[3,[[1,5],[13,5]]],[4,11],[5,[[1,5],[13,5]]],[6,11],[7,[[1,5],[13,5]]],[9,[[1,5],[13,5]]]]],[2,[[3,[[3,3],[15,3]]],[5,[[3,3],[15,3]]],[7,[[3,3],[15,3]]]]],[3,[[5,[5,17]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Double Pyramid Temple.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "double_pyramid_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "4121254526",
 		"name": "Draco",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2756,7 +4472,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2364651881",
+		"id": "4121254526",
+		"name": "Draco",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,7]]],[1,[[2,2],[20,2]]],[2,[[6,7]]],[3,[0,4,20,24]],[4,[[8,5]]],[5,[[0,2],6,18,[22,2]]],[6,[4,[8,5],20]],[7,[[0,2],6,18,[22,2]]],[8,[4,[8,5],20]],[9,[[0,2],6,18,[22,2]]],[10,[[8,5]]],[11,[0,4,20,24]],[12,[[6,7]]],[13,[[2,2],[20,2]]],[14,[[6,7]]]]],[1,[[0,[[10,3]]],[1,[[6,2],[16,2]]],[2,[[10,3]]],[4,[[10,3]]],[6,[[8,5]]],[7,[1,[4,2],[18,2],23]],[8,[[8,5]]],[10,[[10,3]]],[12,[[10,3]]],[13,[[6,2],[16,2]]],[14,[[10,3]]]]],[2,[[1,[[11,2]]],[4,12],[6,[[10,3]]],[8,[[10,3]]],[10,12],[13,[[11,2]]]]],[3,[[6,12],[7,[10,14]],[8,12]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Draco.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "draco_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "753520557",
 		"name": "Dragon",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2769,7 +4498,20 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "3202963455",
+		"id": "3298243145",
+		"name": "DSF",
+		"by": "Patrick Becker",
+		"tiles": 88,
+		"data": "[[0,[[0,9],[1,[[5,2],15]],[2,[13,17]],[3,[[3,2],11,19]],[5,[[1,2],10,20,29]],[6,27],[7,[[0,2],11,19,25]],[8,[13,17,27]],[9,[[2,2],15,[23,2]]],[11,[[4,2],[21,2]]],[13,[[5,2],[20,2]]],[15,[[4,2],[19,2]]],[17,[[3,2],19]]]],[1,[[0,9],[1,[[5,2],15]],[2,[13,17]],[3,[[3,2],11,19]],[5,[[1,2],10,20,29]],[6,27],[7,[[0,2],11,19,25]],[8,[13,17,27]],[9,[[2,2],15,[23,2]]],[11,[[4,2],[21,2]]],[13,[[5,2],[20,2]]],[15,[[4,2],[19,2]]],[17,[[3,2],19]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#DSF.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "dsf",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3298243145",
 		"name": "DSF",
 		"by": "Patrick Becker",
 		"tiles": 88,
@@ -2777,12 +4519,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#DSF-TEST.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "dsf",
+		"filename": "dsf_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1225287538",
+		"id": "1953902364",
+		"name": "Dude",
+		"by": "Bolli",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,19]],[1,[[7,3],17,27]],[2,[[19,4]]],[3,[[4,2],[11,4]]],[4,[2,9,20,[24,3]]],[5,[0,7,[12,4],22,30]],[6,[5,10,20,24]],[7,[15,26]],[8,[4,10,20]],[9,[15,27]],[10,[[9,3],[17,3]]],[12,[[9,3],[17,3]]],[13,15],[14,[9,21]],[16,[[10,6]]]]],[1,[[0,[5,19]],[1,[[7,3],17]],[3,[[11,4]]],[4,[9,20]],[5,[7,[12,4],22]],[6,[5,10,20,24]],[7,[15,26]],[8,[4,10,20]],[9,[15,27]],[10,[[9,3],[17,3]]],[12,[[9,3],[17,3]]],[13,15],[14,[9,21]],[16,[[10,6]]]]],[2,[[5,[[12,4]]],[6,[10,20]],[7,15],[8,[10,20]],[9,15],[10,[[9,3],[17,3]]],[12,[[9,3],[17,3]]],[13,15],[14,[9,21]],[16,[[10,6]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Dude.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "dude",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1953902364",
 		"name": "Dude",
 		"by": "Bolli",
 		"tiles": 144,
@@ -2790,12 +4545,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Dude.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "dude",
+		"filename": "dude_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "323594937",
+		"id": "4065367751",
 		"name": "Eagle",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -2808,7 +4563,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1938836959",
+		"id": "4065367751",
+		"name": "Eagle",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,3]]],[1,18],[2,[[12,2]]],[3,[[4,2],[20,2]]],[4,[2,[8,6],24]],[5,[[4,2],[20,2]]],[6,[2,[8,6],24]],[7,[[4,2],[20,2]]],[8,[[0,2],[12,2],[24,2]]],[9,[4,22]],[10,[[0,2],[12,2],[24,2]]],[12,[0,10,13,16,26]],[14,[8,11,15,18]]]],[1,[[0,[[12,3]]],[2,[[12,2]]],[4,[[2,4],[12,2],[18,4]]],[6,[[2,4],[12,2],[18,4]]],[8,[1,[12,2],25]],[9,[4,22]],[10,[1,[12,2],25]],[12,[10,16]],[14,[8,11,15,18]]]],[2,[[0,[[12,3]]],[3,[[12,2]]],[4,[[3,3],[19,3]]],[5,[[12,2]]],[6,[[3,3],[19,3]]],[7,[[12,2]]],[9,[1,[12,2],25]],[14,[8,11,15,18]]]],[3,[[0,14],[3,13],[4,[[4,2],[20,2]]],[5,13],[6,[[4,2],[20,2]]],[7,13],[9,13]]],[4,[[4,[5,21]],[6,[5,21]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadeagle.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "eagle_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3676957603",
 		"name": "Earth",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2821,7 +4589,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2450546309",
+		"id": "3676957603",
+		"name": "Earth",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,5]]],[2,[[2,7]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[2,7]]],[16,[[4,5]]]]],[1,[[0,8],[2,8],[3,[[4,2],[10,2]]],[4,8],[6,8],[8,[[4,5]]],[10,[2,14]],[12,[2,14]],[14,[2,14]],[16,[[4,5]]]]],[2,[[0,8],[2,8],[3,[[4,2],[10,2]]],[4,8],[6,8],[8,[[4,5]]],[10,[2,14]],[12,[2,14]],[14,[2,14]],[16,[[4,5]]]]],[3,[[0,8],[2,8],[3,[[4,2],[10,2]]],[4,8],[6,8],[8,[[4,5]]],[10,[2,14]],[12,[2,14]],[14,[2,14]],[16,[[4,5]]]]],[4,[[3,[[6,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Earth.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "earth_4",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "1273379967",
 		"name": "Earth 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2834,7 +4615,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3234096449",
+		"id": "1273379967",
+		"name": "Earth 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,2],[10,2],[18,2]]],[4,[0,[10,2],22]],[6,[[0,12]]],[8,[[0,12]]],[10,[0,[10,2],22]],[12,[[2,2],[10,2],[18,2]]],[14,[[6,6]]]]],[1,[[0,[[6,6]]],[2,[[2,2],[10,2],[18,2]]],[4,[0,[10,2],22]],[6,[[0,12]]],[8,[[0,12]]],[10,[0,[10,2],22]],[12,[[2,2],[10,2],[18,2]]],[14,[[6,6]]]]],[2,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[0,[10,2],22]],[8,[0,[10,2],22]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Earth 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "earth_2_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "4090406879",
 		"name": "Earth 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -2847,7 +4641,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3726840548",
+		"id": "4090406879",
+		"name": "Earth 3",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[[0,12]]],[8,[[0,12]]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]],[1,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[[0,12]]],[8,[[0,12]]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]],[2,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[[0,12]]],[8,[[0,12]]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Earth 3.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "earth_3_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "1982003605",
+		"name": "Easy",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,[26,2]]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[[8,6]]],[4,[[8,6]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[8,6]]],[12,[[8,6]]]]],[2,[[4,[[10,4]]],[6,[[10,4]]],[8,[[10,4]]],[10,[[10,4]]]]],[3,[[6,[[12,2]]],[8,[[12,2]]]]],[4,[[7,13]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "easy",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "3368092546",
 		"name": "Easy Rectangles",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -2860,7 +4680,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "3926196217",
+		"id": "1125761793",
 		"name": "Eight Pyramids",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -2873,12 +4693,12 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "277361291",
+		"id": "2085580587",
 		"name": "Eight Stacks",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
 		"data": "[[0,[[0,[1,7,13,19]],[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]],[14,[1,7,13,19]]]],[1,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[2,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[3,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[4,[[4,[1,7,13,19]],[10,[1,7,13,19]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Eight Stacks.lay",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Eight Stacks of Tiles.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
 		"filename": "eight_stacks",
@@ -2886,7 +4706,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2477520197",
+		"id": "2085580587",
+		"name": "Eight Stacks",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[1,7,13,19]],[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]],[14,[1,7,13,19]]]],[1,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[2,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[3,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[4,[[4,[1,7,13,19]],[10,[1,7,13,19]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Eight Stacks.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "eight_stacks_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2085580587",
+		"name": "Eight Stacks",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[1,7,13,19]],[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]],[14,[1,7,13,19]]]],[1,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[2,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[3,[[3,[[0,2],[6,2],[12,2],[18,2]]],[5,[[0,2],[6,2],[12,2],[18,2]]],[9,[[0,2],[6,2],[12,2],[18,2]]],[11,[[0,2],[6,2],[12,2],[18,2]]]]],[4,[[4,[1,7,13,19]],[10,[1,7,13,19]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Eight Stacks of Tiles.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "eight_stacks_3",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3098326257",
+		"name": "Electronic Arts",
+		"by": "Patrick Becker",
+		"tiles": 124,
+		"data": "[[0,[[0,[[0,5],[15,2],28]],[1,[13,19]],[2,[[0,5],[15,2],[27,2]]],[3,[[11,2],[19,2]]],[4,[[0,5],[15,2],[26,3]]],[5,[[11,2],[19,2]]],[6,[[0,5],[15,2],[25,4]]],[7,[13,19]],[8,[[0,5],[15,2],[24,5]]]]],[1,[[0,[[0,5],[15,2],28]],[1,[13,19]],[2,[[0,5],[15,2],[27,2]]],[3,[[11,2],[19,2]]],[4,[[0,5],[15,2],[26,3]]],[5,[[11,2],[19,2]]],[6,[[0,5],[15,2],[25,4]]],[7,[13,19]],[8,[[0,5],[15,2],[24,5]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#ELECTRONIC ARTS.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "electronic_arts",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3098326257",
 		"name": "Electronic Arts",
 		"by": "Patrick Becker",
 		"tiles": 124,
@@ -2894,12 +4753,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#ELECTRONIC ARTS.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "electronic_arts",
+		"filename": "electronic_arts_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "179167734",
+		"id": "2562392856",
 		"name": "Elephant",
 		"by": "Vivian Bushell",
 		"tiles": 144,
@@ -2912,7 +4771,7 @@ export const data = [
 		"group": "Phantagia - Submitted - Bushell"
 	},
 	{
-		"id": "573464786",
+		"id": "617914014",
 		"name": "Eleven Pyramids",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -2925,7 +4784,20 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "37028933",
+		"id": "801192749",
+		"name": "Empty Pyramids",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,19]],[2,[2,[10,2],[18,2],28]],[4,[2,9,13,17,21,28]],[6,[[1,2],8,[14,2],22,[27,2]]],[8,[0,4,7,15,23,26,30]],[10,[[1,2],8,[14,2],22,[27,2]]],[12,[2,9,13,17,21,28]],[14,[2,[10,2],[18,2],28]],[16,[11,19]]]],[1,[[0,[12,18]],[2,[[11,2],[17,2]]],[4,[[10,6]]],[6,[2,9,[13,3],21,28]],[8,[[1,2],8,[14,2],22,[27,2]]],[10,[2,9,[13,3],21,28]],[12,[[10,6]]],[14,[[11,2],[17,2]]],[16,[12,18]]]],[2,[[0,[13,17]],[2,[[14,2]]],[4,[11,15,19]],[6,[[10,2],[18,2]]],[8,[2,9,[13,3],21,28]],[10,[[10,2],[18,2]]],[12,[11,15,19]],[14,[[14,2]]],[16,[13,17]]]],[3,[[0,[[14,2]]],[2,15],[6,[11,19]],[8,[[10,2],[18,2]]],[10,[11,19]],[14,15],[16,[[14,2]]]]],[4,[[0,15],[8,[11,19]],[16,15]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Empty Pyramids.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "empty_pyramids",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "801192749",
 		"name": "Empty Pyramids",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -2933,12 +4805,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Empty Pyramids.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "empty_pyramids",
+		"filename": "empty_pyramids_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2579366051",
+		"id": "4283949265",
 		"name": "Enterprise",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -2951,7 +4823,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1764412625",
+		"id": "4283949265",
+		"name": "Enterprise",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,10]]],[2,[[0,16]]],[4,16],[6,14],[7,12],[8,26],[9,[[0,9],24,28]],[10,26]]],[1,[[0,[[7,9]]],[2,[[2,14]]],[4,16],[6,14],[7,12],[9,[[2,8],26]]]],[2,[[0,[[9,7]]],[2,[[3,13]]],[4,16],[6,14],[7,12],[9,[[4,7],26]]]],[3,[[0,[[10,5]]],[2,[[4,11]]],[4,16],[6,14],[7,12],[9,[[6,5]]]]],[4,[[2,[[7,8]]],[9,[[8,4]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadenterprise.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "enterprise_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1204472365",
 		"name": "Envelope",
 		"by": "Marc Lesselberg",
 		"tiles": 132,
@@ -2964,7 +4849,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "628954939",
+		"id": "1204472365",
+		"name": "Envelope",
+		"by": "Marc Lesselberg",
+		"tiles": 132,
+		"data": "[[0,[[0,[[0,13]]],[2,[[0,2],[22,2]]],[3,[[9,4]]],[4,[0,4,20,24]],[5,[[10,3]]],[6,[0,6,18,24]],[8,[0,8,16,24]],[10,[0,10,14,24]],[11,[8,12,16]],[12,[0,6,18,24]],[13,[4,20]],[14,[[0,2],[22,2]]],[16,[[0,13]]]]],[1,[[0,[[0,13]]],[2,[[0,2],[22,2]]],[3,[[9,4]]],[4,[0,4,20,24]],[5,[[10,3]]],[6,[0,6,18,24]],[8,[0,8,16,24]],[10,[0,10,14,24]],[11,[8,12,16]],[12,[0,6,18,24]],[13,[4,20]],[14,[[0,2],[22,2]]],[16,[[0,13]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Envelope.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "envelope_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "1192125567",
 		"name": "ES-Small",
 		"by": "MyKyodai",
 		"tiles": 44,
@@ -2977,7 +4875,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "355717067",
+		"id": "3585724525",
 		"name": "Euro",
 		"by": "Patrick Becker",
 		"tiles": 108,
@@ -2985,12 +4883,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Euro.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "euro_2",
+		"filename": "euro",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2600787983",
+		"id": "2094861327",
 		"name": "Euro",
 		"by": "Patrick Becker",
 		"tiles": 116,
@@ -2998,12 +4896,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Euro.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "euro",
+		"filename": "euro_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2024490441",
+		"id": "2499268487",
 		"name": "Explosion",
 		"by": "Alexey Charkov",
 		"tiles": 138,
@@ -3016,7 +4914,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2685868134",
+		"id": "2499268487",
+		"name": "Explosion",
+		"by": "Alexey Charkov",
+		"tiles": 138,
+		"data": "[[0,[[0,[3,8,[13,3],22,27]],[1,[1,5,25,29]],[2,[3,8,[12,4],22,27]],[3,[1,5,25,29]],[4,[3,[11,5],27]],[5,[9,21]],[6,[7,11,19,23]],[7,[[0,3],9,15,21,[26,3]]],[8,[7,11,19,23]],[9,[9,21]],[10,[3,[11,5],27]],[11,[1,5,25,29]],[12,[3,8,[12,4],22,27]],[13,[1,5,25,29]],[14,[3,8,[13,3],22,27]]]],[1,[[0,15],[1,[3,8,22,27]],[2,[1,5,[13,3],25,29]],[3,[3,27]],[4,15],[6,[9,21]],[7,[[1,2],7,11,15,19,23,[27,2]]],[8,[9,21]],[10,15],[11,[3,27]],[12,[1,5,[13,3],25,29]],[13,[3,8,22,27]],[14,15]]],[2,[[2,[3,15,27]],[7,[2,9,21,28]],[12,[3,15,27]]]],[3,[[2,[3,27]],[12,[3,27]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadexplosion.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "explosion_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "254190352",
 		"name": "Eye",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -3029,7 +4940,7 @@ export const data = [
 		"group": "OGS"
 	},
 	{
-		"id": "2900772765",
+		"id": "1500117839",
 		"name": "Eyeball",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3042,7 +4953,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "333542696",
+		"id": "1821841778",
 		"name": "F-15 Eagle",
 		"by": "Dr. Steven M. Flint",
 		"tiles": 144,
@@ -3055,7 +4966,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1421995833",
+		"id": "2690364653",
 		"name": "Fantastic Four",
 		"by": "Carolyne Smythe",
 		"tiles": 84,
@@ -3068,7 +4979,20 @@ export const data = [
 		"group": "Miss Fantastic"
 	},
 	{
-		"id": "2683869356",
+		"id": "392868342",
+		"name": "Farandole",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[12,3],[22,2]]],[1,[2,[8,2],[18,2],26]],[2,[5,23]],[3,[1,27]],[4,[[10,2],[16,2]]],[5,[1,[6,2],[20,2],27]],[6,[4,24]],[7,[[0,2],[9,6],[26,2]]],[8,[4,24]],[9,[1,[6,2],[20,2],27]],[10,[[10,2],[16,2]]],[11,[1,27]],[12,[5,23]],[13,[2,[8,2],[18,2],26]],[14,[[4,2],[12,3],[22,2]]]]],[1,[[0,[[4,2],[12,3],[22,2]]],[1,[2,[8,2],[18,2],26]],[3,[1,27]],[4,[[10,2],[16,2]]],[5,[1,[6,2],[20,2],27]],[6,[4,24]],[7,[[0,2],[11,4],[26,2]]],[8,[4,24]],[9,[1,[6,2],[20,2],27]],[10,[[10,2],[16,2]]],[11,[1,27]],[13,[2,[8,2],[18,2],26]],[14,[[4,2],[12,3],[22,2]]]]],[2,[[4,[[10,2],[16,2]]],[5,[8,20]],[7,[[13,2]]],[9,[8,20]],[10,[[10,2],[16,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Farandole.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "farandole",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "392868342",
 		"name": "Farandole",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -3076,25 +5000,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Farandole.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "farandole",
+		"filename": "farandole_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "828570775",
-		"name": "Fence",
-		"by": "Monica Ottosson",
+		"id": "392868342",
+		"name": "Farandole",
+		"by": "Unknown",
 		"tiles": 144,
-		"data": "[[0,[[0,[2,6,10,14,18,22]],[2,[0,4,8,12,16,20]],[4,[2,6,10,14,18,22]],[6,[0,4,8,12,16,20]],[8,[2,6,10,14,18,22]],[10,[0,4,8,12,16,20]],[12,[2,6,10,14,18,22]],[14,[0,4,8,12,16,20]]]],[1,[[0,[2,6,10,14,18,22]],[2,[0,4,8,12,16,20]],[4,[2,6,10,14,18,22]],[6,[0,4,8,12,16,20]],[8,[2,6,10,14,18,22]],[10,[0,4,8,12,16,20]],[12,[2,6,10,14,18,22]],[14,[0,4,8,12,16,20]]]],[2,[[0,[2,6,10,14,18,22]],[2,[0,4,8,12,16,20]],[4,[2,6,10,14,18,22]],[6,[0,4,8,12,16,20]],[8,[2,6,10,14,18,22]],[10,[0,4,8,12,16,20]],[12,[2,6,10,14,18,22]],[14,[0,4,8,12,16,20]]]]]",
-		"source": "https://web.archive.org/web/20190804145426/http://www.angelfire.com/mo2/ottosson/layouts/Fence.zip#Fence.lay",
-		"site": "https://web.archive.org/web/20190804145400/http://www.angelfire.com/mo2/ottosson/layouts.html",
+		"data": "[[0,[[0,[[4,2],[12,3],[22,2]]],[1,[2,[8,2],[18,2],26]],[2,[5,23]],[3,[1,27]],[4,[[10,2],[16,2]]],[5,[1,[6,2],[20,2],27]],[6,[4,24]],[7,[[0,2],[9,6],[26,2]]],[8,[4,24]],[9,[1,[6,2],[20,2],27]],[10,[[10,2],[16,2]]],[11,[1,27]],[12,[5,23]],[13,[2,[8,2],[18,2],26]],[14,[[4,2],[12,3],[22,2]]]]],[1,[[0,[[4,2],[12,3],[22,2]]],[1,[2,[8,2],[18,2],26]],[3,[1,27]],[4,[[10,2],[16,2]]],[5,[1,[6,2],[20,2],27]],[6,[4,24]],[7,[[0,2],[11,4],[26,2]]],[8,[4,24]],[9,[1,[6,2],[20,2],27]],[10,[[10,2],[16,2]]],[11,[1,27]],[13,[2,[8,2],[18,2],26]],[14,[[4,2],[12,3],[22,2]]]]],[2,[[4,[[10,2],[16,2]]],[5,[8,20]],[7,[[13,2]]],[9,[8,20]],[10,[[10,2],[16,2]]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/farandole",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "fence",
-		"path": "ottosson/Fence",
-		"group": "Monika Ottosson"
+		"filename": "farandole_3",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
 	},
 	{
-		"id": "3140025415",
+		"id": "3041475913",
 		"name": "Fence",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -3102,12 +5026,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Fence.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "fence_2",
+		"filename": "fence",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2092159269",
+		"id": "579110545",
+		"name": "Fence",
+		"by": "Monica Ottosson",
+		"tiles": 144,
+		"data": "[[0,[[0,[2,6,10,14,18,22]],[2,[0,4,8,12,16,20]],[4,[2,6,10,14,18,22]],[6,[0,4,8,12,16,20]],[8,[2,6,10,14,18,22]],[10,[0,4,8,12,16,20]],[12,[2,6,10,14,18,22]],[14,[0,4,8,12,16,20]]]],[1,[[0,[2,6,10,14,18,22]],[2,[0,4,8,12,16,20]],[4,[2,6,10,14,18,22]],[6,[0,4,8,12,16,20]],[8,[2,6,10,14,18,22]],[10,[0,4,8,12,16,20]],[12,[2,6,10,14,18,22]],[14,[0,4,8,12,16,20]]]],[2,[[0,[2,6,10,14,18,22]],[2,[0,4,8,12,16,20]],[4,[2,6,10,14,18,22]],[6,[0,4,8,12,16,20]],[8,[2,6,10,14,18,22]],[10,[0,4,8,12,16,20]],[12,[2,6,10,14,18,22]],[14,[0,4,8,12,16,20]]]]]",
+		"source": "https://web.archive.org/web/20190804145426/http://www.angelfire.com/mo2/ottosson/layouts/Fence.zip#Fence.lay",
+		"site": "https://web.archive.org/web/20190804145400/http://www.angelfire.com/mo2/ottosson/layouts.html",
+		"solvable": true,
+		"filename": "fence_2",
+		"path": "ottosson/Fence",
+		"group": "Monika Ottosson"
+	},
+	{
+		"id": "2210853659",
+		"name": "Find Two Hided Words",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[1,[9,3],17,21,[24,3]]],[2,[1,9,13,17,21,24]],[3,26],[4,[1,9,13,17,21,24]],[6,[[1,3],[9,3],19,[24,3]]],[9,[1,5,[9,3],[17,3],[24,3]]],[11,[1,5,9,13,19,24]],[12,[3,11,26]],[13,[1,5,9,13,19,24]],[15,[1,5,9,13,19,[24,3]]]]],[1,[[0,[[0,2]]],[1,[10,24,28]],[2,[[0,2],8,[12,5]]],[3,[22,26]],[4,[[0,2],8,12]],[5,[[4,2],10,16,22,25,29]],[6,[0,13]],[7,[2,9,[18,2],26]],[8,[4,11,[14,2],23,28]],[10,[2,[6,2],16,21,25]],[11,[0,10,14,18,27]],[12,[[4,2],23]],[13,[1,8,12,[18,2],27]],[14,[[4,2],24]],[15,[10,13,18,29]],[16,[2,23,27]]]],[2,[[0,9],[1,12],[3,[1,9]],[6,[2,6]],[9,[5,10]],[14,3]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Hidden Words.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "find_two_hided_words",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2210853659",
 		"name": "Find Two Hided Words",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -3115,12 +5065,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Hidden Words.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "find_two_hided_words",
+		"filename": "find_two_hided_words_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2502465205",
+		"id": "1885652433",
+		"name": "Fish",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,9,[18,3]]],[1,[7,[14,2],24]],[2,[2,12,[18,3],26]],[3,[10,[14,2],24,28]],[4,[[2,2],8,12,[18,3],30]],[5,[6,10,[14,2],24,28]],[6,[[2,2],8,12,[18,3],26,30]],[7,[10,[14,2],24,28]],[8,[2,12,[18,3],26]],[9,[[14,2],24]],[10,[7,[18,3]]],[11,9],[12,[4,11]],[13,[2,6,28]],[14,[0,8,[16,2],26,30]],[15,[10,14,20,24]],[16,[12,22]]]],[1,[[1,7],[2,[[18,3]]],[3,[2,[14,2]]],[4,[12,[18,3]]],[5,[[2,2],[8,2],[14,2]]],[6,[12,[18,3]]],[7,[2,[14,2],24]],[8,[[18,3]]],[11,9],[12,4],[13,[2,6,28]],[14,[8,26]],[15,[10,14,20,24]],[16,[12,22]]]],[2,[[4,[[17,2]]],[5,[[11,3],21]],[6,[[17,2]]],[7,[[21,2]]],[12,4],[13,6],[14,[8,26]],[15,[10,24]],[16,[12,22]]]],[3,[[13,6],[14,[8,26]],[15,[10,24]]]],[4,[[14,8]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Fish.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "fish",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1885652433",
+		"name": "Fish",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,9,[18,3]]],[1,[7,[14,2],24]],[2,[2,12,[18,3],26]],[3,[10,[14,2],24,28]],[4,[[2,2],8,12,[18,3],30]],[5,[6,10,[14,2],24,28]],[6,[[2,2],8,12,[18,3],26,30]],[7,[10,[14,2],24,28]],[8,[2,12,[18,3],26]],[9,[[14,2],24]],[10,[7,[18,3]]],[11,9],[12,[4,11]],[13,[2,6,28]],[14,[0,8,[16,2],26,30]],[15,[10,14,20,24]],[16,[12,22]]]],[1,[[1,7],[2,[[18,3]]],[3,[2,[14,2]]],[4,[12,[18,3]]],[5,[[2,2],[8,2],[14,2]]],[6,[12,[18,3]]],[7,[2,[14,2],24]],[8,[[18,3]]],[11,9],[12,4],[13,[2,6,28]],[14,[8,26]],[15,[10,14,20,24]],[16,[12,22]]]],[2,[[4,[[17,2]]],[5,[[11,3],21]],[6,[[17,2]]],[7,[[21,2]]],[12,4],[13,6],[14,[8,26]],[15,[10,24]],[16,[12,22]]]],[3,[[13,6],[14,[8,26]],[15,[10,24]]]],[4,[[14,8]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Fish.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "fish_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3486618895",
 		"name": "Fish",
 		"by": "Vivian Bushell",
 		"tiles": 144,
@@ -3133,20 +5109,20 @@ export const data = [
 		"group": "Phantagia - Submitted - Bushell"
 	},
 	{
-		"id": "4100112157",
-		"name": "Fish",
-		"by": "Alexis Bonvin",
+		"id": "2173416522",
+		"name": "Fish Face",
+		"by": "Kyodai",
 		"tiles": 144,
-		"data": "[[0,[[0,[5,9,[18,3]]],[1,[7,[14,2],24]],[2,[2,12,[18,3],26]],[3,[10,[14,2],24,28]],[4,[[2,2],8,12,[18,3],30]],[5,[6,10,[14,2],24,28]],[6,[[2,2],8,12,[18,3],26,30]],[7,[10,[14,2],24,28]],[8,[2,12,[18,3],26]],[9,[[14,2],24]],[10,[7,[18,3]]],[11,9],[12,[4,11]],[13,[2,6,28]],[14,[0,8,[16,2],26,30]],[15,[10,14,20,24]],[16,[12,22]]]],[1,[[1,7],[2,[[18,3]]],[3,[2,[14,2]]],[4,[12,[18,3]]],[5,[[2,2],[8,2],[14,2]]],[6,[12,[18,3]]],[7,[2,[14,2],24]],[8,[[18,3]]],[11,9],[12,4],[13,[2,6,28]],[14,[8,26]],[15,[10,14,20,24]],[16,[12,22]]]],[2,[[4,[[17,2]]],[5,[[11,3],21]],[6,[[17,2]]],[7,[[21,2]]],[12,4],[13,6],[14,[8,26]],[15,[10,24]],[16,[12,22]]]],[3,[[13,6],[14,[8,26]],[15,[10,24]]]],[4,[[14,8]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Fish.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"data": "[[0,[[0,17],[1,15],[2,13],[4,[[10,4]]],[5,[8,18,31]],[6,[6,11,15,20,29]],[7,[4,9,17,22,27]],[8,[2,7,[12,2],19,24]],[9,[0,4,10,16,26]],[10,[2,7,[12,2],19,24]],[11,[4,9,17,22,27]],[12,[6,11,15,20,29]],[13,[8,18,31]],[14,[[10,4]]],[16,13],[17,15],[18,17]]],[1,[[1,15],[2,13],[4,[[10,4]]],[5,[8,18]],[6,[6,11,15,20,29]],[7,[4,9,17,22,27]],[8,[2,7,[12,2],19,24]],[9,[0,4,10,16,26]],[10,[2,7,[12,2],19,24]],[11,[4,9,17,22,27]],[12,[6,11,15,20,29]],[13,[8,18]],[14,[[10,4]]],[16,13],[17,15]]],[2,[[2,13],[4,[[10,4]]],[5,8],[6,[6,11,15]],[7,[9,17,27]],[8,[4,7]],[9,[2,[12,2],19,26]],[10,[4,7]],[11,[9,17,27]],[12,[6,11,15]],[13,8],[14,[[10,4]]],[16,13]]],[3,[[9,3]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Fish face.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
 		"solvable": true,
-		"filename": "fish",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "fish_face",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
 	},
 	{
-		"id": "1953985656",
+		"id": "2173416522",
 		"name": "Fish Face",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -3154,12 +5130,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Fish face.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "fish_face",
+		"filename": "fish_face_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2650335234",
+		"id": "2095480368",
+		"name": "Five Pyramids",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[24,4]]],[2,[[0,4],15,[24,4]]],[4,[[0,4],15,[24,4]]],[6,[[0,4],[13,3],[24,4]]],[7,[11,19]],[8,[[13,3]]],[10,[[0,4],15,[24,4]]],[12,[[0,4],15,[24,4]]],[14,[[0,4],[24,4]]],[16,[[0,4],[24,4]]]]],[1,[[1,[[1,3],[25,3]]],[3,[[1,3],15,[25,3]]],[5,[[1,3],15,[25,3]]],[7,[[13,3]]],[9,15],[11,[[1,3],15,[25,3]]],[13,[[1,3],[25,3]]],[15,[[1,3],[25,3]]]]],[2,[[2,[[2,2],[26,2]]],[4,[[2,2],[26,2]]],[5,15],[7,[[14,2]]],[9,15],[12,[[2,2],[26,2]]],[14,[[2,2],[26,2]]]]],[3,[[3,[3,27]],[7,15],[13,[3,27]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Five Pyramids.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "five_pyramids",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2095480368",
 		"name": "Five Pyramids",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -3167,12 +5156,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Five Pyramids.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "five_pyramids",
+		"filename": "five_pyramids_3",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2813743333",
+		"id": "3406740221",
+		"name": "Five Pyramids 2",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[[0,4],[22,4]]],[2,14],[3,[[0,7],[16,7]]],[4,14],[5,[[0,4],[22,4]]],[6,[[12,3]]],[7,[3,25]],[8,[[6,9]]],[9,[3,25]],[10,[[12,3]]],[11,[[0,4],[22,4]]],[12,14],[13,[[0,7],[16,7]]],[14,14],[15,[[0,4],[22,4]]],[16,14]]],[1,[[2,[[1,3],14,[23,3]]],[4,[[1,3],14,[23,3]]],[6,14],[8,[[8,7]]],[10,14],[12,[[1,3],14,[23,3]]],[14,[[1,3],14,[23,3]]]]],[2,[[3,[[2,2],[24,2]]],[4,14],[6,14],[8,[[10,5]]],[10,14],[12,14],[13,[[2,2],[24,2]]]]],[3,[[6,14],[8,[[12,3]]],[10,14]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Five Pyramids 2.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "five_pyramids_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3406740221",
 		"name": "Five Pyramids 2",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -3180,12 +5182,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Five Pyramids 2.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "five_pyramids_2",
+		"filename": "five_pyramids_2_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3348595910",
+		"id": "1338272962",
 		"name": "Flat Iron",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -3198,7 +5200,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3507959585",
+		"id": "1338272962",
+		"name": "Flat Iron",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,7],24]],[1,[6,22]],[2,[4,[8,7],24]],[3,[2,6,22]],[4,[0,4,[8,7],24]],[5,[2,6,22]],[6,[4,[8,7],24]],[7,[6,22]],[8,[[8,7],24]]]],[1,[[1,[[8,7],24]],[2,[6,22]],[3,[4,[8,7],24]],[4,[2,6,22]],[5,[4,[8,7],24]],[6,[6,22]],[7,[[8,7],24]]]],[2,[[2,[[8,2]]],[3,[6,20,23]],[4,[4,9,[12,2],17]],[5,[6,20,23]],[6,[[8,2]]]]],[3,[[2,[[7,2]]],[3,[[20,3]]],[4,[5,9,[12,2],17]],[5,[[20,3]]],[6,[[7,2]]]]],[4,[[2,8],[3,[[12,7]]],[4,[[6,3]]],[5,[[12,7]]],[6,8]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Flat Iron.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "flat_iron_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3545939663",
 		"name": "Floating City",
 		"by": "Will O'Connell",
 		"tiles": 144,
@@ -3211,7 +5226,33 @@ export const data = [
 		"group": "Kurenai - Floater"
 	},
 	{
-		"id": "323660709",
+		"id": "3545939663",
+		"name": "Floating City",
+		"by": "Will O'Connell",
+		"tiles": 144,
+		"data": "[[0,[[1,[[4,11]]],[3,[4,7,[12,3],21,24]],[5,[4,7,[12,3],21,24]],[7,[4,7,[12,3],21,24]],[9,[4,7,[12,3],21,24]],[11,[4,7,[12,3],21,24]],[13,[[4,11]]]]],[1,[[0,[[3,2],14,[23,2]]],[2,[[3,2],[23,2]]],[5,[[11,4]]],[7,[[11,4]]],[9,[[11,4]]],[12,[[3,2],[23,2]]],[14,[[3,2],14,[23,2]]]]],[2,[[0,14],[1,[4,24]],[3,[2,26]],[5,[2,26]],[6,[0,[12,3],28]],[7,[2,26]],[8,[0,[12,3],28]],[9,[2,26]],[11,[2,26]],[13,[4,24]],[14,14],[15,[2,12,16,26]],[16,14]]],[3,[[0,14],[2,[5,23]],[4,[7,21]],[6,[9,19]],[8,[9,19]],[10,[7,21]],[12,[5,23]],[14,14]]],[4,[[1,14],[3,14],[5,14],[7,[[10,5]]],[9,14],[11,14],[13,14],[15,14]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Floating City.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "floating_city_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3545939663",
+		"name": "Floating City",
+		"by": "Will O'Connell",
+		"tiles": 144,
+		"data": "[[0,[[1,[[4,11]]],[3,[4,7,[12,3],21,24]],[5,[4,7,[12,3],21,24]],[7,[4,7,[12,3],21,24]],[9,[4,7,[12,3],21,24]],[11,[4,7,[12,3],21,24]],[13,[[4,11]]]]],[1,[[0,[[3,2],14,[23,2]]],[2,[[3,2],[23,2]]],[5,[[11,4]]],[7,[[11,4]]],[9,[[11,4]]],[12,[[3,2],[23,2]]],[14,[[3,2],14,[23,2]]]]],[2,[[0,14],[1,[4,24]],[3,[2,26]],[5,[2,26]],[6,[0,[12,3],28]],[7,[2,26]],[8,[0,[12,3],28]],[9,[2,26]],[11,[2,26]],[13,[4,24]],[14,14],[15,[2,12,16,26]],[16,14]]],[3,[[0,14],[2,[5,23]],[4,[7,21]],[6,[9,19]],[8,[9,19]],[10,[7,21]],[12,[5,23]],[14,14]]],[4,[[1,14],[3,14],[5,14],[7,[[10,5]]],[9,14],[11,14],[13,14],[15,14]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Floating City.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "floating_city_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2738800341",
 		"name": "Flot",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -3224,7 +5265,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2232624362",
+		"id": "2063760521",
+		"name": "Flower",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[16,3]]],[2,[0,4,16,20]],[3,[[6,5]]],[4,[[0,3],[16,3]]],[5,[6,14]],[7,[6,14]],[9,[6,14]],[10,[[0,3],[16,3]]],[11,[[6,5]]],[12,[0,4,16,20]],[14,[[0,3],[16,3]]]]],[1,[[0,[[0,3],[16,3]]],[2,[0,4,16,20]],[3,[[6,5]]],[4,[[0,3],[16,3]]],[5,[6,14]],[7,[6,14]],[9,[6,14]],[10,[[0,3],[16,3]]],[11,[[6,5]]],[12,[0,4,16,20]],[14,[[0,3],[16,3]]]]],[2,[[0,[[0,3],[16,3]]],[2,[0,4,16,20]],[3,[6,10,14]],[4,[[0,3],[16,3]]],[7,[6,14]],[10,[[0,3],[16,3]]],[11,[6,10,14]],[12,[0,4,16,20]],[14,[[0,3],[16,3]]]]],[3,[[0,[0,20]],[4,[4,16]],[10,[0,20]],[14,[4,16]]]]]",
+		"source": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/flower.js",
+		"site": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/",
+		"solvable": true,
+		"filename": "flower",
+		"path": "green-mahjong",
+		"group": "Green Mahjong"
+	},
+	{
+		"id": "4004255252",
 		"name": "Flower",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3232,25 +5286,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Flower.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "flower",
+		"filename": "flower_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3262148258",
-		"name": "Flowers",
-		"by": "Bolli",
+		"id": "4004255252",
+		"name": "Flower",
+		"by": "Ernie Polegato",
 		"tiles": 144,
-		"data": "[[0,[[0,[5,27]],[1,[[14,3]]],[2,[[3,3],[25,3]]],[3,[[12,5]]],[4,[5,27]],[5,[[10,7]]],[6,[2,30]],[7,[[8,9]]],[8,[[0,3],[28,3]]],[9,[[8,9]]],[10,[2,30]],[11,[[10,7]]],[12,[5,27]],[13,[[12,5]]],[14,[[3,3],[25,3]]],[15,[[14,3]]],[16,[5,27]]]],[1,[[2,[5,[15,2],27]],[4,[[13,4]]],[6,[[11,6]]],[8,[2,[9,8],30]],[10,[[11,6]]],[12,[[13,4]]],[14,[5,[15,2],27]]]],[2,[[3,16],[5,[[14,3]]],[7,[[12,5]]],[9,[[12,5]]],[11,[[14,3]]],[13,16]]],[3,[[6,[[15,2]]],[8,[[13,4]]],[10,[[15,2]]]]],[4,[[7,16],[9,16]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Flowers.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"data": "[[0,[[0,10],[1,[2,[6,2],[12,2],18]],[2,10],[3,[[4,3],[12,3]]],[5,[[2,4],[12,4]]],[7,[[0,2],10,[18,2]]],[9,[[2,4],[12,4]]],[11,[[4,3],[12,3]]],[12,10],[13,[2,[6,2],[12,2],18]],[14,10]]],[1,[[0,10],[1,[2,[6,2],[12,2],18]],[2,10],[3,[[4,3],[12,3]]],[5,[[2,4],[12,4]]],[7,[[0,2],10,[18,2]]],[9,[[2,4],[12,4]]],[11,[[4,3],[12,3]]],[12,10],[13,[2,[6,2],[12,2],18]],[14,10]]],[2,[[0,10],[1,[2,8,12,18]],[3,[[6,2],[12,2]]],[5,[[4,3],[12,3]]],[7,[0,10,20]],[9,[[4,3],[12,3]]],[11,[[6,2],[12,2]]],[13,[2,8,12,18]],[14,10]]],[3,[[3,[8,12]],[5,[[6,2],[12,2]]],[7,10],[9,[[6,2],[12,2]]],[11,[8,12]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Flower.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
 		"solvable": true,
-		"filename": "flowers_3",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "flower_3",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
 	},
 	{
-		"id": "3829122945",
+		"id": "564580225",
 		"name": "Flowers",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -3263,7 +5317,46 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "929219642",
+		"id": "987269544",
+		"name": "Flowers",
+		"by": "Bolli",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,27]],[1,[[14,3]]],[2,[[3,3],[25,3]]],[3,[[12,5]]],[4,[5,27]],[5,[[10,7]]],[6,[2,30]],[7,[[8,9]]],[8,[[0,3],[28,3]]],[9,[[8,9]]],[10,[2,30]],[11,[[10,7]]],[12,[5,27]],[13,[[12,5]]],[14,[[3,3],[25,3]]],[15,[[14,3]]],[16,[5,27]]]],[1,[[2,[5,[15,2],27]],[4,[[13,4]]],[6,[[11,6]]],[8,[2,[9,8],30]],[10,[[11,6]]],[12,[[13,4]]],[14,[5,[15,2],27]]]],[2,[[3,16],[5,[[14,3]]],[7,[[12,5]]],[9,[[12,5]]],[11,[[14,3]]],[13,16]]],[3,[[6,[[15,2]]],[8,[[13,4]]],[10,[[15,2]]]]],[4,[[7,16],[9,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Flowers.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "flowers_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "987269544",
+		"name": "Flowers",
+		"by": "Bolli",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,27]],[1,[[14,3]]],[2,[[3,3],[25,3]]],[3,[[12,5]]],[4,[5,27]],[5,[[10,7]]],[6,[2,30]],[7,[[8,9]]],[8,[[0,3],[28,3]]],[9,[[8,9]]],[10,[2,30]],[11,[[10,7]]],[12,[5,27]],[13,[[12,5]]],[14,[[3,3],[25,3]]],[15,[[14,3]]],[16,[5,27]]]],[1,[[2,[5,[15,2],27]],[4,[[13,4]]],[6,[[11,6]]],[8,[2,[9,8],30]],[10,[[11,6]]],[12,[[13,4]]],[14,[5,[15,2],27]]]],[2,[[3,16],[5,[[14,3]]],[7,[[12,5]]],[9,[[12,5]]],[11,[[14,3]]],[13,16]]],[3,[[6,[[15,2]]],[8,[[13,4]]],[10,[[15,2]]]]],[4,[[7,16],[9,16]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Flowers.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "flowers_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "564580225",
+		"name": "Flowers",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[10,4],[20,4]]],[2,[0,6,10,16,20,26]],[4,[[0,4],[10,4],[20,4]]],[6,[3,13,23]],[7,[[5,4],[15,4]]],[8,[3,13,23]],[10,[[0,4],[10,4],[20,4]]],[12,[0,6,10,16,20,26]],[14,[[0,4],[10,4],[20,4]]]]],[1,[[0,[[0,4],[12,2],[22,2]]],[2,[0,6,10,16,20,26]],[4,[[0,4],[12,2],[22,2]]],[10,[[2,2],[12,2],[22,2]]],[12,[0,6,10,16,20,26]],[14,[[2,2],[12,2],[22,2]]]]],[2,[[0,[[2,2],13,23]],[2,[0,6,10,16,20,26]],[4,[[2,2],13,23]],[10,[3,13,23]],[12,[0,6,10,16,20,26]],[14,[3,13,23]]]],[3,[[0,3],[2,[0,6]],[4,3]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadflowers.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "flowers_4",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1151913060",
 		"name": "For The Sake Of Symmetry",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -3276,7 +5369,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2003317412",
+		"id": "1151913060",
+		"name": "For The Sake Of Symmetry",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,3]]],[1,[12,20]],[2,[10,[14,3],22]],[3,[8,12,20,24]],[4,[6,10,[14,3],22,26]],[5,[4,8,12,20,24,28]],[6,[2,6,10,[14,3],22,26,30]],[7,[0,4,8,12,20,24,28,32]],[8,[2,6,10,[14,3],22,26,30]],[9,[4,8,12,20,24,28]],[10,[6,10,[14,3],22,26]],[11,[8,12,20,24]],[12,[10,[14,3],22]],[13,[12,20]],[14,[[14,3]]]]],[1,[[1,16],[3,16],[4,[14,18]],[5,[6,12,16,20,26]],[7,[[2,15]]],[9,[6,12,16,20,26]],[10,[14,18]],[11,16],[13,16]]],[2,[[1,16],[5,16],[6,[6,26]],[7,[2,[12,5],30]],[8,[6,26]],[9,16],[13,16]]],[3,[[1,16],[5,16],[7,[2,6,[14,3],26,30]],[9,16],[13,16]]],[4,[[1,16],[7,[2,16,30]],[13,16]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Symmetrical Structure.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "for_the_sake_of_symmetry_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3908581410",
 		"name": "Fort Boyard",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -3289,33 +5395,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "23285350",
-		"name": "Fortress",
-		"by": "MyKyodai",
+		"id": "3908581410",
+		"name": "Fort Boyard",
+		"by": "Nanami Kamimura",
 		"tiles": 144,
-		"data": "[[0,[[0,[[0,3],9,[14,2],22,[27,3]]],[2,[2,[14,2],29]],[3,[4,27]],[4,[2,[14,2],29]],[5,[[4,2],[25,2]]],[6,[2,[14,2],29]],[7,[4,27]],[8,[2,[14,2],29]],[10,[[0,3],9,[14,2],22,[27,3]]]]],[1,[[0,[5,9,[13,3],22,26]],[2,[[13,3]]],[4,[[13,3]]],[5,[[2,2],[27,2]]],[6,[[13,3]]],[8,[[13,3]]],[10,[5,9,[13,3],22,26]]]],[2,[[0,[6,9,[12,4],22,25]],[2,[12,18]],[4,[12,18]],[5,[2,[14,2],29]],[6,[12,18]],[8,[12,18]],[10,[6,9,[12,4],22,25]]]],[3,[[0,[[7,7],[22,2]]],[2,[11,19]],[4,[11,19]],[6,[11,19]],[8,[11,19]],[10,[[7,7],[22,2]]]]],[4,[[0,[[8,2],[20,2]]],[2,[10,20]],[4,[10,20]],[6,[10,20]],[8,[10,20]],[10,[[8,2],[20,2]]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Fortress.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
-		"solvable": true,
-		"filename": "fortress_2",
-		"path": "mykyodai",
-		"group": "MyKyodai"
-	},
-	{
-		"id": "684562886",
-		"name": "Fortress",
-		"by": "Ernie Polegato",
-		"tiles": 144,
-		"data": "[[0,[[0,[[0,11]]],[2,[[0,3],[16,3]]],[4,[[0,3],[16,3]]],[6,[0,20]],[8,[0,20]],[10,[[0,3],[16,3]]],[12,[[0,3],[16,3]]],[14,[[0,11]]]]],[1,[[0,[[0,11]]],[2,[[0,3],[16,3]]],[4,[[0,3],[16,3]]],[6,[0,20]],[8,[0,20]],[10,[[0,3],[16,3]]],[12,[[0,3],[16,3]]],[14,[[0,11]]]]],[2,[[0,[[0,11]]],[2,[0,20]],[3,[3,17]],[4,[0,20]],[6,[0,20]],[8,[0,20]],[10,[0,20]],[11,[3,17]],[12,[0,20]],[14,[[0,11]]]]],[3,[[0,[0,20]],[7,[0,20]],[14,[0,20]]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout02.zip#Fortress.lay",
+		"data": "[[0,[[0,[[4,8]]],[1,[2,20]],[2,[0,22]],[3,3],[4,[0,22]],[6,[0,6,[9,2],14,22]],[8,[0,3,22]],[10,[0,22]],[11,[2,20]],[12,[[4,8],[22,2]]],[13,20],[14,22]]],[1,[[1,[[2,10]]],[2,[0,22]],[4,[0,22]],[5,11],[6,[0,6,22]],[7,11],[8,[0,22]],[10,[0,22]],[11,[[2,10]]],[13,[[8,4]]]]],[2,[[0,[[4,8]]],[1,[2,20]],[2,[0,11,22]],[4,[0,11,22]],[6,[0,6,11,22]],[8,[0,11,22]],[10,[0,11,22]],[11,[2,20]],[12,[[4,8]]]]],[3,[[0,[[4,8]]],[1,[2,20]],[2,[0,22]],[4,[0,22]],[6,[0,22]],[8,[0,22]],[10,[0,22]],[11,[2,20]],[12,[[4,8]]]]],[4,[[6,22]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Fort Boyard.lay",
 		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
 		"solvable": true,
-		"filename": "fortress_3",
-		"path": "phantagia/eplayouts/eplayout02",
-		"group": "Phantagia - Package A - Package 02"
+		"filename": "fort_boyard_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
 	},
 	{
-		"id": "1073639461",
+		"id": "1788101945",
 		"name": "Fortress",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -3328,7 +5421,59 @@ export const data = [
 		"group": "Kurenai - Floater"
 	},
 	{
-		"id": "1781636137",
+		"id": "2038562220",
+		"name": "Fortress",
+		"by": "MyKyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],9,[14,2],22,[27,3]]],[2,[2,[14,2],29]],[3,[4,27]],[4,[2,[14,2],29]],[5,[[4,2],[25,2]]],[6,[2,[14,2],29]],[7,[4,27]],[8,[2,[14,2],29]],[10,[[0,3],9,[14,2],22,[27,3]]]]],[1,[[0,[5,9,[13,3],22,26]],[2,[[13,3]]],[4,[[13,3]]],[5,[[2,2],[27,2]]],[6,[[13,3]]],[8,[[13,3]]],[10,[5,9,[13,3],22,26]]]],[2,[[0,[6,9,[12,4],22,25]],[2,[12,18]],[4,[12,18]],[5,[2,[14,2],29]],[6,[12,18]],[8,[12,18]],[10,[6,9,[12,4],22,25]]]],[3,[[0,[[7,7],[22,2]]],[2,[11,19]],[4,[11,19]],[6,[11,19]],[8,[11,19]],[10,[[7,7],[22,2]]]]],[4,[[0,[[8,2],[20,2]]],[2,[10,20]],[4,[10,20]],[6,[10,20]],[8,[10,20]],[10,[[8,2],[20,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Fortress.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "fortress_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "4202828188",
+		"name": "Fortress",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,11]]],[2,[[0,3],[16,3]]],[4,[[0,3],[16,3]]],[6,[0,20]],[8,[0,20]],[10,[[0,3],[16,3]]],[12,[[0,3],[16,3]]],[14,[[0,11]]]]],[1,[[0,[[0,11]]],[2,[[0,3],[16,3]]],[4,[[0,3],[16,3]]],[6,[0,20]],[8,[0,20]],[10,[[0,3],[16,3]]],[12,[[0,3],[16,3]]],[14,[[0,11]]]]],[2,[[0,[[0,11]]],[2,[0,20]],[3,[3,17]],[4,[0,20]],[6,[0,20]],[8,[0,20]],[10,[0,20]],[11,[3,17]],[12,[0,20]],[14,[[0,11]]]]],[3,[[0,[0,20]],[7,[0,20]],[14,[0,20]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout02.zip#Fortress.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "fortress_3",
+		"path": "phantagia/eplayouts/eplayout02",
+		"group": "Phantagia - Package A - Package 02"
+	},
+	{
+		"id": "1486686890",
+		"name": "Four Bridges",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,11]]],[2,[[4,4],[14,4]]],[4,[[4,9]]],[6,[[0,13]]],[8,[[3,3],[17,3]]],[10,[[0,13]]],[12,[[4,9]]],[14,[[4,4],[14,4]]],[16,[[2,11]]]]],[1,[[1,[[5,3],[15,3]]],[3,[[5,3],[15,3]]],[5,[[5,3],[15,3]]],[11,[[5,3],[15,3]]],[13,[[5,3],[15,3]]],[15,[[5,3],[15,3]]]]],[2,[[2,[[6,2],[16,2]]],[4,[[6,2],[16,2]]],[12,[[6,2],[16,2]]],[14,[[6,2],[16,2]]]]],[3,[[3,[7,17]],[13,[7,17]]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
+		"solvable": true,
+		"filename": "four_bridges",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
+	},
+	{
+		"id": "1486686890",
+		"name": "Four Bridges",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,11]]],[2,[[4,4],[14,4]]],[4,[[4,9]]],[6,[[0,13]]],[8,[[3,3],[17,3]]],[10,[[0,13]]],[12,[[4,9]]],[14,[[4,4],[14,4]]],[16,[[2,11]]]]],[1,[[1,[[5,3],[15,3]]],[3,[[5,3],[15,3]]],[5,[[5,3],[15,3]]],[11,[[5,3],[15,3]]],[13,[[5,3],[15,3]]],[15,[[5,3],[15,3]]]]],[2,[[2,[[6,2],[16,2]]],[4,[[6,2],[16,2]]],[12,[[6,2],[16,2]]],[14,[[6,2],[16,2]]]]],[3,[[3,[7,17]],[13,[7,17]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "four_bridges_2",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "1457560241",
 		"name": "Four Chipped Pyramids",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -3341,7 +5486,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1867752363",
+		"id": "1457560241",
+		"name": "Four Chipped Pyramids",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,4],[18,4]]],[1,[0,27]],[2,[[3,3],12,15,[20,3]]],[3,[0,27]],[4,[[3,2],[10,2],[15,2],[22,2]]],[5,[0,27]],[6,[3,[8,3],[15,3],24]],[9,[3,[8,3],[15,3],24]],[10,[0,27]],[11,[[3,2],[10,2],[15,2],[22,2]]],[12,[0,27]],[13,[[3,3],12,15,[20,3]]],[14,[0,27]],[15,[[3,4],[18,4]]]]],[1,[[1,[[4,3],[19,3]]],[2,[0,27]],[3,[[4,2],11,16,[21,2]]],[4,[0,27]],[5,[4,[9,2],[16,2],23]],[10,[4,[9,2],[16,2],23]],[11,[0,27]],[12,[[4,2],11,16,[21,2]]],[13,[0,27]],[14,[[4,3],[19,3]]]]],[2,[[2,[[5,2],[20,2]]],[3,[0,27]],[4,[5,10,17,22]],[11,[5,10,17,22]],[12,[0,27]],[13,[[5,2],[20,2]]]]],[3,[[3,[6,21]],[12,[6,21]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Four Chipped Pyramids.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "four_chipped_pyramids_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1963582381",
 		"name": "Four Freedoms Plaza",
 		"by": "Carolyne Smythe",
 		"tiles": 144,
@@ -3354,20 +5512,20 @@ export const data = [
 		"group": "Miss Fantastic"
 	},
 	{
-		"id": "1547417023",
-		"name": "Four Pyramids",
-		"by": "Nanami Kamimura",
+		"id": "1486686890",
+		"name": "Four Hills",
+		"by": "Unknown",
 		"tiles": 144,
-		"data": "[[0,[[0,[[3,4],[12,4]]],[1,[0,21]],[2,[[3,4],[12,4]]],[3,[0,21]],[4,[[3,4],[12,4]]],[6,[[3,4],[12,4]]],[9,[[3,4],[12,4]]],[11,[[3,4],[12,4]]],[12,[0,21]],[13,[[3,4],[12,4]]],[14,[0,21]],[15,[[3,4],[12,4]]]]],[1,[[1,[[4,3],[13,3]]],[3,[0,[4,3],[13,3],21]],[5,[[4,3],[13,3]]],[10,[[4,3],[13,3]]],[12,[0,[4,3],[13,3],21]],[14,[[4,3],[13,3]]]]],[2,[[2,[[5,2],[14,2]]],[4,[0,[5,2],[14,2],21]],[11,[0,[5,2],[14,2],21]],[13,[[5,2],[14,2]]]]],[3,[[3,[6,15]],[5,[0,21]],[10,[0,21]],[12,[6,15]]]],[4,[[6,[0,21]],[9,[0,21]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Four Pyramids.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"data": "[[0,[[0,[[2,11]]],[2,[[4,4],[14,4]]],[4,[[4,9]]],[6,[[0,13]]],[8,[[3,3],[17,3]]],[10,[[0,13]]],[12,[[4,9]]],[14,[[4,4],[14,4]]],[16,[[2,11]]]]],[1,[[1,[[5,3],[15,3]]],[3,[[5,3],[15,3]]],[5,[[5,3],[15,3]]],[11,[[5,3],[15,3]]],[13,[[5,3],[15,3]]],[15,[[5,3],[15,3]]]]],[2,[[2,[[6,2],[16,2]]],[4,[[6,2],[16,2]]],[12,[[6,2],[16,2]]],[14,[[6,2],[16,2]]]]],[3,[[3,[7,17]],[13,[7,17]]]]]",
+		"source": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/fourHills.js",
+		"site": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/",
 		"solvable": true,
-		"filename": "four_pyramids_2",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "four_hills",
+		"path": "green-mahjong",
+		"group": "Green Mahjong"
 	},
 	{
-		"id": "2726910115",
+		"id": "3900213635",
 		"name": "Four Pyramids",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -3380,7 +5538,33 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "1864352057",
+		"id": "3050562587",
+		"name": "Four Pyramids",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,4],[12,4]]],[1,[0,21]],[2,[[3,4],[12,4]]],[3,[0,21]],[4,[[3,4],[12,4]]],[6,[[3,4],[12,4]]],[9,[[3,4],[12,4]]],[11,[[3,4],[12,4]]],[12,[0,21]],[13,[[3,4],[12,4]]],[14,[0,21]],[15,[[3,4],[12,4]]]]],[1,[[1,[[4,3],[13,3]]],[3,[0,[4,3],[13,3],21]],[5,[[4,3],[13,3]]],[10,[[4,3],[13,3]]],[12,[0,[4,3],[13,3],21]],[14,[[4,3],[13,3]]]]],[2,[[2,[[5,2],[14,2]]],[4,[0,[5,2],[14,2],21]],[11,[0,[5,2],[14,2],21]],[13,[[5,2],[14,2]]]]],[3,[[3,[6,15]],[5,[0,21]],[10,[0,21]],[12,[6,15]]]],[4,[[6,[0,21]],[9,[0,21]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Four Pyramids.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "four_pyramids_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3050562587",
+		"name": "Four Pyramids",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,4],[12,4]]],[1,[0,21]],[2,[[3,4],[12,4]]],[3,[0,21]],[4,[[3,4],[12,4]]],[6,[[3,4],[12,4]]],[9,[[3,4],[12,4]]],[11,[[3,4],[12,4]]],[12,[0,21]],[13,[[3,4],[12,4]]],[14,[0,21]],[15,[[3,4],[12,4]]]]],[1,[[1,[[4,3],[13,3]]],[3,[0,[4,3],[13,3],21]],[5,[[4,3],[13,3]]],[10,[[4,3],[13,3]]],[12,[0,[4,3],[13,3],21]],[14,[[4,3],[13,3]]]]],[2,[[2,[[5,2],[14,2]]],[4,[0,[5,2],[14,2],21]],[11,[0,[5,2],[14,2],21]],[13,[[5,2],[14,2]]]]],[3,[[3,[6,15]],[5,[0,21]],[10,[0,21]],[12,[6,15]]]],[4,[[6,[0,21]],[9,[0,21]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Four Pyramids.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "four_pyramids_3",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "906377851",
 		"name": "Four Pyramids Linked",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -3393,7 +5577,20 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "1216525709",
+		"id": "1335749063",
+		"name": "Full Vision",
+		"by": "John Payson",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,8,[12,4],22,30]],[1,[[2,3],[24,3]]],[2,[0,8,[12,4],22,30]],[3,[[2,3],[24,3]]],[4,[0,8,22,30]],[5,[4,12,18,26]],[6,[[6,3],[20,3]]],[7,[4,12,18,26]],[8,[[6,3],[20,3]]],[9,[4,12,18,26]],[10,[0,8,22,30]],[11,[[2,3],[24,3]]],[12,[0,8,[14,2],22,30]],[13,[[2,3],12,18,[24,3]]],[14,[0,8,[14,2],22,30]]]],[1,[[0,15],[1,[1,7,13,17,23,29]],[2,[[3,2],15,[25,2]]],[3,[1,7,23,29]],[6,[5,11,19,25]],[7,[[7,2],[21,2]]],[8,[5,11,19,25]],[11,[1,7,23,29]],[12,[[3,2],[25,2]]],[13,[1,7,[13,3],23,29]]]],[2,[[1,[[14,2]]],[2,[2,6,24,28]],[7,[6,10,20,24]],[12,[2,6,24,28]]]],[3,[[1,15]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Full Vision.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "full_vision",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1335749063",
 		"name": "Full Vision",
 		"by": "John Payson",
 		"tiles": 144,
@@ -3401,12 +5598,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Full Vision.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "full_vision",
+		"filename": "full_vision_4",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3092015178",
+		"id": "2078677334",
+		"name": "Full Vision 2",
+		"by": "John Payson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[4,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[6,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[9,[[0,4],[10,2],[15,2],[21,4]]],[11,[[0,4],[10,2],[15,2],[21,4]]],[14,[[4,5],[15,5]]]]],[1,[[1,[1,6,11,16,21,26]],[3,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[5,[1,6,11,16,21,26]],[9,[3,24]],[10,[1,5,[10,2],[15,2],22,26]],[11,[3,24]]]],[2,[[2,[1,6,11,16,21,26]],[4,[1,6,11,16,21,26]],[10,[[2,2],11,16,[23,2]]]]],[3,[[3,[1,6,11,16,21,26]],[10,[3,24]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Full Vision 2.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "full_vision_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2078677334",
 		"name": "Full Vision 2",
 		"by": "John Payson",
 		"tiles": 144,
@@ -3414,12 +5624,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Full Vision 2.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "full_vision_2",
+		"filename": "full_vision_2_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1665180053",
+		"id": "2078677334",
+		"name": "Full Vision 2",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[4,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[6,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[9,[[0,4],[10,2],[15,2],[21,4]]],[11,[[0,4],[10,2],[15,2],[21,4]]],[14,[[4,5],[15,5]]]]],[1,[[1,[1,6,11,16,21,26]],[3,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[5,[1,6,11,16,21,26]],[9,[3,24]],[10,[1,5,[10,2],[15,2],22,26]],[11,[3,24]]]],[2,[[2,[1,6,11,16,21,26]],[4,[1,6,11,16,21,26]],[10,[[2,2],11,16,[23,2]]]]],[3,[[3,[1,6,11,16,21,26]],[10,[3,24]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "full_vision_2_3",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "3638094299",
+		"name": "Full Vision 3",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,14,24]],[1,[2,6,12,16,22,26]],[2,[4,14,24]],[3,[2,6,12,16,22,26]],[4,[0,4,[8,2],14,[18,2],24,28]],[5,[2,6,12,16,22,26]],[6,[0,4,[8,2],14,[18,2],24,28]],[7,[2,6,12,16,22,26]],[8,[0,4,[8,2],14,[18,2],24,28]],[9,[2,6,12,16,22,26]],[10,[4,14,24]],[11,[2,6,12,16,22,26]],[12,[4,14,24]],[13,[2,[6,4],[16,4],26]],[15,[2,[6,4],[16,4],26]]]],[1,[[1,[4,14,24]],[2,[2,6,12,16,22,26]],[4,[1,7,11,17,21,27]],[5,14],[6,[2,6,9,12,16,19,22,26]],[8,[1,7,11,17,21,27]],[10,[2,6,12,16,22,26]],[11,[4,14,24]],[14,[2,[6,4],[16,4],26]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Full Vision 3.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "full_vision_3",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3638094299",
 		"name": "Full Vision 3",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -3427,12 +5663,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Full Vision 3.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "full_vision_3",
+		"filename": "full_vision_3_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "576444543",
+		"id": "258283513",
 		"name": "Future",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -3445,7 +5681,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2404790903",
+		"id": "258283513",
+		"name": "Future",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,9]]],[2,[[6,9]]],[4,[[4,11]]],[5,[2,26]],[6,[0,[4,11],28]],[7,[2,26]],[8,[[4,11]]],[10,[[6,9]]],[12,[[6,9]]]]],[1,[[0,[6,14,22]],[2,[8,14,20]],[4,[[10,5]]],[6,[[2,13]]],[8,[[10,5]]],[10,[8,14,20]],[12,[6,14,22]]]],[2,[[0,[6,22]],[2,[8,20]],[4,[[13,2]]],[6,[[4,11]]],[8,[[13,2]]],[10,[8,20]],[12,[6,22]]]],[3,[[6,[[8,7]]]]],[4,[[6,[[11,4]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadfuture.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "future_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3091729243",
 		"name": "Galaxy",
 		"by": "Alexey Charkov",
 		"tiles": 140,
@@ -3458,7 +5707,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "530718202",
+		"id": "3091729243",
+		"name": "Galaxy",
+		"by": "Alexey Charkov",
+		"tiles": 140,
+		"data": "[[0,[[0,14],[1,[[1,2],[25,2]]],[2,[[12,3]]],[3,[[0,3],[24,3]]],[4,[[10,5]]],[5,[[1,2],[25,2]]],[6,[[8,7]]],[7,[6,22]],[8,[[8,7]]],[9,[[1,2],[25,2]]],[10,[[10,5]]],[11,[[0,3],[24,3]]],[12,[[12,3]]],[13,[[1,2],[25,2]]],[14,14]]],[1,[[1,[2,14,26]],[3,[[1,2],[12,3],[25,2]]],[5,[2,[10,5],26]],[7,[[8,7]]],[9,[2,[10,5],26]],[11,[[1,2],[12,3],[25,2]]],[13,[2,14,26]]]],[2,[[3,[2,26]],[4,[[12,3]]],[6,[[10,5]]],[8,[[10,5]]],[10,[[12,3]]],[11,[2,26]],[12,14]]],[3,[[5,[[12,3]]],[7,[[10,5]]],[9,[[12,3]]],[11,14]]],[4,[[5,14],[7,[12,16]],[9,14]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadgalaxy.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "galaxy_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3688892402",
 		"name": "Garden",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -3471,7 +5733,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "498940177",
+		"id": "3688892402",
+		"name": "Garden",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,2],[14,2],[25,2]]],[1,[0,8,11,19,22,30]],[2,[[2,3],[13,3],[24,3]]],[3,[0,8,11,19,22,30]],[4,[[2,3],[13,3],[24,3]]],[5,[0,8,11,19,22,30]],[7,[[2,3],[13,3],[24,3]]],[9,[0,8,11,19,22,30]],[10,[[2,3],[13,3],[24,3]]],[11,[0,8,11,19,22,30]],[12,[[2,3],[13,3],[24,3]]],[13,[0,8,11,19,22,30]],[14,[[3,2],[14,2],[25,2]]]]],[1,[[0,[4,15,26]],[3,[[2,3],[13,3],[24,3]]],[7,[[3,2],[14,2],[25,2]]],[11,[[2,3],[13,3],[24,3]]],[14,[4,15,26]]]],[2,[[3,[[3,2],[14,2],[25,2]]],[7,[4,15,26]],[11,[[3,2],[14,2],[25,2]]]]],[3,[[3,[4,15,26]],[11,[4,15,26]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadgarden.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "garden_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2345599479",
 		"name": "Gayle's",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -3484,7 +5759,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2025594797",
+		"id": "2345599479",
+		"name": "Gayle's",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[10,4]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[10,4]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[0,[[2,3],[20,3]]],[2,[[8,6]]],[4,[[12,2]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[12,2]]],[12,[[8,6]]],[14,[[2,3],[20,3]]]]],[2,[[0,[[2,2],[22,2]]],[2,[[10,4]]],[7,[[9,5]]],[12,[[10,4]]],[14,[[2,2],[22,2]]]]],[3,[[0,[2,24]],[2,13],[7,[[12,2]]],[12,13],[14,[2,24]]]],[4,[[7,13]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "gayles_2",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "4073613363",
 		"name": "Gemini",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3497,7 +5785,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2823236035",
+		"id": "4073613363",
+		"name": "Gemini",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,11]]],[2,[[2,2],[16,2]]],[4,[[2,2],[16,2]]],[6,[[2,2],[16,2]]],[8,[[2,2],[16,2]]],[10,[[2,2],[16,2]]],[12,[[2,2],[16,2]]],[14,[[2,2],[16,2]]],[16,[[0,11]]]]],[1,[[0,[[0,11]]],[2,[[2,2],[16,2]]],[4,[[2,2],[16,2]]],[6,[[2,2],[16,2]]],[8,[[2,2],[16,2]]],[10,[[2,2],[16,2]]],[12,[[2,2],[16,2]]],[14,[[2,2],[16,2]]],[16,[[0,11]]]]],[2,[[0,[[0,4],[14,4]]],[2,[[2,2],[16,2]]],[4,[[2,2],[16,2]]],[6,[[2,2],[16,2]]],[8,[[2,2],[16,2]]],[10,[[2,2],[16,2]]],[12,[[2,2],[16,2]]],[14,[[2,2],[16,2]]],[16,[[0,4],[14,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Gemini.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "gemini_3",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "2429040549",
 		"name": "Gemini 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3510,7 +5811,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2107503347",
+		"id": "2429040549",
+		"name": "Gemini 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[18,2]]],[2,[[4,2],[14,2]]],[3,[[8,3]]],[4,[[4,2],[14,2]]],[6,[[4,2],[14,2]]],[8,[[4,2],[14,2]]],[10,[[4,2],[14,2]]],[12,[[4,2],[14,2]]],[13,[[8,3]]],[14,[[4,2],[14,2]]],[16,[[0,2],[18,2]]]]],[1,[[0,[[0,2],[18,2]]],[2,[[4,2],[14,2]]],[3,[[8,3]]],[4,[[4,2],[14,2]]],[6,[[4,2],[14,2]]],[8,[[4,2],[14,2]]],[10,[[4,2],[14,2]]],[12,[[4,2],[14,2]]],[13,[[8,3]]],[14,[[4,2],[14,2]]],[16,[[0,2],[18,2]]]]],[2,[[0,[[0,2],[18,2]]],[2,[[4,2],[14,2]]],[3,[[8,3]]],[4,[[4,2],[14,2]]],[6,[[4,2],[14,2]]],[8,[[4,2],[14,2]]],[10,[[4,2],[14,2]]],[12,[[4,2],[14,2]]],[13,[[8,3]]],[14,[[4,2],[14,2]]],[16,[[0,2],[18,2]]]]],[3,[[0,[1,19]],[2,[5,15]],[4,[5,15]],[6,[5,15]],[8,[5,15]],[10,[5,15]],[12,[5,15]],[14,[5,15]],[16,[1,19]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Gemini 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "gemini_2_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "1794517029",
 		"name": "Gemini 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -3523,7 +5837,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4238536200",
+		"id": "1794517029",
+		"name": "Gemini 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],8,[12,6],26]],[2,[0,[6,3],[14,3]]],[4,[[2,2],[8,3],[16,4],26]],[6,[[12,2]]],[8,[[12,2]]],[10,[[2,2],[8,3],[16,4],26]],[12,[0,[6,3],[14,3]]],[14,[[0,3],8,[12,6],26]]]],[1,[[0,[[0,3],8,[12,6],26]],[2,[0,[6,3],[14,3]]],[4,[[2,2],[8,3],[16,4],26]],[6,[[12,2]]],[8,[[12,2]]],[10,[[2,2],[8,3],[16,4],26]],[12,[0,[6,3],[14,3]]],[14,[[0,3],8,[12,6],26]]]],[2,[[0,[[0,3],26]],[2,[0,6]],[4,[[2,2],12,26]],[6,[[12,2]]],[8,[[12,2]]],[10,[[2,2],12,26]],[12,[0,6]],[14,[[0,3],26]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Gemini 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "gemini_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "3018697002",
 		"name": "German Cracking Service",
 		"by": "Patrick Becker",
 		"tiles": 84,
@@ -3536,7 +5863,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3486163843",
+		"id": "3891765347",
 		"name": "Gforgeni",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -3549,7 +5876,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "782877218",
+		"id": "47442920",
 		"name": "Gift",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3562,7 +5889,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "2471584976",
+		"id": "3185266654",
 		"name": "Girl",
 		"by": "Alexey Charkov",
 		"tiles": 178,
@@ -3575,7 +5902,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3779888029",
+		"id": "3185266654",
+		"name": "Girl",
+		"by": "Alexey Charkov",
+		"tiles": 178,
+		"data": "[[0,[[0,[[6,9]]],[1,[4,24]],[2,[[6,9]]],[3,[[0,3],[24,3]]],[4,[[6,9]]],[5,[[0,3],[24,3]]],[7,[[0,2],10,18,[26,2]]],[8,14],[9,[0,3,25,28]],[10,[10,18]],[11,[0,5,[12,3],23,28]],[13,[0,7,21,28]],[14,[[9,6]]]]],[1,[[0,[[6,9]]],[1,[4,24]],[2,[[6,9]]],[3,[[2,2],[24,2]]],[4,[0,[10,6],28]],[5,[2,[24,2]]],[6,[0,28]],[7,[2,26]],[8,[0,28]],[9,[3,25]],[10,[0,28]],[11,[5,23]],[13,[7,21]],[14,[[9,6]]]]],[2,[[0,[[6,9]]],[1,[4,24]],[2,[[9,7]]],[3,[2,26]],[4,[[13,2]]],[5,[[0,2],[26,2]]],[7,[[0,2],26]],[9,[3,25]],[11,[5,23]]]],[3,[[0,[[7,8]]],[1,24],[2,[[12,3]]],[3,26],[5,26],[7,26]]],[4,[[0,[[11,4]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadgirl.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "girl_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "866001765",
 		"name": "Glade",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -3588,7 +5928,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2419979173",
+		"id": "866001765",
+		"name": "Glade",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[28,2]]],[2,[[0,2],[28,2]]],[3,[[7,9]]],[5,[[7,9]]],[7,[[7,4],[17,4]]],[9,[[7,9]]],[11,[[7,9]]],[12,[[0,2],[28,2]]],[14,[[0,2],[28,2]]]]],[1,[[0,[1,29]],[2,[1,29]],[3,[[9,7]]],[5,[[7,9]]],[7,[[7,3],[19,3]]],[9,[[7,9]]],[11,[[9,7]]],[12,[1,29]],[14,[1,29]]]],[2,[[1,[1,29]],[3,[[9,3],[17,3]]],[5,[[7,2],[21,2]]],[7,[7,23]],[9,[[7,2],[21,2]]],[11,[[9,3],[17,3]]],[13,[1,29]]]],[3,[[3,[9,21]],[5,[7,23]],[9,[7,23]],[11,[9,21]]]],[4,[[3,[9,21]],[11,[9,21]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadglade.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "glade_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2510794721",
 		"name": "Gong",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3601,7 +5954,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "339214564",
+		"id": "2510794721",
+		"name": "Gong",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[8,5],[20,3]]],[2,[0,[6,7],24]],[4,[0,[4,9],24]],[6,[0,[4,9],24]],[8,[0,[4,9],24]],[10,[0,[4,9],24]],[12,[0,[6,7],24]],[14,[0,[6,6],24]]]],[1,[[2,[[8,5]]],[4,[[6,7]]],[6,[[6,7]]],[8,[[6,7]]],[10,[[6,7]]],[12,[[8,5]]],[14,6]]],[2,[[4,[[14,2]]],[6,[[14,2]]],[8,[[12,3]]],[10,[[10,4]]],[12,8],[14,6]]],[3,[[4,[[14,2]]],[6,[[14,2]]],[8,12],[10,10],[12,8]]],[4,[[4,[[14,2]]],[6,[[14,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Gong.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "gong_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2103358194",
+		"name": "Granchio",
+		"by": "DMask",
+		"tiles": 120,
+		"data": "[[0,[[0,[[8,2],[14,2]]],[2,[8,16]],[3,[0,24]],[4,[2,[6,7],22]],[6,[[8,5]]],[7,[0,24]],[8,[2,[6,7],22]],[10,[[8,5]]],[11,[0,24]],[12,[2,[6,7],22]],[14,[[10,3]]],[15,[8,16]],[16,[6,18]]]],[1,[[1,[9,15]],[4,[[3,2],[19,2]]],[5,[[9,4]]],[7,[[9,4]]],[8,[[3,2],[19,2]]],[9,[[9,4]]],[11,[[11,2]]],[12,[[3,2],[19,2]]],[13,[[9,4]]],[15,[[11,2]]]]],[2,[[1,[9,15]],[4,[4,20]],[5,12],[6,[10,14]],[7,12],[8,[4,10,14,20]],[9,12],[10,[10,14]],[11,12],[12,[4,20]],[14,12]]],[3,[[6,12],[7,[10,14]],[8,12],[9,[10,14]],[10,12],[14,12]]],[4,[[6,[10,14]],[14,12]]]]",
+		"source": "https://web.archive.org/web/20040610002141/http://deathm1.tripod.com/stuff/layouts.zip#Cancer.lay",
+		"site": "https://web.archive.org/web/20040612231847/http://deathm1.tripod.com/stuff/pcgames.html",
+		"solvable": true,
+		"filename": "granchio",
+		"path": "deathm1",
+		"group": "Death Mask"
+	},
+	{
+		"id": "2103358194",
 		"name": "Granchio",
 		"by": "DMask",
 		"tiles": 120,
@@ -3609,12 +5988,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Cancer.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "granchio",
+		"filename": "granchio_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2606749348",
+		"id": "4294293028",
 		"name": "Grate",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3627,7 +6006,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "2576361054",
+		"id": "3445399468",
 		"name": "Grate 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3640,7 +6019,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "528570819",
+		"id": "1927177951",
 		"name": "Great Wall Of Tiles",
 		"by": "Eugene Chang",
 		"tiles": 140,
@@ -3653,7 +6032,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3316304069",
+		"id": "1927177951",
+		"name": "Great Wall Of Tiles",
+		"by": "Eugene Chang",
+		"tiles": 140,
+		"data": "[[0,[[2,[[2,7]]],[4,[[2,7]]],[6,[[2,2],[12,2]]],[8,[[2,2],[12,2]]],[10,[[2,2],[12,2]]],[12,[[2,7]]],[14,[[2,7]]]]],[1,[[1,[[1,8]]],[3,[[1,8]]],[5,[[1,2],[13,2]]],[7,[[1,2],[13,2]]],[9,[[1,2],[13,2]]],[11,[[1,2],[13,2]]],[13,[[1,8]]],[15,[[1,8]]]]],[2,[[1,[[1,8]]],[3,[1,15]],[5,[1,15]],[7,[1,15]],[9,[1,15]],[11,[1,15]],[13,[1,15]],[15,[[1,8]]]]],[3,[[0,[0,16]],[2,[[4,5]]],[4,[2,14]],[6,[2,14]],[8,[2,14]],[10,[2,14]],[12,[2,14]],[14,[[4,5]]],[16,[0,16]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#chlayouts.zip#Great Wall.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "great_wall_of_tiles_2",
+		"path": "phantagia/lyall/chlayouts",
+		"group": "Phantagia - Submitted - Chang"
+	},
+	{
+		"id": "3062718741",
 		"name": "Green Dragon",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -3666,7 +6058,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "2105594601",
+		"id": "1521292455",
 		"name": "Grid",
 		"by": "Alexey Charkov",
 		"tiles": 134,
@@ -3679,7 +6071,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "4239381880",
+		"id": "1521292455",
+		"name": "Grid",
+		"by": "Alexey Charkov",
+		"tiles": 134,
+		"data": "[[0,[[0,[[0,16]]],[2,[0,[4,2],[14,2],[24,2],30]],[4,[[0,16]]],[6,[0,[4,2],[14,2],[24,2],30]],[8,[0,[4,2],[14,2],[24,2],30]],[10,[[0,16]]],[12,[0,[4,2],[14,2],[24,2],30]],[14,[[0,16]]]]],[1,[[2,[5,15,25]],[4,[[4,2],[14,2],[24,2]]],[6,[5,15,25]],[8,[5,15,25]],[10,[[3,3],[13,3],[24,2]]],[12,[5,15,25]]]],[2,[[4,[5,15,25]],[10,[5,15,25]]]],[3,[[4,[5,15,25]],[10,[5,15,25]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadgrid.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "grid_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1939886514",
 		"name": "Grosses Querformat 1",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -3692,7 +6097,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1630412184",
+		"id": "1963367158",
 		"name": "Grosses Querformat 2",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -3705,7 +6110,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4186318170",
+		"id": "25601024",
 		"name": "Grosses Querformat 3",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -3718,7 +6123,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "998460081",
+		"id": "165762811",
 		"name": "Guess Who Loves Tamahome!",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -3731,7 +6136,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "929742592",
+		"id": "165762811",
+		"name": "Guess Who Loves Tamahome!",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[3,11,[14,3],[22,2],28]],[1,[0,5,9]],[2,[3,7,11,16,21,25]],[3,28],[4,[3,11,16,[21,3]]],[5,0],[6,[3,11,[14,3],21,25,28]],[9,[7,12,[16,2]]],[10,[[1,2],[23,2]]],[11,[7,11,15,19]],[12,[[1,2],9,[23,2]]],[13,[7,[15,3]]],[14,10],[15,[7,12,15,19]]]],[1,[[0,[3,11,[14,3],[22,2],28]],[1,[0,5,9]],[2,[3,7,11,16,21,25]],[3,28],[4,[3,11,16,[21,3]]],[5,0],[6,[3,11,[14,3],21,25,28]],[9,[7,12,[16,2]]],[10,[[1,2],[23,2]]],[11,[7,11,15,19]],[12,[[1,2],9,[23,2]]],[13,[7,[15,3]]],[14,10],[15,[7,12,15,19]]]],[2,[[0,28],[1,0],[3,28],[5,0],[6,28],[10,[[1,2],[23,2]]],[12,[[1,2],[23,2]]]]],[3,[[0,28],[1,0],[3,28],[5,0],[6,28],[10,[[1,2],[23,2]]],[12,[[1,2],[23,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Miaka's Name.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "guess_who_loves_tamahome_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2954037716",
 		"name": "Guo",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -3744,7 +6162,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4038372011",
+		"id": "2954037716",
+		"name": "Guo",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,11]]],[2,[0,20]],[4,[0,[4,7],20]],[6,[0,10,20]],[8,[0,10,20]],[9,[[6,2],[12,2]]],[10,[0,10,20]],[11,13],[12,[0,10,15,20]],[14,[0,[4,7],20]],[16,[0,20]],[18,[[0,11]]]]],[1,[[1,[0,20]],[4,[[4,7]]],[5,[0,20]],[6,10],[8,10],[9,[0,[6,2],[12,2],20]],[10,10],[11,13],[12,[10,15]],[13,[0,20]],[14,[[4,7]]],[17,[0,20]]]],[2,[[4,[[4,7]]],[6,10],[8,10],[9,[[6,2],[12,2]]],[10,10],[11,13],[12,[10,15]],[14,[[4,7]]]]],[3,[[4,[[4,7]]],[6,10],[8,10],[9,[[6,2],[12,2]]],[10,10],[11,13],[12,[10,15]],[14,[[4,7]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Guo.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "guo_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1975041593",
+		"name": "H For Haga",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[10,4]]],[2,[[0,4],[10,4]]],[4,[[0,4],[10,4]]],[5,8],[6,[[0,4],[10,4]]],[7,8],[8,[[0,4],[10,4]]],[9,8],[10,[[0,4],[10,4]]],[12,[[0,4],[10,4]]],[14,[[0,4],[10,4]]]]],[1,[[1,[[1,3],[11,3]]],[3,[[1,3],[11,3]]],[5,[[1,3],[11,3]]],[6,[[7,2]]],[7,[[1,3],[11,3]]],[8,[[7,2]]],[9,[[1,3],[11,3]]],[11,[[1,3],[11,3]]],[13,[[1,3],[11,3]]]]],[2,[[2,[[2,2],[12,2]]],[4,[[2,2],[12,2]]],[6,[[2,2],[12,2]]],[7,[[6,3]]],[8,[[2,2],[12,2]]],[10,[[2,2],[12,2]]],[12,[[2,2],[12,2]]]]],[3,[[3,[3,13]],[11,[3,13]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#H for Haga.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "h_for_haga",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1975041593",
 		"name": "H For Haga",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -3752,12 +6196,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#H for Haga.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "h_for_haga",
+		"filename": "h_for_haga_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "473109855",
+		"id": "1247970285",
 		"name": "H For Haga Traditional",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -3770,7 +6214,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2049220016",
+		"id": "1068093741",
+		"name": "Hare",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,4]]],[2,[[0,6]]],[3,[[20,2]]],[4,[[2,6],18]],[5,[16,[20,3]]],[6,[[12,2],18]],[7,[10,16,[20,5]]],[8,[[12,2],18]],[9,[16,[20,3]]],[10,[[2,6],18]],[11,[[20,2]]],[12,[[0,6]]],[14,[[2,4]]]]],[1,[[0,[[4,2]]],[2,[[2,4]]],[3,[[20,2]]],[4,[[4,3]]],[5,[[16,5]]],[6,[[12,2]]],[7,[10,[16,7]]],[8,[[12,2]]],[9,[[16,5]]],[10,[[4,3]]],[11,[[20,2]]],[12,[[2,4]]],[14,[[4,2]]]]],[2,[[0,5],[2,[[4,2]]],[3,21],[4,5],[5,[[16,5]]],[7,[[14,6]]],[9,[[16,5]]],[10,5],[11,21],[12,[[4,2]]],[14,5]]],[3,[[2,5],[5,[[18,3]]],[7,[[18,3]]],[9,[[18,3]]],[12,5]]],[4,[[6,[[19,2]]],[8,[[19,2]]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/hare",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "hare",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "811336906",
 		"name": "Hawk",
 		"by": "Vivian Bushell",
 		"tiles": 144,
@@ -3783,7 +6240,7 @@ export const data = [
 		"group": "Phantagia - Submitted - Bushell"
 	},
 	{
-		"id": "1957274622",
+		"id": "2269211056",
 		"name": "Heap",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -3796,7 +6253,20 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "1110004797",
+		"id": "2732534775",
+		"name": "Heart",
+		"by": "Patrick Becker",
+		"tiles": 96,
+		"data": "[[0,[[0,[[4,2],[14,2]]],[2,[[2,4],[12,4]]],[4,[[0,11]]],[6,[[0,11]]],[8,[[2,9]]],[10,[[4,7]]],[12,[[6,5]]],[14,[[8,3]]],[16,10]]],[1,[[2,[[4,2],[14,2]]],[4,[[2,4],[12,4]]],[6,[[2,9]]],[8,[[4,7]]],[10,[[6,5]]],[12,[[8,3]]],[14,10]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Heart.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "heart",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2732534775",
 		"name": "Heart",
 		"by": "Patrick Becker",
 		"tiles": 96,
@@ -3804,12 +6274,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Heart.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "heart",
+		"filename": "heart_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "3976294422",
+		"id": "4071844932",
 		"name": "Heart & Ribbon",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -3822,7 +6292,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3388301575",
+		"id": "2613760677",
 		"name": "Hearts",
 		"by": "Mary M",
 		"tiles": 144,
@@ -3835,7 +6305,7 @@ export const data = [
 		"group": "My Kyodai Mahjongg"
 	},
 	{
-		"id": "3644132561",
+		"id": "1992194767",
 		"name": "Hearts",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -3848,7 +6318,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2701932796",
+		"id": "1992194767",
+		"name": "Hearts",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,3],[12,3]]],[2,[[2,9]]],[4,[[0,11]]],[6,[[0,11]]],[8,[[2,9]]],[10,[[4,7]]],[12,[[6,5]]],[14,[[8,3]]],[16,10]]],[1,[[0,[[4,3],[12,3]]],[2,[[2,9]]],[4,[[0,11]]],[6,[[0,11]]],[8,[[2,9]]],[10,[[4,7]]],[12,[[6,5]]],[14,[[8,3]]],[16,10]]],[2,[[4,[[6,2],[12,2]]],[6,[[4,7]]],[8,[[6,5]]],[10,[[8,3]]],[12,10]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaycards.zip#Hearts.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "hearts_3",
+		"path": "phantagia/eplayouts/eplaycards",
+		"group": "Phantagia - Package A - Cards"
+	},
+	{
+		"id": "3367093096",
 		"name": "Helios",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -3861,7 +6344,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2808611799",
+		"id": "3367093096",
+		"name": "Helios",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[20,2]]],[2,[[0,2],[20,2]]],[4,[[0,3],[8,4],[18,3]]],[6,[[0,5],[14,5]]],[7,11],[8,[[0,5],[14,5]]],[10,[[0,3],[8,4],[18,3]]],[12,[[0,2],[20,2]]],[14,[[0,2],[20,2]]]]],[1,[[0,[[0,2],[20,2]]],[2,[[0,2],[20,2]]],[4,[0,[10,2],22]],[6,[0,8,14,22]],[7,[[2,3],11,[16,3]]],[8,[0,8,14,22]],[10,[0,[10,2],22]],[12,[[0,2],[20,2]]],[14,[[0,2],[20,2]]]]],[2,[[0,[[0,2],[20,2]]],[2,[0,22]],[4,[[10,2]]],[6,[8,14]],[8,[8,14]],[10,[[10,2]]],[12,[0,22]],[14,[[0,2],[20,2]]]]],[3,[[0,[[0,2],[20,2]]],[2,[0,22]],[4,[[10,2]]],[6,[8,14]],[8,[8,14]],[10,[[10,2]]],[12,[0,22]],[14,[[0,2],[20,2]]]]],[4,[[0,[0,22]],[4,11],[7,[8,14]],[10,11],[14,[0,22]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadhelios.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "helios_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1581724313",
 		"name": "Hexagon Stack",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -3874,7 +6370,20 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "3087698956",
+		"id": "1581724313",
+		"name": "Hexagon Stack",
+		"by": "Tsubassa Kurenai",
+		"tiles": 144,
+		"data": "[[0,[[0,11],[1,[9,13]],[2,[0,7,11,15]],[3,[5,9,13,17]],[4,[0,7,11,15,22]],[5,[5,9,13,17]],[6,[0,7,11,15,22]],[7,[5,9,13,17]],[8,[0,7,11,15,22]],[9,[5,9,13,17]],[10,[0,7,11,15]],[11,[9,13]],[12,11],[15,[[9,3]]]]],[1,[[1,11],[2,[9,13]],[3,[0,7,11,15]],[4,[5,9,13,17]],[5,[0,7,11,15,22]],[6,[5,9,13,17]],[7,[0,7,11,15,22]],[8,[5,9,13,17]],[9,[0,7,11,15]],[10,[9,13]],[11,11],[15,[[10,2]]]]],[2,[[2,[[10,2]]],[3,[8,14]],[4,[0,6,[10,2],16]],[5,[8,14]],[6,[0,6,[10,2],16,22]],[7,[8,14]],[8,[0,6,[10,2],16]],[9,[8,14]],[10,[[10,2]]]]],[3,[[3,[[9,3]]],[4,[7,15]],[5,[0,[9,3]]],[6,[7,15]],[7,[0,[9,3]]],[8,[7,15]],[9,[[9,3]]]]],[4,[[4,[[10,2]]],[5,[8,14]],[6,[[10,2]]],[7,[8,14]],[8,[[10,2]]]]]]",
+		"source": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/Hexagon Stack.lay",
+		"site": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/",
+		"solvable": true,
+		"filename": "hexagon_stack_2",
+		"path": "kurenai/kurenai_stacks",
+		"group": "Kurenai - Stacks"
+	},
+	{
+		"id": "686493674",
 		"name": "High And Low",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -3887,7 +6396,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2279040298",
+		"id": "686493674",
+		"name": "High And Low",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[4,5]]],[12,[[7,2]]]]],[1,[[0,[[0,4],[10,4]]],[2,[[0,3],[8,5]]],[4,[[0,6],[14,2]]],[6,[0,[4,7]]],[8,[[2,7]]],[10,8],[12,8]]],[2,[[0,[[0,3],[12,3]]],[2,[[0,3],10,[14,2]]],[4,[0,4,[8,2],[14,2]]],[6,[[4,4],14]],[8,[[4,5]]]]],[3,[[0,[[0,2],[14,2]]],[2,[0,4,[14,2]]],[4,[4,10,14]],[6,[4,[8,2]]],[8,[[6,3]]]]],[4,[[0,[0,16]],[2,14],[4,4],[6,10],[8,8]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "high_and_low_2",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "2754711182",
 		"name": "Hohle Pyramide",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -3900,7 +6422,7 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "2818760217",
+		"id": "1570577897",
 		"name": "Hole",
 		"by": "Alexey Charkov",
 		"tiles": 208,
@@ -3913,7 +6435,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1177471545",
+		"id": "1570577897",
+		"name": "Hole",
+		"by": "Alexey Charkov",
+		"tiles": 208,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,5],[14,5]]],[8,[[0,5],[14,5]]],[10,[[0,12]]],[12,[[0,12]]],[14,[[0,12]]]]],[1,[[2,[[2,10]]],[4,[[2,10]]],[6,[[2,4],[14,4]]],[8,[[2,4],[14,4]]],[10,[[2,10]]],[12,[[2,10]]]]],[2,[[4,[[4,8]]],[6,[[4,3],[14,3]]],[8,[[4,3],[14,3]]],[10,[[4,8]]]]],[3,[[4,[[6,6]]],[6,[[6,2],[14,2]]],[8,[[6,2],[14,2]]],[10,[[6,6]]]]],[4,[[4,[[8,4]]],[6,[8,14]],[8,[8,14]],[10,[[8,4]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadhole.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "hole_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3746583865",
 		"name": "Horse",
 		"by": "Tsubassa Kurenai",
 		"tiles": 100,
@@ -3926,20 +6461,20 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "1463206324",
-		"name": "Hourglass",
-		"by": "Vincent Krebs",
+		"id": "2381658612",
+		"name": "Horse",
+		"by": "Unknown",
 		"tiles": 144,
-		"data": "[[0,[[0,[[0,13]]],[2,[0,12,24]],[3,[2,22]],[4,[0,4,12,20,24]],[5,[2,6,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[0,4,8,12,16,20,24]],[9,[2,6,18,22]],[10,[0,4,12,20,24]],[11,[2,22]],[12,[0,12,24]],[14,[[0,13]]]]],[1,[[1,[0,12,24]],[3,[0,12,24]],[4,[2,22]],[5,[0,4,20,24]],[6,[2,6,18,22]],[7,[0,4,[8,2],[14,2],20,24]],[8,[2,6,18,22]],[9,[0,4,20,24]],[10,[2,22]],[11,[0,12,24]],[13,[0,12,24]]]],[2,[[2,[0,24]],[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]],[12,[0,24]]]],[3,[[3,[0,24]],[5,[0,24]],[7,[0,24]],[9,[0,24]],[11,[0,24]]]],[4,[[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Hourglass.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"data": "[[0,[[0,28],[1,[[18,3],26]],[2,24],[3,[[2,2],[14,2],[20,2]]],[4,12],[5,[0,[4,4],[14,6]]],[6,12],[7,[[0,6],[14,6]]],[8,12],[9,[0,[4,4],[14,6]]],[10,12],[11,[[2,2],[14,2],[20,2]]],[12,24],[13,[[18,3],26]],[14,28]]],[1,[[1,[[18,3]]],[2,24],[3,[2,[14,2],[20,2]]],[4,12],[5,[0,4,[14,5]]],[6,[[8,3]]],[7,[[0,3],[14,6]]],[8,[[8,3]]],[9,[0,4,[14,5]]],[10,12],[11,[2,[14,2],[20,2]]],[12,24],[13,[[18,3]]]]],[2,[[1,19],[3,[[14,2],[20,2]]],[5,[[14,5]]],[6,12],[7,[[14,5]]],[8,12],[9,[[14,5]]],[11,[[14,2],[20,2]]],[13,19]]],[3,[[6,[[16,3]]],[8,[[16,3]]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/horse",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
 		"solvable": true,
-		"filename": "hourglass_2",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "horse_2",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
 	},
 	{
-		"id": "3227174941",
+		"id": "773416385",
 		"name": "Hourglass",
 		"by": "Michael Buckland",
 		"tiles": 144,
@@ -3952,7 +6487,59 @@ export const data = [
 		"group": "Kurenai - Floater"
 	},
 	{
-		"id": "421287976",
+		"id": "1418241770",
+		"name": "Hourglass",
+		"by": "Vincent Krebs",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,13]]],[2,[0,12,24]],[3,[2,22]],[4,[0,4,12,20,24]],[5,[2,6,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[0,4,8,12,16,20,24]],[9,[2,6,18,22]],[10,[0,4,12,20,24]],[11,[2,22]],[12,[0,12,24]],[14,[[0,13]]]]],[1,[[1,[0,12,24]],[3,[0,12,24]],[4,[2,22]],[5,[0,4,20,24]],[6,[2,6,18,22]],[7,[0,4,[8,2],[14,2],20,24]],[8,[2,6,18,22]],[9,[0,4,20,24]],[10,[2,22]],[11,[0,12,24]],[13,[0,12,24]]]],[2,[[2,[0,24]],[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]],[12,[0,24]]]],[3,[[3,[0,24]],[5,[0,24]],[7,[0,24]],[9,[0,24]],[11,[0,24]]]],[4,[[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Hourglass.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "hourglass_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1418241770",
+		"name": "Hourglass",
+		"by": "Vincent Krebs",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,13]]],[2,[0,12,24]],[3,[2,22]],[4,[0,4,12,20,24]],[5,[2,6,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[0,4,8,12,16,20,24]],[9,[2,6,18,22]],[10,[0,4,12,20,24]],[11,[2,22]],[12,[0,12,24]],[14,[[0,13]]]]],[1,[[1,[0,12,24]],[3,[0,12,24]],[4,[2,22]],[5,[0,4,20,24]],[6,[2,6,18,22]],[7,[0,4,[8,2],[14,2],20,24]],[8,[2,6,18,22]],[9,[0,4,20,24]],[10,[2,22]],[11,[0,12,24]],[13,[0,12,24]]]],[2,[[2,[0,24]],[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]],[12,[0,24]]]],[3,[[3,[0,24]],[5,[0,24]],[7,[0,24]],[9,[0,24]],[11,[0,24]]]],[4,[[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Hourglass.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "hourglass_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1418241770",
+		"name": "Hourglass",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,13]]],[2,[0,12,24]],[3,[2,22]],[4,[0,4,12,20,24]],[5,[2,6,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[0,4,8,12,16,20,24]],[9,[2,6,18,22]],[10,[0,4,12,20,24]],[11,[2,22]],[12,[0,12,24]],[14,[[0,13]]]]],[1,[[1,[0,12,24]],[3,[0,12,24]],[4,[2,22]],[5,[0,4,20,24]],[6,[2,6,18,22]],[7,[0,4,[8,2],[14,2],20,24]],[8,[2,6,18,22]],[9,[0,4,20,24]],[10,[2,22]],[11,[0,12,24]],[13,[0,12,24]]]],[2,[[2,[0,24]],[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]],[12,[0,24]]]],[3,[[3,[0,24]],[5,[0,24]],[7,[0,24]],[9,[0,24]],[11,[0,24]]]],[4,[[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/hourglass",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "hourglass_4",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "1418241770",
+		"name": "Hourglass",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,13]]],[2,[0,12,24]],[3,[2,22]],[4,[0,4,12,20,24]],[5,[2,6,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[0,4,8,12,16,20,24]],[9,[2,6,18,22]],[10,[0,4,12,20,24]],[11,[2,22]],[12,[0,12,24]],[14,[[0,13]]]]],[1,[[1,[0,12,24]],[3,[0,12,24]],[4,[2,22]],[5,[0,4,20,24]],[6,[2,6,18,22]],[7,[0,4,[8,2],[14,2],20,24]],[8,[2,6,18,22]],[9,[0,4,20,24]],[10,[2,22]],[11,[0,12,24]],[13,[0,12,24]]]],[2,[[2,[0,24]],[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]],[12,[0,24]]]],[3,[[3,[0,24]],[5,[0,24]],[7,[0,24]],[9,[0,24]],[11,[0,24]]]],[4,[[4,[0,24]],[6,[0,24]],[8,[0,24]],[10,[0,24]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "hourglass_5",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "3957535396",
 		"name": "House Of Isty",
 		"by": "Mugwump Dillard",
 		"tiles": 144,
@@ -3965,7 +6552,33 @@ export const data = [
 		"group": "Mugwump Dillard"
 	},
 	{
-		"id": "941946332",
+		"id": "3957535396",
+		"name": "House Of Isty",
+		"by": "Mugwump Dillard",
+		"tiles": 144,
+		"data": "[[0,[[0,[[9,7]]],[2,[[8,8]]],[4,[[7,9]]],[6,[[0,16]]],[8,[[0,16]]],[10,[[7,9]]],[12,[[8,8]]],[14,[[9,7]]]]],[1,[[2,[[11,5]]],[4,[[10,6]]],[6,[[9,7]]],[7,[[1,4],[23,4]]],[8,[[9,7]]],[10,[[10,6]]],[12,[[11,5]]]]],[2,[[4,[[13,3]]],[6,[[12,4]]],[7,[10,20]],[8,[[12,4]]],[10,[[13,3]]]]],[3,[[6,[[14,2]]],[8,[[14,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#House of Isty-md.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "house_of_isty_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "4232373794",
+		"name": "Hovercraft",
+		"by": "Vincent Krebs",
+		"tiles": 144,
+		"data": "[[0,[[0,[[9,5]]],[2,[2,13,24]],[3,[0,4,22,26]],[4,[2,13,24]],[5,[0,[4,2],[20,2],26]],[6,[2,[8,6],24]],[7,[0,[4,2],[20,2],26]],[8,[2,13,24]],[9,[0,4,22,26]],[10,[2,13,24]],[12,[[9,5]]]]],[1,[[0,[[10,4]]],[2,[2,13,24]],[4,[2,13,24]],[6,[[1,5],[12,2],[17,5]]],[8,[2,13,24]],[10,[2,13,24]],[12,[[10,4]]]]],[2,[[0,[[11,3]]],[2,[2,13,24]],[4,[2,13,24]],[6,[[1,2],6,9,[12,2],17,20,[23,2]]],[8,[2,13,24]],[10,[2,13,24]],[12,[[11,3]]]]],[3,[[0,[[12,2]]],[2,[2,13,24]],[4,[2,13,24]],[6,[[1,2],6,9,[12,2],17,20,[23,2]]],[8,[2,13,24]],[10,[2,13,24]],[12,[[12,2]]]]],[4,[[0,13],[2,13],[4,13],[6,[[12,2]]],[8,13],[10,13],[12,13]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Hovercraft.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "hovercraft",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4232373794",
 		"name": "Hovercraft",
 		"by": "Vincent Krebs",
 		"tiles": 144,
@@ -3973,12 +6586,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Hovercraft.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "hovercraft",
+		"filename": "hovercraft_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2118043835",
+		"id": "767291699",
+		"name": "Hurdles",
+		"by": "Leonard Enos",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[0,9]]]]],[1,[[0,[[1,2],[7,2],[13,2]]],[2,[[1,2],[7,2],[13,2]]],[4,[[1,2],[7,2],[13,2]]],[6,[[1,2],[7,2],[13,2]]],[8,[[1,2],[7,2],[13,2]]],[10,[[1,2],[7,2],[13,2]]],[12,[[1,2],[7,2],[13,2]]],[14,[[1,2],[7,2],[13,2]]]]],[2,[[0,[2,8,14]],[2,[2,8,14]],[4,[2,8,14]],[6,[2,8,14]],[8,[2,8,14]],[10,[2,8,14]],[12,[2,8,14]],[14,[2,8,14]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Hurdles.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "hurdles",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "767291699",
 		"name": "Hurdles",
 		"by": "Leonard Enos",
 		"tiles": 144,
@@ -3986,12 +6612,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Hurdles.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "hurdles",
+		"filename": "hurdles_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1572279836",
+		"id": "1885429584",
+		"name": "Hurricane",
+		"by": "Douglas Ulyate",
+		"tiles": 144,
+		"data": "[[0,[[0,[7,23]],[1,[0,9,15,21,30]],[2,[6,11,19,24]],[3,[0,13,17,30]],[4,[5,9,15,21,25]],[5,[13,17]],[6,[4,9,15,21,26]],[8,[1,[5,5],[17,5],29]],[10,[4,9,15,21,26]],[11,[13,17]],[12,[0,5,9,15,21,25,30]],[13,[13,17]],[14,[0,6,11,19,24,30]],[15,[9,15,21]],[16,[7,23]]]],[1,[[1,[0,[8,2],[20,2],30]],[2,[6,12,18,24]],[3,15],[4,[5,13,17,25]],[5,[9,15,21]],[6,[4,26]],[8,[[6,3],[20,3]]],[10,[4,26]],[11,[9,15,21]],[12,[5,13,17,25]],[13,15],[14,[0,6,12,18,24,30]],[15,[[8,2],[20,2]]]]],[2,[[3,[5,15,25]],[4,[13,17]],[5,[5,9,15,21,25]],[8,[[5,3],[21,3]]],[11,[5,9,15,21,25]],[12,[13,17]],[13,[5,15,25]]]],[3,[[4,15],[6,[9,21]],[10,[9,21]],[12,15]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Hurricane.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "hurricane",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1885429584",
 		"name": "Hurricane",
 		"by": "Douglas Ulyate",
 		"tiles": 144,
@@ -3999,12 +6638,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Hurricane.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "hurricane",
+		"filename": "hurricane_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1048321283",
+		"id": "4062306083",
 		"name": "I Love You Sign",
 		"by": "Nanami Kamimura",
 		"tiles": 44,
@@ -4017,7 +6656,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4267227524",
+		"id": "4062306083",
+		"name": "I Love You Sign",
+		"by": "Nanami Kamimura",
+		"tiles": 44,
+		"data": "[[0,[[0,8],[2,[0,8]],[4,[0,[3,2],8]],[6,[[0,5],14]],[7,12],[8,[[0,6]]],[9,12],[10,[[0,6]]],[12,[[0,5]]],[14,[[1,4]]]]],[1,[[5,[[3,2]]],[7,[[3,2]]],[9,[[3,2]]]]],[2,[[10,[[3,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#US Sign Language IloveU.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "i_love_you_sign_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1465112324",
 		"name": "Il-Bul",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -4030,7 +6682,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3213329532",
+		"id": "1465112324",
+		"name": "Il-Bul",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[9,15,27]],[1,[[2,2],[17,5]]],[2,[0,6,9,15,27]],[4,[0,6,9,[15,7]]],[5,[[2,2]]],[6,9],[7,[[15,7]]],[9,[[0,5]]],[10,[[17,5]]],[11,8],[12,[[0,4],25]],[13,[[17,4]]],[14,0],[15,[[2,4],17]],[16,[[19,4]]]]],[1,[[1,[3,9,[16,6]]],[2,[1,5]],[3,9],[4,[1,5,[16,6]]],[5,[3,9]],[7,[[16,6]]],[9,[[1,4]]],[10,[[18,4]]],[12,[[1,3]]],[13,[[18,3]]],[15,[[3,3]]],[16,[[20,3]]]]],[2,[[1,[[17,5]]],[2,9],[3,[1,5]],[4,[9,[17,5]]],[7,[[17,2],[23,2]]],[9,[[2,3]]],[10,[[19,3]]],[12,[[2,2]]],[13,[[19,2]]],[15,[[4,2]]],[16,[[21,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Il-Bul.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "il-bul_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3166915286",
+		"name": "ILOVEU",
+		"by": "Lynnette Layton",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[20,2]]],[1,[2,8,18,24]],[3,[0,10,16,26]],[4,[[12,2]]],[5,[0,26]],[6,13],[7,[0,26]],[8,[2,24]],[9,[4,22]],[10,[6,20]],[11,[0,8,18,25,29]],[12,[10,16]],[13,[0,[12,2],25,29]],[15,[0,13,[25,3]]]]],[1,[[0,[[4,2],[20,2]]],[1,[2,8,18,24]],[3,[0,10,16,26]],[4,[[12,2]]],[5,[0,26]],[6,13],[7,[0,26]],[8,[2,24]],[9,[4,22]],[10,[6,20]],[11,[0,8,18,25,29]],[12,[10,16]],[13,[0,[12,2],25,29]],[15,[0,13,[25,3]]]]],[2,[[0,[[4,2],[20,2]]],[1,[2,8,18,24]],[3,[0,10,16,26]],[4,[[12,2]]],[5,[0,26]],[6,13],[7,[0,26]],[8,[2,24]],[9,[4,22]],[10,[6,20]],[11,[0,8,18,25,29]],[12,[10,16]],[13,[0,[12,2],25,29]],[15,[0,13,[25,3]]]]],[3,[[1,[2,8,18,24]],[5,[0,26]],[6,13],[11,[0,25,29]],[13,[0,25,29]],[15,[0,13,[25,3]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#IloveU.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "iloveu",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3166915286",
 		"name": "ILOVEU",
 		"by": "Lynnette Layton",
 		"tiles": 144,
@@ -4038,12 +6716,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#IloveU.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "iloveu",
+		"filename": "iloveu_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "342661997",
+		"id": "2269984935",
+		"name": "Impossible Mission",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],12,20,[24,4]]],[2,[4,[12,2],[18,2],24]],[4,[4,12,16,20,24]],[6,[4,12,20,[24,3]]],[8,[4,12,20,24]],[10,[4,12,20,24]],[12,[[0,5],12,20,24]],[15,[[0,16]]]]],[1,[[0,[[0,5],12,20,[24,4]]],[2,[4,[12,2],[18,2],24]],[4,[4,12,16,20,24]],[6,[12,20,[24,3]]],[8,[4,12,20,24]],[10,[4,12,20,24]],[12,[[0,5],12,20,24]]]],[2,[[0,[[2,3],[26,3]]],[2,[4,[12,2],[18,2]]],[4,[12,16,20]],[6,[12,20,[26,2]]],[8,[12,20]],[10,[4,12,20]],[12,[[2,3]]]]],[3,[[0,[4,[28,2]]],[4,[12,16,20]],[6,[12,20,28]],[8,[12,20]],[12,4]]],[4,[[0,30],[6,[12,20]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Mission Impossible.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "impossible_mission",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2269984935",
 		"name": "Impossible Mission",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -4051,12 +6742,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Mission Impossible.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "impossible_mission",
+		"filename": "impossible_mission_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1441785050",
+		"id": "2966589370",
+		"name": "Inazuma",
+		"by": "Lynnette Layton",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[6,3],16,[30,2]]],[2,[2,[8,3],18,[28,3]]],[4,[4,[10,3],20,[24,4]]],[6,[6,[12,3],22,[26,2]]],[8,[4,8,[14,3],24,28]],[10,[[4,2],10,[16,3],26]],[12,[[2,4],12,[18,3],28]],[14,[[0,3],14,[20,3],30]],[16,[[0,2],16,[22,3],32]]]],[1,[[0,[0,8,16,32]],[2,[2,10,18,30]],[4,[4,12,20,24,28]],[6,[6,14,22,26]],[8,[4,8,16,24,28]],[10,[6,10,18,26]],[12,[4,8,12,20,28]],[14,[2,14,22,30]],[16,[0,16,24,32]]]],[2,[[0,[0,8,16,32]],[2,[2,10,18,30]],[4,[4,12,20,28]],[6,[6,14,22,26]],[8,[8,16,24]],[10,[6,10,18,26]],[12,[4,12,20,28]],[14,[2,14,22,30]],[16,[0,16,24,32]]]],[3,[[8,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Inazuma.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "inazuma",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2966589370",
 		"name": "Inazuma",
 		"by": "Lynnette Layton",
 		"tiles": 144,
@@ -4064,12 +6768,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Inazuma.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "inazuma",
+		"filename": "inazuma_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1901484058",
+		"id": "4110587426",
+		"name": "Inca",
+		"by": "Bolli",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,2]]],[1,[[8,3],[18,3]]],[2,[[14,2]]],[3,[[8,3],[18,3]]],[4,[[14,2]]],[5,[[8,3],[18,3]]],[6,[[0,2],[14,2],[28,2]]],[7,[[7,3],[19,3]]],[8,[[0,2],[14,2],[28,2]]],[9,[[7,3],[19,3]]],[10,[[0,2],[14,2],[28,2]]],[11,[[8,3],[18,3]]],[12,[[14,2]]],[13,[[8,3],[18,3]]],[14,[[14,2]]],[15,[[8,3],[18,3]]],[16,[[14,2]]]]],[1,[[2,[[14,2]]],[3,[[10,2],[18,2]]],[4,[[14,2]]],[5,[[10,2],[18,2]]],[6,[[14,2]]],[7,[[9,2],[19,2]]],[8,[1,[14,2],29]],[9,[[9,2],[19,2]]],[10,[[14,2]]],[11,[[10,2],[18,2]]],[12,[[14,2]]],[13,[[10,2],[18,2]]],[14,[[14,2]]]]],[2,[[4,[[14,2]]],[5,[12,18]],[6,[[14,2]]],[7,[11,19]],[8,[[14,2]]],[9,[11,19]],[10,[[14,2]]],[11,[12,18]],[12,[[14,2]]]]],[3,[[6,[[14,2]]],[8,[[14,2]]],[10,[[14,2]]]]],[4,[[7,15],[9,15]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Inca.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "inca",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4110587426",
 		"name": "Inca",
 		"by": "Bolli",
 		"tiles": 144,
@@ -4077,12 +6794,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Inca.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "inca",
+		"filename": "inca_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3487249548",
+		"id": "2986411492",
 		"name": "Inca Temple",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4095,7 +6812,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "863360123",
+		"id": "2986411492",
+		"name": "Inca Temple",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,3]]],[2,[[6,5]]],[4,[[4,7]]],[6,[[2,9]]],[8,[[0,11]]],[10,[[2,9]]],[12,[[4,7]]],[14,[[6,5]]],[16,[[8,3]]]]],[1,[[2,[[8,3]]],[4,[[6,5]]],[6,[[4,7]]],[8,[[0,11]]],[10,[[4,7]]],[12,[[6,5]]],[14,[[8,3]]]]],[2,[[4,[[8,3]]],[6,[[6,5]]],[8,[[2,9]]],[10,[[6,5]]],[12,[[8,3]]]]],[3,[[6,[[8,3]]],[8,[[4,7]]],[10,[[8,3]]]]],[4,[[7,[[8,3]]],[9,[[8,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Inca Temple.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "inca_temple_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2387412163",
 		"name": "Infinity",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4108,7 +6838,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2700958687",
+		"id": "2387412163",
+		"name": "Infinity",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,4],[20,4]]],[2,[2,12,18,28]],[3,[0,[14,2],30]],[5,[0,[14,2],30]],[6,[2,12,18,28]],[8,[[4,4],[20,4]]]]],[1,[[0,[[4,4],[20,4]]],[2,[2,12,18,28]],[3,[0,[14,2],30]],[5,[0,[14,2],30]],[6,[2,12,18,28]],[8,[[4,4],[20,4]]]]],[2,[[0,[[4,4],[20,4]]],[2,[2,12,18,28]],[3,[0,[14,2],30]],[5,[0,[14,2],30]],[6,[2,12,18,28]],[8,[[4,4],[20,4]]]]],[3,[[0,[[4,4],[20,4]]],[2,[2,12,18,28]],[3,[0,[14,2],30]],[5,[0,[14,2],30]],[6,[2,12,18,28]],[8,[[4,4],[20,4]]]]],[4,[[0,[[6,2],[22,2]]],[2,[2,12,18,28]],[6,[2,12,18,28]],[8,[[6,2],[22,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Infinity.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "infinity_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "1268865479",
 		"name": "Inner Circle",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -4121,7 +6864,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1431760200",
+		"id": "1268865479",
+		"name": "Inner Circle",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[24,2]]],[2,[[0,14]]],[4,[2,24]],[5,[[6,3],[16,3]]],[6,[2,24]],[7,[6,20]],[8,[2,24]],[9,[[6,8]]],[10,[2,24]],[12,[[0,6],[16,6]]],[14,[[0,2],10,16,[24,2]]]]],[1,[[2,[[2,5],[16,5]]],[4,[2,24]],[5,[[6,3],[16,3]]],[6,[2,24]],[7,20],[8,[2,24]],[9,[[6,8]]],[10,[2,24]],[12,[[2,5],[16,5]]]]],[2,[[2,[[2,3],[20,3]]],[4,[2,24]],[5,[[6,2],[18,2]]],[9,[[6,3],[16,3]]],[10,[2,24]],[12,[[2,3],[20,3]]]]],[3,[[2,[2,24]],[5,[6,20]],[9,[[6,2],[18,2]]],[12,[2,24]]]],[4,[[2,[2,24]],[9,[6,20]],[12,2]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadinner_circle.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "inner_circle_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1172027382",
 		"name": "Interweaved",
 		"by": "Tsubassa Kurenai",
 		"tiles": 64,
@@ -4134,7 +6890,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "1588407064",
+		"id": "1351485734",
 		"name": "Interweaved 2",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -4147,7 +6903,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "660848838",
+		"id": "463673170",
 		"name": "Inverted Pyramid With Front",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -4160,7 +6916,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "899142400",
+		"id": "463673170",
+		"name": "Inverted Pyramid With Front",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[4,[[4,3]]],[6,[[4,3]]],[8,[[4,3]]],[14,6]]],[1,[[3,[[3,4]]],[5,[[3,4]]],[7,[[3,4]]],[9,[[3,4]]],[14,[[5,2]]]]],[2,[[2,[[2,5]]],[4,[[2,5]]],[6,[[2,5]]],[8,[[2,5]]],[10,[[2,5]]],[14,[[4,3]]]]],[3,[[1,[[1,6]]],[3,[[1,6]]],[5,[[1,6]]],[7,[[1,6]]],[9,[[1,6]]],[11,[[1,6]]],[14,[[5,2]]]]],[4,[[0,[[0,7]]],[2,[[0,7]]],[4,[[0,7]]],[6,[[0,7]]],[8,[[0,7]]],[10,[[0,7]]],[12,[[0,7]]],[14,6]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Upsidedown Pyramid.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "inverted_pyramid_with_front_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "4109886928",
 		"name": "Isty",
 		"by": "Mugwump Dillard",
 		"tiles": 144,
@@ -4173,7 +6942,20 @@ export const data = [
 		"group": "Mugwump Dillard"
 	},
 	{
-		"id": "44947605",
+		"id": "4109886928",
+		"name": "Isty",
+		"by": "Mugwump Dillard",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,3],[11,4],[21,3]]],[2,[[2,3],[10,5],[22,3]]],[4,[[1,3],[9,6],[23,3]]],[6,[[0,3],[8,7],[24,3]]],[8,[[1,3],[9,6],[23,3]]],[10,[[2,3],[10,5],[22,3]]],[12,[[3,3],[11,4],[21,3]]]]],[1,[[0,[[4,2],[22,2]]],[2,[[3,2],[13,2],[23,2]]],[4,[[2,2],[12,3],[24,2]]],[6,[[1,2],[11,4],[25,2]]],[8,[[2,2],[12,3],[24,2]]],[10,[[3,2],[13,2],[23,2]]],[12,[[4,2],[22,2]]]]],[2,[[0,[5,23]],[2,[4,24]],[4,[3,[13,2],25]],[6,[2,[12,3],26]],[8,[3,[13,2],25]],[10,[4,24]],[12,[5,23]]]],[3,[[6,[[13,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Isty-md.LAY",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "isty_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "857274043",
 		"name": "J",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -4186,7 +6968,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "7438535",
+		"id": "683762091",
 		"name": "Jamaican Flag",
 		"by": "Tsubassa Kurenai",
 		"tiles": 132,
@@ -4199,7 +6981,20 @@ export const data = [
 		"group": "Kurenai - Maps and flags"
 	},
 	{
-		"id": "703640936",
+		"id": "3629579948",
+		"name": "Japan",
+		"by": "Naoki Haga",
+		"tiles": 96,
+		"data": "[[0,[[0,[[0,4],[21,3]]],[2,[0,6,[21,2]]],[4,[[0,4],[15,4]]],[6,[0,6,[11,5],26]],[8,[[0,4],[11,5],[22,5]]],[10,[[9,5],[24,3]]],[12,[[11,3],23,26,29]],[14,[[7,3],22,26,30]]]],[1,[[0,[[0,4]]],[2,[0,6]],[4,[0,6,17]],[5,19],[6,[0,6,[15,2],26]],[8,[[0,4],[13,2],[22,5]]],[10,[13,26]],[11,11],[12,[23,26,29]],[14,[22,26,30]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Japan.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "japan",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3629579948",
 		"name": "Japan",
 		"by": "Naoki Haga",
 		"tiles": 96,
@@ -4207,12 +7002,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Japan.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "japan",
+		"filename": "japan_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "754244203",
+		"id": "3804989351",
 		"name": "Joined Rings",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4225,7 +7020,20 @@ export const data = [
 		"group": "Phantagia - Package A - Package 04"
 	},
 	{
-		"id": "1047975362",
+		"id": "1110030704",
+		"name": "Joker",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,26]],[1,[[3,11]]],[3,[[1,13]]],[5,[[1,13]]],[7,[[1,3],[21,3]]],[8,[9,12,15,18]],[9,[[1,3],[21,3]]],[11,[[1,13]]],[13,[[1,13]]],[15,[[3,11]]],[16,[0,26]]]],[1,[[3,[[3,11]]],[5,[[1,2],[23,2]]],[6,[6,20]],[7,[[1,2],[23,2]]],[9,[[1,2],[23,2]]],[10,[6,20]],[11,[[1,2],[23,2]]],[13,[[3,11]]]]],[2,[[5,[1,25]],[7,[1,25]],[9,[1,25]],[11,[1,25]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Joker.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "joker",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1110030704",
 		"name": "Joker",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -4233,12 +7041,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Joker.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "joker",
+		"filename": "joker_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3415288504",
+		"id": "1103306624",
+		"name": "Jon Prater's Layout",
+		"by": "Jon Prater",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,6],[16,8]]],[2,[[8,2],[16,2],[26,3]]],[4,[[8,2],[16,2],[28,3]]],[6,[[8,2],[16,2],[26,3]]],[7,[[20,3]]],[8,[[8,2],[16,2],[26,3]]],[9,[[20,3]]],[10,[[0,2],[8,2],[16,2]]],[12,[[1,2],[8,2],[16,2]]],[14,[[2,2],[7,2],[16,2]]],[16,[[3,3],12,[16,2],23]]]],[1,[[0,[[0,6],[16,8]]],[2,[[8,2],[16,2],[26,3]]],[4,[[8,2],[16,2],[28,3]]],[6,[[8,2],[16,2],[26,3]]],[7,[[20,3]]],[8,[[8,2],[16,2],[26,3]]],[9,[[20,3]]],[10,[[0,2],[8,2],[16,2]]],[12,[[1,2],[8,2],[16,2]]],[14,[[2,2],[7,2],[16,2]]],[16,[[3,3],[16,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#JPs.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "jon_praters_layout",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1103306624",
 		"name": "Jon Prater's Layout",
 		"by": "Jon Prater",
 		"tiles": 144,
@@ -4246,12 +7067,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#JPs.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "jon_praters_layout",
+		"filename": "jon_praters_layout_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1473774320",
+		"id": "2418976822",
 		"name": "Joyce",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -4264,7 +7085,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3335733383",
+		"id": "3642349487",
+		"name": "Joystick",
+		"by": "Patrick Becker",
+		"tiles": 88,
+		"data": "[[0,[[0,[[8,3]]],[2,[[7,4]]],[4,[[8,3]]],[6,10],[8,10],[10,[[9,2]]],[12,[[3,2],[8,3],[15,2]]],[14,[[2,9]]],[16,[[0,11]]],[18,[[2,9]]]]],[1,[[1,[[8,3]]],[3,[[8,3]]],[10,10],[12,[[9,2]]],[14,[[3,8]]],[16,[[1,10]]],[18,[[3,8]]]]],[2,[[2,[[9,2]]]]],[3,[[2,10]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#JOYSTICK.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "joystick",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3642349487",
 		"name": "Joystick",
 		"by": "Patrick Becker",
 		"tiles": 88,
@@ -4272,12 +7106,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#JOYSTICK.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "joystick",
+		"filename": "joystick_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1915460529",
+		"id": "717091849",
 		"name": "JRR Tolkien",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4290,7 +7124,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "2040160598",
+		"id": "3290293230",
 		"name": "Judas Priest",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4303,7 +7137,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "794965633",
+		"id": "1248150525",
 		"name": "Jupiter",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4316,7 +7150,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2310982625",
+		"id": "1248150525",
+		"name": "Jupiter",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,8]]],[2,[[0,10]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[0,10]]],[12,[[0,10]]],[14,[[0,10]]],[16,[[2,8]]]]],[1,[[0,[[2,4],14]],[2,[0,10,14]],[4,[10,14]],[6,[10,14]],[8,[[6,2],14]],[10,[[2,2],14]],[12,[[0,9]]],[14,14],[16,14]]],[2,[[0,[[2,4],14]],[2,[0,10,14]],[4,[10,14]],[6,[10,14]],[8,[[6,2],14]],[10,[[2,2],14]],[12,[[0,9]]],[14,14],[16,14]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Jupiter.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "jupiter_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "2499111603",
 		"name": "Jusenkyo",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -4329,7 +7176,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3341203518",
+		"id": "2499111603",
+		"name": "Jusenkyo",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[5,2],[12,5],[25,2],32]],[2,[[3,4],[13,4],[23,4]]],[4,[[3,4],[23,4]]],[5,[[15,2]]],[6,[0,[5,2],[25,2],32]],[7,[2,[13,4],30]],[8,[0,32]],[9,[2,[13,4],30]],[10,[0,[5,2],[25,2],32]],[11,[[15,2]]],[12,[[3,4],[23,4]]],[14,[[3,4],[13,4],[23,4]]],[16,[0,[5,2],[12,5],[25,2],32]]]],[1,[[0,[[13,4]]],[2,[[14,3]]],[3,[6,26]],[7,[0,32]],[8,[2,16,30]],[9,[0,32]],[13,[6,26]],[14,[[14,3]]],[16,[[13,4]]]]],[2,[[0,[[14,3]]],[2,[[15,2]]],[3,[6,26]],[8,[1,16,31]],[13,[6,26]],[14,[[15,2]]],[16,[[14,3]]]]],[3,[[3,[6,26]],[8,16],[13,[6,26]]]],[4,[[3,[6,26]],[8,16],[13,[6,26]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Jusenkyo.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "jusenkyo_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "534844276",
+		"name": "K For Kyodai",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[12,3]]],[2,[[0,3],[10,3]]],[4,[[0,3],[8,3]]],[6,[[0,6]]],[8,[[0,5]]],[10,[[0,6]]],[12,[[0,3],[8,3]]],[14,[[0,3],[10,3]]],[16,[[0,3],[12,3]]]]],[1,[[0,[[0,3],[12,3]]],[2,[[0,3],[10,3]]],[4,[[0,3],[8,3]]],[6,[[0,6]]],[8,[[0,5]]],[10,[[0,6]]],[12,[[0,3],[8,3]]],[14,[[0,3],[10,3]]],[16,[[0,3],[12,3]]]]],[2,[[0,[[0,3],[12,3]]],[2,[0,4,10,14]],[4,[0,4,8,12]],[6,[0,[4,2],10]],[8,[0,8]],[10,[0,[4,2],10]],[12,[0,4,8,12]],[14,[0,4,10,14]],[16,[[0,3],[12,3]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#K for Kyodai.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "k_for_kyodai",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "534844276",
 		"name": "K For Kyodai",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -4337,12 +7210,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#K for Kyodai.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "k_for_kyodai",
+		"filename": "k_for_kyodai_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1808013631",
+		"id": "2735818035",
 		"name": "K For Kyodai Traditional",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -4355,7 +7228,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "681494278",
+		"id": "2597876854",
 		"name": "Kenshin's Sword",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -4368,7 +7241,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2053386817",
+		"id": "2597876854",
+		"name": "Kenshin's Sword",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[3,7,10,[13,2],31]],[2,[20,24,28]],[3,[4,9,12,16,32]],[5,4],[6,[[0,2],[6,12]]],[7,[4,30]],[8,[[0,2],[6,12],32]],[9,[4,30]],[10,32],[11,4],[12,[8,12,17,22,27]],[13,[1,31]],[15,[10,15,18,21,26]],[16,[1,5,30]]]],[1,[[0,[10,[13,2],31]],[2,[20,24,28]],[3,[12,16,32]],[4,4],[6,[[4,13]]],[7,[[0,2],30]],[8,[4,32]],[10,[4,32]],[12,[8,12,17,22,27]],[13,[1,31]],[15,[10,15,18,21,26]],[16,[1,5,30]]]],[2,[[2,[20,24,28]],[3,[12,16,32]],[5,4],[7,4],[9,4],[12,[8,12,17,22,27]],[13,31],[15,[10,15,21,26]],[16,[1,5,30]]]],[3,[[2,[20,24,28]],[3,32],[7,4],[12,[12,17,22,27]],[13,31]]],[4,[[13,31]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Kenshin's Sword.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "kenshins_sword_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2726308279",
 		"name": "Key",
 		"by": "Alexey Charkov",
 		"tiles": 130,
@@ -4381,7 +7267,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2369299662",
+		"id": "2726308279",
+		"name": "Key",
+		"by": "Alexey Charkov",
+		"tiles": 130,
+		"data": "[[0,[[0,4],[1,[2,6]],[2,[[18,7]]],[3,[[0,2],[6,6]]],[4,[[18,7]]],[5,[2,6]],[6,[4,[18,7]]],[8,[[18,3],26,30]]]],[1,[[0,4],[1,[2,6]],[2,[[18,7]]],[3,[[0,2],[6,6]]],[4,[[18,7]]],[5,[2,6]],[6,[4,[18,7]]],[8,[18,22,26,30]]]],[2,[[0,4],[2,[[18,7]]],[3,[2,[6,6]]],[4,[[18,7]]],[6,[4,18,26]],[8,[18,22,26,30]]]],[3,[[0,4],[2,[[18,7]]],[3,[2,6]],[4,18],[6,4],[8,[18,22,26,30]]]],[4,[[2,[18,30]],[8,[18,22,26,30]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadkey.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "key_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2954990464",
 		"name": "Keys Of Fort Boyard",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -4394,7 +7293,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1235507307",
+		"id": "2954990464",
+		"name": "Keys Of Fort Boyard",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,7]]],[1,[[1,2]]],[2,[[22,2]]],[3,[0,[4,5],17]],[4,[21,25]],[5,[[1,2],8,12]],[6,[[22,2]]],[7,[6,10,[15,2]]],[8,23],[9,[[6,5],18]],[10,[[21,2]]],[11,[[15,2]]],[12,[[1,2],8,12,23]],[14,[0,[4,5],17,[21,2]]],[16,[[1,2]]],[17,[[8,7]]]]],[1,[[2,[[1,2]]],[3,[8,12,17,[22,2]]],[4,[[1,2]]],[5,[8,12,[22,2]]],[7,[6,10]],[8,[[15,2]]],[9,[6,10]],[10,[[15,2],[21,2]]],[12,[8,12]],[13,[[1,2]]],[14,[8,12,17,[21,2]]],[15,[[1,2]]]]],[2,[[3,[2,17]],[4,23],[9,16],[14,[2,17]]]],[3,[[2,[[1,2]]],[3,[[22,2]]],[4,[[1,2]]],[5,[[22,2]]],[8,[[15,2]]],[10,[[15,2]]],[13,[[1,2]]],[15,[[1,2]]]]],[4,[[1,[[1,2]]],[2,[[22,2]]],[3,[0,4]],[4,[21,25]],[5,[[1,2]]],[6,[[22,2]]],[7,[[15,2]]],[9,[14,18]],[11,[[15,2]]],[12,[[1,2]]],[14,[0,4]],[16,[[1,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Keys.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "keys_of_fort_boyard_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "939712697",
 		"name": "King",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4407,7 +7319,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3282866547",
+		"id": "939712697",
+		"name": "King",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,10],[1,[8,12]],[2,[[1,3],10,[15,3]]],[4,[0,7,10,13,20]],[6,[[0,11]]],[8,[[2,9]]],[10,[[2,9]]],[12,[[2,9]]]]],[1,[[0,10],[1,[8,12]],[2,[[1,3],10,[15,3]]],[4,[0,7,10,13,20]],[6,[[0,4],10,[14,4]]],[8,[[2,9]]],[10,[[2,9]]],[12,[[2,9]]]]],[2,[[2,[[1,3],[15,3]]],[4,[0,7,13,20]],[6,[0,20]],[8,[[4,7]]],[10,[4,10,16]],[12,[[4,7]]]]],[3,[[8,[[6,2],[12,2]]],[10,[4,10,16]],[12,[[6,2],[12,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaychess.zip#King.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "king_2",
+		"path": "phantagia/eplayouts/eplaychess",
+		"group": "Phantagia - Package A - Chess"
+	},
+	{
+		"id": "190911903",
+		"name": "Kiss",
+		"by": "Patrick Becker",
+		"tiles": 104,
+		"data": "[[0,[[0,[2,8,14,21,30]],[2,[2,7,14,20,29]],[4,[2,6,14,19,28]],[6,[1,5,13,18,27]],[8,[[1,3],13,[17,4],[26,4]]],[10,[1,5,13,22,31]],[12,[0,6,12,21,30]],[14,[0,7,12,20,29]],[16,[0,8,12,19,28]]]],[1,[[0,[2,8,14,21,30]],[2,[2,7,14,20,29]],[4,[2,6,14,19,28]],[6,[1,5,13,18,27]],[8,[[1,3],13,[17,4],[26,4]]],[10,[1,5,13,22,31]],[12,[0,6,12,21,30]],[14,[0,7,12,20,29]],[16,[0,8,12,19,28]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#KISS.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "kiss",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "190911903",
 		"name": "Kiss",
 		"by": "Patrick Becker",
 		"tiles": 104,
@@ -4415,12 +7353,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#KISS.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "kiss",
+		"filename": "kiss_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "3103422729",
+		"id": "685558013",
 		"name": "Kisses And Hugs",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -4433,7 +7371,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "444523291",
+		"id": "3577486931",
 		"name": "Km",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -4446,7 +7384,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2439088968",
+		"id": "3577486931",
+		"name": "Km",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[8,2],[14,2],[24,2]]],[2,[[0,2],[6,2],[14,3],[22,3]]],[3,20],[4,[[0,4],[14,3],[22,3]]],[5,20],[6,[[0,4],[14,2],[24,2]]],[7,20],[8,[[0,2],[6,2],[14,2],[24,2]]],[10,[[0,2],[8,2],[14,2],[24,2]]]]],[1,[[0,[[0,2],8,[14,2],[24,2]]],[2,[0,6,14,18,22,26]],[3,20],[4,[0,4,14,26]],[5,[2,6,20]],[6,[0,4,14,26]],[7,20],[8,[0,6,14,26]],[10,[[0,2],8,[14,2],[24,2]]]]],[2,[[0,[16,24]],[1,[0,14,26]],[2,[18,22]],[3,[0,14,20,26]],[5,[[0,3],14,20,26]],[7,[0,14,20,26]],[9,[0,14,26]]]],[3,[[2,[0,14,18,22,26]],[3,20],[4,[0,14,26]],[5,[2,20]],[6,[0,14,26]],[7,20],[8,[0,14,26]]]],[4,[[3,[0,14,26]],[5,[0,14,20,26]],[7,[0,14,26]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadkm.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "km_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "439519780",
 		"name": "Knight",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4459,7 +7410,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1144079484",
+		"id": "439519780",
+		"name": "Knight",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,4],16]],[2,[[4,2],[10,3]]],[4,[[2,8]]],[6,[[0,9]]],[8,[[2,2],[8,5]]],[10,[[6,5]]],[12,[[4,6]]],[14,[[0,10]]]]],[1,[[0,[[6,4]]],[2,[[4,2],[10,3]]],[4,[[2,8]]],[6,[[0,9]]],[8,[[2,2],[8,5]]],[10,[[6,5]]],[12,[[4,6]]],[14,[[0,10]]]]],[2,[[0,[[6,4]]],[2,[4,14]],[4,[2,16]],[6,[0,6,16]],[8,[[2,2],8,16]],[10,[6,14]],[12,[[6,4]]],[14,[[2,8]]]]],[3,[[14,[[4,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaychess.zip#Knight.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "knight_3",
+		"path": "phantagia/eplayouts/eplaychess",
+		"group": "Phantagia - Package A - Chess"
+	},
+	{
+		"id": "444339136",
 		"name": "Knight 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4472,7 +7436,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2293063832",
+		"id": "444339136",
+		"name": "Knight 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,8]],[2,[0,[6,3]]],[4,[0,[4,5],[16,2]]],[5,[2,14]],[6,[[6,3],[16,2]]],[7,14],[8,[[6,3],[16,2]]],[10,[6,10]],[12,[[4,2],[10,2]]],[14,[[0,10]]]]],[1,[[0,[0,8]],[2,[0,[6,3]]],[4,[0,[4,5],[16,2]]],[5,[2,14]],[6,[[6,3],[16,2]]],[7,14],[8,[[6,3],[16,2]]],[10,[6,10]],[12,[[4,2],[10,2]]],[14,[[0,10]]]]],[2,[[0,[0,8]],[2,[0,6,10]],[4,[0,[4,5],[16,2]]],[6,[[6,3],[16,2]]],[8,[[6,3],[16,2]]],[10,[6,10]],[12,[[4,2],[10,2]]],[14,[[2,8]]]]],[3,[[0,8],[2,[6,10]],[4,[[4,5]]],[6,[[6,3]]],[8,8],[10,[6,10]],[12,[[4,2],[10,2]]]]],[4,[[4,[6,10]],[6,8]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Knight 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "knight_2_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2744676548",
 		"name": "Koffin",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -4485,7 +7462,20 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "90321222",
+		"id": "2899220310",
+		"name": "Krebs",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9],[19,8]]],[2,[0,33]],[4,[0,33]],[6,[0,33]],[8,[0,16,33]],[9,[14,18]],[10,[12,16,20]],[11,[0,14,18,33]],[12,16],[13,[0,33]],[15,[0,33]],[17,[0,33]],[19,[[0,9],[19,8]]]]],[1,[[0,[16,19]],[8,[0,[15,2],33]],[9,[13,19]],[10,[11,[15,2],21]],[11,[0,13,19,33]],[12,[[15,2]]],[19,[16,19]]]],[2,[[7,16],[8,[14,18,33]],[9,[12,16,20]],[10,[10,14,18,22]],[11,[12,16,20,33]],[12,[14,18]],[13,16]]],[3,[[7,[[15,2]]],[8,[13,19,33]],[9,[11,[15,2],21]],[10,[9,13,19,23]],[11,[11,[15,2],21,33]],[12,[13,19]],[13,[[15,2]]]]],[4,[[6,16],[7,[14,18]],[8,[12,16,20]],[9,[10,14,18,22]],[10,[8,12,16,20,24]],[11,[10,14,18,22]],[12,[12,16,20]],[13,[14,18]],[14,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Krebs.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "krebs",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2899220310",
 		"name": "Krebs",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4493,12 +7483,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Krebs.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "krebs",
+		"filename": "krebs_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2101302483",
+		"id": "3710499391",
 		"name": "Kreuz Und Quer",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -4511,7 +7501,20 @@ export const data = [
 		"group": "Kurenai - Stacks"
 	},
 	{
-		"id": "1543363486",
+		"id": "2637391598",
+		"name": "Kujaku (Peacock)",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[13,6]]],[1,[11,[25,2]]],[2,[[7,2],[13,6]]],[3,[[3,2],11,[25,3]]],[4,[[7,2]]],[5,[[1,3],[26,3]]],[7,[[0,3],[10,3],18,[26,3]]],[9,[[1,3],[26,3]]],[10,[[7,2]]],[11,[[3,2],11,[25,3]]],[12,[[7,2],[13,6]]],[13,[11,[25,2]]],[14,[[13,6]]]]],[1,[[0,[[13,6]]],[1,[11,25]],[2,[[7,2]]],[3,[5,27]],[5,[3,28]],[6,[[13,2],19]],[7,[[0,2],9,28]],[8,[[13,2],19]],[9,[3,28]],[11,[5,27]],[12,[[7,2]]],[13,[11,25]],[14,[[13,6]]]]],[2,[[1,25],[3,27],[5,[3,[14,2],20,28]],[7,[2,8,28]],[9,[3,[14,2],20,28]],[11,27],[13,25]]],[3,[[3,27],[4,[[15,2]]],[5,[21,28]],[7,[7,28]],[9,[21,28]],[10,[[15,2]]],[11,27]]],[4,[[6,[22,28]],[7,6],[8,[22,28]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kujaku.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kujaku_(peacock)",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2637391598",
 		"name": "Kujaku (Peacock)",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -4519,12 +7522,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kujaku.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kujaku_(peacock)",
+		"filename": "kujaku_(peacock)_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2390866739",
+		"id": "1688221659",
+		"name": "Kumo",
+		"by": "Lynnette Layton",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],12,16]],[2,[[0,4],10,14]],[4,[[0,3],8,12,16]],[6,[[0,2],6,10,14]],[8,[0,4,8,12,16]],[10,[2,6,10,[14,2]]],[12,[0,4,8,[12,3]]],[14,[2,6,[10,4]]],[16,[0,4,[8,5]]]]],[1,[[0,[[0,5],12,16]],[2,[[0,2],6,10,14]],[4,[0,4,8,12,16]],[6,[[0,2],6,10,14]],[8,[0,4,8,12,16]],[10,[2,6,10,[14,2]]],[12,[0,4,8,12,16]],[14,[2,6,10,[14,2]]],[16,[0,4,[8,5]]]]],[2,[[0,[[0,4],16]],[2,[[0,2],14]],[4,[0,4,12]],[6,[0,6,10]],[8,8],[10,[6,10,16]],[12,[4,12,16]],[14,[2,[14,2]]],[16,[0,[10,4]]]]],[3,[[0,[2,16]],[2,[0,14]],[4,12],[6,10],[8,8],[10,6],[12,4],[14,[2,16]],[16,[0,14]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kumo.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kumo",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1688221659",
 		"name": "Kumo",
 		"by": "Lynnette Layton",
 		"tiles": 144,
@@ -4532,12 +7548,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kumo.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kumo",
+		"filename": "kumo_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "175171013",
+		"id": "227266071",
+		"name": "Kyodai N14",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[8,20]],[2,[6,[10,5],22]],[3,[8,20]],[4,[6,14,22]],[5,[4,12,16,24]],[6,[6,10,14,18,22]],[7,[[2,2],8,20,[24,2]]],[8,[0,6,10,14,18,22,28]],[9,[[2,2],8,20,[24,2]]],[10,[6,10,14,18,22]],[11,[4,12,16,24]],[12,[6,14,22]],[13,[8,20]],[14,[6,[10,5],22]],[15,[8,20]],[16,14]]],[1,[[1,14],[2,[8,11,17,20]],[3,[6,14,22]],[5,[6,[12,3],22]],[6,[4,10,18,24]],[7,[6,14,22]],[8,[[2,2],[8,2],[18,2],[24,2]]],[9,[6,14,22]],[10,[4,10,18,24]],[11,[6,[12,3],22]],[13,[6,14,22]],[14,[8,11,17,20]],[15,14]]],[2,[[4,14],[6,14],[7,[5,10,18,23]],[8,[3,7,14,21,25]],[9,[5,10,18,23]],[10,14],[12,14]]],[3,[[5,14],[7,14],[8,[[4,2],10,18,[22,2]]],[9,14],[11,14]]],[4,[[8,[5,23]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n14.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n14",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "227266071",
 		"name": "Kyodai N14",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4545,12 +7574,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»14.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n14",
+		"filename": "kyodai_n14_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3546715855",
+		"id": "3797451329",
+		"name": "Kyodai N17",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[0,6,12,18]],[4,[0,6,12,18]],[6,[[0,10]]],[8,[0,6,12,18]],[10,[0,6,12,18]],[12,[[0,10]]]]],[1,[[0,[[0,10]]],[2,[0,6,12,18]],[4,[0,6,12,18]],[6,[[0,10]]],[8,[0,6,12,18]],[10,[0,6,12,18]],[12,[[0,10]]]]],[2,[[0,[[0,10]]],[2,[0,6,12,18]],[4,[0,6,12,18]],[6,[[0,10]]],[8,[0,6,12,18]],[10,[0,6,12,18]],[12,[[0,10]]]]],[3,[[0,[0,18]],[6,[[8,2]]],[12,[0,18]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n17.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n17",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3797451329",
 		"name": "Kyodai N17",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4558,12 +7600,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»17.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n17",
+		"filename": "kyodai_n17_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3698229737",
+		"id": "3199497073",
+		"name": "Kyodai N18",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[1,[14,18]],[2,[12,20]],[3,[10,22]],[4,[8,24]],[5,[6,16,26]],[6,[4,14,18,28]],[7,[2,12,16,20,30]],[8,[0,10,14,18,22,32]],[9,[2,12,16,20,30]],[10,[4,14,18,28]],[11,[6,16,26]],[12,[8,24]],[13,[10,22]],[14,[12,20]],[15,[14,18]],[16,16]]],[1,[[0,16],[1,[14,18]],[2,[12,20]],[3,[10,22]],[4,[8,24]],[5,[6,26]],[6,[4,28]],[7,[2,30]],[8,[0,32]],[9,[2,30]],[10,[4,28]],[11,[6,26]],[12,[8,24]],[13,[10,22]],[14,[12,20]],[15,[14,18]],[16,16]]],[2,[[0,16],[1,[14,18]],[2,[12,20]],[3,[10,22]],[4,[8,24]],[5,[6,26]],[6,[4,28]],[7,[2,30]],[8,[0,32]],[9,[2,30]],[10,[4,28]],[11,[6,26]],[12,[8,24]],[13,[10,22]],[14,[12,20]],[15,[14,18]],[16,16]]],[3,[[0,16],[1,[14,18]],[2,[12,20]],[3,[10,22]],[4,[8,24]],[5,[6,26]],[6,[4,28]],[7,[2,30]],[8,[0,32]],[9,[2,30]],[10,[4,28]],[11,[6,26]],[12,[8,24]],[13,[10,22]],[14,[12,20]],[15,[14,18]],[16,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n18.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n18",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3199497073",
 		"name": "Kyodai N18",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4571,12 +7626,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»18.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n18",
+		"filename": "kyodai_n18_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1289428132",
+		"id": "2646898848",
+		"name": "Kyodai N20",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,7]]],[1,[6,22]],[2,[4,14,24]],[3,[2,12,16,26]],[4,[0,10,14,18,28]],[5,[8,20]],[6,[0,6,14,22,28]],[7,[4,8,12,16,20,24]],[8,[[0,2],14,[26,2]]],[9,[[8,3],[16,3]]],[10,[[0,2],14,[26,2]]],[11,[4,8,12,16,20,24]],[12,[0,6,14,22,28]],[13,[8,20]],[14,[0,10,14,18,28]],[15,[2,12,16,26]],[16,[4,14,24]],[17,[6,22]],[18,[[8,7]]]]],[1,[[1,14],[3,14],[5,14],[6,[8,20]],[7,[4,[12,3],24]],[8,[8,20]],[9,[1,10,14,18,27]],[10,[8,20]],[11,[4,[12,3],24]],[12,[8,20]],[13,14],[15,14],[17,14]]],[2,[[2,14],[4,14],[6,14],[7,[8,12,16,20]],[9,[8,14,20]],[11,[8,12,16,20]],[12,14],[14,14],[16,14]]],[3,[[3,14],[5,14],[8,[8,20]],[9,14],[10,[8,20]],[13,14],[15,14]]],[4,[[4,14],[9,[8,14,20]],[14,14]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n20.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n20",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2646898848",
 		"name": "Kyodai N20",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4584,12 +7652,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»20.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n20",
+		"filename": "kyodai_n20_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2288300983",
+		"id": "2585072105",
+		"name": "Kyodai N23",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,10]]],[2,[[4,12]]],[3,[2,28]],[4,[0,[4,12],30]],[5,[2,28]],[6,[[4,12]]],[8,[[6,10]]]]],[1,[[1,[[7,4],[17,4]]],[3,[[5,11]]],[4,[[1,2],[27,2]]],[5,[[5,11]]],[7,[[7,4],[17,4]]]]],[2,[[2,[[8,3],[18,3]]],[4,[[2,14]]],[6,[[8,3],[18,3]]]]],[3,[[3,[[9,2],[19,2]]],[4,[[3,2],[25,2]]],[5,[[9,2],[19,2]]]]],[4,[[4,[10,20]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n23.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n23",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2585072105",
 		"name": "Kyodai N23",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4597,12 +7678,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»23.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n23",
+		"filename": "kyodai_n23_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1752782437",
+		"id": "1014988091",
+		"name": "Kyodai N24",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,7]]],[2,[[0,7]]],[4,[[0,7]]],[6,[[0,7]]],[8,[[0,7]]],[10,[[0,7]]]]],[1,[[1,[[0,7]]],[3,[[1,6]]],[5,[[0,7]]],[7,[[1,6]]],[9,[[0,7]]]]],[2,[[1,[[0,7]]],[3,[[1,6]]],[5,[[0,7]]],[7,[[1,6]]],[9,[[0,7]]]]],[3,[[2,[[1,6]]],[4,[[2,5]]],[5,[0,12]],[6,[[2,5]]],[8,[[1,6]]]]],[4,[[3,[[3,4]]],[5,[[1,2],[9,2]]],[7,[[3,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n24.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n24",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1014988091",
 		"name": "Kyodai N24",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4610,12 +7704,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»24.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n24",
+		"filename": "kyodai_n24_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1983049124",
+		"id": "4161966166",
+		"name": "Kyodai N25",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,5]]],[2,16],[4,[8,16,24]],[6,[[0,5],[14,3],[24,5]]],[8,[0,[8,4],[18,4],32]],[10,[[0,5],[14,3],[24,5]]],[12,[8,16,24]],[14,16],[16,[[12,5]]]]],[1,[[0,[[12,5]]],[2,16],[4,[8,16,24]],[6,[[0,5],[14,3],[24,5]]],[8,[0,[8,4],[18,4],32]],[10,[[0,5],[14,3],[24,5]]],[12,[8,16,24]],[14,16],[16,[[12,5]]]]],[2,[[0,[12,16,20]],[3,16],[5,[8,24]],[6,[0,3,6,16,26,29,32]],[8,[8,11,14,18,21,24]],[10,[0,3,6,16,26,29,32]],[11,[8,24]],[13,16],[16,[12,16,20]]]],[3,[[6,16],[8,[14,18]],[10,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n25.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n25",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4161966166",
 		"name": "Kyodai N25",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4623,12 +7730,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»25.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n25",
+		"filename": "kyodai_n25_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "904727131",
+		"id": "2901611809",
+		"name": "Kyodai N26",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,3]]],[1,[12,20]],[2,[10,[14,3],22]],[3,[8,12,20,24]],[4,[6,10,[14,3],22,26]],[5,[4,8,12,20,24,28]],[6,[2,6,10,[14,3],22,26,30]],[7,[0,4,8,12,20,24,28,32]],[8,[2,6,10,[14,3],22,26,30]],[9,[4,8,12,20,24,28]],[10,[6,10,[14,3],22,26]],[11,[8,12,20,24]],[12,[10,[14,3],22]],[13,[12,20]],[14,[[14,3]]]]],[1,[[0,[[15,2]]],[1,[13,19]],[2,[11,[15,2],21]],[3,[9,23]],[4,[7,11,[15,2],21,25]],[5,[5,13,19,27]],[6,[3,7,11,[15,2],21,25,29]],[7,[1,5,9,13,19,23,27,31]],[8,[3,7,11,[15,2],21,25,29]],[9,[5,13,19,27]],[10,[7,11,[15,2],21,25]],[11,[9,23]],[12,[11,[15,2],21]],[13,[13,19]],[14,[[15,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n26.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n26",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2901611809",
 		"name": "Kyodai N26",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4636,12 +7756,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»26.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n26",
+		"filename": "kyodai_n26_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4152908351",
+		"id": "2901611809",
+		"name": "Kyodai N26",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,3]]],[1,[12,20]],[2,[10,[14,3],22]],[3,[8,12,20,24]],[4,[6,10,[14,3],22,26]],[5,[4,8,12,20,24,28]],[6,[2,6,10,[14,3],22,26,30]],[7,[0,4,8,12,20,24,28,32]],[8,[2,6,10,[14,3],22,26,30]],[9,[4,8,12,20,24,28]],[10,[6,10,[14,3],22,26]],[11,[8,12,20,24]],[12,[10,[14,3],22]],[13,[12,20]],[14,[[14,3]]]]],[1,[[0,[[15,2]]],[1,[13,19]],[2,[11,[15,2],21]],[3,[9,23]],[4,[7,11,[15,2],21,25]],[5,[5,13,19,27]],[6,[3,7,11,[15,2],21,25,29]],[7,[1,5,9,13,19,23,27,31]],[8,[3,7,11,[15,2],21,25,29]],[9,[5,13,19,27]],[10,[7,11,[15,2],21,25]],[11,[9,23]],[12,[11,[15,2],21]],[13,[13,19]],[14,[[15,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#One Move.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "kyodai_n26_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1896051125",
+		"name": "Kyodai N27",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,12],[1,[10,14]],[2,[8,12,16]],[3,[6,10,14,18]],[4,[4,8,12,16,20]],[5,[2,6,10,14,18,22]],[6,[0,4,8,12,16,20,24]],[7,[2,6,10,14,18,22]],[8,[4,8,12,16,20]],[9,[6,10,14,18]],[10,[8,12,16]],[11,[10,14]],[12,12]]],[1,[[1,12],[2,[10,14]],[3,[8,12,16]],[4,[6,10,14,18]],[5,[4,8,12,16,20]],[6,[2,6,10,14,18,22]],[7,[4,8,12,16,20]],[8,[6,10,14,18]],[9,[8,12,16]],[10,[10,14]],[11,12]]],[2,[[2,12],[3,[10,14]],[4,[8,12,16]],[5,[6,10,14,18]],[6,[4,8,12,16,20]],[7,[6,10,14,18]],[8,[8,12,16]],[9,[10,14]],[10,12]]],[3,[[3,[[11,2]]],[4,[9,15]],[5,[7,[11,2],17]],[6,[5,9,15,19]],[7,[7,[11,2],17]],[8,[9,15]],[9,[[11,2]]]]],[4,[[4,[10,14]],[5,[8,12,16]],[6,[6,10,14,18]],[7,[8,12,16]],[8,[10,14]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n27.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n27",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1896051125",
 		"name": "Kyodai N27",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4649,12 +7795,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»27.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n27",
+		"filename": "kyodai_n27_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "386233568",
+		"id": "1254302692",
+		"name": "Kyodai N28",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,9]]],[2,[3,21]],[3,12],[4,[2,10,14,22]],[5,[8,16]],[6,[1,6,12,18,23]],[7,[10,14]],[8,[[0,5],12,[16,5]]],[9,[10,14]],[10,[1,6,12,18,23]],[11,[8,16]],[12,[2,10,14,22]],[13,12],[14,[3,21]],[16,[[4,9]]]]],[1,[[0,[[4,9]]],[2,[3,21]],[3,12],[4,[2,10,14,22]],[5,[8,16]],[6,[1,6,18,23]],[7,[[11,2]]],[8,[[0,5],[16,5]]],[9,[[11,2]]],[10,[1,6,18,23]],[11,[8,16]],[12,[2,10,14,22]],[13,12],[14,[3,21]],[16,[[4,9]]]]],[2,[[3,12],[4,[10,14]],[5,[8,16]],[6,[6,18]],[8,[[6,2],12,[16,2]]],[10,[6,18]],[11,[8,16]],[12,[10,14]],[13,12]]],[3,[[7,[6,18]],[9,[6,18]]]],[4,[[8,[6,18]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n28.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n28",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1254302692",
 		"name": "Kyodai N28",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4662,12 +7821,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»28.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n28",
+		"filename": "kyodai_n28_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3236578432",
+		"id": "718339480",
+		"name": "Kyodai N41",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[4,[[4,5]]],[6,[[4,5]]],[8,[[4,5]]]]],[1,[[3,[[5,4]]],[4,[3,13]],[5,[[5,4]]],[6,[3,13]],[7,[[5,4]]],[8,[3,13]],[9,[[5,4]]]]],[2,[[2,[[5,4]]],[4,[[2,7]]],[6,[[2,7]]],[8,[[2,7]]],[10,[[5,4]]]]],[3,[[1,[[5,4]]],[3,[[3,6]]],[4,[1,15]],[5,[[3,6]]],[6,[1,15]],[7,[[3,6]]],[8,[1,15]],[9,[[3,6]]],[11,[[5,4]]]]],[4,[[0,[[5,4]]],[2,[4,8,12]],[3,[2,6,10,14]],[4,[0,4,8,12,16]],[6,[0,[3,6],16]],[8,[0,4,8,12,16]],[9,[2,6,10,14]],[10,[4,8,12]],[12,[[5,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n41.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n41",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "718339480",
 		"name": "Kyodai N41",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4675,12 +7847,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»41.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n41",
+		"filename": "kyodai_n41_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3521502744",
+		"id": "2987597802",
+		"name": "Kyodai N42",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[1,[2,30]],[2,[4,28]],[3,[2,6,26,30]],[4,[8,24]],[5,[10,22]],[6,[[12,5]]],[7,[10,22]],[8,[8,24]],[9,[2,6,26,30]],[10,[4,28]],[11,[2,30]]]],[1,[[0,[1,31]],[1,[3,29]],[2,[1,5,27,31]],[3,[3,7,25,29]],[4,[1,5,9,23,27,31]],[5,[7,[11,6],25]],[6,[9,23]],[7,[7,[11,6],25]],[8,[1,5,9,23,27,31]],[9,[3,7,25,29]],[10,[1,5,27,31]],[11,[3,29]],[12,[1,31]]]],[2,[[1,[0,32]],[3,[0,32]],[4,[3,16,29]],[5,[1,5,27,31]],[6,[12,16,20]],[7,[1,5,27,31]],[8,[3,16,29]],[9,[0,32]],[11,[0,32]]]],[3,[[2,[1,31]],[3,16],[5,[3,29]],[6,[1,5,[11,2],[19,2],27,31]],[7,[3,29]],[9,16],[10,[1,31]]]],[4,[[2,16],[4,16],[5,[12,20]],[6,[0,3,6,10,14,18,22,26,29,32]],[7,[12,20]],[8,16],[10,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Kyodai n42.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "kyodai_n42",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2987597802",
 		"name": "Kyodai N42",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -4688,12 +7873,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Kyodai n╞»42.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "kyodai_n42",
+		"filename": "kyodai_n42_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3375488646",
+		"id": "47704884",
 		"name": "Labyrinth",
 		"by": "Alexey Charkov",
 		"tiles": 110,
@@ -4706,7 +7891,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3688436042",
+		"id": "47704884",
+		"name": "Labyrinth",
+		"by": "Alexey Charkov",
+		"tiles": 110,
+		"data": "[[0,[[0,[[0,3],[24,3]]],[1,[6,12,16,22]],[3,[0,[5,2],12,16,[21,2],28]],[5,[0,12,16,28]],[6,[4,8,20,24]],[7,[[0,2],[10,2],[16,2],[26,2]]],[8,[4,8,20,24]],[9,[0,12,16,28]],[11,[0,[5,2],12,16,[21,2],28]],[13,[6,[12,3],22]],[14,[[0,3],[24,3]]]]],[1,[[0,[[0,2],[26,2]]],[1,[12,16]],[3,[0,28]],[6,[8,20]],[7,[[0,2],12,16,[26,2]]],[8,[8,20]],[11,[0,28]],[14,[[0,2],[26,2]]]]],[2,[[0,[0,28]],[1,[12,16]],[3,[0,28]],[6,[8,20]],[7,[0,28]],[8,[8,20]],[11,[0,28]],[14,[0,28]]]],[3,[[1,[12,16]],[6,20],[7,[0,8,28]],[8,20]]],[4,[[7,[8,20]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadlabyrinth.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "labyrinth_3",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2371645214",
 		"name": "Labyrinth 2",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -4719,7 +7917,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "4069736862",
+		"id": "668876602",
 		"name": "Large Width Tilesets",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -4732,7 +7930,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "46290360",
+		"id": "668876602",
+		"name": "Large Width Tilesets",
+		"by": "Marc Lesselberg",
+		"tiles": 144,
+		"data": "[[0,[[0,[2,5,[8,5]]],[2,[[4,6]]],[4,[[4,7]]],[5,2],[6,[[4,8]]],[7,[[0,2]]],[8,[[4,7]]],[9,2],[10,[[4,6]]],[12,[[4,6]]],[14,[[2,8]]]]],[1,[[0,[[2,8]]],[2,[[4,6]]],[4,[[4,7]]],[5,2],[6,[[4,8]]],[7,[[0,2]]],[8,[[4,7]]],[9,2],[10,[[4,6]]],[12,[[4,6]]],[14,[[2,8]]]]],[2,[[4,[[6,4]]],[6,[[6,4]]],[8,[[6,4]]],[10,[[6,4]]]]],[3,[[4,9],[6,[[8,2]]],[7,[6,12]],[8,[[8,2]]],[10,9]]],[4,[[7,9]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Large width.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "large_width_tilesets_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "3943660104",
+		"name": "Lattice",
+		"by": "Alvin Helms",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[2,[4,8,12,16,20,24,28]],[4,[[2,15]]],[6,[4,8,12,16,20,24,28]],[8,[[0,17]]],[10,[4,8,12,16,20,24,28]],[12,[[2,15]]],[14,[4,8,12,16,20,24,28]],[16,16]]],[1,[[2,16],[4,[4,8,[12,5],24,28]],[6,[12,16,20]],[8,[[2,15]]],[10,[12,16,20]],[12,[4,8,[12,5],24,28]],[14,16]]],[2,[[4,16],[6,16],[8,[[6,11]]],[10,16],[12,16]]],[3,[[6,16],[8,[[12,5]]],[10,16]]],[4,[[6,16],[8,[14,18]],[10,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Lattice.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "lattice",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3943660104",
 		"name": "Lattice",
 		"by": "Alvin Helms",
 		"tiles": 144,
@@ -4740,12 +7964,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Lattice.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "lattice",
+		"filename": "lattice_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2498738134",
+		"id": "1203058582",
 		"name": "Layout",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4758,7 +7982,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "1479319581",
+		"id": "1729432473",
 		"name": "Layout 10",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4771,7 +7995,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "423809073",
+		"id": "3518081991",
 		"name": "Layout 11",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4784,7 +8008,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "3767288823",
+		"id": "788739815",
 		"name": "Layout 12",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4797,7 +8021,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "2367634875",
+		"id": "3361447347",
 		"name": "Layout 12B",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4810,7 +8034,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "3668819549",
+		"id": "3148518523",
 		"name": "Layout 13",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4823,7 +8047,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "2785493175",
+		"id": "4132078199",
 		"name": "Layout 13B",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4836,7 +8060,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "3654554356",
+		"id": "2514145462",
 		"name": "Layout 13C",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4849,7 +8073,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "2585687949",
+		"id": "526475249",
 		"name": "Layout 14",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4862,7 +8086,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "4231755401",
+		"id": "2321038051",
 		"name": "Layout 14B",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4875,7 +8099,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "807547081",
+		"id": "2357532893",
 		"name": "Layout 15",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4888,7 +8112,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "3620122179",
+		"id": "74867073",
 		"name": "Layout 16",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4901,7 +8125,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "1337709388",
+		"id": "1679787586",
 		"name": "Layout 17",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4914,7 +8138,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "2325328588",
+		"id": "2210728988",
 		"name": "Layout 18",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4927,7 +8151,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "2701625959",
+		"id": "1556479767",
 		"name": "Layout 19",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4940,7 +8164,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "3554733117",
+		"id": "1004456829",
 		"name": "Layout 19B",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4953,7 +8177,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "1123647903",
+		"id": "3400445955",
 		"name": "Layout 19C",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4966,7 +8190,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "4072117398",
+		"id": "175432772",
 		"name": "Layout 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4979,7 +8203,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "2464585000",
+		"id": "494738204",
 		"name": "Layout 20",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -4992,7 +8216,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "1767207036",
+		"id": "341549848",
 		"name": "Layout 20B",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5005,7 +8229,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "2171268608",
+		"id": "406315486",
 		"name": "Layout 21",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5018,7 +8242,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "2344977134",
+		"id": "1730181610",
 		"name": "Layout 21B",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5031,7 +8255,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "938945006",
+		"id": "1197894982",
 		"name": "Layout 21C",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5044,7 +8268,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 06"
 	},
 	{
-		"id": "1274998103",
+		"id": "610626715",
 		"name": "Layout 22",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5057,7 +8281,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "615888930",
+		"id": "1568107556",
 		"name": "Layout 23",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5070,7 +8294,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "3679450885",
+		"id": "2633146913",
 		"name": "Layout 24",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5083,7 +8307,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "2611827647",
+		"id": "1385195423",
 		"name": "Layout 25",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5096,7 +8320,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "1386995143",
+		"id": "4264106303",
 		"name": "Layout 25B",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5109,7 +8333,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "2600588710",
+		"id": "2622517500",
 		"name": "Layout 26",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5122,7 +8346,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "893434253",
+		"id": "1733734139",
 		"name": "Layout 27",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5135,7 +8359,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "3185156342",
+		"id": "1310330940",
 		"name": "Layout 28",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5148,7 +8372,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "2809289216",
+		"id": "555467438",
 		"name": "Layout 29",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5161,7 +8385,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "2600868427",
+		"id": "1575171401",
 		"name": "Layout 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5174,7 +8398,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "3759427307",
+		"id": "1099575935",
 		"name": "Layout 30",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5187,7 +8411,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "1756747876",
+		"id": "1523875724",
 		"name": "Layout 4",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5200,7 +8424,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "2846695434",
+		"id": "852863160",
 		"name": "Layout 5",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5213,7 +8437,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "122354523",
+		"id": "1248468815",
 		"name": "Layout 6",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5226,7 +8450,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "3598665871",
+		"id": "398317811",
 		"name": "Layout 7",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5239,7 +8463,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "1151684448",
+		"id": "3278660854",
 		"name": "Layout 8",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5252,7 +8476,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "137731333",
+		"id": "1872947381",
 		"name": "Layout 9",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5265,7 +8489,33 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "2599049978",
+		"id": "1796199980",
+		"name": "LD-Converter",
+		"by": "Patrick Becker",
+		"tiles": 88,
+		"data": "[[0,[[0,8],[1,[[0,2],[14,2]]],[2,8],[3,[1,15]],[4,8],[5,[0,[16,2]]],[6,8],[7,[0,[16,2]]],[8,8],[9,[0,16]],[11,[0,16]],[12,[2,14]],[13,[0,[4,5],16]],[14,[2,14]],[15,[0,[4,5],16]],[16,[2,14]],[17,[[4,5]]]]],[1,[[0,8],[1,[[1,2],[13,2]]],[2,8],[3,[2,14]],[4,8],[5,[1,15]],[6,[8,17]],[7,[1,15]],[8,8],[9,[1,15]],[11,[1,15]],[12,[3,13]],[13,[1,[5,4],15]],[14,[3,13]],[15,[1,[5,4],15]],[16,[3,13]],[17,[[5,4]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#LD Converter.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "ld-converter",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1796199980",
+		"name": "LD-Converter",
+		"by": "Patrick Becker",
+		"tiles": 88,
+		"data": "[[0,[[0,8],[1,[[0,2],[14,2]]],[2,8],[3,[1,15]],[4,8],[5,[0,[16,2]]],[6,8],[7,[0,[16,2]]],[8,8],[9,[0,16]],[11,[0,16]],[12,[2,14]],[13,[0,[4,5],16]],[14,[2,14]],[15,[0,[4,5],16]],[16,[2,14]],[17,[[4,5]]]]],[1,[[0,8],[1,[[1,2],[13,2]]],[2,8],[3,[2,14]],[4,8],[5,[1,15]],[6,[8,17]],[7,[1,15]],[8,8],[9,[1,15]],[11,[1,15]],[12,[3,13]],[13,[1,[5,4],15]],[14,[3,13]],[15,[1,[5,4],15]],[16,[3,13]],[17,[[5,4]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#LD_Converter.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "ld-converter_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1796199980",
 		"name": "LD-Converter",
 		"by": "Patrick Becker",
 		"tiles": 88,
@@ -5273,25 +8523,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#LD Converter.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "ld-converter",
+		"filename": "ld-converter_3",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2066849593",
+		"id": "1611092921",
 		"name": "Leo",
-		"by": "Ernie Polegato",
+		"by": "Lynnette Layton",
 		"tiles": 144,
-		"data": "[[0,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[1,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[2,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[3,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[4,[[6,[2,22]],[11,[[2,3]]],[13,[0,8]],[15,[0,8]],[17,[[2,3]]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Zodiac - Leo.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"data": "[[0,[[0,[[10,2]]],[2,[[10,2],[22,2]]],[3,[8,20,26]],[4,[6,18,28]],[5,[4,16]],[6,[2,21,25,29]],[7,15],[8,[1,30]],[9,[3,6,9,12,15,23]],[10,31],[11,[1,4,7,10,13,16,[22,2]]],[12,[20,26,30]],[13,[2,5,8,11,14,17]],[14,29],[15,[0,3,6,9,12,15,19,23,27]],[16,[21,25]]]],[1,[[0,[[10,2]]],[1,[[21,3]]],[2,[[8,3],19,27]],[3,[6,17]],[4,[4,29]],[5,[2,15]],[6,[21,25,30]],[7,2],[8,[4,7,10,13,16,31]],[9,23],[10,32],[11,[2,5,8,11,14,[22,2]]],[12,[20,26,31]],[14,30],[15,[1,4,7,10,13,16,20,24,28]],[16,[18,22,26]]]],[2,[[1,11],[6,[21,25]],[8,[5,8,11,14]],[9,23],[11,[3,6,9,12,[22,2]]],[15,[2,5,8,11,14]]]],[3,[[8,[6,9,12]],[11,[4,7,10]],[15,[3,6,9,12]]]],[4,[[8,[7,10]],[11,[5,8]],[15,[4,7,10]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Leo.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
 		"solvable": true,
 		"filename": "leo",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"path": "kyodai",
+		"group": "Kyodai Extras"
 	},
 	{
-		"id": "3357986225",
+		"id": "1611092921",
 		"name": "Leo",
 		"by": "Lynnette Layton",
 		"tiles": 144,
@@ -5304,7 +8554,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "633897182",
+		"id": "2580151249",
+		"name": "Leo",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[1,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[2,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[3,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[4,[[6,[2,22]],[11,[[2,3]]],[13,[0,8]],[15,[0,8]],[17,[[2,3]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Zodiac - Leo.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "leo_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2580151249",
+		"name": "Leo",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[1,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[2,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[3,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[4,[2,22]],[6,[2,22]],[8,[2,22]],[9,[4,20]],[11,[[2,3],[18,2]]],[13,[0,8,16]],[15,[0,8,16]],[17,[[2,3],[18,2]]]]],[4,[[6,[2,22]],[11,[[2,3]]],[13,[0,8]],[15,[0,8]],[17,[[2,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Leo.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "leo_4",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "3881110908",
 		"name": "Leo 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -5317,7 +8593,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "172732193",
+		"id": "3881110908",
+		"name": "Leo 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,2],[16,2]]],[2,[8,[16,5]]],[4,[[14,4],26]],[6,[[4,8],22]],[8,[2,6,[10,9]]],[10,[[0,4],[16,3]]],[12,[2,6,[10,4],20,24]],[14,[[4,6],22]]]],[1,[[0,[[10,2],[16,2]]],[2,[8,[16,5]]],[4,[[14,4],26]],[6,[[4,8],22]],[8,[2,6,[10,9]]],[10,[[0,4],[16,3]]],[12,[2,6,[10,4],20,24]],[14,[[4,6],22]]]],[2,[[6,[[4,6]]],[8,[2,6,[10,4]]],[10,[[0,4],[16,2]]],[12,[2,6,[10,4]]],[14,[[4,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Leo 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "leo_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "1133572059",
 		"name": "Letter A",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5330,7 +8619,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "1349946326",
+		"id": "3598532576",
 		"name": "Letter B",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5343,7 +8632,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "3630099379",
+		"id": "2383226667",
 		"name": "Letter C",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5356,7 +8645,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "3271097296",
+		"id": "3403789422",
 		"name": "Letter D",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5369,7 +8658,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "313296857",
+		"id": "2787009979",
 		"name": "Letter E",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5382,7 +8671,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "140852680",
+		"id": "1616532504",
 		"name": "Letter F",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5395,7 +8684,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "3563079376",
+		"id": "3300021162",
 		"name": "Letter G",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5408,7 +8697,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "3242151291",
+		"id": "3670559665",
 		"name": "Letter H",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5421,7 +8710,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "1795677499",
+		"id": "1262599531",
 		"name": "Letter I",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5434,7 +8723,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "2453520637",
+		"id": "3070605277",
 		"name": "Letter J",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5447,7 +8736,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "1124271711",
+		"id": "672719661",
 		"name": "Letter K",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5460,7 +8749,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "115089782",
+		"id": "3592245710",
 		"name": "Letter L",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5473,7 +8762,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "2518314100",
+		"id": "504371340",
 		"name": "Letter M",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5486,7 +8775,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "1677758774",
+		"id": "2297007098",
 		"name": "Letter N",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5499,7 +8788,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "347008906",
+		"id": "3639452794",
 		"name": "Letter O",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5512,7 +8801,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "2664748567",
+		"id": "3244241307",
 		"name": "Letter P",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5525,7 +8814,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "227063266",
+		"id": "2745250284",
 		"name": "Letter Q",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5538,7 +8827,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "592921230",
+		"id": "1002246526",
 		"name": "Letter R",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5551,7 +8840,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "1933975416",
+		"id": "635494972",
 		"name": "Letter S",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5564,7 +8853,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "1138086025",
+		"id": "3325976145",
 		"name": "Letter T",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5577,7 +8866,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "2664502060",
+		"id": "1667472480",
 		"name": "Letter U",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5590,7 +8879,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "1062460346",
+		"id": "1103771834",
 		"name": "Letter V",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5603,7 +8892,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "3526088600",
+		"id": "461319194",
 		"name": "Letter W",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5616,7 +8905,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "396687249",
+		"id": "1838529",
 		"name": "Letter X",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5629,7 +8918,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "2839848179",
+		"id": "4206669307",
 		"name": "Letter Y",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5642,7 +8931,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "682326656",
+		"id": "3290588386",
 		"name": "Letter Z",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -5655,7 +8944,7 @@ export const data = [
 		"group": "Kurenai - Alphabet"
 	},
 	{
-		"id": "1475142715",
+		"id": "190895937",
 		"name": "Letters",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -5668,7 +8957,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1129476848",
+		"id": "190895937",
+		"name": "Letters",
+		"by": "Marc Lesselberg",
+		"tiles": 144,
+		"data": "[[0,[[0,[3,9,14,19,23]],[1,[[5,2]]],[2,[3,9,12,16,19,23]],[3,[6,21,[27,2]]],[4,[3,9,[12,3],19,23]],[6,[3,9,12,16,19,23]],[9,[[0,3],[7,3],14,19,[22,2],[28,2]]],[11,[4,7,11,[14,2],19,22,28]],[13,[0,4,7,11,14,[17,2],22,25,28,31]],[15,[[1,2],[7,3],14,19,[22,2],[28,2]]]]],[1,[[0,[3,9,14,19,23]],[1,[[5,2]]],[2,[3,9,12,16,19,23]],[3,[6,21,[27,2]]],[4,[3,9,[12,3],19,23]],[6,[3,9,12,16,19,23]],[9,[[0,3],[7,3],14,19,[22,2],[28,2]]],[11,[4,7,11,[14,2],19,22,28]],[13,[0,4,7,11,14,[17,2],22,25,28,31]],[15,[[1,2],[7,3],14,19,[22,2],[28,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Letters.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "letters_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "167731676",
 		"name": "Libra",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5681,7 +8983,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3746139176",
+		"id": "167731676",
+		"name": "Libra",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,4]]],[2,[[10,2],[18,2]]],[4,[[8,2],[20,2]]],[6,[[0,5],[22,5]]],[11,[[0,16]]]]],[1,[[0,[[12,4]]],[2,[[10,2],[18,2]]],[4,[[8,2],[20,2]]],[6,[[0,5],[22,5]]],[11,[[0,16]]]]],[2,[[0,[[12,4]]],[2,[[10,2],[18,2]]],[4,[[8,2],[20,2]]],[6,[[2,4],[22,4]]],[11,[[2,14]]]]],[3,[[0,[[12,4]]],[2,[[10,2],[18,2]]],[4,[[8,2],[20,2]]],[6,[[6,2],[22,2]]],[11,[[6,10]]]]],[4,[[11,[[8,8]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Libra.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "libra_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "1026361872",
 		"name": "Libra 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -5694,7 +9009,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "514521840",
+		"id": "1026361872",
+		"name": "Libra 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[4,14,20]],[2,[2,[6,3],[14,2],20]],[4,[2,14,20]],[6,[0,[4,5],[16,3]]],[8,[0,[4,5],[16,3]]],[10,[2,14,20]],[12,[2,[6,3],[14,2],20]],[14,[4,14,20]]]],[1,[[0,[4,14,20]],[2,[2,[6,3],[14,2],20]],[4,[2,14,20]],[6,[0,[4,5],[16,3]]],[8,[0,[4,5],[16,3]]],[10,[2,14,20]],[12,[2,[6,3],[14,2],20]],[14,[4,14,20]]]],[2,[[0,[4,14,20]],[2,[2,[6,3],[14,2],20]],[4,[2,14,20]],[6,[0,[4,5],[16,3]]],[8,[0,[4,5],[16,3]]],[10,[2,14,20]],[12,[2,[6,3],[14,2],20]],[14,[4,14,20]]]],[3,[[0,4],[2,2],[4,2],[6,0],[7,[[5,4]]],[8,0],[10,2],[12,2],[14,4]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Libra 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "libra_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "1958773376",
+		"name": "Lion",
+		"by": "Lynnette Layton",
+		"tiles": 144,
+		"data": "[[0,[[1,[[3,2],[9,2],[22,2]]],[2,[1,7,20,26]],[3,[[9,2],18,28]],[4,[0,16]],[5,[21,25,29]],[6,[1,15]],[7,30],[8,[1,4,7,10,14,23]],[9,31],[10,[2,5,8,11,14,[22,2]]],[11,[20,26,30]],[12,[1,4,7,10,13,16]],[13,29],[14,[2,5,8,11,14,[17,6]]]]],[1,[[0,[[21,3]]],[1,[[3,2],[9,2],19,27]],[2,[1,7,17]],[3,[[9,2],29]],[4,[0,15]],[5,[21,25,30]],[6,[1,14]],[7,31],[8,[1,4,7,10,13,23]],[9,32],[10,[2,5,8,11,14,[22,2]]],[11,[20,26,31]],[12,[1,4,7,10,13,16]],[13,30],[14,[2,5,8,11,14,18,28]],[15,[[20,4]]]]],[2,[[1,[[9,2]]],[3,[[9,2]]],[5,[21,25]],[8,[1,4,7,10,23]],[10,[2,5,8,11,[22,2]]],[12,[1,4,7,10,13]],[14,[2,5,8,11,14]]]],[3,[[2,10]]],[4,[[2,10]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Lion.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "lion",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1958773376",
 		"name": "Lion",
 		"by": "Lynnette Layton",
 		"tiles": 144,
@@ -5702,12 +9043,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Lion.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "lion",
+		"filename": "lion_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "445100063",
+		"id": "2851034255",
 		"name": "Little Stairway",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -5720,7 +9061,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2623330567",
+		"id": "2851034255",
+		"name": "Little Stairway",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,8]]],[8,[[0,8]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,8]]],[8,[[0,4]]],[10,[[0,4]]],[12,[[0,4]]],[14,[[0,4]]]]],[2,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,8]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Little Stairway.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "little_stairway_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3361584571",
+		"name": "Lost In The Layout",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,23]],[1,[[1,2],[7,8],[25,2]]],[2,[5,23]],[3,[[1,2],10,14,18,[25,2]]],[4,[8,12,16,20]],[5,[[0,4],14,[22,4]]],[7,[0,[4,11],28]],[9,[[0,4],14,[22,4]]],[10,[8,12,16,20]],[11,[[1,2],10,14,18,[25,2]]],[12,[5,23]],[13,[[1,2],[7,8],[25,2]]],[14,[5,23]]]],[1,[[1,[[11,4]]],[3,[10,14,18]],[4,[8,12,16,20]],[5,[6,14,22]],[7,[[6,9]]],[9,[6,14,22]],[10,[8,12,16,20]],[11,[10,14,18]],[13,[[11,4]]]]],[2,[[1,[[12,3]]],[3,14],[5,14],[7,[[8,7]]],[9,14],[11,14],[13,[[12,3]]]]],[3,[[5,14],[7,[[12,3]]],[9,14]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "lost_in_the_layout_3",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "3361584571",
+		"name": "Lost In The Layout...",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,23]],[1,[[1,2],[7,8],[25,2]]],[2,[5,23]],[3,[[1,2],10,14,18,[25,2]]],[4,[8,12,16,20]],[5,[[0,4],14,[22,4]]],[7,[0,[4,11],28]],[9,[[0,4],14,[22,4]]],[10,[8,12,16,20]],[11,[[1,2],10,14,18,[25,2]]],[12,[5,23]],[13,[[1,2],[7,8],[25,2]]],[14,[5,23]]]],[1,[[1,[[11,4]]],[3,[10,14,18]],[4,[8,12,16,20]],[5,[6,14,22]],[7,[[6,9]]],[9,[6,14,22]],[10,[8,12,16,20]],[11,[10,14,18]],[13,[[11,4]]]]],[2,[[1,[[12,3]]],[3,14],[5,14],[7,[[8,7]]],[9,14],[11,14],[13,[[12,3]]]]],[3,[[5,14],[7,[[12,3]]],[9,14]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Lost.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "lost_in_the_layout",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3361584571",
 		"name": "Lost In The Layout...",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -5728,12 +9108,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Lost.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "lost_in_the_layout",
+		"filename": "lost_in_the_layout_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4056198350",
+		"id": "3353038262",
 		"name": "Macross",
 		"by": "Oneam",
 		"tiles": 136,
@@ -5746,7 +9126,20 @@ export const data = [
 		"group": "Oneam's Brain Dump"
 	},
 	{
-		"id": "1657906889",
+		"id": "3353038262",
+		"name": "Macross",
+		"by": "Oneam",
+		"tiles": 136,
+		"data": "[[0,[[0,[[8,5]]],[1,[6,18]],[2,[4,12,20]],[3,[10,14]],[4,[2,12,22]],[5,[[8,2],[14,2]]],[6,[1,12,23]],[7,[[6,3],[14,3]]],[8,[0,12,24]],[9,[[4,4],[14,4]]],[10,[[0,2],12,[22,2]]],[11,[[4,2],10,14,[18,2]]],[12,[1,8,12,16,23]],[13,[6,10,14,18]],[14,[2,8,12,16,22]],[15,[10,14]],[16,[4,12,20]],[17,[6,18]],[18,[[8,5]]]]],[1,[[4,[10,14]],[6,[10,14]],[7,[8,16]],[8,[6,10,14,18]],[9,[8,16]],[10,[[4,2],10,14,[18,2]]],[11,[8,16]],[12,[6,10,14,18]],[13,[8,16]],[14,[10,14]]]],[2,[[5,[10,14]],[7,[10,14]],[8,[8,16]],[9,[6,10,14,18]],[10,[8,16]],[11,[6,10,14,18]],[12,[8,16]],[13,[10,14]]]],[3,[[8,[10,14]],[9,[8,16]],[10,[6,10,14,18]],[11,[8,16]],[12,[10,14]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Macross.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "macross_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "4159611925",
 		"name": "Magic Four",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -5759,7 +9152,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "1229158685",
+		"id": "1339922391",
 		"name": "Mahjongg",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -5772,7 +9165,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2768817385",
+		"id": "1339922391",
+		"name": "Mahjongg",
+		"by": "Marc Lesselberg",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[22,5]]],[2,[[0,5],[22,5]]],[4,[[0,16]]],[6,[[0,16]]],[8,[[0,16]]],[10,[[0,16]]],[12,[[0,4],[24,4]]],[14,[[0,4],[24,4]]]]],[1,[[1,[[3,2],[25,2]]],[3,[[3,2],[25,2]]],[5,[[3,2],[9,7],[25,2]]],[7,[[3,2],[9,7],[25,2]]],[9,[[3,2],[25,2]]],[11,[[3,2],[25,2]]],[13,[[3,2],[25,2]]]]],[2,[[6,[13,17]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Mah Jongg.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "mahjongg_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "3538368137",
 		"name": "Manipulation Test 36 Tiles Oo 72",
 		"by": "Tsubassa Kurenai",
 		"tiles": 36,
@@ -5785,7 +9191,7 @@ export const data = [
 		"group": "Kurenai - Floater"
 	},
 	{
-		"id": "769938634",
+		"id": "715486314",
 		"name": "Mars",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5798,7 +9204,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1887083787",
+		"id": "715486314",
+		"name": "Mars",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,9]]],[2,[[0,10]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[0,10]]],[12,[[0,10]]],[14,[[0,10]]],[16,[[0,9]]]]],[1,[[0,[[14,3]]],[2,[[16,2]]],[4,[14,18]],[6,12],[8,[[2,5]]],[10,[0,12]],[12,[0,12]],[14,[0,12]],[16,[[2,5]]]]],[2,[[0,[[14,3]]],[2,[[16,2]]],[4,[14,18]],[6,12],[8,[[2,5]]],[10,[0,12]],[12,[0,12]],[14,[0,12]],[16,[[2,5]]]]],[3,[[0,[[14,3]]],[2,[[16,2]]],[4,[14,18]],[6,12]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Mars.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "mars_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "837919735",
 		"name": "Mask",
 		"by": "Alexey Charkov",
 		"tiles": 168,
@@ -5811,7 +9230,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3524948844",
+		"id": "837919735",
+		"name": "Mask",
+		"by": "Alexey Charkov",
+		"tiles": 168,
+		"data": "[[0,[[0,[[2,14]]],[2,[[0,16]]],[4,[[0,16]]],[6,[[2,14]]],[8,[[2,14]]],[10,[[4,4],14,18,[22,3]]],[12,[[6,2],12,16,[20,3]]],[14,[[8,8]]]]],[1,[[0,[[2,6],[18,6]]],[2,[0,12,18,30]],[3,[6,24]],[4,[[0,2],12,18,[28,2]]],[6,[[2,14]]],[8,[[6,10]]],[10,[8,22]],[12,[8,22]],[14,[[10,6]]]]],[2,[[0,[[2,4],[22,4]]],[6,[[14,2]]],[8,15]]],[3,[[6,15]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadmask.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "mask_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "4116723508",
 		"name": "Maya",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -5824,7 +9256,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2096967581",
+		"id": "4116723508",
+		"name": "Maya",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[16,5]]],[2,[[0,5],[16,5]]],[4,[[0,13]]],[6,[[8,5]]],[8,[[8,5]]],[10,[[0,13]]],[12,[[0,5],[16,5]]],[14,[[0,5],[16,5]]]]],[1,[[1,[[2,3],[18,3]]],[3,[[2,3],[18,3]]],[5,[[10,3]]],[7,[[10,3]]],[9,[[10,3]]],[11,[[2,3],[18,3]]],[13,[[2,3],[18,3]]]]],[2,[[2,[[2,3],[18,3]]],[5,[[11,2]]],[7,[[11,2]]],[9,[[11,2]]],[12,[[2,3],[18,3]]]]],[3,[[2,[[3,2],[19,2]]],[5,12],[7,12],[9,12],[12,[[3,2],[19,2]]]]],[4,[[2,[4,20]],[6,12],[8,12],[12,[4,20]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadmaya.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "maya_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3527565493",
 		"name": "Maze",
 		"by": "Alexey Charkov",
 		"tiles": 194,
@@ -5837,7 +9282,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "4234310838",
+		"id": "3527565493",
+		"name": "Maze",
+		"by": "Alexey Charkov",
+		"tiles": 194,
+		"data": "[[0,[[0,[[0,16]]],[2,[[0,16]]],[4,[[0,16]]],[6,[[0,16]]],[8,[[0,16]]],[10,[[0,16]]],[12,[[0,16]]],[14,[[0,16]]]]],[1,[[0,[0,[4,10],26,30]],[2,[0,10,22,26,30]],[4,[0,[4,4],[14,3],26,30]],[6,[4,[18,3],26]],[8,[0,4,[8,7],26,30]],[10,[0,10,20,[24,2],30]],[12,[0,[4,4],14,20]],[14,[0,4,14,[20,6]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadmaze.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "maze_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2065971026",
 		"name": "Mei",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -5850,7 +9308,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1810351136",
+		"id": "2065971026",
+		"name": "Mei",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[8,12]],[2,[[4,7]]],[4,10],[5,[[6,2],[12,2]]],[6,10],[8,[[2,9]]],[10,10],[12,[[0,11]]],[14,[[9,2]]],[15,[7,13]],[16,[[3,2],[15,2]]]]],[1,[[0,[8,12]],[2,[[4,7]]],[4,10],[5,[[6,2],[12,2]]],[6,10],[8,[[2,9]]],[10,10],[12,[[0,11]]],[14,[[9,2]]],[15,[7,13]],[16,[[3,2],[15,2]]]]],[2,[[0,[8,12]],[2,[[4,7]]],[4,10],[5,[[6,2],[12,2]]],[6,10],[8,[[2,9]]],[10,10],[12,[[0,11]]],[14,[[9,2]]],[15,[7,13]],[16,[[3,2],[15,2]]]]],[3,[[0,[8,12]],[2,[4,16]],[5,[6,14]],[8,[2,18]],[12,[0,20]],[16,[3,17]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Mei.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "mei_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "752097716",
 		"name": "Mercury",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5863,7 +9334,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2556393573",
+		"id": "752097716",
+		"name": "Mercury",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,5]]],[2,[[2,7]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[2,7]]],[16,[[4,5]]]]],[1,[[0,[4,12]],[2,[2,14]],[4,[[4,5]]],[5,[2,14]],[7,[2,14]],[9,[2,14]],[10,[[4,5]]],[12,8],[14,[[4,5]]],[16,8]]],[2,[[0,[4,12]],[2,[2,14]],[4,[[4,5]]],[5,[2,14]],[7,[2,14]],[9,[2,14]],[10,[[4,5]]],[12,8],[14,[[4,5]]],[16,8]]],[3,[[0,[4,12]],[2,[2,14]],[4,[[4,5]]],[5,[2,14]],[7,[2,14]],[9,[2,14]],[10,[[4,5]]],[14,8]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Mercury.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "mercury_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "639681959",
 		"name": "Mesh",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -5876,7 +9360,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3240195215",
+		"id": "639681959",
+		"name": "Mesh",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[8,3],[16,3],[24,3]]],[2,[0,4,8,12,16,20,24,28]],[4,[[0,15]]],[6,[4,8,12,16,20,24]],[8,[[0,15]]],[10,[0,4,8,12,16,20,24,28]],[12,[[0,3],[8,3],[16,3],[24,3]]]]],[1,[[0,[[0,3],[8,3],[16,3],[24,3]]],[2,[0,4,8,12,16,20,24,28]],[4,[[0,3],[8,3],[16,3],[24,3]]],[6,[8,12,16,20]],[8,[[0,3],[8,3],[16,3],[24,3]]],[10,[0,4,8,12,16,20,24,28]],[12,[[0,3],[8,3],[16,3],[24,3]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadmesh.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "mesh_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1017674015",
 		"name": "Mesh",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5889,7 +9386,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "3680687294",
+		"id": "955549400",
 		"name": "Mesh 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5902,7 +9399,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "2902860129",
+		"id": "651233341",
 		"name": "Mesh 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5915,7 +9412,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "1175163666",
+		"id": "3196712128",
 		"name": "Mesh 4",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -5928,7 +9425,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "3722547930",
+		"id": "1556330788",
 		"name": "Michael Jordan's Number",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -5941,7 +9438,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2250848169",
+		"id": "1556330788",
+		"name": "Michael Jordan's Number",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[1,[1,[12,5],31]],[2,[[3,2],[27,2]]],[3,[[10,2],[20,2]]],[4,[5,8,14,18,24,27]],[6,[5,13,24,27]],[7,[[20,2]]],[8,[5,12,27]],[9,[10,24]],[10,[5,8,27]],[11,[18,24]],[12,[5,[8,4],[20,2],27]],[14,[6,26]],[15,[[8,9]]]]],[1,[[0,[0,32]],[1,[2,[13,4],30]],[2,[[4,2],[26,2]]],[3,[[10,2],[20,2]]],[4,[8,14,18,24]],[5,[5,27]],[6,[13,24]],[7,[5,[20,2],27]],[8,12],[9,[5,10,24,27]],[10,8],[11,[5,18,24,27]],[12,[[8,4],[20,2]]],[13,[5,27]],[15,[9,23]],[16,[[13,4]]]]],[2,[[0,[1,16,31]],[1,[3,14,18,29]],[2,[5,16,27]],[4,[5,27]],[6,[5,27]],[8,[5,27]],[10,[5,27]],[12,[5,27]],[15,[[10,7]]],[17,[[12,5]]]]],[3,[[17,[14,18]]]],[4,[[17,[[15,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#23.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "michael_jordans_number_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "4241582617",
+		"name": "Mini Traditional",
+		"by": "Naoki Haga",
+		"tiles": 48,
+		"data": "[[0,[[0,8],[1,[6,10]],[2,[4,8,12]],[3,[2,6,10,14]],[4,[0,4,8,12,16]],[5,[2,6,10,14]],[6,[4,8,12]],[7,[6,10]],[8,8]]],[1,[[2,[[7,2]]],[3,[5,11]],[4,[3,[7,2],13]],[5,[5,11]],[6,[[7,2]]]]],[2,[[2,8],[4,[[4,5]]],[6,8]]],[3,[[4,[[5,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Mini Traditional.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "mini_traditional",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4241582617",
 		"name": "Mini Traditional",
 		"by": "Naoki Haga",
 		"tiles": 48,
@@ -5949,12 +9472,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Mini Traditional.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "mini_traditional",
+		"filename": "mini_traditional_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3219676301",
+		"id": "794033805",
+		"name": "Mini-Layout",
+		"by": "Kyodai",
+		"tiles": 8,
+		"data": "[[0,[[0,2],[1,[0,4]],[3,[0,4]],[4,2]]],[1,[[1,2],[3,2]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Mini-Layout.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "mini-layout",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "794033805",
 		"name": "Mini-Layout",
 		"by": "Kyodai",
 		"tiles": 8,
@@ -5962,12 +9498,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Mini-Layout.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "mini-layout",
+		"filename": "mini-layout_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "362853665",
+		"id": "3748222100",
+		"name": "Monkey",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[18,2],28]],[2,[0,[6,3],[16,2],[26,2]]],[4,[[0,2],[10,4],26]],[6,[[8,7],26]],[7,6],[8,[[8,5],[20,2],26]],[10,[[0,2],10,14,22,26]],[12,[2,[8,2],14,18,[22,3]]],[14,[[2,4],[14,3]]]]],[1,[[0,[[2,2]]],[1,[0,6,18,28]],[2,[[8,2],16]],[3,[0,26]],[4,[[10,4]]],[5,26],[6,[[8,6]]],[7,[20,26]],[8,[[8,5]]],[9,[22,26]],[10,10],[11,[2,14,22,26]],[12,[10,24]],[13,[2,8]],[14,[[4,2],[15,2]]]]],[2,[[0,3],[2,0],[4,[[10,4],26]],[6,[[9,5],26]],[8,[[10,4],26]],[10,[22,26]],[12,2],[14,[5,16]]]],[3,[[4,[[10,4]]],[5,26],[6,[[10,4]]],[7,26],[8,[[10,4]]],[9,26]]],[4,[[6,26],[8,26]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/monkey",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "monkey",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "2882124909",
 		"name": "Monopoly",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -5980,7 +9529,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1016832334",
+		"id": "2882124909",
+		"name": "Monopoly",
+		"by": "Marc Lesselberg",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,12]]],[1,0],[2,[4,[8,2],[28,2]]],[4,[1,[8,2],15,[28,2]]],[6,[[8,2],[28,2]]],[7,4],[8,[[8,2],23,[28,2]]],[9,0],[10,[[8,2],[28,2]]],[11,5],[12,[[8,12]]]]],[1,[[0,[[8,12]]],[2,[[8,2],[28,2]]],[4,[[8,2],15,[28,2]]],[6,[[8,2],[28,2]]],[8,[[8,2],23,[28,2]]],[10,[[8,2],[28,2]]],[12,[[8,12]]]]],[2,[[0,[[8,12]]],[2,[[8,2],[28,2]]],[4,[[8,2],15,[28,2]]],[6,[[8,2],[28,2]]],[8,[[8,2],23,[28,2]]],[10,[[8,2],[28,2]]],[12,[[8,12]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Monopoly.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "monopoly_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "1760841046",
 		"name": "Moo",
 		"by": "Sharon Jones",
 		"tiles": 144,
@@ -5993,7 +9555,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3961641214",
+		"id": "1760841046",
+		"name": "Moo",
+		"by": "Sharon Jones",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[8,2],[13,4],[22,4],31]],[1,[[4,2]]],[2,[0,10,13,19,22,28,31]],[3,5],[4,[0,10,13,19,22,28,31]],[6,[0,10,13,19,22,28]],[7,31],[8,[0,10,[13,4],[22,4]]]]],[1,[[0,[1,9,16,25,31]],[1,[3,7]],[2,[1,5,9,14,18,23,27,31]],[4,[1,5,9,13,19,22,28,31]],[6,[1,9,14,18,23,27]],[8,[1,9,16,25,31]]]],[2,[[1,[1,[4,2],9,16,25,31]],[3,[1,5,9,14,18,23,27,31]],[5,[1,5,9,14,18,23,27,31]],[7,[1,9,16,25]],[9,31]]],[3,[[0,[2,7]],[1,[5,16,25]],[2,[1,8]],[3,[5,31]],[4,[1,9,14,18,23,27]],[5,5],[6,[1,9]],[7,[16,25]],[10,31]]],[4,[[1,[3,7,16,25]],[2,5],[4,[5,14,18,23,27]],[5,[1,9]],[7,[16,25]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#lycows.zip#SJ MOO.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "moo_2",
+		"path": "phantagia/lyall/lycows",
+		"group": "Phantagia - Submitted - Jones"
+	},
+	{
+		"id": "462823426",
 		"name": "Moon",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6006,7 +9581,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3105445050",
+		"id": "462823426",
+		"name": "Moon",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,10]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[2,10]]],[14,[[6,6]]]]],[1,[[0,[[6,6]]],[2,[[14,4]]],[4,[[16,4]]],[6,[[16,4]]],[8,[[16,4]]],[10,[[16,4]]],[12,[[14,4]]],[14,[[6,6]]]]],[2,[[0,[[10,4]]],[2,[[14,4]]],[4,[[18,3]]],[6,[[18,3]]],[8,[[18,3]]],[10,[[18,3]]],[12,[[14,4]]],[14,[[10,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Moon.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "moon_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "533037812",
 		"name": "Moorhuhn Reticule",
 		"by": "Marc Lesselberg",
 		"tiles": 36,
@@ -6019,7 +9607,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2406995503",
+		"id": "533037812",
+		"name": "Moorhuhn Reticule",
+		"by": "Marc Lesselberg",
+		"tiles": 36,
+		"data": "[[0,[[0,[[8,4]]],[2,11],[4,11],[5,[0,22]],[6,[[8,4]]],[7,[0,22]],[8,[[2,4],[14,4]]],[9,[0,22]],[10,[[8,4]]],[11,[0,22]],[12,11],[14,11],[16,[[8,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Reticule.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "moorhuhn_reticule_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "1962092925",
 		"name": "Moraff Based 1",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6032,7 +9633,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1605967827",
+		"id": "1962092925",
+		"name": "Moraff Based 1",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[0,[6,2],14]],[4,[[0,8]]],[6,[[0,8]]],[8,[0,[6,2],14]],[10,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[0,[6,2],14]],[4,[0,[6,2],14]],[5,[[2,2],[10,2]]],[6,[0,[6,2],14]],[8,[0,[6,2],14]],[10,[[0,8]]]]],[2,[[0,[[0,8]]],[2,[0,[6,2],14]],[4,[0,[6,2],14]],[5,[[2,2],[10,2]]],[6,[0,[6,2],14]],[8,[0,[6,2],14]],[10,[[0,8]]]]],[3,[[0,[[0,3],7,[10,3]]],[2,[0,14]],[4,[[6,2]]],[5,[0,14]],[6,[[6,2]]],[8,[0,14]],[10,[[0,3],7,[10,3]]]]],[4,[[0,[0,14]],[4,[[6,2]]],[6,[[6,2]]],[10,[0,14]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Moraff Based 1.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "moraff_based_1_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2795796319",
 		"name": "Moraff Based 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6045,7 +9659,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3413719871",
+		"id": "2795796319",
+		"name": "Moraff Based 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,3],[10,3]]],[6,[[0,3],[10,3]]],[8,[[0,8]]],[10,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[0,[6,2],14]],[4,[[0,3],[10,3]]],[6,[[0,3],[10,3]]],[8,[0,[6,2],14]],[10,[[0,8]]]]],[2,[[0,[[0,3],[10,3]]],[2,[0,[6,2],14]],[4,[[0,3],[10,3]]],[6,[[0,3],[10,3]]],[8,[0,[6,2],14]],[10,[[0,3],[10,3]]]]],[3,[[0,[[0,2],[12,2]]],[2,[0,14]],[4,[[0,2],[12,2]]],[6,[[0,2],[12,2]]],[8,[0,14]],[10,[[0,2],[12,2]]]]],[4,[[0,[0,14]],[4,[[0,2],[12,2]]],[6,[[0,2],[12,2]]],[10,[0,14]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Moraff Based 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "moraff_based_2_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2734813287",
 		"name": "Moraff Based 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6058,7 +9685,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2534752567",
+		"id": "2734813287",
+		"name": "Moraff Based 3",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,8]]],[8,[[0,8]]],[10,[[0,8]]]]],[1,[[0,[[0,8]]],[2,[0,[4,4],14]],[4,[0,[4,4],14]],[6,[0,[4,4],14]],[8,[0,[4,4],14]],[10,[[0,8]]]]],[2,[[0,[[0,8]]],[2,[0,14]],[4,[0,[6,2],14]],[6,[0,[6,2],14]],[8,[0,14]],[10,[[0,8]]]]],[3,[[0,[[4,4]]],[2,[0,14]],[4,[0,[6,2],14]],[6,[0,[6,2],14]],[8,[0,14]],[10,[[4,4]]]]],[4,[[0,[[6,2]]],[4,[[6,2]]],[6,[[6,2]]],[10,[[6,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Moraff Based 3.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "moraff_based_3_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3515732163",
 		"name": "Mosque",
 		"by": "Mary M",
 		"tiles": 144,
@@ -6071,7 +9711,7 @@ export const data = [
 		"group": "My Kyodai Mahjongg"
 	},
 	{
-		"id": "1093134664",
+		"id": "232703814",
 		"name": "Moth",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -6084,7 +9724,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "4175301377",
+		"id": "232703814",
+		"name": "Moth",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[13,3],[24,4]]],[1,[8,22]],[2,[2,6,10,15,20,24,28]],[3,[8,12,18,22]],[4,[3,10,[14,2],20,27]],[5,[12,18]],[6,[[2,2],[7,2],[14,2],[21,2],[26,2]]],[7,[12,18]],[8,[3,10,[14,2],20,27]],[9,[8,12,18,22]],[10,[2,6,10,15,20,24,28]],[11,[8,22]],[12,[[2,3],15,[24,3]]],[13,[0,30]]]],[1,[[0,[[0,4],[14,2],[24,4]]],[2,[2,8,15,22,28]],[4,[[12,4]]],[6,[3,8,[14,2],22,27]],[8,[[12,4]]],[10,[2,8,15,22,28]],[12,[[2,3],15,[24,3]]],[13,[0,30]]]],[2,[[0,[[2,2],15,[26,2]]],[2,15],[4,[[13,3]]],[6,15],[8,[[13,3]]],[10,15],[12,[[2,2],[26,2]]]]],[3,[[0,[3,27]],[4,[[14,2]]],[6,15],[8,[[14,2]]],[12,[3,27]]]],[4,[[4,15],[8,15]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadmoth.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "moth_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2233937669",
 		"name": "Mumlum",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -6097,7 +9750,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "210851883",
+		"id": "2461579435",
 		"name": "MyKyodai 0",
 		"by": "MyKyodai",
 		"tiles": 112,
@@ -6110,7 +9763,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2297076465",
+		"id": "2037684945",
 		"name": "MyKyodai 1",
 		"by": "MyKyodai",
 		"tiles": 96,
@@ -6123,7 +9776,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3487490679",
+		"id": "1221337629",
 		"name": "MyKyodai 2",
 		"by": "MyKyodai",
 		"tiles": 116,
@@ -6136,7 +9789,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2015565479",
+		"id": "2569066241",
 		"name": "MyKyodai 3",
 		"by": "MyKyodai",
 		"tiles": 136,
@@ -6149,7 +9802,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1451165580",
+		"id": "571678466",
 		"name": "MyKyodai 4",
 		"by": "MyKyodai",
 		"tiles": 132,
@@ -6162,7 +9815,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2757239491",
+		"id": "3359607993",
 		"name": "MyKyodai 5",
 		"by": "MyKyodai",
 		"tiles": 132,
@@ -6175,7 +9828,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2035360057",
+		"id": "789018477",
 		"name": "MyKyodai 6",
 		"by": "MyKyodai",
 		"tiles": 136,
@@ -6188,7 +9841,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4212268154",
+		"id": "1678815876",
 		"name": "MyKyodai 7",
 		"by": "MyKyodai",
 		"tiles": 56,
@@ -6201,7 +9854,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "768400834",
+		"id": "381980598",
 		"name": "MyKyodai 8",
 		"by": "MyKyodai",
 		"tiles": 64,
@@ -6214,7 +9867,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "404095672",
+		"id": "291623222",
 		"name": "MyKyodai 9",
 		"by": "MyKyodai",
 		"tiles": 140,
@@ -6227,7 +9880,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4182783585",
+		"id": "3114324741",
 		"name": "MyKyodai A",
 		"by": "MyKyodai",
 		"tiles": 116,
@@ -6240,7 +9893,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "890948497",
+		"id": "493187313",
 		"name": "MyKyodai B",
 		"by": "MyKyodai",
 		"tiles": 128,
@@ -6253,7 +9906,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "928042978",
+		"id": "2969024900",
 		"name": "MyKyodai C",
 		"by": "MyKyodai",
 		"tiles": 104,
@@ -6266,7 +9919,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4037935913",
+		"id": "3710069567",
 		"name": "MyKyodai D",
 		"by": "MyKyodai",
 		"tiles": 120,
@@ -6279,7 +9932,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1779078633",
+		"id": "2676240917",
 		"name": "MyKyodai E",
 		"by": "MyKyodai",
 		"tiles": 88,
@@ -6292,7 +9945,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3342177715",
+		"id": "3562919809",
 		"name": "MyKyodai F",
 		"by": "MyKyodai",
 		"tiles": 52,
@@ -6305,7 +9958,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4055590947",
+		"id": "983826891",
 		"name": "MyKyodai G",
 		"by": "MyKyodai",
 		"tiles": 112,
@@ -6318,7 +9971,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2386483010",
+		"id": "3966082772",
 		"name": "MyKyodai H",
 		"by": "MyKyodai",
 		"tiles": 104,
@@ -6331,7 +9984,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "622728742",
+		"id": "2077786746",
 		"name": "MyKyodai I",
 		"by": "MyKyodai",
 		"tiles": 140,
@@ -6344,7 +9997,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2998162768",
+		"id": "4155710822",
 		"name": "MyKyodai J",
 		"by": "MyKyodai",
 		"tiles": 56,
@@ -6357,7 +10010,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1208150885",
+		"id": "3857189643",
 		"name": "MyKyodai K",
 		"by": "MyKyodai",
 		"tiles": 64,
@@ -6370,7 +10023,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1327304897",
+		"id": "3762453163",
 		"name": "MyKyodai L",
 		"by": "MyKyodai",
 		"tiles": 44,
@@ -6383,7 +10036,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "235408912",
+		"id": "692114042",
 		"name": "MyKyodai M",
 		"by": "MyKyodai",
 		"tiles": 44,
@@ -6396,7 +10049,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "471694941",
+		"id": "1070141885",
 		"name": "MyKyodai N",
 		"by": "MyKyodai",
 		"tiles": 108,
@@ -6409,7 +10062,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4141659473",
+		"id": "3194621223",
 		"name": "MyKyodai O",
 		"by": "MyKyodai",
 		"tiles": 96,
@@ -6422,7 +10075,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "315362509",
+		"id": "2598030491",
 		"name": "MyKyodai P",
 		"by": "MyKyodai",
 		"tiles": 100,
@@ -6435,7 +10088,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2297720591",
+		"id": "1105946135",
 		"name": "MyKyodai R",
 		"by": "MyKyodai",
 		"tiles": 120,
@@ -6448,7 +10101,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "218832721",
+		"id": "819042223",
 		"name": "MyKyodai S",
 		"by": "MyKyodai",
 		"tiles": 60,
@@ -6461,7 +10114,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3397807838",
+		"id": "2302878824",
 		"name": "MyKyodai T",
 		"by": "MyKyodai",
 		"tiles": 56,
@@ -6474,7 +10127,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3796074551",
+		"id": "1475005769",
 		"name": "MyKyodai U",
 		"by": "MyKyodai",
 		"tiles": 40,
@@ -6487,7 +10140,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3104904802",
+		"id": "2544283948",
+		"name": "N For Namida",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[16,3]]],[2,[[0,5],[16,3]]],[4,[[0,6],[16,3]]],[6,[[0,3],[8,3],[16,3]]],[8,[[0,3],[10,6]]],[10,[[0,3],[12,5]]],[12,[[0,3],[14,4]]]]],[1,[[0,[[0,4],[16,3]]],[2,[[0,5],[16,3]]],[4,[[0,6],[16,3]]],[6,[[0,3],[8,3],[16,3]]],[8,[[0,3],[10,6]]],[10,[[0,3],[12,5]]],[12,[[0,3],[14,4]]]]],[2,[[0,[[0,4],[16,3]]],[2,[0,16,20]],[4,[0,16,20]],[6,[0,4,16,20]],[8,[0,4,20]],[10,[0,4,20]],[12,[[0,3],[14,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#N for Namida.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "n_for_namida",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2544283948",
 		"name": "N For Namida",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -6495,12 +10161,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#N for Namida.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "n_for_namida",
+		"filename": "n_for_namida_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4035056336",
+		"id": "2565966582",
 		"name": "N For Namida Traditional",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -6513,7 +10179,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1563905562",
+		"id": "4031465934",
 		"name": "Nan",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -6526,7 +10192,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "2063808846",
+		"id": "598146782",
 		"name": "Nan",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -6539,7 +10205,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3368017535",
+		"id": "598146782",
+		"name": "Nan",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[0,9]]],[6,[0,5,11,16]],[8,[0,6,10,16]],[9,8],[10,[0,16]],[11,[[4,5]]],[12,[0,16]],[13,8],[14,[0,[4,2],[10,2],16]],[15,8],[16,[0,15]]]],[1,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[0,9]]],[6,[0,5,11,16]],[8,[0,6,10,16]],[9,8],[10,[0,16]],[11,[[4,5]]],[12,[0,16]],[13,8],[14,[0,[4,2],[10,2],16]],[15,8],[16,[0,15]]]],[2,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[0,9]]],[6,[0,5,11,16]],[8,[0,6,10,16]],[9,8],[10,[0,16]],[11,[[4,5]]],[12,[0,16]],[13,8],[14,[0,[4,2],[10,2],16]],[15,8],[16,[0,15]]]],[3,[[1,8],[8,8],[15,8]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Nan.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "nan_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "598146782",
+		"name": "Nan",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[0,9]]],[6,[0,5,11,16]],[8,[0,6,10,16]],[9,8],[10,[0,16]],[11,[[4,5]]],[12,[0,16]],[13,8],[14,[0,[4,2],[10,2],16]],[15,8],[16,[0,15]]]],[1,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[0,9]]],[6,[0,5,11,16]],[8,[0,6,10,16]],[9,8],[10,[0,16]],[11,[[4,5]]],[12,[0,16]],[13,8],[14,[0,[4,2],[10,2],16]],[15,8],[16,[0,15]]]],[2,[[0,8],[1,[[0,4],[10,4]]],[2,8],[4,[[0,9]]],[6,[0,5,11,16]],[8,[0,6,10,16]],[9,8],[10,[0,16]],[11,[[4,5]]],[12,[0,16]],[13,8],[14,[0,[4,2],[10,2],16]],[15,8],[16,[0,15]]]],[3,[[1,8],[8,8],[15,8]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Nan.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "nan_4",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3747783141",
 		"name": "Naoki Haga Traditional",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -6552,7 +10244,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "619868569",
+		"id": "3031448891",
 		"name": "Neptune",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6565,7 +10257,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "953090552",
+		"id": "3031448891",
+		"name": "Neptune",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[3,13,23]],[1,[1,5,11,15,21,25]],[2,[3,13,23]],[3,[0,6,10,16,20,26]],[4,[3,13,23]],[6,[3,13,23]],[8,[5,13,21]],[9,[7,19]],[10,[[9,5]]],[12,13],[14,[[9,5]]],[16,13]]],[1,[[0,[3,13,23]],[1,[1,5,11,15,21,25]],[2,[3,13,23]],[3,[0,6,10,16,20,26]],[4,[3,13,23]],[6,[3,13,23]],[8,[5,13,21]],[9,[7,19]],[10,[[9,5]]],[12,13],[14,[[9,5]]],[16,13]]],[2,[[0,[3,13,23]],[1,[1,5,11,15,21,25]],[2,[3,13,23]],[3,[0,6,10,16,20,26]],[4,[3,13,23]],[6,[3,13,23]],[8,[5,13,21]],[9,[7,19]],[10,[[9,5]]]]],[3,[[0,[3,13,23]],[1,[1,5,11,15,21,25]],[2,[3,23]],[3,[0,6,10,16,20,26]],[4,[3,23]],[6,[3,23]],[8,[5,21]],[9,[7,19]],[10,[[11,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Neptune.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "neptune_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "2319211744",
 		"name": "New Layout 31",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6578,7 +10283,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "3891165737",
+		"id": "3324674693",
 		"name": "New Layout 32",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6591,7 +10296,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "3322844380",
+		"id": "2146914058",
 		"name": "New Layout 33",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6604,7 +10309,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "2827924260",
+		"id": "2935116370",
 		"name": "New Layout 35",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6617,7 +10322,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "2393142415",
+		"id": "3141979257",
 		"name": "New Layout 36",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6630,7 +10335,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "4178402203",
+		"id": "89350433",
 		"name": "New Layout 37",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6643,7 +10348,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "2883667335",
+		"id": "657924587",
 		"name": "New Layout 38",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6656,7 +10361,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "135887634",
+		"id": "2377561746",
 		"name": "New Layout 39",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6669,7 +10374,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "2113098207",
+		"id": "3825625177",
 		"name": "New Layout 42",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6682,7 +10387,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "1959998671",
+		"id": "2951345991",
 		"name": "New Layout 43",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6695,7 +10400,7 @@ export const data = [
 		"group": "Phantagia - Package 11"
 	},
 	{
-		"id": "2292638099",
+		"id": "1342163551",
 		"name": "New Layout 44",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6708,7 +10413,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "88136105",
+		"id": "817236197",
 		"name": "New Layout 45",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6721,7 +10426,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "1400494873",
+		"id": "2705266745",
 		"name": "New Layout 46",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6734,7 +10439,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "1249246681",
+		"id": "2726324939",
 		"name": "New Layout 47",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6747,7 +10452,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "3236592874",
+		"id": "1725916504",
 		"name": "New Layout 48",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6760,7 +10465,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "4020619957",
+		"id": "2222830475",
 		"name": "New Layout 49",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6773,7 +10478,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "411207899",
+		"id": "1514702089",
 		"name": "New Layout 50",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6786,7 +10491,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "3050007076",
+		"id": "1357381702",
 		"name": "New Layout 51",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6799,7 +10504,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "994262273",
+		"id": "2936863209",
 		"name": "New Layout 52",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6812,7 +10517,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "1040834113",
+		"id": "4119297695",
 		"name": "New Layout 53",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6825,7 +10530,7 @@ export const data = [
 		"group": "Phantagia - Package 12"
 	},
 	{
-		"id": "869650313",
+		"id": "667251381",
 		"name": "News",
 		"by": "Tsubassa Kurenai",
 		"tiles": 132,
@@ -6838,7 +10543,7 @@ export const data = [
 		"group": "Kurenai - Script signs"
 	},
 	{
-		"id": "1965857161",
+		"id": "4280670947",
 		"name": "Nine Pyramids",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -6851,7 +10556,7 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "4010044240",
+		"id": "661647240",
 		"name": "NL",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6864,7 +10569,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "53704450",
+		"id": "3744152664",
 		"name": "NL10",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6877,7 +10582,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "1124689172",
+		"id": "2071017386",
 		"name": "NL11",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6890,7 +10595,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "2044245008",
+		"id": "74922194",
 		"name": "NL12",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6903,7 +10608,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "814241198",
+		"id": "176493978",
 		"name": "NL13",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6916,7 +10621,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "1521060119",
+		"id": "3370093785",
 		"name": "NL14",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6929,7 +10634,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "1839455262",
+		"id": "1265952434",
 		"name": "NL15",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6942,7 +10647,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "1365707303",
+		"id": "1108681195",
 		"name": "NL16",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6955,7 +10660,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "2401298796",
+		"id": "3185910950",
 		"name": "NL17",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6968,7 +10673,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "3879850325",
+		"id": "1990714555",
 		"name": "NL18",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6981,7 +10686,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "651318585",
+		"id": "2461621",
 		"name": "NL19",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -6994,7 +10699,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "1256042707",
+		"id": "1539238147",
 		"name": "NL2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7007,7 +10712,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "3378629191",
+		"id": "992960987",
 		"name": "NL20",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7020,7 +10725,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "3583381823",
+		"id": "966699389",
 		"name": "NL21",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7033,7 +10738,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "1355284817",
+		"id": "2742112175",
 		"name": "NL22",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7046,7 +10751,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "1101215367",
+		"id": "241191433",
 		"name": "NL23",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7059,7 +10764,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 09"
 	},
 	{
-		"id": "1725289094",
+		"id": "2414499452",
 		"name": "NL24",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7072,7 +10777,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "3395883083",
+		"id": "155838889",
 		"name": "NL25",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7085,7 +10790,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "1406748965",
+		"id": "2282385103",
 		"name": "NL26",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7098,7 +10803,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "1232843053",
+		"id": "576519085",
 		"name": "NL27",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7111,7 +10816,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "3497127885",
+		"id": "1934333837",
 		"name": "NL28",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7124,7 +10829,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "1405394429",
+		"id": "2412271147",
 		"name": "NL29",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7137,7 +10842,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "2448982390",
+		"id": "967657496",
 		"name": "NL3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7150,7 +10855,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "1259212591",
+		"id": "1655503235",
 		"name": "NL30",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7163,7 +10868,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "2347754128",
+		"id": "1649986344",
 		"name": "NL34",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7176,7 +10881,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "3829246976",
+		"id": "552788862",
 		"name": "NL4",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7189,7 +10894,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "1463695453",
+		"id": "4024332033",
 		"name": "NL40",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7202,7 +10907,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "468630573",
+		"id": "513236605",
 		"name": "NL41",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7215,7 +10920,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 10"
 	},
 	{
-		"id": "3480372995",
+		"id": "2711668945",
 		"name": "NL5",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7228,7 +10933,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "2609623582",
+		"id": "3937825982",
 		"name": "NL6",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7241,7 +10946,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "1932349029",
+		"id": "3434576825",
 		"name": "NL7",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7254,7 +10959,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "741435409",
+		"id": "2262378409",
 		"name": "NL8",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7267,7 +10972,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "934012037",
+		"id": "4038207135",
 		"name": "NL9",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7280,7 +10985,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 08"
 	},
 	{
-		"id": "634173091",
+		"id": "1349811473",
 		"name": "Nordertor",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -7293,7 +10998,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3307582837",
+		"id": "262766441",
 		"name": "North European Flag",
 		"by": "Tsubassa Kurenai",
 		"tiles": 136,
@@ -7306,7 +11011,7 @@ export const data = [
 		"group": "Kurenai - Maps and flags"
 	},
 	{
-		"id": "183914527",
+		"id": "765100323",
 		"name": "Nut",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7319,7 +11024,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "1154164824",
+		"id": "89250262",
 		"name": "Nylyak",
 		"by": "Mugwump Dillard",
 		"tiles": 144,
@@ -7332,7 +11037,20 @@ export const data = [
 		"group": "Mugwump Dillard"
 	},
 	{
-		"id": "736727775",
+		"id": "89250262",
+		"name": "Nylyak",
+		"by": "Mugwump Dillard",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,4],[17,4]]],[2,[[2,4],13,[18,4]]],[4,[[1,4],[12,2],[19,4]]],[6,[[0,4],[11,3],[20,4]]],[8,[[1,4],[12,2],[19,4]]],[10,[[2,4],13,[18,4]]],[12,[[3,4],[17,4]]]]],[1,[[0,[[4,3],[18,3]]],[2,[[3,3],13,[19,3]]],[4,[[2,3],[12,2],[20,3]]],[6,[[1,3],[11,3],[21,3]]],[8,[[2,3],[12,2],[20,3]]],[10,[[3,3],13,[19,3]]],[12,[[4,3],[18,3]]]]],[2,[[0,[[5,2],[19,2]]],[2,[[4,2],[20,2]]],[4,[[3,2],[21,2]]],[6,[[2,2],[22,2]]],[8,[[3,2],[21,2]]],[10,[[4,2],[20,2]]],[12,[[5,2],[19,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Nylyak-md.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "nylyak_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2475747857",
 		"name": "Obtuse",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -7345,7 +11063,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1765309302",
+		"id": "3808256638",
 		"name": "Octaeder Field",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -7358,7 +11076,20 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "3709371574",
+		"id": "2196279142",
+		"name": "Okie's Nitemare",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[1,[14,18]],[2,[5,16,26]],[3,[3,13,19,28]],[4,[1,7,16,24,30]],[5,[5,26]],[6,[3,[15,2],28]],[8,[[8,2],[14,3],[22,2]]],[10,[[13,4]]],[12,[[1,3],[12,5],[27,3]]],[14,[[0,5],[11,6],[24,5]]],[16,[[0,17]]]]],[1,[[2,[5,16,26]],[3,[3,28]],[4,[1,7,16,24,30]],[5,[5,26]],[6,[3,16,28]],[8,[9,[15,2],23]],[10,[[14,3]]],[12,[[13,4]]],[14,[[12,5]]],[15,[[1,4],[25,4]]],[16,[[9,8]]]]],[2,[[3,[3,16,28]],[5,[5,16,26]],[8,16],[10,[[15,2]]],[12,[[14,3]]],[14,[[13,4]]]]],[3,[[10,16],[12,[[14,3]]]]],[4,[[11,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Okie's Nitemare.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "okies_nitemare",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2196279142",
 		"name": "Okie's Nitemare",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -7366,12 +11097,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Okie's Nitemare.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "okies_nitemare",
+		"filename": "okies_nitemare_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3955482880",
+		"id": "3053946084",
+		"name": "Old Dragon",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,2]]],[1,[[10,2],20]],[2,[[4,3],26]],[3,[1,12,[18,2],24,28]],[5,[[0,2],[10,2],[17,2],24,28]],[6,[4,22]],[7,[1,6,[9,2],[16,3],28]],[8,14],[9,[[6,4],[16,3],27]],[10,[3,14,22]],[11,[[6,4],18]],[12,[[2,2],[22,2]]],[13,18],[14,[3,[14,2],[24,2]]]]],[1,[[0,[[6,2]]],[1,[[10,2]]],[2,[[4,3],26]],[3,[1,12,19,24,28]],[5,[[0,2],[10,2],[17,2],24,28]],[6,22],[7,[1,6,[9,2],[16,3],28]],[8,14],[9,[[6,4],[16,3],27]],[10,[3,14,22]],[11,[[8,3],18]],[12,[[2,2],[22,2]]],[13,18],[14,[3,15,25]]]],[2,[[0,7],[1,[[9,2]]],[2,[[5,2]]],[3,12],[4,[1,24,28]],[5,[11,18]],[6,[1,28]],[7,[10,[17,2]]],[9,[[9,2],14,[17,2]]],[11,[3,[9,2]]],[13,3]]],[3,[[1,7],[7,18],[9,[10,18]],[11,10]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Dragon.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "old_dragon",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3053946084",
 		"name": "Old Dragon",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -7379,12 +11123,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Dragon.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "old_dragon",
+		"filename": "old_dragon_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3478838479",
+		"id": "3053946084",
+		"name": "Old Dragon",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,2]]],[1,[[10,2],20]],[2,[[4,3],26]],[3,[1,12,[18,2],24,28]],[5,[[0,2],[10,2],[17,2],24,28]],[6,[4,22]],[7,[1,6,[9,2],[16,3],28]],[8,14],[9,[[6,4],[16,3],27]],[10,[3,14,22]],[11,[[6,4],18]],[12,[[2,2],[22,2]]],[13,18],[14,[3,[14,2],[24,2]]]]],[1,[[0,[[6,2]]],[1,[[10,2]]],[2,[[4,3],26]],[3,[1,12,19,24,28]],[5,[[0,2],[10,2],[17,2],24,28]],[6,22],[7,[1,6,[9,2],[16,3],28]],[8,14],[9,[[6,4],[16,3],27]],[10,[3,14,22]],[11,[[8,3],18]],[12,[[2,2],[22,2]]],[13,18],[14,[3,15,25]]]],[2,[[0,7],[1,[[9,2]]],[2,[[5,2]]],[3,12],[4,[1,24,28]],[5,[11,18]],[6,[1,28]],[7,[10,[17,2]]],[9,[[9,2],14,[17,2]]],[11,[3,[9,2]]],[13,3]]],[3,[[1,7],[7,18],[9,[10,18]],[11,10]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/dragon",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "old_dragon_3",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "2735800859",
 		"name": "Olympics Archery",
 		"by": "JimPQ",
 		"tiles": 88,
@@ -7397,7 +11154,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3759991052",
+		"id": "1307249898",
 		"name": "Olympics Triple Jump",
 		"by": "MyKyodai",
 		"tiles": 120,
@@ -7410,7 +11167,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2676925695",
+		"id": "4126636623",
 		"name": "Om",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -7423,7 +11180,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "512507869",
+		"id": "4126636623",
+		"name": "Om",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[16,2]]],[1,[12,22]],[2,[[16,2]]],[3,[13,21]],[5,[[7,2],[15,3]]],[6,[5,11]],[7,[3,13]],[8,[[21,2]]],[9,[13,19,26]],[10,[11,17]],[11,[0,[5,3],15,26]],[12,13],[13,[1,20,24]],[14,22],[15,[3,13]],[17,[4,12]],[18,[[6,3]]]]],[1,[[0,[13,21]],[1,17],[2,[12,22]],[4,[14,20]],[5,[[6,2],[16,2]]],[6,[4,10]],[7,12],[8,[[20,3]]],[9,18],[10,[9,16,26]],[11,[6,12]],[12,[0,10,19,25]],[14,[2,12,[21,2]]],[16,[4,12]],[18,[[6,3]]]]],[2,[[1,17],[3,[13,21]],[5,[7,[15,3]]],[6,[5,9]],[8,[12,[21,2]]],[9,[19,25]],[10,[9,17]],[11,[7,11,26]],[13,[1,11,20,24]],[14,22],[15,[3,12]],[17,[5,11]],[18,[[7,2]]]]],[3,[[1,17],[4,[14,20]],[5,7],[6,9],[7,11],[8,[[20,2]]],[9,[11,18,24]],[10,[9,26]],[12,[11,19,25]],[13,2],[14,11],[15,3],[16,[5,11]],[17,[[7,2]]]]],[4,[[6,10],[8,[11,23]],[9,25],[10,10],[11,[12,18]],[13,11],[14,2],[15,4],[16,[6,10]],[17,8]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Om.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "om_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2235638477",
 		"name": "One Pyramid",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -7436,7 +11206,7 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "2204673902",
+		"id": "211101486",
 		"name": "Oracle",
 		"by": "Marc Lesselberg",
 		"tiles": 144,
@@ -7449,7 +11219,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "64151578",
+		"id": "211101486",
+		"name": "Oracle",
+		"by": "Marc Lesselberg",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,14]]],[2,[3,23]],[3,[1,[5,9],25]],[5,[[0,14]]],[7,[1,25]],[8,[[3,11]]],[10,[[0,14]]]]],[1,[[0,[3,23]],[3,[1,[5,9],25]],[5,[[2,12]]],[7,[1,[4,10],25]],[10,[3,23]]]],[2,[[2,[6,20]],[4,[[6,8]]],[5,[2,24]],[6,[[6,8]]],[8,[6,20]]]],[3,[[2,[6,20]],[5,[[7,6]]],[8,[6,20]]]],[4,[[5,[[8,5]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#mllayouts.zip#Oracle.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "oracle_2",
+		"path": "phantagia/lyall/mllayouts",
+		"group": "Phantagia - Submitted - Lesselberg"
+	},
+	{
+		"id": "4151898624",
+		"name": "Orbital",
+		"by": "Naoki Haga",
+		"tiles": 84,
+		"data": "[[0,[[0,[[11,3]]],[2,13],[4,13],[5,[0,11,15,26]],[7,[[0,6],[16,6]]],[9,[0,11,15,26]],[10,13],[12,13],[14,[[11,3]]]]],[1,[[0,[[11,3]]],[2,13],[4,13],[5,[0,11,15,26]],[7,[[0,6],[16,6]]],[9,[0,11,15,26]],[10,13],[12,13],[14,[[11,3]]]]],[2,[[0,[[11,3]]],[5,[0,26]],[7,[[0,3],[22,3]]],[9,[0,26]],[14,[[11,3]]]]],[3,[[5,[0,26]],[7,[[0,2],[24,2]]],[9,[0,26]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Orbital.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "orbital",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4151898624",
 		"name": "Orbital",
 		"by": "Naoki Haga",
 		"tiles": 84,
@@ -7457,12 +11253,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Orbital.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "orbital",
+		"filename": "orbital_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2410278133",
+		"id": "824604235",
 		"name": "Orchid",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7475,7 +11271,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "1790905930",
+		"id": "1085877384",
 		"name": "Orchis",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -7488,7 +11284,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3688052554",
+		"id": "415908076",
 		"name": "Order",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -7501,7 +11297,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2056819078",
+		"id": "415908076",
+		"name": "Order",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,8]]],[1,[0,24]],[2,[[8,5]]],[3,[[0,3],[20,3]]],[4,[[10,3]]],[5,[[0,3],[20,3]]],[6,[[6,7]]],[7,[[0,3],[20,3]]],[8,[[6,7]]],[9,[[0,3],[20,3]]],[10,[[10,3]]],[11,[[0,3],[20,3]]],[12,[[8,5]]],[13,[0,24]],[14,[[5,8]]]]],[1,[[0,[[6,7]]],[2,[[11,2]]],[3,[0,24]],[4,12],[5,[[0,2],[22,2]]],[6,12],[7,[[0,6],[14,6]]],[8,12],[9,[[0,2],[22,2]]],[10,12],[11,[0,24]],[12,[[11,2]]],[14,[[6,7]]]]],[2,[[0,[[10,3]]],[2,12],[5,[0,24]],[7,[[0,2],12,[22,2]]],[9,[0,24]],[12,12],[14,[[10,3]]]]],[3,[[7,12]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadorder.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "order_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3495377992",
 		"name": "Otaru's Sword",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -7514,7 +11323,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2075281581",
+		"id": "3495377992",
+		"name": "Otaru's Sword",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,12]]],[3,[[22,4]]],[4,[[2,10]]],[5,[[22,4]]],[6,19],[7,[[1,2],22]],[8,[5,[10,5]]],[9,[[1,2],8,[22,4]]],[10,6],[11,[0,3]],[13,[[4,12]]]]],[1,[[0,[[4,9]]],[3,[[22,4]]],[4,[[4,9]]],[5,[[22,4]]],[6,20],[7,[[1,2],18,22]],[8,[[10,4]]],[9,[[1,2],8,[22,4]]],[13,[[4,9]]]]],[2,[[0,[[4,6]]],[4,[[22,4]]],[7,[[1,2]]],[9,[[1,2]]],[13,[[4,6]]]]],[3,[[0,[[4,3]]],[7,[[1,2]]],[9,[[1,2]]],[13,[[4,3]]]]],[4,[[8,2]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Otaru's Sword.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "otarus_sword_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3944423797",
 		"name": "Oval",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7527,7 +11349,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2499221465",
+		"id": "3944423797",
+		"name": "Oval",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,5]]],[2,[[2,7]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[2,7]]],[16,[[4,5]]]]],[1,[[2,[[4,5]]],[4,[[2,7]]],[6,[[2,7]]],[8,[[2,7]]],[10,[[2,7]]],[12,[[2,7]]],[14,[[4,5]]]]],[2,[[4,[[4,5]]],[6,[[4,5]]],[8,[[4,5]]],[10,[[4,5]]],[12,[[4,5]]]]],[3,[[6,8],[8,[[6,3]]],[10,8]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Oval.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "oval_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3476425158",
+		"name": "Overpass",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,4]]],[2,[[8,4]]],[4,[[0,2],[8,4],[20,2]]],[6,[0,[8,4],22]],[8,[0,[8,4],22]],[10,[0,[8,4],22]],[12,[0,[8,4],22]],[14,[[0,2],[8,4],[20,2]]],[16,[[8,4]]]]],[1,[[4,[0,22]],[6,[[0,2],[20,2]]],[8,[[0,2],[20,2]]],[10,[[0,2],[20,2]]],[12,[[0,2],[20,2]]],[14,[0,22]]]],[2,[[6,[[2,2],[18,2]]],[8,[[2,2],[18,2]]],[10,[[2,2],[18,2]]],[12,[[2,2],[18,2]]]]],[3,[[6,[[4,8]]],[8,[[4,8]]],[10,[[4,8]]],[12,[[4,8]]]]],[4,[[6,[[6,6]]],[8,[[6,6]]],[10,[[6,6]]],[12,[[6,6]]]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
+		"solvable": true,
+		"filename": "overpass",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
+	},
+	{
+		"id": "24997037",
 		"name": "Ox",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -7540,7 +11388,20 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "909075325",
+		"id": "1556676486",
+		"name": "Ox",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[24,2]]],[2,[[4,4],[20,4]]],[3,14],[4,[1,[6,4],[16,5]]],[5,14],[6,[[2,6],[16,5]]],[7,[0,14,26]],[8,[[2,6],[16,5]]],[9,14],[10,[1,[6,4],[16,5]]],[11,14],[12,[[4,4],[20,4]]],[14,[[4,2],[24,2]]]]],[1,[[1,[5,25]],[4,[[8,8]]],[6,[[2,12]]],[8,[[2,12]]],[10,[[8,8]]],[13,[5,25]]]],[2,[[4,[[14,3]]],[6,[[10,7]]],[7,2],[8,[[10,7]]],[10,[[14,3]]]]],[3,[[6,[[14,3]]],[8,[[14,3]]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/ox",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "ox_2",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "282625011",
 		"name": "Oyster Shell",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7553,7 +11414,33 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "3772970806",
+		"id": "288149218",
+		"name": "P For Pappnase",
+		"by": "Patrick Becker",
+		"tiles": 132,
+		"data": "[[0,[[0,[[0,11]]],[2,[[0,12]]],[4,[[0,4],[21,2]]],[6,[[0,4],[21,2]]],[8,[[0,4],[21,2]]],[10,[[0,12]]],[12,[[0,11]]],[14,[[0,4]]],[16,[[0,4]]],[18,[[0,4]]]]],[1,[[1,[[1,10]]],[2,21],[3,[[1,3]]],[4,22],[5,[[1,3]]],[6,22],[7,[[1,3]]],[8,22],[9,[[1,3]]],[10,21],[11,[[1,10]]],[13,[[1,3]]],[15,[[1,3]]],[17,[[1,3]]]]],[2,[[2,2],[3,20],[4,4],[6,2],[8,4],[9,20],[10,2],[12,4],[14,2],[16,4]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#P for Pappnase.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "p_for_pappnase",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "288149218",
+		"name": "P For Pappnase",
+		"by": "Patrick Becker",
+		"tiles": 132,
+		"data": "[[0,[[0,[[0,11]]],[2,[[0,12]]],[4,[[0,4],[21,2]]],[6,[[0,4],[21,2]]],[8,[[0,4],[21,2]]],[10,[[0,12]]],[12,[[0,11]]],[14,[[0,4]]],[16,[[0,4]]],[18,[[0,4]]]]],[1,[[1,[[1,10]]],[2,21],[3,[[1,3]]],[4,22],[5,[[1,3]]],[6,22],[7,[[1,3]]],[8,22],[9,[[1,3]]],[10,21],[11,[[1,10]]],[13,[[1,3]]],[15,[[1,3]]],[17,[[1,3]]]]],[2,[[2,2],[3,20],[4,4],[6,2],[8,4],[9,20],[10,2],[12,4],[14,2],[16,4]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#PforPappnase.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "p_for_pappnase_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "288149218",
 		"name": "P For Pappnase",
 		"by": "Patrick Becker",
 		"tiles": 132,
@@ -7561,12 +11448,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#P for Pappnase.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "p_for_pappnase",
+		"filename": "p_for_pappnase_3",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1961898568",
+		"id": "3524681398",
 		"name": "Palanquin",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7579,7 +11466,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2579333550",
+		"id": "3524681398",
+		"name": "Palanquin",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,2]]],[2,[[8,8]]],[4,[[0,16]]],[6,[[9,7]]],[8,[[9,7]]],[10,[[9,7]]],[12,[[9,7]]],[14,[[9,7]]],[16,[[10,2],[18,2]]]]],[1,[[0,[[14,2]]],[2,[[8,8]]],[4,[[6,10]]],[6,[[9,7]]],[8,[[9,5],21]],[10,[[9,4],21]],[12,[[9,3],21]],[14,[[9,7]]]]],[2,[[0,15],[2,[[10,6]]],[4,[[8,8]]],[6,[9,21]],[8,[9,21]],[10,[9,21]],[12,[9,21]],[14,[[9,7]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Palanquin.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "palanquin_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "845392802",
+		"name": "Pantheon",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,7]]],[2,[[5,12]]],[4,[[0,17]]],[6,[[3,2],[9,2],[15,2],[21,2],[27,2]]],[8,[4,10,16,22,28]],[10,[4,10,16,22,28]],[12,[4,10,16,22,28]],[14,[4,10,16,22,28]],[16,[[3,2],[9,2],[15,2],[21,2],[27,2]]]]],[1,[[0,[[10,7]]],[2,[[5,12]]],[4,[[0,17]]],[6,[[3,2],[9,2],[15,2],[21,2],[27,2]]],[16,[[3,2],[9,2],[15,2],[21,2],[27,2]]]]],[2,[[1,[[11,6]]],[3,[[9,2],14,18,[21,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Pantheon.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "pantheon",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "845392802",
 		"name": "Pantheon",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -7587,12 +11500,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Pantheon.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "pantheon",
+		"filename": "pantheon_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1893041426",
+		"id": "748148480",
+		"name": "Papillon",
+		"by": "Vincent Krebs",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[1,[14,18]],[2,[4,12,20,28]],[3,[6,10,22,26]],[4,[4,8,24,28]],[5,[2,10,22,30]],[6,[0,4,12,20,28,32]],[7,[2,14,18,30]],[8,[0,4,16,28,32]],[9,[2,14,18,30]],[10,[0,4,12,20,28,32]],[11,[2,10,22,30]],[12,[4,8,24,28]],[13,[6,10,22,26]],[14,[4,12,20,28]],[15,[14,18]],[16,16]]],[1,[[0,16],[1,[14,18]],[2,[4,12,20,28]],[3,[6,10,22,26]],[4,[4,8,24,28]],[5,[2,10,22,30]],[6,[0,4,12,20,28,32]],[7,[2,14,18,30]],[8,[0,4,16,28,32]],[9,[2,14,18,30]],[10,[0,4,12,20,28,32]],[11,[2,10,22,30]],[12,[4,8,24,28]],[13,[6,10,22,26]],[14,[4,12,20,28]],[15,[14,18]],[16,16]]],[2,[[3,[5,27]],[4,[9,23]],[7,[[1,2],[29,2]]],[8,[[15,2]]],[9,[[1,2],[29,2]]],[12,[9,23]],[13,[5,27]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Papillon.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "papillon",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "748148480",
 		"name": "Papillon",
 		"by": "Vincent Krebs",
 		"tiles": 144,
@@ -7600,12 +11526,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Papillon.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "papillon",
+		"filename": "papillon_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "325352948",
+		"id": "748148480",
+		"name": "Papillon",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[1,[14,18]],[2,[4,12,20,28]],[3,[6,10,22,26]],[4,[4,8,24,28]],[5,[2,10,22,30]],[6,[0,4,12,20,28,32]],[7,[2,14,18,30]],[8,[0,4,16,28,32]],[9,[2,14,18,30]],[10,[0,4,12,20,28,32]],[11,[2,10,22,30]],[12,[4,8,24,28]],[13,[6,10,22,26]],[14,[4,12,20,28]],[15,[14,18]],[16,16]]],[1,[[0,16],[1,[14,18]],[2,[4,12,20,28]],[3,[6,10,22,26]],[4,[4,8,24,28]],[5,[2,10,22,30]],[6,[0,4,12,20,28,32]],[7,[2,14,18,30]],[8,[0,4,16,28,32]],[9,[2,14,18,30]],[10,[0,4,12,20,28,32]],[11,[2,10,22,30]],[12,[4,8,24,28]],[13,[6,10,22,26]],[14,[4,12,20,28]],[15,[14,18]],[16,16]]],[2,[[3,[5,27]],[4,[9,23]],[7,[[1,2],[29,2]]],[8,[[15,2]]],[9,[[1,2],[29,2]]],[12,[9,23]],[13,[5,27]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/papillon",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "papillon_3",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "2531881786",
 		"name": "Parabolic Structure",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -7618,7 +11557,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "1407304823",
+		"id": "3560858185",
 		"name": "Parted Tables",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -7631,20 +11570,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "953901835",
-		"name": "Pattern",
-		"by": "Ernie Polegato",
-		"tiles": 144,
-		"data": "[[0,[[0,[[8,4]]],[1,[[4,2],[16,2]]],[2,[2,[8,4],20]],[4,[0,8,14,22]],[6,[0,8,14,22]],[8,[2,[8,4],20]],[9,[[4,2],[16,2]]],[10,[[8,4]]]]],[1,[[0,[[8,4]]],[1,[[4,2],[16,2]]],[2,[2,[8,4],20]],[4,[0,8,14,22]],[6,[0,8,14,22]],[8,[2,[8,4],20]],[9,[[4,2],[16,2]]],[10,[[8,4]]]]],[2,[[0,[[8,4]]],[1,[[4,2],[16,2]]],[2,[2,[8,4],20]],[4,[0,8,14,22]],[6,[0,8,14,22]],[8,[2,[8,4],20]],[9,[[4,2],[16,2]]],[10,[[8,4]]]]],[3,[[0,[[8,4]]],[1,[[4,2],[16,2]]],[2,[2,[8,4],20]],[4,[0,8,14,22]],[6,[0,8,14,22]],[8,[2,[8,4],20]],[9,[[4,2],[16,2]]],[10,[[8,4]]]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout03.zip#Pattern.lay",
-		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
-		"solvable": true,
-		"filename": "pattern_3",
-		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
-	},
-	{
-		"id": "3842657855",
+		"id": "2119882521",
 		"name": "Pattern",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -7657,7 +11583,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2363101433",
+		"id": "2119882521",
+		"name": "Pattern",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[5,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[7,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[10,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]],[12,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2]]]]],[1,[[0,[1,11,22,25]],[1,[[5,2]]],[2,[1,16,[20,2],[25,2]]],[5,[0,7,[10,2],16,20,27]],[7,[2,5,11,[15,2],20,27]],[10,[12,15,[20,2],[25,2]]],[11,[0,7]],[12,[10,17,22,25]]]],[2,[[0,[1,11]],[1,[[5,2]]],[2,[1,16,22,25]],[5,[0,7,[10,2],16,20,27]],[7,[2,5,11,[15,2],20,27]],[10,[12,15,[20,2],[25,2]]],[11,[0,7]],[12,[10,17,22,25]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadpattern.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "pattern_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3924434879",
+		"name": "Pattern",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,4]]],[1,[[4,2],[16,2]]],[2,[2,[8,4],20]],[4,[0,8,14,22]],[6,[0,8,14,22]],[8,[2,[8,4],20]],[9,[[4,2],[16,2]]],[10,[[8,4]]]]],[1,[[0,[[8,4]]],[1,[[4,2],[16,2]]],[2,[2,[8,4],20]],[4,[0,8,14,22]],[6,[0,8,14,22]],[8,[2,[8,4],20]],[9,[[4,2],[16,2]]],[10,[[8,4]]]]],[2,[[0,[[8,4]]],[1,[[4,2],[16,2]]],[2,[2,[8,4],20]],[4,[0,8,14,22]],[6,[0,8,14,22]],[8,[2,[8,4],20]],[9,[[4,2],[16,2]]],[10,[[8,4]]]]],[3,[[0,[[8,4]]],[1,[[4,2],[16,2]]],[2,[2,[8,4],20]],[4,[0,8,14,22]],[6,[0,8,14,22]],[8,[2,[8,4],20]],[9,[[4,2],[16,2]]],[10,[[8,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout03.zip#Pattern.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pattern_3",
+		"path": "phantagia/eplayouts/eplayout03",
+		"group": "Phantagia - Package A - Package 03"
+	},
+	{
+		"id": "3484769577",
 		"name": "Pattern 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7670,7 +11622,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "3480314748",
+		"id": "440067930",
 		"name": "Pawn",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7683,7 +11635,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "738084013",
+		"id": "440067930",
+		"name": "Pawn",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,2]]],[1,[4,10]],[2,[[6,2]]],[4,[[2,6]]],[6,[[4,4]]],[8,[[4,4]]],[10,[[4,4]]],[12,[[2,6]]],[14,[[0,8]]]]],[1,[[0,[[6,2]]],[1,[4,10]],[2,[[6,2]]],[4,[[2,6]]],[6,[[4,4]]],[8,[[4,4]]],[10,[[4,4]]],[12,[[2,6]]],[14,[[0,8]]]]],[2,[[0,[[6,2]]],[2,[[6,2]]],[4,[[2,6]]],[6,[[4,4]]],[8,[[4,4]]],[10,[[4,4]]],[12,[[2,6]]],[14,[[0,8]]]]],[3,[[0,[[6,2]]],[2,[[6,2]]],[4,[[2,6]]],[6,[[6,2]]],[8,[[6,2]]],[10,[[6,2]]],[12,[[4,4]]],[14,[[2,6]]]]],[4,[[4,[[2,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaychess.zip#Pawn.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pawn_3",
+		"path": "phantagia/eplayouts/eplaychess",
+		"group": "Phantagia - Package A - Chess"
+	},
+	{
+		"id": "2624449695",
 		"name": "Pawn 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7696,7 +11661,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2900956320",
+		"id": "2624449695",
+		"name": "Pawn 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,2]]],[1,[6,12]],[2,[[8,2]]],[4,[[2,8]]],[6,[[8,2]]],[7,[6,12]],[8,[[8,2]]],[9,[6,12]],[10,[[8,2]]],[12,[[2,8]]],[14,[[0,10]]]]],[1,[[0,[[8,2]]],[1,[6,12]],[2,[[8,2]]],[4,[[2,8]]],[6,[[8,2]]],[7,[6,12]],[8,[[8,2]]],[9,[6,12]],[10,[[8,2]]],[12,[[2,8]]],[14,[[0,10]]]]],[2,[[0,[[8,2]]],[2,[[8,2]]],[4,[[4,6]]],[6,[[8,2]]],[7,[6,12]],[8,[[8,2]]],[9,[6,12]],[10,[[8,2]]],[12,[[4,6]]],[14,[[2,8]]]]],[3,[[0,[[8,2]]],[2,[[8,2]]],[4,[[6,4]]],[6,[[8,2]]],[8,[[8,2]]],[10,[[8,2]]],[12,[[8,2]]],[14,[[4,6]]]]],[4,[[4,[[6,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaychess.zip#Pawn 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pawn_2_2",
+		"path": "phantagia/eplayouts/eplaychess",
+		"group": "Phantagia - Package A - Chess"
+	},
+	{
+		"id": "4274187132",
+		"name": "PC",
+		"by": "Monica Ottosson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,9]]],[2,[2,18]],[4,[2,18]],[6,[2,18]],[8,[2,18]],[10,[[2,9]]],[12,[[6,5]]],[14,[[0,11]]],[16,[[0,11]]]]],[1,[[0,[[2,9]]],[2,[2,18]],[4,[2,18]],[6,[2,18]],[8,[2,18]],[10,[[2,9]]],[12,[[7,4]]],[14,[[0,11]]],[16,[[0,11]]]]],[2,[[0,[[2,9]]],[2,[2,18]],[4,[2,18]],[6,[2,18]],[8,[2,18]],[10,[[2,9]]],[14,[0,[4,3],[12,2],20]],[16,[0,[4,3],12,20]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#PC.LAY",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "pc",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "4274187132",
 		"name": "PC",
 		"by": "Monica Ottosson",
 		"tiles": 144,
@@ -7704,12 +11695,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20190804145426/http://www.angelfire.com/mo2/ottosson/layouts/Pc.zip#PC.LAY",
 		"site": "https://web.archive.org/web/20190804145400/http://www.angelfire.com/mo2/ottosson/layouts.html",
 		"solvable": true,
-		"filename": "pc",
+		"filename": "pc_2",
 		"path": "ottosson/Pc",
 		"group": "Monika Ottosson"
 	},
 	{
-		"id": "2176404694",
+		"id": "4274187132",
+		"name": "PC",
+		"by": "Monica Ottosson",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,9]]],[2,[2,18]],[4,[2,18]],[6,[2,18]],[8,[2,18]],[10,[[2,9]]],[12,[[6,5]]],[14,[[0,11]]],[16,[[0,11]]]]],[1,[[0,[[2,9]]],[2,[2,18]],[4,[2,18]],[6,[2,18]],[8,[2,18]],[10,[[2,9]]],[12,[[7,4]]],[14,[[0,11]]],[16,[[0,11]]]]],[2,[[0,[[2,9]]],[2,[2,18]],[4,[2,18]],[6,[2,18]],[8,[2,18]],[10,[[2,9]]],[14,[0,[4,3],[12,2],20]],[16,[0,[4,3],12,20]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#molayouts.zip#PC.LAY",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pc_3",
+		"path": "phantagia/lyall/molayouts",
+		"group": "Phantagia - Submitted - Ottosson"
+	},
+	{
+		"id": "1739376940",
 		"name": "Peace Symbol",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -7722,7 +11726,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1511115661",
+		"id": "1739376940",
+		"name": "Peace Symbol",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,5]]],[1,[6,18]],[2,[4,12,20]],[3,[2,22]],[4,[0,12,24]],[6,[0,12,24]],[8,[0,12,24]],[9,[10,14]],[10,[0,8,12,16,24]],[11,[6,18]],[12,[0,4,12,20,24]],[13,[2,22]],[14,[4,12,20]],[15,[6,18]],[16,[[8,5]]]]],[1,[[0,[[8,5]]],[1,[6,18]],[2,[4,12,20]],[3,[2,22]],[4,[0,12,24]],[6,[0,12,24]],[8,[0,12,24]],[9,[10,14]],[10,[0,8,12,16,24]],[11,[6,18]],[12,[0,4,12,20,24]],[13,[2,22]],[14,[4,12,20]],[15,[6,18]],[16,[[8,5]]]]],[2,[[0,[[8,5]]],[1,[6,18]],[2,[4,12,20]],[3,[2,22]],[4,[0,12,24]],[6,[0,12,24]],[8,[0,12,24]],[9,[10,14]],[10,[0,8,12,16,24]],[11,[6,18]],[12,[0,4,12,20,24]],[13,[2,22]],[14,[4,12,20]],[15,[6,18]],[16,[[8,5]]]]],[3,[[9,12],[13,[3,21]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Peace Symbol.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "peace_symbol_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "602939675",
 		"name": "Penta",
 		"by": "Alexey Charkov",
 		"tiles": 130,
@@ -7735,7 +11752,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3921415340",
+		"id": "602939675",
+		"name": "Penta",
+		"by": "Alexey Charkov",
+		"tiles": 130,
+		"data": "[[0,[[0,[[0,4],[18,4]]],[2,[[0,13]]],[4,[[0,4],[9,4],[18,4]]],[6,[3,[9,4],21]],[8,[[0,4],[9,4],[18,4]]],[10,[[0,13]]],[12,[[0,4],[18,4]]]]],[1,[[0,[0,6,18,24]],[1,[[2,2],[20,2]]],[3,[[2,2],[20,2]]],[4,[0,6,9,15,18,24]],[5,[[11,2]]],[6,[9,15]],[7,[[11,2]]],[8,[0,6,9,15,18,24]],[9,[[2,2],[20,2]]],[11,[[2,2],[20,2]]],[12,[0,6,18,24]]]],[2,[[2,[[2,2],[20,2]]],[6,[[11,2]]],[10,[[2,2],[20,2]]]]],[3,[[2,[3,21]],[6,12],[10,[3,21]]]],[4,[[6,12]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadpenta.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "penta_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "288493640",
 		"name": "Pharaoh's Monument",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7748,7 +11778,20 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "2593160912",
+		"id": "1125676962",
+		"name": "Phoenix",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[15,2],[30,2]]],[1,[4,19,28]],[2,[0,6,[15,2],26,32]],[3,[8,24]],[4,[10,[14,3],22]],[5,[[0,3],12,20,[28,3]]],[6,[6,[15,2],26]],[7,[0,8,12,20,24,32]],[8,[4,10,[15,2],22,28]],[9,[0,12,20,32]],[10,[[15,2]]],[11,[[2,4],12,20,[24,4]]],[12,[10,[15,2],22]],[13,[2,5,12,20,27,30]],[14,[8,14,18,24]],[15,[2,5,27,30]],[16,[10,22]]]],[1,[[1,[1,31]],[2,[3,29]],[3,[5,27]],[4,[7,[14,3],25]],[5,[9,23]],[6,[3,11,[15,2],21,29]],[7,[5,27]],[8,[7,[13,4],25]],[9,[9,23]],[10,[3,11,[15,2],21,29]],[11,[5,13,19,27]],[12,[7,[15,2],25]],[13,[9,23]],[14,[11,21]],[15,[13,19]]]],[2,[[5,[[13,4]]],[8,[[15,2]]],[11,[[15,2]]]]],[3,[[5,[[15,2]]],[8,16],[11,16]]],[4,[[5,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Phoenix.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "phoenix",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1125676962",
 		"name": "Phoenix",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -7756,12 +11799,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Phoenix.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "phoenix",
+		"filename": "phoenix_3",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2625970891",
+		"id": "607851965",
 		"name": "Phoenix",
 		"by": "Vivian Bushell",
 		"tiles": 144,
@@ -7774,7 +11817,7 @@ export const data = [
 		"group": "Phantagia - Submitted - Bushell"
 	},
 	{
-		"id": "2879750724",
+		"id": "4244965514",
 		"name": "Phoenix 2",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -7787,7 +11830,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "464344697",
+		"id": "4121754133",
 		"name": "Picture Frame",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -7800,7 +11843,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2559520971",
+		"id": "242916191",
 		"name": "Pier Four",
 		"by": "Carolyne Smythe",
 		"tiles": 144,
@@ -7813,7 +11856,7 @@ export const data = [
 		"group": "Miss Fantastic"
 	},
 	{
-		"id": "3006386160",
+		"id": "3861299312",
 		"name": "Pikachu",
 		"by": "Nanami Kamimura",
 		"tiles": 68,
@@ -7826,7 +11869,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1233316395",
+		"id": "3861299312",
+		"name": "Pikachu",
+		"by": "Nanami Kamimura",
+		"tiles": 68,
+		"data": "[[0,[[0,[0,18]],[1,[2,16,[23,3]]],[2,[4,14]],[3,[[22,3]]],[4,[[5,5],20]],[5,[18,[22,2]]],[6,[[5,5],16,20]],[7,18],[8,[[5,5],16]],[10,[[5,6]]],[12,[[5,5]]],[14,[[2,2],[14,2]]]]],[1,[[4,21],[5,[[6,4]]],[6,19],[7,[[6,4],17]],[11,[[6,4]]]]],[2,[[6,[[7,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Pikachu.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pikachu_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1375221449",
+		"name": "Pillars",
+		"by": "DMask",
+		"tiles": 80,
+		"data": "[[0,[[0,[[11,2]]],[2,[[11,2]]],[3,[[3,2],[19,2]]],[5,[[3,2],[19,2]]],[7,[[9,4]]],[9,[[0,2],[9,4],[20,2]]],[11,[[0,2],[9,4],[20,2]]],[15,[[6,2],[14,2]]],[17,[[6,2],[14,2]]]]],[1,[[1,12],[4,[4,20]],[8,[[10,3]]],[10,[1,[10,3],21]],[16,[7,15]]]],[2,[[1,12],[4,[4,20]],[9,[[11,2]]],[10,[1,21]],[16,[7,15]]]],[3,[[1,12],[4,[4,20]],[9,[[11,2]]],[10,[1,21]],[16,[7,15]]]],[4,[[1,12],[4,[4,20]],[9,[[11,2]]],[10,[1,21]],[16,[7,15]]]]]",
+		"source": "https://web.archive.org/web/20040610002141/http://deathm1.tripod.com/stuff/layouts.zip#Pillars.lay",
+		"site": "https://web.archive.org/web/20040612231847/http://deathm1.tripod.com/stuff/pcgames.html",
+		"solvable": true,
+		"filename": "pillars",
+		"path": "deathm1",
+		"group": "Death Mask"
+	},
+	{
+		"id": "4276837622",
+		"name": "Pillars",
+		"by": "Alexey Charkov",
+		"tiles": 118,
+		"data": "[[0,[[0,[[0,16]]],[2,[[4,5],[18,5]]],[4,[[6,3],[20,3]]],[6,[[6,3],[20,3]]],[8,[[6,3],[20,3]]],[10,[[6,3],[20,3]]],[12,[[4,5],[18,5]]],[14,[[0,16]]]]],[1,[[0,[[3,13]]],[2,[[7,2],[21,2]]],[4,[8,22]],[6,[8,22]],[8,[8,22]],[10,[8,22]],[12,[[7,2],[21,2]]],[14,[[3,13]]]]]]",
+		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/pillars.layout",
+		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
+		"solvable": true,
+		"filename": "pillars_2",
+		"path": "kmahjongg",
+		"group": "KMahjongg"
+	},
+	{
+		"id": "1375221449",
 		"name": "Pillars",
 		"by": "DMask",
 		"tiles": 80,
@@ -7839,20 +11921,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3581352956",
+		"id": "4276837622",
 		"name": "Pillars",
 		"by": "Alexey Charkov",
 		"tiles": 118,
 		"data": "[[0,[[0,[[0,16]]],[2,[[4,5],[18,5]]],[4,[[6,3],[20,3]]],[6,[[6,3],[20,3]]],[8,[[6,3],[20,3]]],[10,[[6,3],[20,3]]],[12,[[4,5],[18,5]]],[14,[[0,16]]]]],[1,[[0,[[3,13]]],[2,[[7,2],[21,2]]],[4,[8,22]],[6,[8,22]],[8,[8,22]],[10,[8,22]],[12,[[7,2],[21,2]]],[14,[[3,13]]]]]]",
-		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/pillars.layout",
-		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadpillars.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
 		"solvable": true,
-		"filename": "pillars",
-		"path": "kmahjongg",
-		"group": "KMahjongg"
+		"filename": "pillars_4",
+		"path": "ogs-mahjong",
+		"group": "OGS"
 	},
 	{
-		"id": "595354785",
+		"id": "2573416175",
 		"name": "Pillars With Roof",
 		"by": "Tsubassa Kurenai",
 		"tiles": 136,
@@ -7865,7 +11947,20 @@ export const data = [
 		"group": "Kurenai - Floater"
 	},
 	{
-		"id": "2839316822",
+		"id": "2491027000",
+		"name": "Pioneer",
+		"by": "Patrick Becker",
+		"tiles": 104,
+		"data": "[[0,[[0,[7,13]],[1,[5,15]],[2,[7,13]],[3,[3,17]],[4,[7,13]],[5,[1,19]],[6,[7,13]],[7,[0,20]],[8,[7,13]],[9,[0,20]],[10,[8,12]],[11,[1,10,19]],[13,[3,10,17]],[15,[[1,3],10,[15,3]]]]],[1,[[0,[7,13]],[1,[5,15]],[2,[7,13]],[3,[3,17]],[4,[7,13]],[5,[1,19]],[6,[7,13]],[7,[0,20]],[8,[7,13]],[9,[0,20]],[10,[8,12]],[11,[1,10,19]],[13,[3,10,17]],[15,[[1,3],10,[15,3]]]]],[2,[[0,[7,13]],[1,[5,15]],[2,[7,13]],[3,[3,17]],[4,[7,13]],[5,[1,19]],[6,[7,13]],[7,[0,20]],[8,[7,13]],[9,[0,20]],[10,[8,12]],[11,[1,10,19]],[13,[3,10,17]],[15,[[1,3],[15,3]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Pioneer.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "pioneer",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2491027000",
 		"name": "Pioneer",
 		"by": "Patrick Becker",
 		"tiles": 104,
@@ -7873,12 +11968,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Pioneer.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "pioneer",
+		"filename": "pioneer_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "3295509728",
+		"id": "899719862",
 		"name": "Pirates",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -7891,7 +11986,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "17264094",
+		"id": "899719862",
+		"name": "Pirates",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[13,3],26,30]],[2,[13,28]],[3,[[9,2],[15,2]]],[4,[13,26,30]],[5,[[7,3],[15,3]]],[6,13],[7,[[3,5],[15,5]]],[8,[13,29]],[9,0],[10,[13,[25,3]]],[11,1],[12,[[3,14]]],[14,[[7,11]]]]],[1,[[0,13],[2,[13,28]],[3,[[9,2],15]],[4,13],[5,[[9,2],[15,2]]],[6,13],[7,[[7,3],[15,3]]],[8,[13,29]],[10,[13,[25,3]]],[12,[[5,12]]],[14,[[9,8]]]]],[2,[[3,[11,15]],[5,[[9,2],[15,2]]],[7,[[9,2],[15,2]]],[10,29],[11,27],[12,[[6,9],25]],[14,[[9,8]]]]],[3,[[3,[11,15]],[5,[11,15]],[7,[9,17]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadpirates.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "pirates_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1029001384",
 		"name": "Pisces",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7904,7 +12012,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3308353595",
+		"id": "1029001384",
+		"name": "Pisces",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[18,3]]],[2,[[0,4],[16,4]]],[4,[[0,5],[14,5]]],[6,[[2,10]]],[8,[[2,10]]],[10,[[2,10]]],[12,[[0,5],[14,5]]],[14,[[0,4],[16,4]]],[16,[[0,3],[18,3]]]]],[1,[[0,[0,22]],[2,[2,20]],[4,[4,18]],[6,[6,16]],[8,[[6,6]]],[10,[6,16]],[12,[4,18]],[14,[2,20]],[16,[0,22]]]],[2,[[0,[0,22]],[2,[2,20]],[4,[4,18]],[6,[6,16]],[8,[[6,6]]],[10,[6,16]],[12,[4,18]],[14,[2,20]],[16,[0,22]]]],[3,[[0,[0,22]],[2,[2,20]],[4,[4,18]],[6,[6,16]],[8,[[6,6]]],[10,[6,16]],[12,[4,18]],[14,[2,20]],[16,[0,22]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Pisces.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pisces_3",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "3431613183",
 		"name": "Pisces 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7917,7 +12038,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2798868846",
+		"id": "3431613183",
+		"name": "Pisces 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[16,4]]],[2,[[2,4],[14,4]]],[4,[[4,3],[14,3]]],[6,[[6,6]]],[8,[[2,10]]],[10,[[6,6]]],[12,[[4,3],[14,3]]],[14,[[2,4],[14,4]]],[16,[[0,4],[16,4]]]]],[1,[[0,[0,22]],[2,[2,20]],[4,[4,18]],[6,[6,16]],[8,[[2,10]]],[10,[6,16]],[12,[4,18]],[14,[2,20]],[16,[0,22]]]],[2,[[0,[0,22]],[2,[2,20]],[4,[4,18]],[6,[6,16]],[8,[[2,10]]],[10,[6,16]],[12,[4,18]],[14,[2,20]],[16,[0,22]]]],[3,[[0,[0,22]],[2,[2,20]],[4,[4,18]],[6,[6,16]],[8,[[2,10]]],[10,[6,16]],[12,[4,18]],[14,[2,20]],[16,[0,22]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Pisces 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pisces_2_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "3367570202",
 		"name": "Pisces 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -7930,7 +12064,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "298045055",
+		"id": "3367570202",
+		"name": "Pisces 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,2],10,[14,4]]],[4,[0,6,[14,5]]],[6,[[0,4],[16,4]]],[8,[[0,5],16,22]],[10,[[2,4],[18,2]]],[12,[[6,6]]],[14,12]]],[1,[[0,[[6,6]]],[2,[[2,2],10,[14,4]]],[4,[0,6,[14,5]]],[6,[[0,4],[16,4]]],[8,[[0,5],16,22]],[10,[[2,4],[18,2]]],[12,[[6,6]]],[14,12]]],[2,[[0,[[6,6]]],[2,[[2,2],10,[14,4]]],[4,[0,6,[14,5]]],[6,[[0,4],[16,4]]],[8,[[0,5],16,22]],[10,[[2,4],[18,2]]],[12,[[6,6]]],[14,12]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Pisces 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pisces_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "555423839",
 		"name": "Platform With Stairs",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -7943,7 +12090,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "284381663",
+		"id": "2439610559",
 		"name": "Plugging System",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -7956,7 +12103,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "1102116760",
+		"id": "2401906780",
 		"name": "Plum",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -7969,7 +12116,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "852527327",
+		"id": "2639411117",
 		"name": "Plum Blossom",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7982,7 +12129,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "1274391943",
+		"id": "1777024141",
 		"name": "Pluto",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -7995,7 +12142,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4218504278",
+		"id": "1777024141",
+		"name": "Pluto",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[1,20],[2,[[4,2],22]],[4,[[4,2],22]],[6,[[4,2],22]],[7,20],[8,[[4,8]]],[10,[[4,2]]],[12,[[4,2]]],[14,[[4,2],22]],[16,[[0,12]]]]],[1,[[0,[[0,10]]],[1,20],[2,[[4,2],22]],[4,[[4,2],22]],[6,[[4,2],22]],[7,20],[8,[[4,8]]],[10,[[4,2]]],[12,[[4,2]]],[14,[[4,2],22]],[16,[[0,12]]]]],[2,[[0,[[0,10]]],[1,20],[2,[[4,2],22]],[4,[[4,2],22]],[6,[[4,2],22]],[7,20],[8,[[4,8]]],[10,[[4,2]]],[12,[[4,2]]],[14,[[4,2],22]],[16,[[0,12]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Pluto.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pluto_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "405110434",
+		"name": "Pong",
+		"by": "Patrick Becker",
+		"tiles": 100,
+		"data": "[[0,[[0,[[0,17]]],[3,[0,11,16,21]],[5,[0,11,21]],[7,[0,11,16,21]],[11,[16,32]],[12,21],[13,[24,32]],[14,27],[15,[16,32]],[18,[[0,17]]]]],[1,[[0,[[0,17]]],[3,[0,16]],[5,0],[7,[0,16]],[11,[16,32]],[13,[24,32]],[14,27],[15,[16,32]],[18,[[0,17]]]]],[2,[[14,27]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#PONG.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "pong",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "405110434",
 		"name": "Pong",
 		"by": "Patrick Becker",
 		"tiles": 100,
@@ -8003,12 +12176,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#PONG.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "pong",
+		"filename": "pong_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1326020206",
+		"id": "664876438",
+		"name": "Portal",
+		"by": "Leonard Enos",
+		"tiles": 144,
+		"data": "[[0,[[2,[2,6,22,26]],[3,[4,24]],[4,[2,6,22,26]],[6,[12,16]],[8,[12,16]],[10,[2,6,22,26]],[11,[4,24]],[12,[2,6,22,26]]]],[1,[[1,[[1,4],[21,4]]],[3,[1,7,21,27]],[5,[[1,4],[11,4],[21,4]]],[7,[11,17]],[9,[[1,4],[11,4],[21,4]]],[11,[1,7,21,27]],[13,[[1,4],[21,4]]]]],[2,[[0,[[0,5],[20,5]]],[2,[0,8,20,28]],[4,[0,[8,7],28]],[6,[[0,6],[18,6]]],[8,[[0,6],[18,6]]],[10,[0,[8,7],28]],[12,[0,8,20,28]],[14,[[0,5],[20,5]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Portal.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "portal",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "664876438",
 		"name": "Portal",
 		"by": "Leonard Enos",
 		"tiles": 144,
@@ -8016,12 +12202,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Portal.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "portal",
+		"filename": "portal_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1738505869",
+		"id": "1552388717",
+		"name": "Poseidon",
+		"by": "DMask",
+		"tiles": 60,
+		"data": "[[0,[[0,11],[1,[9,13]],[2,11],[3,[8,14]],[4,[3,11,19]],[5,[1,21]],[6,[3,11,19]],[8,[3,8,11,14,19]],[9,[5,17]],[10,[[7,5]]],[12,11],[14,[[9,3]]],[16,11]]],[1,[[1,11],[2,[9,13]],[3,[4,11,18]],[4,[8,14]],[5,[2,20]],[6,[0,22]],[9,[8,11,14]],[11,11],[13,11],[15,11],[17,11]]],[2,[[1,11],[3,[[10,2]]],[4,[3,19]],[5,[1,7,15,21]]]],[3,[[2,11]]]]",
+		"source": "https://web.archive.org/web/20040610002141/http://deathm1.tripod.com/stuff/layouts.zip#Poseidon.lay",
+		"site": "https://web.archive.org/web/20040612231847/http://deathm1.tripod.com/stuff/pcgames.html",
+		"solvable": true,
+		"filename": "poseidon",
+		"path": "deathm1",
+		"group": "Death Mask"
+	},
+	{
+		"id": "1552388717",
 		"name": "Poseidon",
 		"by": "DMask",
 		"tiles": 60,
@@ -8029,12 +12228,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Poseidon.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "poseidon",
+		"filename": "poseidon_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1720987779",
+		"id": "4255716921",
 		"name": "PQ",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -8047,7 +12246,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1999835852",
+		"id": "2160884406",
 		"name": "Pyramid",
 		"by": "Alexey Charkov",
 		"tiles": 204,
@@ -8060,7 +12259,7 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2159520819",
+		"id": "1815369337",
 		"name": "Pyramid",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -8073,7 +12272,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "695258584",
+		"id": "2160884406",
+		"name": "Pyramid",
+		"by": "Alexey Charkov",
+		"tiles": 204,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[0,12]]],[14,[[0,12]]]]],[1,[[2,[[2,10]]],[4,[[2,10]]],[6,[[2,10]]],[8,[[2,10]]],[10,[[2,10]]],[12,[[2,10]]]]],[2,[[4,[[4,8]]],[6,[[4,8]]],[8,[[4,8]]],[10,[[4,8]]]]],[3,[[6,[[6,6]]],[8,[[6,6]]]]],[4,[[7,[[8,4]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadpyramid.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "pyramid_4",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "973763131",
+		"name": "Pyramid",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[2,10]]],[6,[[4,8]]],[8,[[4,8]]],[10,[[2,10]]],[12,[[0,12]]],[14,[[0,12]]]]],[1,[[2,[[4,8]]],[4,[[6,6]]],[6,[[6,6]]],[8,[[6,6]]],[10,[[6,6]]],[12,[[4,8]]]]],[2,[[4,[[8,4]]],[6,[8,14]],[8,[8,14]],[10,[[8,4]]]]],[3,[[4,[[10,2]]],[6,[8,14]],[8,[8,14]],[10,[[10,2]]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "pyramid_5",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "1264183354",
+		"name": "Pyramid 1",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[4,8]]],[4,[[2,10]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[2,10]]],[12,[[4,8]]],[14,[[6,6]]]]],[1,[[2,[[6,6]]],[4,[[4,8]]],[6,[[4,8]]],[7,[2,20]],[8,[[4,8]]],[10,[[4,8]]],[12,[[6,6]]]]],[2,[[4,[[8,4]]],[6,[[6,6]]],[8,[[6,6]]],[10,[[8,4]]]]],[3,[[6,[[10,2]]],[7,[8,14]],[8,[[10,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Pyramid 1.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "pyramid_1",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1264183354",
 		"name": "Pyramid 1",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -8081,12 +12319,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Pyramid 1.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "pyramid_1",
+		"filename": "pyramid_1_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "20241563",
+		"id": "3337320195",
+		"name": "Pyramid 2",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,6]]],[2,[[2,8]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[2,8]]],[12,[[4,6]]]]],[1,[[0,[[8,2]]],[2,[[4,6]]],[4,[[2,8]]],[6,[[2,8]]],[8,[[2,8]]],[10,[[4,6]]],[12,[[8,2]]]]],[2,[[2,[[6,4]]],[4,[[6,4]]],[5,[4,14]],[6,[[6,4]]],[7,[4,14]],[8,[[6,4]]],[10,[[6,4]]]]],[3,[[2,[[8,2]]],[4,[[6,4]]],[6,[[6,4]]],[8,[[6,4]]],[10,[[8,2]]]]],[4,[[4,[[8,2]]],[6,[[8,2]]],[8,[[8,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Pyramid 2.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "pyramid_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3337320195",
 		"name": "Pyramid 2",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -8094,12 +12345,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Pyramid 2.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "pyramid_2_3",
+		"filename": "pyramid_2_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1130311798",
+		"id": "96679716",
 		"name": "Pyramid 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8107,12 +12358,51 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Pyramid 4.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "pyramid_2_2",
+		"filename": "pyramid_2_3",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3556526594",
+		"id": "96679716",
+		"name": "Pyramid 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,7]]],[2,[[4,7]]],[4,[[2,9]]],[6,[[0,11]]],[8,[[2,9]]],[10,[[4,7]]],[12,[[4,7]]],[14,10]]],[1,[[1,[[5,6]]],[3,[[5,6]]],[5,[[5,6]]],[7,[[5,6]]],[9,[[5,6]]],[11,[[5,6]]]]],[2,[[2,[[6,5]]],[4,[[6,5]]],[6,[[6,5]]],[8,[[6,5]]],[10,[[6,5]]]]],[3,[[3,[[7,4]]],[5,[[7,4]]],[7,[[7,4]]],[9,[[7,4]]]]],[4,[[4,[[8,3]]],[6,[[8,3]]],[8,[[8,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Pyramid 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "pyramid_2_4",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2621355221",
+		"name": "Pyramid's Walls",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[0,22]],[4,[0,22]],[6,[0,[5,7],22]],[8,[0,22]],[10,[0,22]],[12,[[0,12]]]]],[1,[[0,[[2,10]]],[3,[0,22]],[5,[0,22]],[6,[[6,6]]],[7,[0,22]],[9,[0,22]],[12,[[2,10]]]]],[2,[[0,[[4,8]]],[4,[0,22]],[6,[0,[7,5],22]],[8,[0,22]],[12,[[4,8]]]]],[3,[[0,[[6,6]]],[5,[0,22]],[6,[[8,4]]],[7,[0,22]],[12,[[6,6]]]]],[4,[[0,[[8,4]]],[6,[0,[9,3],22]],[12,[[8,4]]]]],[5,[[0,[[10,2]]],[6,[[10,2]]],[12,[[10,2]]]]],[6,[[0,11],[6,11],[12,11]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
+		"solvable": true,
+		"filename": "pyramids_walls",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
+	},
+	{
+		"id": "2621355221",
+		"name": "Pyramid's Walls",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[0,22]],[4,[0,22]],[6,[0,[5,7],22]],[8,[0,22]],[10,[0,22]],[12,[[0,12]]]]],[1,[[0,[[2,10]]],[3,[0,22]],[5,[0,22]],[6,[[6,6]]],[7,[0,22]],[9,[0,22]],[12,[[2,10]]]]],[2,[[0,[[4,8]]],[4,[0,22]],[6,[0,[7,5],22]],[8,[0,22]],[12,[[4,8]]]]],[3,[[0,[[6,6]]],[5,[0,22]],[6,[[8,4]]],[7,[0,22]],[12,[[6,6]]]]],[4,[[0,[[8,4]]],[6,[0,[9,3],22]],[12,[[8,4]]]]],[5,[[0,[[10,2]]],[6,[[10,2]]],[12,[[10,2]]]]],[6,[[0,11],[6,11],[12,11]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "pyramids_walls_2",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "1450564008",
 		"name": "Qi",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -8125,7 +12415,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3125937666",
+		"id": "1450564008",
+		"name": "Qi",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[7,2],25]],[1,23],[2,[[7,2],[19,2]]],[3,[[15,2]]],[4,[[7,4]]],[5,5],[6,[3,[7,2]]],[7,1],[8,[[7,2],[21,2]]],[10,[[7,2],[21,2]]],[12,[[8,2],[20,2]]],[14,[[9,7]]]]],[1,[[0,[[7,2],25]],[1,23],[2,[[7,2],[19,2]]],[3,[[15,2]]],[4,[[7,4]]],[5,5],[6,[3,[7,2]]],[7,1],[8,[[7,2],[21,2]]],[10,[[7,2],[21,2]]],[12,[[8,2],[20,2]]],[14,[[9,7]]]]],[2,[[0,[[7,2],25]],[1,23],[2,[[7,2],[19,2]]],[3,[[15,2]]],[4,[[7,4]]],[5,5],[6,[3,[7,2]]],[7,1],[8,[[7,2],[21,2]]],[10,[[7,2],[21,2]]],[12,[[8,2],[20,2]]],[14,[[9,7]]]]],[3,[[0,[[7,2]]],[1,24],[2,[8,[20,2]]],[3,[[16,2]]],[4,[8,[12,2]]],[5,[[4,2],10]],[6,8],[7,[[0,2]]],[8,[8,[21,2]]],[10,[8,22]],[12,[9,21]],[14,[[10,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Qi.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "qi_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "4276739528",
 		"name": "QIX",
 		"by": "Patrick Becker",
 		"tiles": 144,
@@ -8138,7 +12441,20 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "773823936",
+		"id": "1549765796",
+		"name": "Quad",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]]]],[1,[[0,[[0,4],[10,4]]],[2,[[0,4],[10,4]]],[4,[[0,4],[10,4]]],[6,8],[8,[[0,4],[10,4]]],[10,[[0,4],[10,4]]],[12,[[0,4],[10,4]]]]],[2,[[1,[[1,3],[11,3]]],[3,[[1,3],[11,3]]],[9,[[1,3],[11,3]]],[11,[[1,3],[11,3]]]]],[3,[[2,[[2,2],[12,2]]],[10,[[2,2],[12,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Quad.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "quad",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1549765796",
 		"name": "Quad",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -8146,12 +12462,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Quad.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "quad",
+		"filename": "quad_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2146873209",
+		"id": "669159619",
+		"name": "Quake 3 Arena",
+		"by": "Patrick Becker",
+		"tiles": 92,
+		"data": "[[0,[[0,16],[2,16],[4,[[4,2],16,[26,2]]],[5,[2,30]],[6,[[15,2]]],[7,[0,32]],[8,[[15,2]]],[9,[2,30]],[10,[[4,5],[15,2],[20,5]]],[12,[[8,3],[15,2],[20,3]]],[14,[12,16,20]],[16,[12,16,20]],[18,[12,16,20]]]],[1,[[0,16],[2,16],[4,[[4,2],16,[26,2]]],[5,[2,30]],[6,[[15,2]]],[7,[0,32]],[8,[[15,2]]],[9,[2,30]],[10,[[4,5],[15,2],[20,5]]],[12,[[8,3],[15,2],[20,3]]],[14,[12,16,20]],[16,[12,16,20]],[18,[12,16,20]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#QUAKE3ARENA.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "quake_3_arena",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "669159619",
 		"name": "Quake 3 Arena",
 		"by": "Patrick Becker",
 		"tiles": 92,
@@ -8159,12 +12488,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#QUAKE3ARENA.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "quake_3_arena",
+		"filename": "quake_3_arena_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1195494193",
+		"id": "4148848645",
 		"name": "Queen",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8177,7 +12506,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4250980129",
+		"id": "4148848645",
+		"name": "Queen",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,5,11,17,21]],[2,[1,6,11,16,20]],[4,[2,7,11,15,19]],[6,[[3,9]]],[8,[[3,9]]],[10,[[5,7]]],[12,[[5,7]]]]],[1,[[0,[0,5,11,17,21]],[2,[1,6,11,16,20]],[4,[2,7,11,15,19]],[6,[3,7,11,15,19]],[8,[[3,9]]],[10,[[5,7]]],[12,[[5,7]]]]],[2,[[0,[0,5,11,17,21]],[2,[1,6,11,16,20]],[4,[2,7,11,15,19]],[6,[3,7,11,15,19]],[8,[[5,7]]],[10,[7,11,15]],[12,[[7,5]]]]],[3,[[6,[3,7,11,15,19]],[8,[[5,7]]],[10,[7,15]],[12,[[7,5]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaychess.zip#Queen.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "queen_2",
+		"path": "phantagia/eplayouts/eplaychess",
+		"group": "Phantagia - Package A - Chess"
+	},
+	{
+		"id": "503883115",
 		"name": "Question Mark",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -8190,7 +12532,7 @@ export const data = [
 		"group": "Kurenai - Script signs"
 	},
 	{
-		"id": "1745333098",
+		"id": "2840966378",
 		"name": "R Is For Richards Traditional",
 		"by": "Carolyne Smythe",
 		"tiles": 144,
@@ -8203,7 +12545,7 @@ export const data = [
 		"group": "Miss Fantastic"
 	},
 	{
-		"id": "2863739450",
+		"id": "1043291500",
 		"name": "Rain 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8216,7 +12558,20 @@ export const data = [
 		"group": "Phantagia - Package A - Package 07"
 	},
 	{
-		"id": "792858259",
+		"id": "947157326",
+		"name": "Ram",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[3,3],[21,3]]],[2,[[0,15]]],[4,[[0,5],[12,3],[20,5]]],[6,[[0,2],[6,2],11,14,17,[20,2],[26,2]]],[8,[[0,5],[12,3],[20,5]]],[10,[[2,3],[13,2],[22,3]]],[12,[[13,2]]],[14,14]]],[1,[[0,[[4,2],[22,2]]],[2,[[2,13]]],[4,[[1,4],[12,3],[21,4]]],[6,[1,7,11,14,17,21,27]],[8,[[1,4],[13,2],[21,4]]],[10,[[3,2],14,[23,2]]],[12,14],[14,14]]],[2,[[2,[[3,2],14,[23,2]]],[4,[[2,3],[13,2],[22,3]]],[8,[[2,3],14,[22,3]]]]],[3,[[4,[4,14,24]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/ram",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "ram",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "3193259879",
 		"name": "Rat",
 		"by": "Tsubassa Kurenai",
 		"tiles": 128,
@@ -8229,7 +12584,33 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "3193081969",
+		"id": "903410617",
+		"name": "Rat",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[20,4]]],[2,[[0,5],[11,3],[18,5]]],[4,[[0,3],[8,6],[22,3]]],[6,[[0,14]]],[8,[[10,4]]],[10,[[11,3]]],[12,[[6,8]]],[14,[[12,2]]]]],[1,[[0,[[2,2],[22,2]]],[2,[[0,5],[11,3],[18,5]]],[4,[[0,3],[8,6],[22,3]]],[6,[[2,3],[10,4],[20,3]]],[8,[[10,4]]],[10,[[11,3]]],[12,[[12,2]]],[14,13]]],[2,[[2,[[2,2],[22,2]]],[3,[0,26]],[4,[[2,2],[10,4],[22,2]]],[6,[3,[10,4],23]],[8,[[10,4]]]]],[3,[[3,[3,23]],[5,[[12,2]]],[7,[[12,2]]]]],[4,[[6,13]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/rat",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "rat_2",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "3407851255",
+		"name": "RE-Pfanne",
+		"by": "Patrick Becker",
+		"tiles": 100,
+		"data": "[[0,[[0,[[10,2]]],[2,[[0,10]]],[4,[[2,9]]],[6,[[4,8]]],[8,[[4,8]]],[9,[2,20]],[10,[[4,8]]],[12,[[4,8]]],[14,[[4,8]]],[16,[[4,9]]],[17,22],[18,[[5,7]]]]],[1,[[0,[[10,2]]],[2,[[10,2]]],[4,[[9,3]]],[6,[[9,3]]],[9,[[3,9]]]]],[2,[[5,11]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#RE-Pfanne.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "re-pfanne",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3407851255",
 		"name": "RE-Pfanne",
 		"by": "Patrick Becker",
 		"tiles": 100,
@@ -8237,12 +12618,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#RE-Pfanne.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "re-pfanne",
+		"filename": "re-pfanne_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2239686451",
+		"id": "2385777971",
+		"name": "Rectangle",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]]]],[2,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]]]],[3,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Rectangle.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "rectangle",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2385777971",
 		"name": "Rectangle",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -8250,25 +12644,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Rectangle.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "rectangle",
+		"filename": "rectangle_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3390609504",
+		"id": "1817746850",
 		"name": "Red Dragon",
-		"by": "Ernie Polegato",
+		"by": "Unknown",
 		"tiles": 144,
-		"data": "[[0,[[0,[[10,3]]],[2,[[10,3]]],[4,[[11,2]]],[5,[[0,2],[7,2],[15,4]]],[6,[[11,2]]],[7,[1,[21,2]]],[8,[[11,2]]],[9,[[1,5],[15,6]]],[10,[[11,2]]],[12,[[11,2]]],[14,13]]],[1,[[0,[[10,3]]],[2,[[10,3]]],[4,[[11,2]]],[5,[[0,2],[7,2],[15,4]]],[6,[[11,2]]],[7,[1,[21,2]]],[8,[[11,2]]],[9,[[1,5],[15,6]]],[10,[[11,2]]],[12,[[11,2]]],[14,13]]],[2,[[0,[[10,3]]],[2,[[10,3]]],[4,[[11,2]]],[5,[[0,2],[7,2],[15,4]]],[6,[[11,2]]],[7,[1,[21,2]]],[8,[[11,2]]],[9,[[1,5],[15,6]]],[10,[[11,2]]],[12,[[11,2]]],[14,13]]],[3,[[0,[[10,3]]],[2,[[10,3]]],[4,[[11,2]]],[6,[[11,2]]],[8,[[11,2]]],[10,[[11,2]]],[12,[[11,2]]],[14,13]]],[4,[[0,[[10,3]]],[2,[[10,3]]],[4,12],[6,12],[8,12],[10,12]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#Red Dragon.lay",
-		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"data": "[[0,[[0,[0,[4,11],28]],[2,[[4,11]]],[3,[0,28]],[4,[[4,11]]],[6,[0,[4,11],28]],[8,[[4,11]]],[9,[0,28]],[10,[[4,11]]],[12,[0,28]],[13,[4,8,12,16,20,24]]]],[1,[[1,[[7,8]]],[3,[[5,10]]],[5,[[7,9]]],[7,[[7,9]]],[9,[[5,9]]]]],[2,[[2,[[10,4]]],[4,[[10,4]]],[6,[[10,4]]],[8,[[10,4],22]]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
 		"solvable": true,
-		"filename": "red_dragon_2",
-		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
+		"filename": "red_dragon",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
 	},
 	{
-		"id": "3529655846",
+		"id": "3941481208",
 		"name": "Red Dragon",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -8276,12 +12670,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/Tile-Layouts.zip#Dragon Red.lay",
 		"site": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/",
 		"solvable": true,
-		"filename": "red_dragon",
+		"filename": "red_dragon_2",
 		"path": "kurenai/kurenai_layouts",
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1726396667",
+		"id": "1719491738",
+		"name": "Red Dragon",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,3]]],[2,[[10,3]]],[4,[[11,2]]],[5,[[0,2],[7,2],[15,4]]],[6,[[11,2]]],[7,[1,[21,2]]],[8,[[11,2]]],[9,[[1,5],[15,6]]],[10,[[11,2]]],[12,[[11,2]]],[14,13]]],[1,[[0,[[10,3]]],[2,[[10,3]]],[4,[[11,2]]],[5,[[0,2],[7,2],[15,4]]],[6,[[11,2]]],[7,[1,[21,2]]],[8,[[11,2]]],[9,[[1,5],[15,6]]],[10,[[11,2]]],[12,[[11,2]]],[14,13]]],[2,[[0,[[10,3]]],[2,[[10,3]]],[4,[[11,2]]],[5,[[0,2],[7,2],[15,4]]],[6,[[11,2]]],[7,[1,[21,2]]],[8,[[11,2]]],[9,[[1,5],[15,6]]],[10,[[11,2]]],[12,[[11,2]]],[14,13]]],[3,[[0,[[10,3]]],[2,[[10,3]]],[4,[[11,2]]],[6,[[11,2]]],[8,[[11,2]]],[10,[[11,2]]],[12,[[11,2]]],[14,13]]],[4,[[0,[[10,3]]],[2,[[10,3]]],[4,12],[6,12],[8,12],[10,12]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#Red Dragon.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "red_dragon_3",
+		"path": "phantagia/eplayouts/eporacle01",
+		"group": "Phantagia - Package A - Mahjong"
+	},
+	{
+		"id": "1817746850",
+		"name": "Red Dragon",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[4,11],28]],[2,[[4,11]]],[3,[0,28]],[4,[[4,11]]],[6,[0,[4,11],28]],[8,[[4,11]]],[9,[0,28]],[10,[[4,11]]],[12,[0,28]],[13,[4,8,12,16,20,24]]]],[1,[[1,[[7,8]]],[3,[[5,10]]],[5,[[7,9]]],[7,[[7,9]]],[9,[[5,9]]]]],[2,[[2,[[10,4]]],[4,[[10,4]]],[6,[[10,4]]],[8,[[10,4],22]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "red_dragon_4",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "3505729965",
 		"name": "Red Red Wine",
 		"by": "Patrick Becker",
 		"tiles": 116,
@@ -8294,7 +12714,20 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "4103944821",
+		"id": "2557830227",
+		"name": "Reindeer",
+		"by": "Kyodai",
+		"tiles": 64,
+		"data": "[[0,[[2,[4,22,27]],[3,1],[4,25],[5,[[5,8]]],[6,[23,27]],[7,[7,11,15,19]],[8,[[24,3]]],[9,[[7,7]]],[10,22],[11,[5,11,18]],[13,3],[14,[5,14,21,27]]]],[1,[[1,[3,21,28]],[3,[23,27]],[4,[0,4]],[5,[[20,2]]],[7,[23,28]],[9,21],[10,6],[11,23],[12,[4,12,19]]]],[2,[[0,[20,29]],[2,2],[8,29],[12,24],[13,[13,20]]]],[3,[[7,30],[13,25]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Reindeer.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "reindeer",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2557830227",
 		"name": "Reindeer",
 		"by": "Kyodai",
 		"tiles": 64,
@@ -8302,12 +12735,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Reindeer.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "reindeer",
+		"filename": "reindeer_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4142371573",
+		"id": "579765333",
+		"name": "Reloop 2",
+		"by": "Patrick Becker",
+		"tiles": 128,
+		"data": "[[0,[[0,[[5,13]]],[1,[3,31]],[3,[1,31]],[4,[[8,9]]],[5,[0,26,31]],[7,[0,[7,9],26,31]],[8,5],[9,[26,31]],[10,[0,5,[8,9]]],[11,31],[12,[0,5]],[13,[[7,9],31]],[14,1],[15,[[29,2]]],[16,3],[17,[[5,14]]]]],[1,[[4,[[8,9]]],[5,26],[7,[[7,9],26]],[8,5],[9,26],[10,[5,[8,9]]],[12,5],[13,[[7,9]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#RELOOP.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "reloop_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "579765333",
 		"name": "Reloop 2",
 		"by": "Patrick Becker",
 		"tiles": 128,
@@ -8315,12 +12761,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#RELOOP 2.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "reloop_2",
+		"filename": "reloop_2_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1334610334",
+		"id": "2292857960",
 		"name": "Revised Earth 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8333,7 +12779,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "65755009",
+		"id": "2292857960",
+		"name": "Revised Earth 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,10]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[2,10]]],[14,[[6,6]]]]],[1,[[0,[[6,6]]],[2,[[2,2],[10,2],[18,2]]],[4,[0,[10,2],22]],[6,[[0,12]]],[8,[[0,12]]],[10,[0,[10,2],22]],[12,[[2,2],[10,2],[18,2]]],[14,[[6,6]]]]],[2,[[0,11],[6,[[10,2]]],[7,[0,22]],[8,[[10,2]]],[14,11]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Revised Earth 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "revised_earth_2_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "1961003509",
 		"name": "Revised Earth 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8346,7 +12805,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4164452569",
+		"id": "1961003509",
+		"name": "Revised Earth 3",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,10]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[2,10]]],[14,[[6,6]]]]],[1,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[[0,12]]],[8,[[0,12]]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]],[2,[[0,[[8,4]]],[4,[0,22]],[6,[0,22]],[8,[0,22]],[10,[0,22]],[14,[[8,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Revised Earth 3.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "revised_earth_3_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "3799196961",
 		"name": "Revised Sun",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8359,7 +12831,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "452367951",
+		"id": "3799196961",
+		"name": "Revised Sun",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,10]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[2,10]]],[14,[[6,6]]]]],[1,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[0,[10,2],22]],[8,[0,[10,2],22]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]],[2,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[0,[10,2],22]],[8,[0,[10,2],22]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Revised Sun.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "revised_sun_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "420194901",
 		"name": "Ridicolous",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -8372,7 +12857,20 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "3799501134",
+		"id": "2965256094",
+		"name": "Rings",
+		"by": "Bolli",
+		"tiles": 144,
+		"data": "[[0,[[0,[[14,2]]],[1,[4,10,20,26]],[2,[[6,2],[22,2]]],[3,[[2,2],[10,2],[18,2],[26,2]]],[5,[[1,3],[9,3],[17,3],[25,3]]],[7,[[0,16]]],[9,[[1,3],[9,3],[17,3],[25,3]]],[11,[[2,2],[10,2],[18,2],[26,2]]],[12,[[6,2],[22,2]]],[13,[4,10,20,26]],[14,[[14,2]]]]],[1,[[2,[[5,3],[21,3]]],[3,[3,11,19,27]],[5,[[2,2],[10,2],[18,2],[26,2]]],[7,[[1,3],[9,3],[17,3],[25,3]]],[9,[[2,2],[10,2],[18,2],[26,2]]],[11,[3,11,19,27]],[12,[[5,3],[21,3]]]]],[2,[[5,[3,11,19,27]],[7,[[2,2],[10,2],[18,2],[26,2]]],[9,[3,11,19,27]]]],[3,[[7,[3,11,19,27]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Rings.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "rings",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2965256094",
 		"name": "Rings",
 		"by": "Bolli",
 		"tiles": 144,
@@ -8380,12 +12878,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Rings.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "rings",
+		"filename": "rings_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "380523735",
+		"id": "2210878121",
+		"name": "River Bridge",
+		"by": "Naoki Haga",
+		"tiles": 116,
+		"data": "[[0,[[0,[11,21]],[2,[10,20]],[5,[[0,2],[28,2]]],[7,[2,28]],[8,[[8,8]]],[9,[2,28]],[11,[[0,2],[28,2]]],[12,[10,21]],[14,[9,20]],[16,[10,21]]]],[1,[[5,[3,27]],[7,[3,[7,9],27]],[9,[3,[7,9],27]],[11,[3,27]]]],[2,[[5,[4,26]],[6,[[6,10]]],[7,[4,26]],[8,[[6,10]]],[9,[4,26]],[10,[[6,10]]],[11,[4,26]]]],[3,[[5,[[5,11]]],[11,[[5,11]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#River Bridge.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "river_bridge",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2210878121",
 		"name": "River Bridge",
 		"by": "Naoki Haga",
 		"tiles": 116,
@@ -8393,12 +12904,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#River Bridge.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "river_bridge",
+		"filename": "river_bridge_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3984010307",
+		"id": "3123312289",
 		"name": "Rivers... To You!",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -8411,7 +12922,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "688852583",
+		"id": "3123312289",
+		"name": "Rivers... To You!",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]]]],[1,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Similar to Mahjongg Rivers.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "rivers__to_you_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2961465005",
 		"name": "Robot",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -8424,7 +12948,7 @@ export const data = [
 		"group": "OGS"
 	},
 	{
-		"id": "4142579022",
+		"id": "3354271298",
 		"name": "Rocket",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -8437,7 +12961,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "754259623",
+		"id": "3354271298",
+		"name": "Rocket",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,3],[25,3]]],[1,10],[2,[8,[12,4],[23,4]]],[3,[6,10,20]],[4,[4,8,12,[16,2],[22,2]]],[5,[2,6,10,14,20,27]],[6,[4,18,[22,2]]],[7,[[0,2],[6,6],20,[26,2]]],[8,[4,18,[22,2]]],[9,[2,6,10,14,20,27]],[10,[4,8,12,[16,2],[22,2]]],[11,[6,10,20]],[12,[8,[12,4],[23,4]]],[13,10],[14,[[12,3],[25,3]]]]],[1,[[0,[[13,2]]],[1,[11,27]],[2,[9,[13,2]]],[3,[7,18]],[4,[5,23]],[5,[3,18]],[6,20],[7,[[2,9],[22,2]]],[8,20],[9,[3,18]],[10,[5,23]],[11,[7,18]],[12,[9,[13,2]]],[13,[11,27]],[14,[[13,2]]]]],[2,[[1,[[13,2]]],[6,18],[7,[[3,6],16,[20,2]]],[8,18],[13,[[13,2]]]]],[3,[[1,14],[7,[[4,3],18]],[13,14]]],[4,[[7,5]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadrocket.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "rocket_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3209246241",
+		"name": "Roland",
+		"by": "Patrick Becker",
+		"tiles": 104,
+		"data": "[[0,[[0,[[0,16]]],[2,[0,31]],[3,[[3,13]]],[4,[0,31]],[5,[3,27]],[6,[0,31]],[7,[3,[7,11]]],[8,[0,31]],[9,[3,6]],[10,[0,[10,11]]],[11,[3,6]],[12,[0,10]],[13,[3,6]],[14,[0,[10,12]]],[15,[3,6]],[16,0],[17,[3,[7,14]]],[18,0]]],[1,[[0,0]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Roland.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "roland",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3209246241",
 		"name": "Roland",
 		"by": "Patrick Becker",
 		"tiles": 104,
@@ -8445,12 +12995,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Roland.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "roland",
+		"filename": "roland_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2505912720",
+		"id": "3918587104",
+		"name": "Roman Arena",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[4,[[3,12]]]]],[1,[[3,[[3,12]]],[5,[[3,12]]]]],[2,[[2,[[2,13]]],[4,[2,14,26]],[6,[[2,13]]]]],[3,[[1,[[1,14]]],[3,[1,[13,2],27]],[5,[1,[13,2],27]],[7,[[1,14]]]]],[4,[[0,[[0,15]]],[2,[0,12,16,28]],[4,[0,[12,3],28]],[6,[0,12,16,28]],[8,[[0,15]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Roman Arena.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "roman_arena",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3918587104",
 		"name": "Roman Arena",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -8458,12 +13021,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Roman Arena.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "roman_arena",
+		"filename": "roman_arena_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2973971509",
+		"id": "2693517433",
 		"name": "Rook",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8476,7 +13039,46 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3045302383",
+		"id": "2693517433",
+		"name": "Rook",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[3,6,9,12,15]],[2,[[4,6]]],[4,[[6,4]]],[6,[[6,4]]],[8,[[6,4]]],[10,[[6,4]]],[12,[[2,8]]],[14,[[0,10]]]]],[1,[[0,[3,6,9,12,15]],[2,[[4,6]]],[4,[[6,4]]],[6,[[6,4]]],[8,[[6,4]]],[10,[[6,4]]],[12,[[4,6]]],[14,[[0,10]]]]],[2,[[0,[3,6,9,12,15]],[2,[[4,6]]],[4,[[8,2]]],[6,[[8,2]]],[8,[[8,2]]],[10,[[6,4]]],[12,[[4,6]]],[14,[[2,8]]]]],[3,[[0,[3,6,9,12,15]],[2,[[4,6]]],[12,[[6,4]]],[14,[[4,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaychess.zip#Rook.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "rook_2",
+		"path": "phantagia/eplayouts/eplaychess",
+		"group": "Phantagia - Package A - Chess"
+	},
+	{
+		"id": "129836694",
+		"name": "Rooster",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[13,5],[24,3]]],[2,[[1,2],[12,4],24]],[4,[[2,8],[22,4]]],[5,20],[6,[[0,3],[8,6],[22,2],28]],[7,20],[8,[3,[10,5],[22,2]]],[9,26],[10,[[10,2],[16,2]]],[11,[[26,2]]],[12,[[8,2],[16,2]]],[14,[[4,3],[18,2]]]]],[1,[[0,[[14,4],[25,2]]],[2,[2,[13,3],24]],[4,[[2,2],[10,4],[22,2]]],[5,[8,28]],[6,[[2,2],[10,8]]],[8,[[10,5],[22,2]]],[10,26],[12,[9,17]],[14,[[5,2],19]]]],[2,[[0,[[15,3]]],[2,[[14,2]]],[3,24],[4,[[2,2],[12,2]]],[5,[10,16,[22,2]]],[6,[[2,2],[12,2]]],[7,[10,[16,2],[22,2]]],[8,[[12,2]]],[14,6]]],[3,[[5,[3,[12,2]]],[6,[16,23]],[7,[[12,2]]]]],[4,[[6,13]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/rooster",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "rooster",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "750091527",
+		"name": "Rugby",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,9]]],[2,[[4,11]]],[4,[[2,13]]],[5,[0,28]],[6,[[2,13]]],[7,[0,28]],[8,[[2,13]]],[10,[[4,11]]],[12,[[6,9]]]]],[1,[[1,[[10,5]]],[3,[[8,7]]],[5,[[6,9]]],[7,[[6,9]]],[9,[[8,7]]],[11,[[10,5]]]]],[2,[[3,[[13,2]]],[5,[[10,5]]],[7,[[10,5]]],[9,[[13,2]]]]],[3,[[4,14],[6,[[12,3]]],[8,14]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Rugby.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "rugby",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "750091527",
 		"name": "Rugby",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -8484,12 +13086,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Rugby.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "rugby",
+		"filename": "rugby_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2886078222",
+		"id": "1341718890",
 		"name": "Sagittarius",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8502,7 +13104,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1869329797",
+		"id": "1341718890",
+		"name": "Sagittarius",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[0,9]]],[16,[[0,9]]]]],[1,[[0,[[12,3]]],[2,[[14,2]]],[4,[12,16]],[6,[[6,3]]],[8,[[8,2]]],[10,[6,10]],[12,4],[14,2],[16,0]]],[2,[[0,[[12,3]]],[2,[[14,2]]],[4,[12,16]],[6,[[6,3]]],[8,[[8,2]]],[10,[6,10]],[12,4],[14,2],[16,0]]],[3,[[0,[[12,3]]],[2,[[14,2]]],[4,[12,16]],[6,[[6,3]]],[8,[[8,2]]],[10,[6,10]],[12,4],[14,2],[16,0]]],[4,[[0,[[12,3]]],[2,[[14,2]]],[4,16],[6,[[6,3]]],[8,[[8,2]]],[10,10]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Sagittarius.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "sagittarius_3",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "2231426145",
 		"name": "Sagittarius 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8515,7 +13130,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2571357827",
+		"id": "2231426145",
+		"name": "Sagittarius 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[0,9]]],[16,[[0,9]]]]],[1,[[0,[[12,3]]],[2,[[14,2]]],[4,[12,16]],[6,10],[8,[[0,9]]],[10,6],[12,4],[14,2],[16,0]]],[2,[[0,[[12,3]]],[2,[[14,2]]],[4,[12,16]],[6,10],[8,[[0,9]]],[10,6],[12,4],[14,2],[16,0]]],[3,[[0,[[12,3]]],[2,[[14,2]]],[4,[12,16]],[6,10],[8,[[0,9]]],[10,6],[12,4],[14,2],[16,0]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Sagittarius 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "sagittarius_2_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "3348443461",
 		"name": "Sagittarius 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -8528,7 +13156,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2927147140",
+		"id": "3348443461",
+		"name": "Sagittarius 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,10],[2,[[12,3],[20,2]]],[4,[6,[12,4],22]],[6,[2,6,[12,2]]],[8,[[0,12]]],[10,[2,[6,5]]],[12,[6,[16,2]]],[14,[[2,5]]]]],[1,[[0,10],[2,[[12,3],[20,2]]],[4,[6,[12,4],22]],[6,[2,6,[12,2]]],[8,[[0,12]]],[10,[2,[6,5]]],[12,[6,[16,2]]],[14,[[2,5]]]]],[2,[[0,10],[2,[[12,3],[20,2]]],[4,[6,[12,4],22]],[6,[2,6,[12,2]]],[8,[[0,12]]],[10,[2,[6,5]]],[12,[6,[16,2]]],[14,[[2,5]]]]],[3,[[6,2],[8,[[0,3],[8,4]]],[10,[2,[8,4]]],[14,[[2,5]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Sagittarius 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "sagittarius_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "1408203062",
 		"name": "Sailorchibimoon's Symbol",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -8541,7 +13182,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1032580474",
+		"id": "1408203062",
+		"name": "Sailorchibimoon's Symbol",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,2],[20,2]]],[1,[2,8,18,24]],[2,[[4,2],[20,2]]],[3,[[0,2],[8,2],[16,2],[24,2]]],[4,[[4,2],[12,2],[20,2]]],[5,[0,[8,2],[16,2],26]],[6,[2,6,13,20,24]],[7,[0,4,8,18,22,26]],[8,[2,6,[10,4],20,24]],[9,[4,8,18,22]],[10,[6,10,16,20]],[11,[8,[12,2],18]],[12,[10,16]],[13,[[12,2]]],[15,13]]],[1,[[1,[[4,2],[20,2]]],[2,[2,8,18,24]],[3,[[4,2],[20,2]]],[4,[2,[8,2],[16,2],24]],[5,[[4,2],[12,2],[20,2]]],[6,[2,[8,2],[16,2],24]],[7,[[4,2],[12,2],[20,2]]],[8,[[8,2],[16,2]]],[9,[6,[12,2],20]],[10,[[8,2],[16,2]]],[11,[[12,2]]],[12,[10,16]],[13,[[12,2]]]]],[2,[[5,[10,16]],[7,[8,18]],[9,[8,18]],[11,[[10,4]]]]],[3,[[6,[9,17]],[8,[8,18]],[10,[9,17]],[11,[[11,3]]]]],[4,[[10,[10,16]],[11,13]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Heart and Moon.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "sailorchibimoons_symbol_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1138510898",
 		"name": "Sailormoon's Symbol",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -8554,7 +13208,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2954435202",
+		"id": "1138510898",
+		"name": "Sailormoon's Symbol",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,21]],[1,[[0,3],9,23,[28,3]]],[3,[[1,2],[7,2],16,[23,2],[29,2]]],[5,[2,[6,2],[12,5],[24,2],30]],[7,[2,[5,2],[15,2],[25,2],30]],[9,[2,[6,2],13,19,[24,2],30]],[11,[3,[7,2],[23,2],29]],[13,[4,[9,8],28]],[15,[[5,2],[10,7],[25,2]]]]],[1,[[3,[8,24]],[4,16],[5,[7,14,18,25]],[6,16],[7,[6,26]],[8,[14,18]],[9,[7,25]],[11,[8,24]],[13,[[10,7]]],[15,[[11,6]]]]],[2,[[4,[8,24]],[5,16],[6,[7,25]],[8,[7,25]],[10,[8,24]],[12,[9,23]],[14,[[11,6]]]]],[3,[[5,[8,24]],[7,[7,25]],[9,[7,25]],[11,[8,24]],[13,[10,22]],[14,[[12,5]]]]],[4,[[8,[7,25]],[10,[8,24]],[12,[9,23]],[14,[[13,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Moon and Star with Wings.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "sailormoons_symbol_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1547831626",
 		"name": "San Wells",
 		"by": "Ulixes",
 		"tiles": 144,
@@ -8567,20 +13234,7 @@ export const data = [
 		"group": "Phantagia - Submitted - Ulixes"
 	},
 	{
-		"id": "3318342124",
-		"name": "Saturn",
-		"by": "Patrick Becker",
-		"tiles": 100,
-		"data": "[[0,[[0,[[9,4],24]],[1,22],[2,[[6,8]]],[4,[[4,9]]],[6,[[3,10]]],[8,[[4,9]]],[10,[[4,8]]],[11,2],[12,[0,[9,4]]]]],[1,[[0,24],[1,22],[2,20],[3,18],[4,16],[5,14],[6,12],[7,10],[8,8],[9,6],[10,4],[11,2],[12,0]]],[2,[[1,22],[2,20],[3,18],[4,16],[5,14],[6,12],[7,10],[8,8],[9,6],[10,4],[11,2],[12,0]]],[3,[[1,21],[2,19],[3,17],[4,15],[5,13],[6,11],[7,9],[8,7],[9,5],[10,3],[11,1]]],[4,[[3,18],[4,16],[5,14],[6,12],[7,10],[8,8],[9,6],[10,4]]]]",
-		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Saturn.lay",
-		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
-		"solvable": true,
-		"filename": "saturn",
-		"path": "step5",
-		"group": "Step5"
-	},
-	{
-		"id": "3961991925",
+		"id": "1965888185",
 		"name": "Saturn",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8588,12 +13242,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Astronom - Saturn.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "saturn_2",
+		"filename": "saturn",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1027993868",
+		"id": "1965888185",
+		"name": "Saturn",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,8]]],[2,[[0,10]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[0,10]]],[12,[[0,10]]],[14,[[0,10]]],[16,[[2,8]]]]],[1,[[0,[[2,4]]],[2,[[4,2]]],[4,[[4,2]]],[6,[[4,2],[10,3]]],[7,16],[8,[[4,3]]],[9,16],[10,[[4,2]]],[11,16],[12,[[4,2],14]],[13,12],[14,[[4,2],10]],[16,10]]],[2,[[0,[[2,4]]],[2,[[4,2]]],[4,[[4,2]]],[6,[[4,2],[10,3]]],[7,16],[8,[[4,3]]],[9,16],[10,[[4,2]]],[11,16],[12,[[4,2],14]],[13,12],[14,[[4,2],10]],[16,10]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Saturn.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "saturn_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "2311773576",
+		"name": "Saturn",
+		"by": "Patrick Becker",
+		"tiles": 100,
+		"data": "[[0,[[0,[[9,4],24]],[1,22],[2,[[6,8]]],[4,[[4,9]]],[6,[[3,10]]],[8,[[4,9]]],[10,[[4,8]]],[11,2],[12,[0,[9,4]]]]],[1,[[0,24],[1,22],[2,20],[3,18],[4,16],[5,14],[6,12],[7,10],[8,8],[9,6],[10,4],[11,2],[12,0]]],[2,[[1,22],[2,20],[3,18],[4,16],[5,14],[6,12],[7,10],[8,8],[9,6],[10,4],[11,2],[12,0]]],[3,[[1,21],[2,19],[3,17],[4,15],[5,13],[6,11],[7,9],[8,7],[9,5],[10,3],[11,1]]],[4,[[3,18],[4,16],[5,14],[6,12],[7,10],[8,8],[9,6],[10,4]]]]",
+		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Saturn.lay",
+		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
+		"solvable": true,
+		"filename": "saturn_3",
+		"path": "step5",
+		"group": "Step5"
+	},
+	{
+		"id": "2909252068",
 		"name": "Scales Of Justice",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -8606,7 +13286,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3795983947",
+		"id": "2554183215",
 		"name": "Scarab",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8619,7 +13299,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2284027741",
+		"id": "2554183215",
+		"name": "Scarab",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,4]]],[1,[2,12]],[2,[[4,4]]],[3,[[0,2],[12,2]]],[4,[[4,4]]],[5,[[0,2],[12,2]]],[6,[[4,4]]],[7,[[0,2],[12,2]]],[8,[[4,4]]],[9,[[0,2],[12,2]]],[10,[[4,4]]],[11,[[0,2],[12,2]]],[12,[[4,4]]],[13,[2,12]],[14,[[4,4]]]]],[1,[[0,[[4,4]]],[2,[[2,6]]],[5,[[0,3],[10,3]]],[6,[[6,2]]],[7,[[0,3],[10,3]]],[8,[[6,2]]],[9,[[0,3],[10,3]]],[10,[[6,2]]],[11,[[0,3],[10,3]]],[12,[[6,2]]],[13,[[2,2],[10,2]]],[14,[[6,2]]]]],[2,[[0,[[4,4]]],[2,[[2,6]]],[5,[[0,3],[10,3]]],[7,[[0,3],[10,3]]],[9,[[0,3],[10,3]]],[11,[[0,3],[10,3]]],[13,[[2,2],[10,2]]]]],[3,[[1,[5,9]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Scarab.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "scarab_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3536494631",
+		"name": "Schneider",
+		"by": "Patrick Becker",
+		"tiles": 120,
+		"data": "[[0,[[0,[[6,5]]],[1,4],[2,[2,[6,5]]],[3,4],[4,[[0,2]]],[6,[[0,2]]],[7,4],[8,[2,[6,5],[18,5]]],[9,[4,28]],[10,[[6,5],[18,5],30]],[11,28],[12,[[30,2]]],[14,[[30,2]]],[15,28],[16,[[18,5],30]],[17,28],[18,[[18,5]]]]],[1,[[0,[[6,5]]],[1,4],[2,[2,[6,5]]],[3,4],[4,[[0,2]]],[6,[[0,2]]],[7,4],[8,[2,[6,5],[18,5]]],[9,[4,28]],[10,[[6,5],[18,5],30]],[11,28],[12,[[30,2]]],[14,[[30,2]]],[15,28],[16,[[18,5],30]],[17,28],[18,[[18,5]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#SCHNEIDER.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "schneider",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3536494631",
 		"name": "Schneider",
 		"by": "Patrick Becker",
 		"tiles": 120,
@@ -8627,12 +13333,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#SCHNEIDER.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "schneider",
+		"filename": "schneider_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "40213828",
+		"id": "887863144",
+		"name": "Schoon",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,5]]],[1,[[1,2],[17,2]]],[2,[[5,6]]],[3,[[1,2],[17,2]]],[4,[[6,5]]],[5,[[2,2],[16,2]]],[6,[0,[6,5],20]],[7,[[2,2],[16,2]]],[8,[[6,5]]],[9,[[1,2],[17,2]]],[10,[[5,6]]],[11,[[1,2],[17,2]]],[12,[[6,5]]]]],[1,[[0,[7,13]],[1,[[9,2]]],[2,[[2,3],[14,3]]],[3,[[8,3]]],[4,[[3,2],[15,2]]],[5,[[7,4]]],[6,[[3,2],[15,2]]],[7,[[7,4]]],[8,[[3,2],[15,2]]],[9,[[8,3]]],[10,[[2,3],[14,3]]],[11,[[9,2]]],[12,[7,13]]]],[2,[[4,[[5,6]]],[6,[[4,7]]],[8,[[5,6]]]]],[3,[[5,[[7,4]]],[6,[5,15]],[7,[[7,4]]]]],[4,[[6,[[8,3]]]]],[5,[[6,[[9,2]]]]],[6,[[6,10]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/schoon",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "schoon",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "3615662730",
 		"name": "Scorpio",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8645,7 +13364,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "84936276",
+		"id": "3615662730",
+		"name": "Scorpio",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,10,20]],[1,[2,8,12,18,22]],[2,[[4,2],[14,2],[24,2]]],[4,[[4,2],[14,2],[24,2]]],[6,[[4,2],[14,2],[24,2]]],[8,[[4,2],[14,2],[24,2]]],[10,[[4,2],[14,2],[24,2]]],[12,[[4,2],[14,2],[24,2]]],[13,[[30,2]]],[14,[[4,2],[14,2],[24,2]]],[15,[[29,2]]],[16,[[25,2]]]]],[1,[[0,[0,10,20]],[1,[2,8,12,18,22]],[2,[[4,2],[14,2],[24,2]]],[4,[[4,2],[14,2],[24,2]]],[6,[[4,2],[14,2],[24,2]]],[8,[[4,2],[14,2],[24,2]]],[10,[[4,2],[14,2],[24,2]]],[12,[[4,2],[14,2],[24,2]]],[13,[[30,2]]],[14,[[4,2],[14,2],[24,2]]],[15,[[29,2]]],[16,[[25,2]]]]],[2,[[0,[0,10,20]],[1,[2,8,12,18,22]],[2,[5,15,25]],[4,[5,15,25]],[6,[5,15,25]],[8,[5,15,25]],[10,[5,15,25]],[12,[5,15,25]],[13,31],[14,[5,15,25]],[15,30],[16,26]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Scorpio.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "scorpio_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "2643603826",
 		"name": "Scorpio 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -8658,7 +13390,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2244559403",
+		"id": "2643603826",
+		"name": "Scorpio 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,2],16]],[2,[[4,3],12,16]],[4,[8,[12,6]]],[6,[[0,3],[8,6],22]],[8,[0,[6,5],18]],[10,[[2,5],16,22]],[12,[4,10,[14,2],20]],[14,[[8,2]]]]],[1,[[0,[[10,2],16]],[2,[[4,3],12,16]],[4,[8,[12,6]]],[6,[[0,3],[8,6],22]],[8,[0,[6,5],18]],[10,[[2,5],16,22]],[12,[4,10,[14,2],20]],[14,[[8,2]]]]],[2,[[0,[[10,2],16]],[2,[[4,3],12,16]],[4,[8,[12,6]]],[6,[[0,3],[8,6],22]],[8,[0,[6,5],18]],[10,[[2,5],16,22]],[12,[4,10,[14,2],20]],[14,[[8,2]]]]],[3,[[6,[[0,2]]],[8,0],[12,10],[14,[[8,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Scorpio 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "scorpio_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "4253132997",
 		"name": "Scorpion",
 		"by": "BigPoppaPop",
 		"tiles": 144,
@@ -8671,7 +13416,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3647405548",
+		"id": "1808417696",
+		"name": "Screw Up",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,3]]],[1,[6,14]],[2,[4,[8,3],16]],[3,[6,14]],[4,[[2,2],[10,2],[16,2]]],[5,[6,14]],[6,[[2,2],[10,2],[16,2]]],[7,[6,14]],[8,[[2,2],[8,2],[16,2]]],[9,[6,14]],[10,[[2,2],[8,2],[16,2]]],[11,[6,14]],[12,[4,[8,3],16]],[13,[6,14]],[14,[[8,3]]]]],[1,[[0,[[8,3]]],[1,[6,14]],[2,[4,[8,3],16]],[3,[6,14]],[4,[[2,2],[16,2]]],[5,[6,11,14]],[6,[[2,2],[16,2]]],[7,[6,10,14]],[8,[[2,2],[16,2]]],[9,[6,9,14]],[10,[[2,2],[16,2]]],[11,[6,14]],[12,[4,[8,3],16]],[13,[6,14]],[14,[[8,3]]]]],[2,[[0,[[8,3]]],[2,[4,16]],[4,[[2,2],[16,2]]],[5,11],[6,[[2,2],[16,2]]],[7,10],[8,[[2,2],[16,2]]],[9,9],[10,[[2,2],[16,2]]],[12,[4,16]],[14,[[8,3]]]]],[3,[[5,[1,19]],[7,[1,19]],[9,[1,19]]]],[4,[[5,[0,20]],[7,[0,20]],[9,[0,20]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Screw Up.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "screw_up",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1808417696",
 		"name": "Screw Up",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -8679,12 +13437,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Screw Up.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "screw_up",
+		"filename": "screw_up_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1795491344",
+		"id": "440450612",
+		"name": "Seven",
+		"by": "Bolli",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[4,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[6,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[8,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[10,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[12,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[14,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[16,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]]]],[1,[[2,16],[4,[11,21]],[6,[6,16,26]],[8,[1,11,21,31]],[10,[6,16,26]],[12,[11,21]],[14,16]]],[2,[[6,16],[10,16]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Seven.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "seven",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "440450612",
 		"name": "Seven",
 		"by": "Bolli",
 		"tiles": 144,
@@ -8692,12 +13463,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Seven.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "seven",
+		"filename": "seven_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4191128187",
+		"id": "4096347333",
 		"name": "Seven INVERTED Pyramids",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -8710,7 +13481,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2362595701",
+		"id": "4096347333",
+		"name": "Seven INVERTED Pyramids",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[1,15],[3,[3,27]],[8,15],[13,[3,27]],[15,15]]],[1,[[0,[[14,2]]],[2,[[2,2],[14,2],[26,2]]],[4,[[2,2],[26,2]]],[7,[[14,2]]],[9,[[14,2]]],[12,[[2,2],[26,2]]],[14,[[2,2],[14,2],[26,2]]],[16,[[14,2]]]]],[2,[[1,[[1,3],[25,3]]],[3,[[1,3],[25,3]]],[5,[[1,3],[25,3]]],[6,[[13,3]]],[8,[[13,3]]],[10,[[13,3]]],[11,[[1,3],[25,3]]],[13,[[1,3],[25,3]]],[15,[[1,3],[25,3]]]]],[3,[[0,[[0,4],[24,4]]],[2,[[0,4],[24,4]]],[4,[[0,4],[24,4]]],[6,[[0,4],[24,4]]],[10,[[0,4],[24,4]]],[12,[[0,4],[24,4]]],[14,[[0,4],[24,4]]],[16,[[0,4],[24,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Seven Pyramids Upsidedown.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "seven_inverted_pyramids_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1882729133",
+		"name": "Seven Pyramids",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[14,2],[24,4]]],[2,[[0,4],[14,2],[24,4]]],[4,[[0,4],[24,4]]],[6,[[0,4],[13,3],[24,4]]],[8,[[13,3]]],[10,[[0,4],[13,3],[24,4]]],[12,[[0,4],[24,4]]],[14,[[0,4],[14,2],[24,4]]],[16,[[0,4],[14,2],[24,4]]]]],[1,[[1,[[1,3],15,[25,3]]],[3,[[1,3],[25,3]]],[5,[[1,3],[25,3]]],[7,[[14,2]]],[9,[[14,2]]],[11,[[1,3],[25,3]]],[13,[[1,3],[25,3]]],[15,[[1,3],15,[25,3]]]]],[2,[[2,[[2,2],[26,2]]],[4,[[2,2],[26,2]]],[8,15],[12,[[2,2],[26,2]]],[14,[[2,2],[26,2]]]]],[3,[[3,[3,27]],[13,[3,27]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Seven Pyramids.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "seven_pyramids",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1882729133",
 		"name": "Seven Pyramids",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -8718,12 +13515,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Seven Pyramids.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "seven_pyramids",
+		"filename": "seven_pyramids_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "244026461",
+		"id": "1564310151",
+		"name": "Shapeshifter",
+		"by": "Leonard Enos",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,7]]],[2,[12,16]],[3,14],[4,[10,18]],[5,[12,16]],[6,[8,14,20]],[7,[10,18]],[8,[6,12,16,22]],[9,[8,20]],[10,[4,10,14,18,24]],[11,[6,22]],[12,[2,8,12,16,20,26]],[13,[4,24]],[14,[[0,2],[6,9],[26,2]]],[15,[4,24]]]],[1,[[0,[[9,6]]],[2,14],[4,[12,16]],[5,14],[6,[10,18]],[7,[12,16]],[8,[8,20]],[9,[10,14,18]],[10,[6,22]],[11,[8,12,16,20]],[12,[4,24]],[13,[2,6,10,14,18,22,26]],[14,[4,8,12,16,20,24]],[15,[6,10,14,18,22]]]],[2,[[0,[[10,5]]],[4,14],[6,[[12,3]]],[7,[10,18]],[8,[[12,3]]],[9,[8,20]],[10,[[10,5]]],[12,[6,10,14,18,22]],[13,[8,12,16,20]]]],[3,[[0,[[11,4]]],[6,[[13,2]]],[8,[[13,2]]],[10,[[13,2]]]]],[4,[[0,14],[6,14],[8,14],[10,14]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Shapeshifter.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "shapeshifter",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1564310151",
 		"name": "Shapeshifter",
 		"by": "Leonard Enos",
 		"tiles": 144,
@@ -8731,12 +13541,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Shapeshifter.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "shapeshifter",
+		"filename": "shapeshifter_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3630244597",
+		"id": "2224463725",
 		"name": "Sheep",
 		"by": "Tsubassa Kurenai",
 		"tiles": 108,
@@ -8749,7 +13559,7 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "143968981",
+		"id": "4056249389",
 		"name": "Shi Huangdi's Tomb",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8762,20 +13572,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "1380695113",
-		"name": "Shield",
-		"by": "Ernie Polegato",
-		"tiles": 144,
-		"data": "[[0,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[3,[[2,6]]],[4,[0,14]],[5,[[2,6]]],[6,[0,14]],[7,[[2,6]]],[8,[0,14]],[9,[[2,6]]],[10,[0,14]],[11,[[2,6]]],[13,[[6,2]]]]],[1,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[3,[[2,6]]],[4,[0,14]],[5,[[2,6]]],[6,[0,14]],[7,[[2,6]]],[8,[0,14]],[9,[[2,6]]],[10,[0,14]],[11,[[2,6]]],[13,[[6,2]]]]],[2,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[4,[0,[5,3],14]],[6,[[0,2],[5,3],[12,2]]],[8,[0,[5,3],14]],[10,[0,14]],[11,[[2,2],[10,2]]],[13,[[6,2]]]]],[3,[[4,7],[6,[[5,3]]],[8,7]]],[4,[[4,7],[6,[5,9]],[8,7]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Shield.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
-		"solvable": true,
-		"filename": "shield_3",
-		"path": "mykyodai",
-		"group": "MyKyodai"
-	},
-	{
-		"id": "2411903669",
+		"id": "3183980309",
 		"name": "Shield",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -8788,7 +13585,59 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3243172872",
+		"id": "485469509",
+		"name": "Shield",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[3,[[2,6]]],[4,[0,14]],[5,[[2,6]]],[6,[0,14]],[7,[[2,6]]],[8,[0,14]],[9,[[2,6]]],[10,[0,14]],[11,[[2,6]]],[13,[[6,2]]]]],[1,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[3,[[2,6]]],[4,[0,14]],[5,[[2,6]]],[6,[0,14]],[7,[[2,6]]],[8,[0,14]],[9,[[2,6]]],[10,[0,14]],[11,[[2,6]]],[13,[[6,2]]]]],[2,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[4,[0,[5,3],14]],[6,[[0,2],[5,3],[12,2]]],[8,[0,[5,3],14]],[10,[0,14]],[11,[[2,2],[10,2]]],[13,[[6,2]]]]],[3,[[4,7],[6,[[5,3]]],[8,7]]],[4,[[4,7],[6,[5,9]],[8,7]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Shield.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "shield_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3183980309",
+		"name": "Shield",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8],23]],[2,[[0,8],23]],[4,[[0,8],23]],[6,[[1,7],23]],[8,[[2,6],23]],[9,[19,27]],[10,[[4,4],[21,3]]],[12,[[6,2],23]],[14,[7,23]]]],[1,[[1,[[2,6]]],[2,23],[3,[[2,6]]],[4,23],[5,[[2,6]]],[6,23],[7,[[3,5]]],[8,23],[9,[[4,4],19,27]],[10,[[21,3]]],[11,[[6,2]]],[12,23],[14,23]]],[2,[[1,[[3,5]]],[3,[[3,5]]],[4,23],[5,[[4,4]]],[6,23],[7,[[5,3]]],[8,23],[9,[[6,2],19,27]],[10,23],[11,7],[12,23],[14,23]]],[3,[[2,[[5,3]]],[4,[[5,3]]],[6,[[6,2],23]],[8,[7,23]],[9,[19,27]],[10,23],[14,23]]],[4,[[3,7],[5,7],[9,[19,27]],[10,23]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadshield.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "shield_3",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "485469509",
+		"name": "Shield",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[3,[[2,6]]],[4,[0,14]],[5,[[2,6]]],[6,[0,14]],[7,[[2,6]]],[8,[0,14]],[9,[[2,6]]],[10,[0,14]],[11,[[2,6]]],[13,[[6,2]]]]],[1,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[3,[[2,6]]],[4,[0,14]],[5,[[2,6]]],[6,[0,14]],[7,[[2,6]]],[8,[0,14]],[9,[[2,6]]],[10,[0,14]],[11,[[2,6]]],[13,[[6,2]]]]],[2,[[0,[0,14]],[1,[[2,6]]],[2,[0,14]],[4,[0,[5,3],14]],[6,[[0,2],[5,3],[12,2]]],[8,[0,[5,3],14]],[10,[0,14]],[11,[[2,2],[10,2]]],[13,[[6,2]]]]],[3,[[4,7],[6,[[5,3]]],[8,7]]],[4,[[4,7],[6,[5,9]],[8,7]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Shield.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "shield_4",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2187429792",
+		"name": "Siam",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[5,25]],[1,[3,7,23,27]],[3,[[2,4],13,17,[22,4]]],[4,[11,19]],[5,[[1,5],[21,5]]],[7,[[0,16]]],[9,[[1,5],[21,5]]],[10,[11,19]],[11,[[2,4],13,17,[22,4]]],[13,[3,7,23,27]],[14,[5,25]]]],[1,[[3,[[3,3],[23,3]]],[5,[[2,4],[22,4]]],[7,[[1,15]]],[9,[[2,4],[22,4]]],[11,[[3,3],[23,3]]]]],[2,[[3,[[4,2],[24,2]]],[5,[[3,3],[23,3]]],[7,[[2,4],15,[22,4]]],[9,[[3,3],[23,3]]],[11,[[4,2],[24,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Siam.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "siam",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2187429792",
 		"name": "Siam",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -8796,12 +13645,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Siam.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "siam",
+		"filename": "siam_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4172495881",
+		"id": "2018576025",
+		"name": "Sinus Twins",
+		"by": "Patrick Becker",
+		"tiles": 84,
+		"data": "[[0,[[0,[[17,2]]],[1,[15,21]],[2,6],[3,[13,23]],[4,[[4,3]]],[5,[0,12,24]],[6,6],[7,[1,11,[17,2]]],[8,[15,21]],[9,[3,9]],[10,[[5,2],13,23]],[12,[0,12,24]],[13,[[16,3]]],[14,[1,11]],[16,[3,9]],[17,[[5,2]]]]],[1,[[0,[[17,2]]],[1,[15,21]],[2,6],[3,[13,23]],[4,[[4,3]]],[5,[0,12,24]],[6,6],[7,[1,11,[17,2]]],[8,[15,21]],[9,[3,9]],[10,[[5,2],13,23]],[12,[0,12,24]],[13,[[16,3]]],[14,[1,11]],[16,[3,9]],[17,[[5,2]]]]],[2,[[2,6],[4,[[4,3]]],[6,6],[13,[[16,3]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#SinusTwins.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "sinus_twins",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2018576025",
 		"name": "Sinus Twins",
 		"by": "Patrick Becker",
 		"tiles": 84,
@@ -8809,12 +13671,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#SinusTwins.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "sinus_twins",
+		"filename": "sinus_twins_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "3351758256",
+		"id": "958516524",
 		"name": "Sinuskurve",
 		"by": "Jens Rose",
 		"tiles": 128,
@@ -8827,7 +13689,7 @@ export const data = [
 		"group": "Kurenai - Maps and flags"
 	},
 	{
-		"id": "3016460513",
+		"id": "665022597",
 		"name": "Sinuskurve 2",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -8840,7 +13702,7 @@ export const data = [
 		"group": "Kurenai - Maps and flags"
 	},
 	{
-		"id": "1715442002",
+		"id": "704995892",
 		"name": "Six Pyramids",
 		"by": "Tsubassa Kurenai",
 		"tiles": 132,
@@ -8853,7 +13715,7 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "140071007",
+		"id": "2861519433",
 		"name": "Sixpack",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -8866,7 +13728,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "1223822825",
+		"id": "1454940585",
 		"name": "Smiley Face",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -8879,7 +13741,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4172705951",
+		"id": "1454940585",
+		"name": "Smiley Face",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[3,[2,22]],[4,[0,24]],[5,[7,17]],[6,[0,24]],[7,[4,7,17,20]],[8,[0,12,24]],[9,[4,20]],[10,[0,6,18,24]],[11,[8,16]],[12,[0,[10,3],24]],[13,[2,22]],[14,[4,20]],[15,[6,18]],[16,[[8,5]]]]],[1,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[3,[2,22]],[4,[0,24]],[5,[7,17]],[6,[0,24]],[7,[4,7,17,20]],[8,[0,24]],[9,[4,20]],[10,[0,6,18,24]],[11,[8,16]],[12,[0,[10,3],24]],[13,[2,22]],[14,[4,20]],[15,[6,18]],[16,[[8,5]]]]],[2,[[0,[[8,5]]],[1,[6,18]],[2,[4,20]],[3,[2,22]],[4,[0,24]],[5,[7,17]],[6,[0,24]],[7,[4,7,17,20]],[8,[0,24]],[9,[4,20]],[10,[0,6,18,24]],[11,[8,16]],[12,[0,[10,3],24]],[13,[2,22]],[14,[4,20]],[15,[6,18]],[16,[[8,5]]]]],[3,[[6,[7,17]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Smiley Face.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "smiley_face_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "229002817",
 		"name": "Snake",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -8892,7 +13767,20 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "1831766227",
+		"id": "842846075",
+		"name": "Snake",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[7,2],[19,2]]],[2,[[4,5],[16,5]]],[4,[[3,2],[10,2],[16,2],[22,2]]],[6,[[0,3],[10,2],[16,2],[22,2]]],[8,[[0,2],[8,3],[16,2],[22,2]]],[9,[[26,2]]],[10,[[8,6],[22,2]]],[12,[[8,6]]],[14,[[10,4]]]]],[1,[[0,[[7,2],[19,2]]],[2,[[4,5],[16,5]]],[4,[[3,2],[10,2],[16,2],[22,2]]],[6,[[0,3],[10,2],[16,2],[22,2]]],[8,[[0,2],[8,3],[16,2],[22,2]]],[9,26],[10,[[8,6],[22,2]]],[12,[[8,6]]],[14,[[11,3]]]]],[2,[[4,[11,17]],[6,[11,17]],[7,1],[8,[11,17]],[10,[[8,6]]],[12,[[8,6]]],[14,[[12,2]]]]],[3,[[11,[[9,5]]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/snake",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "snake_2",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "434410639",
 		"name": "South Wind",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8905,7 +13793,20 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "2876434393",
+		"id": "3175810889",
+		"name": "Space Ship",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,9]]],[1,[3,23]],[2,[1,13,25]],[4,[0,[5,9],26]],[5,[3,23]],[6,13],[7,[3,23]],[8,13],[9,[3,23]],[10,13],[11,[3,23]],[12,13],[13,[3,23]],[14,13]]],[1,[[0,[[6,8]]],[1,[4,22]],[2,[2,24]],[3,[0,[12,2],26]],[4,[[6,3],[16,3]]],[5,[[12,2]]],[6,[3,23]],[7,13],[8,[3,23]],[9,13],[10,[3,23]],[11,13],[12,[3,23]],[13,13]]],[2,[[0,[[7,7]]],[1,[5,21]],[2,[3,23]],[3,[1,25]],[4,[[7,7]]],[6,13],[7,[3,23]],[8,13],[9,[3,23]],[10,13],[11,[3,23]],[12,13]]],[3,[[0,[[8,6]]],[1,[6,20]],[2,[4,22]],[3,[2,24]],[4,[[8,6]]],[6,13],[8,[3,13,23]],[10,[3,13,23]],[12,13]]],[4,[[0,13],[4,[[9,5]]],[6,13],[8,13],[9,[3,23]],[10,13],[12,13]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Space Ship.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "space_ship",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3175810889",
 		"name": "Space Ship",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -8913,12 +13814,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Space Ship.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "space_ship",
+		"filename": "space_ship_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2143965852",
+		"id": "3447400928",
+		"name": "Space Shuttle",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,3]]],[2,[[6,5]]],[4,[[4,7]]],[6,[[4,7]]],[8,[[2,9]]],[10,[[2,9]]],[11,[0,20]],[12,[[2,9]]],[13,[0,20]]]],[1,[[0,[[8,3]]],[2,[[6,5]]],[4,[[6,5]]],[6,[[4,7]]],[8,[[4,7]]],[10,[[2,9]]],[12,[[2,9]]]]],[2,[[0,10],[2,[[8,3]]],[4,[[8,3]]],[6,[[6,5]]],[8,[[6,5]]],[10,[[6,5]]],[12,[[6,5]]]]],[3,[[2,10],[4,10],[6,[[8,3]]],[8,[[8,3]]],[10,[[8,3]]],[12,[[8,3]]]]],[4,[[4,10],[6,10],[8,10],[10,10],[12,10]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Space Shuttle.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "space_shuttle",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3447400928",
 		"name": "Space Shuttle",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -8926,12 +13840,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Space Shuttle.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "space_shuttle",
+		"filename": "space_shuttle_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3188202224",
+		"id": "1729114828",
 		"name": "Spades",
 		"by": "Mary M",
 		"tiles": 144,
@@ -8944,7 +13858,7 @@ export const data = [
 		"group": "My Kyodai Mahjongg"
 	},
 	{
-		"id": "3460505877",
+		"id": "2934368433",
 		"name": "Spades",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -8957,7 +13871,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2219513689",
+		"id": "2934368433",
+		"name": "Spades",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,8],[2,[[6,3]]],[4,[[4,5]]],[6,[[2,7]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[2,3],[10,3]]],[14,8],[16,[[6,3]]]]],[1,[[0,8],[2,[[6,3]]],[4,[[4,5]]],[6,[[2,7]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[2,3],[10,3]]],[14,8],[16,[[6,3]]]]],[2,[[2,8],[4,[[6,3]]],[6,[[4,5]]],[8,[[2,7]]],[10,[[2,3],[10,3]]],[14,8],[16,[[6,3]]]]],[3,[[2,8],[4,[[6,3]]],[6,[[4,5]]],[8,[[2,7]]],[10,[[2,3],[10,3]]]]],[4,[[4,8],[6,[[6,3]]],[8,[[4,2],[10,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplaycards.zip#Spades.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "spades_3",
+		"path": "phantagia/eplayouts/eplaycards",
+		"group": "Phantagia - Package A - Cards"
+	},
+	{
+		"id": "479433777",
+		"name": "Spider",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,2],12,16,[21,2]]],[2,[7,[13,2],21]],[3,[1,9,19,27]],[4,[3,[11,4],25]],[5,[[5,2],[21,2]]],[6,[[9,6]]],[8,[[8,7]]],[9,[[0,4],[22,4]]],[10,[[9,6]]],[12,[7,[11,4],21]],[13,[5,23]],[14,[[1,2],[13,2],[25,2]]]]],[1,[[0,[[5,2],12,16,[21,2]]],[2,[7,21]],[3,[1,9,19,27]],[4,[3,[13,2],25]],[5,[[5,2],[21,2]]],[6,[[11,4]]],[8,[[10,5]]],[9,[[0,4],[22,4]]],[10,[[11,4]]],[12,[7,[13,2],21]],[13,[5,23]],[14,[[1,2],[13,2],[25,2]]]]],[2,[[0,[7,21]],[3,[1,9,19,27]],[5,[5,23]],[6,[[13,2]]],[8,[[12,3]]],[9,[0,4,24,28]],[10,[[13,2]]],[12,[[13,2]]],[13,[5,23]],[14,[1,27]]]],[3,[[9,14]]]]",
+		"source": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/spider.js",
+		"site": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/",
+		"solvable": true,
+		"filename": "spider",
+		"path": "green-mahjong",
+		"group": "Green Mahjong"
+	},
+	{
+		"id": "479433777",
 		"name": "Spider",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -8965,12 +13905,25 @@ export const data = [
 		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/spider.layout",
 		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
 		"solvable": true,
-		"filename": "spider",
+		"filename": "spider_2",
 		"path": "kmahjongg",
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2899072379",
+		"id": "479433777",
+		"name": "Spider",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,2],12,16,[21,2]]],[2,[7,[13,2],21]],[3,[1,9,19,27]],[4,[3,[11,4],25]],[5,[[5,2],[21,2]]],[6,[[9,6]]],[8,[[8,7]]],[9,[[0,4],[22,4]]],[10,[[9,6]]],[12,[7,[11,4],21]],[13,[5,23]],[14,[[1,2],[13,2],[25,2]]]]],[1,[[0,[[5,2],12,16,[21,2]]],[2,[7,21]],[3,[1,9,19,27]],[4,[3,[13,2],25]],[5,[[5,2],[21,2]]],[6,[[11,4]]],[8,[[10,5]]],[9,[[0,4],[22,4]]],[10,[[11,4]]],[12,[7,[13,2],21]],[13,[5,23]],[14,[[1,2],[13,2],[25,2]]]]],[2,[[0,[7,21]],[3,[1,9,19,27]],[5,[5,23]],[6,[[13,2]]],[8,[[12,3]]],[9,[0,4,24,28]],[10,[[13,2]]],[12,[[13,2]]],[13,[5,23]],[14,[1,27]]]],[3,[[9,14]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadspider.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "spider_3",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "316100047",
 		"name": "Spiral",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -8983,7 +13936,7 @@ export const data = [
 		"group": "Kurenai - Other"
 	},
 	{
-		"id": "3255291602",
+		"id": "3504808784",
 		"name": "Spiral",
 		"by": "Vivian Bushell",
 		"tiles": 144,
@@ -8996,7 +13949,7 @@ export const data = [
 		"group": "Phantagia - Submitted - Bushell"
 	},
 	{
-		"id": "2824295856",
+		"id": "4040081818",
 		"name": "Spring",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -9009,7 +13962,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "2800326735",
+		"id": "2770588367",
 		"name": "Square",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -9022,7 +13975,7 @@ export const data = [
 		"group": "Kyodai Extras"
 	},
 	{
-		"id": "1153512378",
+		"id": "197651226",
 		"name": "Squares",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -9035,7 +13988,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "4134849449",
+		"id": "197651226",
+		"name": "Squares",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,11]]],[2,[0,20]],[3,[[3,8]]],[4,[0,20]],[5,[3,17]],[6,[0,[6,5],20]],[7,[3,17]],[8,[0,[6,5],20]],[9,[3,17]],[10,[0,20]],[11,[[3,8]]],[12,[0,20]],[14,[[0,11]]]]],[1,[[0,[[0,11]]],[3,[3,[8,3],17]],[5,[3,17]],[6,[[6,5]]],[7,[3,17]],[8,[[6,5]]],[9,[3,17]],[11,[3,[8,3],17]],[14,[[0,11]]]]],[2,[[0,[0,4,8,12,16,20]],[3,[3,10,17]],[6,[[8,3]]],[7,[3,17]],[8,[[8,3]]],[11,[3,10,17]],[14,[0,4,8,12,16,20]]]],[3,[[6,[[9,2]]],[8,[[9,2]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadsquares.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "squares_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2113918525",
 		"name": "Squaring",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -9048,7 +14014,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2454063949",
+		"id": "2113918525",
+		"name": "Squaring",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[8,3],[16,3],[24,3]]],[2,[0,4,[8,3],16,20,[24,3]]],[4,[[0,3],[8,3],[16,3],[24,3]]],[7,[[0,3],[8,3],[16,3],[24,3]]],[9,[[0,3],8,12,[16,3],24,28]],[11,[[0,3],[8,3],[16,3],[24,3]]]]],[1,[[0,[0,4,8,12,16,20,24,28]],[2,[10,26]],[4,[0,4,8,12,16,20,24,28]],[7,[0,4,8,12,16,20,24,28]],[9,[2,18]],[11,[0,4,8,12,16,20,24,28]]]],[2,[[0,[0,4,8,12,16,20,24,28]],[2,[10,26]],[4,[0,4,8,12,16,20,24,28]],[7,[0,4,8,12,16,20,24,28]],[9,[2,18]],[11,[0,4,8,12,16,20,24,28]]]],[3,[[2,[10,26]],[9,[2,18]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadsquaring.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "squaring_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3809320809",
 		"name": "Stadion",
 		"by": "Alexey Charkov",
 		"tiles": 128,
@@ -9061,7 +14040,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "578619967",
+		"id": "3809320809",
+		"name": "Stadion",
+		"by": "Alexey Charkov",
+		"tiles": 128,
+		"data": "[[0,[[0,[[0,16]]],[2,[0,15,30]],[4,[0,15,30]],[5,[12,18]],[6,[[0,2],[28,2]]],[7,[4,11,15,19,26]],[8,[[0,2],[28,2]]],[9,[12,18]],[10,[0,15,30]],[12,[0,15,30]],[14,[[0,16]]]]],[1,[[0,[[0,16]]],[2,[0,15,30]],[4,[0,15,30]],[5,[12,18]],[6,[0,30]],[7,[11,15,19]],[8,[0,30]],[9,[12,18]],[10,[0,15,30]],[12,[0,15,30]],[14,[[0,16]]]]],[2,[[0,[0,30]],[7,15],[14,[0,30]]]],[3,[[0,[0,30]],[14,[0,30]]]],[4,[[0,[0,30]],[14,0]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadstadion.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "stadion_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2752531207",
+		"name": "Stage 1",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,6]]],[2,[[2,8]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[2,8]]],[12,[[4,6]]]]],[1,[[2,[[4,6]]],[4,[[2,8]]],[6,[[0,10]]],[8,[[2,8]]],[10,[[4,6]]]]],[2,[[2,[[6,4]]],[4,[[4,6]]],[6,[[2,8]]],[8,[[4,6]]],[10,[[6,4]]]]],[3,[[2,[[8,2]]],[4,[[6,4]]],[5,[4,14]],[6,[[6,4]]],[7,[4,14]],[8,[[6,4]]],[10,[[8,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Stage 1.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "stage_1",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2752531207",
 		"name": "Stage 1",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -9069,12 +14074,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stage 1.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "stage_1",
+		"filename": "stage_1_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3605311418",
+		"id": "1383888312",
+		"name": "Stage 2",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,6]]],[2,[[6,8]]],[4,[[2,12]]],[5,[0,26]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[6,8]]],[12,[[8,6]]]]],[1,[[0,[[10,4]]],[2,[[8,6]]],[4,[[6,8]]],[6,[[6,8]]],[8,[[6,8]]],[10,[[8,6]]],[12,[[10,4]]]]],[2,[[1,[[12,2]]],[2,[10,16]],[3,[[12,2]]],[4,[[8,2],[16,2]]],[5,[[12,2]]],[6,[[8,2],[16,2]]],[7,[[12,2]]],[8,[[8,2],[16,2]]],[9,[[12,2]]],[10,[10,16]],[11,[[12,2]]]]],[3,[[5,[[12,2]]],[7,[[12,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Stage 2.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "stage_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1383888312",
 		"name": "Stage 2",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -9082,12 +14100,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stage 2.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "stage_2",
+		"filename": "stage_2_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1014481572",
+		"id": "2008479602",
+		"name": "Stahl-Pfanne",
+		"by": "Patrick Becker",
+		"tiles": 100,
+		"data": "[[0,[[0,[[8,2]]],[2,[[0,10]]],[4,[[2,8]]],[6,[[2,8]]],[8,[[2,8]]],[9,[0,18]],[10,[[2,8]]],[12,[[2,8],19]],[14,[[2,8],19]],[16,[[2,9]]],[18,[[3,7]]]]],[1,[[0,[[8,2]]],[2,[[8,2]]],[4,[[7,3]]],[6,[[7,3]]],[9,[[1,9]]]]],[2,[[5,9]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stahl-Pfanne.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "stahl-pfanne",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2008479602",
 		"name": "Stahl-Pfanne",
 		"by": "Patrick Becker",
 		"tiles": 100,
@@ -9095,12 +14126,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Stahl-Pfanne.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "stahl-pfanne",
+		"filename": "stahl-pfanne_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2202366521",
+		"id": "747295201",
 		"name": "Stain Glass Window",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9113,7 +14144,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3038944221",
+		"id": "747295201",
+		"name": "Stain Glass Window",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,4]]],[2,[[2,6]]],[4,[[0,8]]],[6,[[0,8]]],[8,[[0,8]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[0,8]]],[16,[[0,8]]]]],[1,[[0,[[4,4]]],[2,[2,7,12]],[4,[0,3,7,11,14]],[6,[0,4,7,10,14]],[8,[0,[5,3],14]],[10,[0,[6,2],14]],[12,[0,[6,2],14]],[14,[0,[4,4],14]],[16,[[0,8]]]]],[2,[[0,[[4,4]]],[2,[2,12]],[4,[0,14]],[6,[0,14]],[8,[0,14]],[10,[0,14]],[12,[0,14]],[14,[0,14]],[16,[[0,8]]]]],[3,[[16,[[0,8]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Stain Glass Window.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "stain_glass_window_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2756127619",
 		"name": "Staircase",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -9126,7 +14170,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3497203511",
+		"id": "2756127619",
+		"name": "Staircase",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[8,5],[22,2]]],[2,[[0,13]]],[4,[[0,13]]],[6,[[0,13]]],[8,[[0,13]]]]],[1,[[0,[2,[8,5],22]],[2,[[2,11]]],[4,[[2,11]]],[6,[[2,11]]],[8,[0,12,24]]]],[2,[[0,[[8,5]]],[2,[[4,9]]],[4,[[4,9]]]]],[3,[[0,[[8,5]]],[2,[[6,7]]]]],[4,[[0,[[8,5]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Staircase.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "staircase_3",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3140703365",
 		"name": "Staircase 2",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -9139,7 +14196,111 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "641027779",
+		"id": "3140703365",
+		"name": "Staircase 2",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]]]],[1,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]]]],[2,[[0,[[2,10]]],[2,[[2,10]]],[4,[[2,10]]]]],[3,[[0,[[4,8]]],[2,[[4,8]]],[4,[[4,8]]]]],[4,[[0,[[6,6]]],[2,[[6,6]]],[4,[[6,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Staircase 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "staircase_2_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3924234198",
+		"name": "Stairs",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[4,24]],[2,[[0,2],[6,9],[26,2]]],[3,[4,24]],[4,[0,8,14,20,28]],[5,[4,24]],[6,[0,8,14,20,28]],[7,[[2,3],[10,2],[16,2],[22,3]]],[8,[0,8,14,20,28]],[9,[4,24]],[10,[0,8,14,20,28]],[11,[4,24]],[12,[[0,2],[6,9],[26,2]]],[13,[4,24]],[14,14]]],[1,[[2,[[0,3],[12,3],[24,3]]],[4,[0,28]],[5,[4,14,24]],[7,[[0,4],[12,3],[22,4]]],[9,[4,14,24]],[10,[0,28]],[12,[[0,3],[12,3],[24,3]]]]],[2,[[2,[[0,2],14,[26,2]]],[4,[0,28]],[7,[4,14,24]],[10,[0,28]],[12,[[0,2],14,[26,2]]]]],[3,[[2,[[0,2],[26,2]]],[4,[0,28]],[7,14],[10,[0,28]],[12,[[0,2],[26,2]]]]],[4,[[2,[0,28]],[7,14],[12,[0,28]]]]]",
+		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/stairs.layout",
+		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
+		"solvable": true,
+		"filename": "stairs",
+		"path": "kmahjongg",
+		"group": "KMahjongg"
+	},
+	{
+		"id": "3282089043",
+		"name": "Stairs",
+		"by": "Tsubassa Kurenai",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[5,2],11,[15,2]]],[1,21],[2,[5,[10,2],17,23]],[3,[21,25]],[4,[[9,3],23,27]],[5,[7,15,21,25]],[6,[0,5,[9,3],17,23,27]],[7,[7,15,21,25]],[8,[[9,3],23,27]],[9,[21,25]],[10,[5,[10,2],17,23]],[11,21],[12,[0,[5,2],11,[15,2]]]]],[1,[[1,[[6,2],11,[14,2]]],[2,22],[3,[6,[10,2],16,24]],[4,[22,26]],[5,[[8,4],24]],[6,[6,16,22,26]],[7,[[8,4],24]],[8,[22,26]],[9,[6,[10,2],16,24]],[10,22],[11,[[6,2],11,[14,2]]]]],[2,[[2,[7,11,15]],[3,23],[4,[[9,3],25]],[5,23],[6,[[7,5],25]],[7,23],[8,[[9,3],25]],[9,23],[10,[7,11,15]]]],[3,[[3,[8,11,14]],[4,24],[5,[[10,2]]],[6,[8,14,24]],[7,[[10,2]]],[8,24],[9,[8,11,14]]]],[4,[[4,[[9,3]]],[5,23],[6,[[9,3]]],[7,23],[8,[[9,3]]]]]]",
+		"source": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/Stairs.lay",
+		"site": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/",
+		"solvable": true,
+		"filename": "stairs_2",
+		"path": "kurenai/kurenai_other",
+		"group": "Kurenai - Other"
+	},
+	{
+		"id": "1466559264",
+		"name": "Stairs",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]]]],[1,[[0,[[4,7]]],[2,[[0,7]]],[4,[[4,7]]],[6,[[0,7]]],[8,[[4,7]]],[10,[[0,7]]]]],[2,[[0,[[8,5]]],[2,[[0,5]]],[4,[[8,5]]],[6,[[0,5]]],[8,[[8,5]]],[10,[[0,5]]]]],[3,[[0,[[12,3]]],[2,[[0,3]]],[4,[[12,3]]],[6,[[0,3]]],[8,[[12,3]]],[10,[[0,3]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Stairs 2.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "stairs_3",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2344589173",
+		"name": "Stairs",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,[13,2],22]],[2,[8,14,20]],[4,[0,28]],[5,[2,11,17,26]],[6,[0,4,24,28]],[7,[2,6,22,26]],[8,[0,4,8,[11,4],20,24,28]],[9,[2,6,22,26]],[10,[0,4,24,28]],[11,[2,11,17,26]],[12,[0,28]],[14,[8,14,20]],[16,[6,[13,2],22]]]],[1,[[0,[6,[13,2],22]],[4,[0,28]],[5,[2,26]],[6,[0,4,24,28]],[7,[2,6,22,26]],[8,[0,4,[12,3],24,28]],[9,[2,6,22,26]],[10,[0,4,24,28]],[11,[2,26]],[12,[0,28]],[16,[6,[13,2],22]]]],[2,[[4,[0,28]],[5,[2,26]],[6,[0,4,24,28]],[7,[2,26]],[8,[0,4,14,24,28]],[9,[2,26]],[10,[0,4,24,28]],[11,[2,26]],[12,[0,28]]]],[3,[[4,[0,28]],[5,[2,26]],[6,[0,28]],[7,[2,26]],[8,[0,28]],[9,[2,26]],[10,[0,28]],[11,[2,26]],[12,[0,28]]]],[4,[[4,[0,28]],[6,[0,28]],[8,[0,28]],[10,[0,28]],[12,[0,28]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Stairs.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "stairs_4",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1466559264",
+		"name": "Stairs",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]]]],[1,[[0,[[4,7]]],[2,[[0,7]]],[4,[[4,7]]],[6,[[0,7]]],[8,[[4,7]]],[10,[[0,7]]]]],[2,[[0,[[8,5]]],[2,[[0,5]]],[4,[[8,5]]],[6,[[0,5]]],[8,[[8,5]]],[10,[[0,5]]]]],[3,[[0,[[12,3]]],[2,[[0,3]]],[4,[[12,3]]],[6,[[0,3]]],[8,[[12,3]]],[10,[[0,3]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stairs 2.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "stairs_5",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2344589173",
+		"name": "Stairs",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,[13,2],22]],[2,[8,14,20]],[4,[0,28]],[5,[2,11,17,26]],[6,[0,4,24,28]],[7,[2,6,22,26]],[8,[0,4,8,[11,4],20,24,28]],[9,[2,6,22,26]],[10,[0,4,24,28]],[11,[2,11,17,26]],[12,[0,28]],[14,[8,14,20]],[16,[6,[13,2],22]]]],[1,[[0,[6,[13,2],22]],[4,[0,28]],[5,[2,26]],[6,[0,4,24,28]],[7,[2,6,22,26]],[8,[0,4,[12,3],24,28]],[9,[2,6,22,26]],[10,[0,4,24,28]],[11,[2,26]],[12,[0,28]],[16,[6,[13,2],22]]]],[2,[[4,[0,28]],[5,[2,26]],[6,[0,4,24,28]],[7,[2,26]],[8,[0,4,14,24,28]],[9,[2,26]],[10,[0,4,24,28]],[11,[2,26]],[12,[0,28]]]],[3,[[4,[0,28]],[5,[2,26]],[6,[0,28]],[7,[2,26]],[8,[0,28]],[9,[2,26]],[10,[0,28]],[11,[2,26]],[12,[0,28]]]],[4,[[4,[0,28]],[6,[0,28]],[8,[0,28]],[10,[0,28]],[12,[0,28]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stairs.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "stairs_6",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3924234198",
+		"name": "Stairs",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[4,24]],[2,[[0,2],[6,9],[26,2]]],[3,[4,24]],[4,[0,8,14,20,28]],[5,[4,24]],[6,[0,8,14,20,28]],[7,[[2,3],[10,2],[16,2],[22,3]]],[8,[0,8,14,20,28]],[9,[4,24]],[10,[0,8,14,20,28]],[11,[4,24]],[12,[[0,2],[6,9],[26,2]]],[13,[4,24]],[14,14]]],[1,[[2,[[0,3],[12,3],[24,3]]],[4,[0,28]],[5,[4,14,24]],[7,[[0,4],[12,3],[22,4]]],[9,[4,14,24]],[10,[0,28]],[12,[[0,3],[12,3],[24,3]]]]],[2,[[2,[[0,2],14,[26,2]]],[4,[0,28]],[7,[4,14,24]],[10,[0,28]],[12,[[0,2],14,[26,2]]]]],[3,[[2,[[0,2],[26,2]]],[4,[0,28]],[7,14],[10,[0,28]],[12,[[0,2],[26,2]]]]],[4,[[2,[0,28]],[7,14],[12,[0,28]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadstairs.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "stairs_7",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "4123272421",
 		"name": "Stairs",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9152,72 +14313,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "1205902595",
-		"name": "Stairs",
-		"by": "Alexis Bonvin",
-		"tiles": 144,
-		"data": "[[0,[[0,[6,[13,2],22]],[2,[8,14,20]],[4,[0,28]],[5,[2,11,17,26]],[6,[0,4,24,28]],[7,[2,6,22,26]],[8,[0,4,8,[11,4],20,24,28]],[9,[2,6,22,26]],[10,[0,4,24,28]],[11,[2,11,17,26]],[12,[0,28]],[14,[8,14,20]],[16,[6,[13,2],22]]]],[1,[[0,[6,[13,2],22]],[4,[0,28]],[5,[2,26]],[6,[0,4,24,28]],[7,[2,6,22,26]],[8,[0,4,[12,3],24,28]],[9,[2,6,22,26]],[10,[0,4,24,28]],[11,[2,26]],[12,[0,28]],[16,[6,[13,2],22]]]],[2,[[4,[0,28]],[5,[2,26]],[6,[0,4,24,28]],[7,[2,26]],[8,[0,4,14,24,28]],[9,[2,26]],[10,[0,4,24,28]],[11,[2,26]],[12,[0,28]]]],[3,[[4,[0,28]],[5,[2,26]],[6,[0,28]],[7,[2,26]],[8,[0,28]],[9,[2,26]],[10,[0,28]],[11,[2,26]],[12,[0,28]]]],[4,[[4,[0,28]],[6,[0,28]],[8,[0,28]],[10,[0,28]],[12,[0,28]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stairs.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
-		"solvable": true,
-		"filename": "stairs_5",
-		"path": "mykyodai",
-		"group": "MyKyodai"
-	},
-	{
-		"id": "1576790444",
-		"name": "Stairs",
-		"by": "Alexey Charkov",
-		"tiles": 144,
-		"data": "[[0,[[0,14],[1,[4,24]],[2,[[0,2],[6,9],[26,2]]],[3,[4,24]],[4,[0,8,14,20,28]],[5,[4,24]],[6,[0,8,14,20,28]],[7,[[2,3],[10,2],[16,2],[22,3]]],[8,[0,8,14,20,28]],[9,[4,24]],[10,[0,8,14,20,28]],[11,[4,24]],[12,[[0,2],[6,9],[26,2]]],[13,[4,24]],[14,14]]],[1,[[2,[[0,3],[12,3],[24,3]]],[4,[0,28]],[5,[4,14,24]],[7,[[0,4],[12,3],[22,4]]],[9,[4,14,24]],[10,[0,28]],[12,[[0,3],[12,3],[24,3]]]]],[2,[[2,[[0,2],14,[26,2]]],[4,[0,28]],[7,[4,14,24]],[10,[0,28]],[12,[[0,2],14,[26,2]]]]],[3,[[2,[[0,2],[26,2]]],[4,[0,28]],[7,14],[10,[0,28]],[12,[[0,2],[26,2]]]]],[4,[[2,[0,28]],[7,14],[12,[0,28]]]]]",
-		"source": "https://github.com/KDE/kmahjongg/tree/master/layouts/stairs.layout",
-		"site": "https://github.com/KDE/kmahjongg/tree/master/layouts/",
-		"solvable": true,
-		"filename": "stairs_2",
-		"path": "kmahjongg",
-		"group": "KMahjongg"
-	},
-	{
-		"id": "2736873337",
-		"name": "Stairs",
-		"by": "Tsubassa Kurenai",
-		"tiles": 144,
-		"data": "[[0,[[0,[0,[5,2],11,[15,2]]],[1,21],[2,[5,[10,2],17,23]],[3,[21,25]],[4,[[9,3],23,27]],[5,[7,15,21,25]],[6,[0,5,[9,3],17,23,27]],[7,[7,15,21,25]],[8,[[9,3],23,27]],[9,[21,25]],[10,[5,[10,2],17,23]],[11,21],[12,[0,[5,2],11,[15,2]]]]],[1,[[1,[[6,2],11,[14,2]]],[2,22],[3,[6,[10,2],16,24]],[4,[22,26]],[5,[[8,4],24]],[6,[6,16,22,26]],[7,[[8,4],24]],[8,[22,26]],[9,[6,[10,2],16,24]],[10,22],[11,[[6,2],11,[14,2]]]]],[2,[[2,[7,11,15]],[3,23],[4,[[9,3],25]],[5,23],[6,[[7,5],25]],[7,23],[8,[[9,3],25]],[9,23],[10,[7,11,15]]]],[3,[[3,[8,11,14]],[4,24],[5,[[10,2]]],[6,[8,14,24]],[7,[[10,2]]],[8,24],[9,[8,11,14]]]],[4,[[4,[[9,3]]],[5,23],[6,[[9,3]]],[7,23],[8,[[9,3]]]]]]",
-		"source": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/Stairs.lay",
-		"site": "https://web.archive.org/web/20230204113220/http://tsubassa-kurenai.de/Kyodai/Layouts/",
-		"solvable": true,
-		"filename": "stairs",
-		"path": "kurenai/kurenai_other",
-		"group": "Kurenai - Other"
-	},
-	{
-		"id": "2756835802",
-		"name": "Stairs",
-		"by": "MinderTech",
-		"tiles": 144,
-		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]]]],[1,[[0,[[4,7]]],[2,[[0,7]]],[4,[[4,7]]],[6,[[0,7]]],[8,[[4,7]]],[10,[[0,7]]]]],[2,[[0,[[8,5]]],[2,[[0,5]]],[4,[[8,5]]],[6,[[0,5]]],[8,[[8,5]]],[10,[[0,5]]]]],[3,[[0,[[12,3]]],[2,[[0,3]]],[4,[[12,3]]],[6,[[0,3]]],[8,[[12,3]]],[10,[[0,3]]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stairs 2.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
-		"solvable": true,
-		"filename": "stairs_4",
-		"path": "mykyodai",
-		"group": "MyKyodai"
-	},
-	{
-		"id": "863407045",
-		"name": "Star",
-		"by": "Ernie Polegato",
-		"tiles": 144,
-		"data": "[[0,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[1,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[2,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[3,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[4,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,3],[8,3]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Star.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
-		"solvable": true,
-		"filename": "star_3",
-		"path": "mykyodai",
-		"group": "MyKyodai"
-	},
-	{
-		"id": "3671402853",
+		"id": "2941966843",
 		"name": "Star",
 		"by": "Alexey Charkov",
 		"tiles": 122,
@@ -9230,7 +14326,46 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1885653824",
+		"id": "2601320973",
+		"name": "Star",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[1,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[2,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[3,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[4,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,3],[8,3]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Star.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "star_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2941966843",
+		"name": "Star",
+		"by": "Alexey Charkov",
+		"tiles": 122,
+		"data": "[[0,[[0,12],[1,[4,20]],[2,[[11,2]]],[3,[6,18]],[4,[[10,3]]],[5,[8,16]],[6,[6,[10,3],18]],[7,[[0,3],8,16,[20,3]]],[8,[6,[10,3],18]],[9,[8,16]],[10,[[10,3]]],[11,[6,18]],[12,[[11,2]]],[13,[4,20]],[14,12]]],[1,[[1,20],[2,12],[3,[6,18]],[4,[[10,3]]],[5,[8,16]],[6,[[10,3]]],[7,[[0,5],[16,4]]],[8,[[10,3]]],[9,[8,16]],[10,[[10,3]]],[11,[6,18]],[12,12],[13,[4,20]]]],[2,[[3,[6,18]],[4,[[10,3]]],[5,[8,16]],[6,[[10,3]]],[7,[[4,3],[16,3]]],[8,[[10,3]]],[9,[8,16]],[10,[[10,3]]],[11,[6,18]]]],[3,[[5,[[10,3]]],[7,[[6,7]]],[9,[[10,3]]]]],[4,[[5,12],[7,[[8,5]]],[9,12]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadstar.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "star_4",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2601320973",
+		"name": "Star",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[1,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[2,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[3,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,7]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]],[4,[[0,6],[2,[0,[4,3],12]],[4,[[2,5]]],[6,[[0,3],[8,3]]],[8,[[2,5]]],[10,[0,[4,3],12]],[12,6]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Star.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "star_5",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3065411998",
 		"name": "Star 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9238,12 +14373,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Star 2.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "star_2_2",
+		"filename": "star_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1622321538",
+		"id": "3065411998",
+		"name": "Star 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[10,14,18]],[2,[8,[12,3],20]],[4,[4,[10,5],24]],[5,[0,28]],[6,[[6,9]]],[7,[[2,2],[24,2]]],[8,[[6,9]]],[9,[0,28]],[10,[4,[10,5],24]],[12,[8,[12,3],20]],[14,[10,14,18]]]],[1,[[0,14],[2,[8,[12,3],20]],[4,[4,[10,5],24]],[6,[[6,9]]],[7,[4,24]],[8,[[6,9]]],[10,[4,[10,5],24]],[12,[8,[12,3],20]],[14,14]]],[2,[[2,14],[4,[[12,3]]],[6,[[8,7]]],[7,[6,22]],[8,[[8,7]]],[10,[[12,3]]],[12,14]]],[3,[[4,14],[6,[[10,5]]],[7,[8,20]],[8,[[10,5]]],[10,14]]],[4,[[7,[[11,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Star 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "star_2_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "461557704",
 		"name": "Star Ship",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -9256,7 +14404,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "4124226808",
+		"id": "461557704",
+		"name": "Star Ship",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[0,12,16,28]],[2,[2,10,18,26]],[3,[0,8,20,28]],[4,[2,6,14,22,26]],[5,[0,4,12,16,24,28]],[6,[2,[6,3],14,[18,3],26]],[7,[0,4,12,16,24,28]],[8,[2,6,14,22,26]],[9,[0,8,20,28]],[10,[2,10,18,26]],[11,[0,12,16,28]],[12,14]]],[1,[[0,14],[1,[12,16]],[2,[0,10,18,28]],[3,[8,20]],[4,[[0,2],14,[26,2]]],[6,[[0,3],[10,5],[24,3]]],[8,[[0,2],14,[26,2]]],[9,[8,20]],[10,[0,10,18,28]],[11,[12,16]],[12,14]]],[2,[[0,14],[1,[12,16]],[2,[10,18]],[3,[0,28]],[4,14],[5,[0,28]],[6,[2,[12,3],26]],[7,[0,28]],[8,14],[9,[0,28]],[10,[10,18]],[11,[12,16]],[12,14]]],[3,[[0,14],[1,[12,16]],[4,[0,28]],[6,[[0,2],14,[26,2]]],[8,[0,28]],[11,[12,16]],[12,14]]],[4,[[0,14],[5,[0,28]],[6,[2,26]],[7,[0,28]],[12,14]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadstar_ship.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "star_ship_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1256216672",
+		"name": "Stargate",
+		"by": "Leonard Enos",
+		"tiles": 144,
+		"data": "[[0,[[0,[[7,7]]],[2,[5,21]],[4,[3,23]],[5,[[12,2]]],[6,[1,5,21,25]],[7,[[12,2]]],[8,[3,23]],[10,[5,21]],[12,[7,19]],[14,[9,13,17]],[16,[11,15]]]],[1,[[0,[[8,6]]],[1,[6,20]],[2,[4,22]],[4,[2,[11,3],24]],[6,[[0,2],6,11,15,20,[24,2]]],[8,[[11,3]]],[9,[2,24]],[11,[4,8,18,22]],[13,[6,20]],[15,[[8,6]]]]],[2,[[0,[[7,7]]],[2,[5,21]],[3,[3,[10,4],23]],[4,[1,25]],[5,[10,16]],[6,[[1,4],[19,4]]],[7,[10,16]],[8,[1,25]],[9,[[10,4]]],[10,[3,23]],[12,[5,21]],[14,[7,19]],[15,[[9,5]]]]],[3,[[0,[[10,4]]],[2,[[9,5]]],[4,[9,17]],[6,[[5,3],[17,3]]],[8,[9,17]],[10,[[9,5]]],[15,13]]],[4,[[0,[[11,3]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Stargate.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "stargate",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1256216672",
 		"name": "Stargate",
 		"by": "Leonard Enos",
 		"tiles": 144,
@@ -9264,12 +14438,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stargate.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "stargate",
+		"filename": "stargate_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1778673671",
+		"id": "1495673083",
 		"name": "Statue",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9282,7 +14456,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "27629098",
+		"id": "1495673083",
+		"name": "Statue",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],12]],[2,[4,[10,3]]],[4,[4,[8,5]]],[5,[6,18]],[6,[4,[10,3]]],[7,[6,18]],[8,[4,[10,3]]],[10,[4,10,14]],[12,[4,[8,2],[14,2]]],[14,[[2,10]]]]],[1,[[0,[[2,2],12]],[2,[4,[10,3]]],[4,[4,[8,5]]],[5,[6,18]],[6,[4,[10,3]]],[7,[6,18]],[8,[4,[10,3]]],[10,[4,10,14]],[12,[4,[8,2],[14,2]]],[14,[[2,10]]]]],[2,[[0,[4,12]],[2,[4,10,14]],[4,[4,[8,5]]],[6,[4,[10,3]]],[8,[4,[10,3]]],[10,[4,10,14]],[12,[4,[8,2],[14,2]]],[14,[[4,8]]]]],[3,[[0,12],[2,[10,14]],[4,[[8,5]]],[6,[[10,3]]],[8,12],[10,[10,14]],[12,[[8,2],[14,2]]]]],[4,[[4,[[10,3]]],[6,12]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Statue.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "statue_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "1808274618",
 		"name": "Stax",
 		"by": "Alexey Charkov",
 		"tiles": 164,
@@ -9295,7 +14482,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "510768951",
+		"id": "1808274618",
+		"name": "Stax",
+		"by": "Alexey Charkov",
+		"tiles": 164,
+		"data": "[[0,[[0,[[0,4],[10,6],[24,4]]],[2,[0,[14,2],30]],[4,[[0,4],[14,2],[24,4]]],[6,[0,[14,2],30]],[8,[[0,4],[14,2],[24,4]]],[10,[0,[14,2],30]],[12,[[0,4],[10,6],[24,4]]]]],[1,[[0,[[0,3],[11,5],[26,3]]],[2,[0,15,30]],[4,[[0,3],15,[26,3]]],[6,[0,15,30]],[8,[[0,3],15,[26,3]]],[10,[0,15,30]],[12,[[0,3],[11,5],[26,3]]]]],[2,[[0,[[0,2],[13,3],[28,2]]],[2,[0,15,30]],[4,[[0,2],15,[28,2]]],[6,[0,15,30]],[8,[[0,2],15,[28,2]]],[10,[0,15,30]],[12,[[0,2],[13,3],[28,2]]]]],[3,[[0,[0,15,30]],[2,[0,15,30]],[4,[0,15,30]],[6,[0,15,30]],[8,[0,15,30]],[10,[0,15,30]],[12,[0,15,30]]]],[4,[[2,15],[4,15],[6,15],[8,15],[10,15]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadstax.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "stax_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1136887457",
+		"name": "Step Pyramid",
+		"by": "Christian Pedersen",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[[0,9]]],[4,[[0,2],[14,2]]],[6,[[0,2],[14,2]]],[8,[[0,2],[14,2]]],[10,[[0,9]]],[12,[[0,9]]]]],[1,[[1,[[1,8]]],[3,[[1,8]]],[5,[[1,2],[13,2]]],[7,[[1,2],[13,2]]],[9,[[1,8]]],[11,[[1,8]]]]],[2,[[2,[[2,7]]],[4,[[2,7]]],[6,[[2,2],[12,2]]],[8,[[2,7]]],[10,[[2,7]]]]],[3,[[2,[2,14]],[4,[[4,5]]],[6,[4,12]],[8,[[4,5]]],[10,[2,14]]]],[4,[[5,[[5,4]]],[7,[[5,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Step Pyramid.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "step_pyramid",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1136887457",
 		"name": "Step Pyramid",
 		"by": "Christian Pedersen",
 		"tiles": 144,
@@ -9303,12 +14516,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Step Pyramid.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "step_pyramid",
+		"filename": "step_pyramid_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "152413706",
+		"id": "2279049454",
+		"name": "Stonehenge",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[3,7,10,14,17,21,24,28]],[2,[0,31]],[4,[9,13,17,21]],[6,[0,31]],[7,[3,7,11,15,19,23,27]],[9,[0,31]],[10,[9,13,17,21]],[13,[0,31]],[15,[3,7,10,14,17,21,24,28]]]],[1,[[0,[3,7,10,14,17,21,24,28]],[2,[0,31]],[6,[0,31]],[7,[3,7,11,15,19,23,27]],[9,[0,31]],[13,[0,31]],[15,[3,7,10,14,17,21,24,28]]]],[2,[[0,[3,7,10,14,17,21,24,28]],[2,[0,31]],[6,[0,31]],[7,[3,7,11,15,19,23,27]],[9,[0,31]],[13,[0,31]],[15,[3,7,10,14,17,21,24,28]]]],[3,[[0,[[4,2],[11,2],[18,2],[25,2]]],[3,[0,31]],[5,[0,31]],[7,[3,7,11,15,19,23,27]],[10,[0,31]],[12,[0,31]],[15,[[4,2],[11,2],[18,2],[25,2]]]]],[4,[[7,[[4,12]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Stonehenge.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "stonehenge",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2279049454",
 		"name": "Stonehenge",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -9316,12 +14542,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Stonehenge.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "stonehenge",
+		"filename": "stonehenge_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2157725016",
+		"id": "722614844",
+		"name": "Sukis",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[2,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[4,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[6,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[8,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[10,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[12,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[14,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]],[16,[[0,2],[5,2],[10,2],[15,2],[20,2],[25,2],[30,2]]]]],[1,[[1,[1,6,10,16,22,26,31]],[5,[1,31]],[9,[1,31]],[13,[1,31]],[15,[6,11,16,21,26]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Sukis.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "sukis",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "722614844",
 		"name": "Sukis",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -9329,12 +14568,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Sukis.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "sukis",
+		"filename": "sukis_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3747199799",
+		"id": "2126814547",
 		"name": "Summer",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -9347,7 +14586,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3092593933",
+		"id": "2301178431",
 		"name": "Sun",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9360,7 +14599,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4220800903",
+		"id": "3522304997",
 		"name": "Sun",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9373,7 +14612,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3114638860",
+		"id": "2301178431",
+		"name": "Sun",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[0,[10,2],22]],[8,[0,[10,2],22]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]],[1,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[0,[10,2],22]],[8,[0,[10,2],22]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]],[2,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[0,[10,2],22]],[8,[0,[10,2],22]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]],[3,[[0,[[6,6]]],[2,[[2,2],[18,2]]],[4,[0,22]],[6,[0,22]],[8,[0,22]],[10,[0,22]],[12,[[2,2],[18,2]]],[14,[[6,6]]]]],[4,[[0,[[6,6]]],[4,[0,22]],[6,[0,22]],[8,[0,22]],[10,[0,22]],[14,[[6,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Sun.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "sun_4",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "3522304997",
+		"name": "Sun",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,6]]],[2,[[2,10]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[2,10]]],[14,[[6,6]]]]],[1,[[2,[[6,6]]],[4,[[2,2],[10,2],[18,2]]],[6,[2,[8,4],20]],[8,[2,[8,4],20]],[10,[[2,2],[10,2],[18,2]]],[12,[[6,6]]]]],[2,[[2,[[6,6]]],[4,[[2,2],[18,2]]],[6,[2,[10,2],20]],[8,[2,[10,2],20]],[10,[[2,2],[18,2]]],[12,[[6,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Sun.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "sun_5",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3173174396",
 		"name": "Sun 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9386,7 +14651,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1761424147",
+		"id": "3173174396",
+		"name": "Sun 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[2,[8,6],24]],[2,[[4,10]]],[4,[[2,12]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[2,12]]],[12,[[4,10]]],[14,[2,[8,6],24]]]],[1,[[2,[[8,6]]],[4,[[4,2],[12,2],[20,2]]],[6,[4,10,16,22]],[7,13],[8,[4,10,16,22]],[10,[[4,2],[12,2],[20,2]]],[12,[[8,6]]]]],[2,[[2,[[8,6]]],[4,[[4,2],[20,2]]],[6,[4,22]],[7,13],[8,[4,22]],[10,[[4,2],[20,2]]],[12,[[8,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Sun 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "sun_2_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "33459067",
+		"name": "SunMoon",
+		"by": "Lynnette Layton",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,4],24]],[1,[4,17,27]],[2,[2,21]],[3,0],[4,[2,7,10,13,29]],[5,[0,19,26]],[6,[2,[9,2],23]],[7,[0,7,13]],[8,[2,[9,2],17,29]],[9,[0,21]],[10,[2,7,10,13,26]],[11,[0,18]],[12,[2,23]],[13,[4,27]],[14,[[6,4],20]]]],[1,[[0,[[6,3],24]],[1,[4,17,27]],[2,[2,21]],[3,0],[4,[2,7,10,13,29]],[5,[0,19,26]],[6,[2,[9,2],23]],[7,[0,7,13]],[8,[2,[9,2],17,29]],[9,[0,21]],[10,[2,7,10,13,26]],[11,[0,18]],[12,[2,23]],[13,[4,27]],[14,[[6,3],20]]]],[2,[[0,[[6,2]]],[1,4],[2,2],[3,0],[4,[2,7,10,13]],[5,0],[6,[2,[9,2]]],[7,[0,7,13]],[8,[2,[9,2]]],[9,0],[10,[2,7,10,13]],[11,0],[12,2],[13,4],[14,[[6,2]]]]],[3,[[0,6],[1,4],[2,2],[4,[[0,2]]],[6,[[0,2],[9,2]]],[8,[[0,2],[9,2]]],[10,[[0,2]]],[12,2],[13,4],[14,6]]],[4,[[7,10]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#SunMoon.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "sunmoon",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "33459067",
 		"name": "SunMoon",
 		"by": "Lynnette Layton",
 		"tiles": 144,
@@ -9394,12 +14685,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#SunMoon.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "sunmoon",
+		"filename": "sunmoon_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3217148921",
+		"id": "4271413565",
 		"name": "Suspension",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -9412,7 +14703,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3510038996",
+		"id": "2149882958",
 		"name": "Swine",
 		"by": "Tsubassa Kurenai",
 		"tiles": 112,
@@ -9425,7 +14716,7 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "653262238",
+		"id": "219111934",
 		"name": "Swirl",
 		"by": "Alexey Charkov",
 		"tiles": 122,
@@ -9438,7 +14729,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3035169947",
+		"id": "219111934",
+		"name": "Swirl",
+		"by": "Alexey Charkov",
+		"tiles": 122,
+		"data": "[[0,[[0,[0,[4,13]]],[1,30],[2,[0,3]],[3,[[7,10],30]],[4,[0,3,27]],[5,[6,30]],[6,[0,3,27]],[7,[[6,9],30]],[8,[0,3,27]],[9,30],[10,[0,[3,13]]],[11,30],[12,0],[13,[[2,15]]]]],[1,[[0,0],[2,0],[4,0],[6,0],[7,[[8,8]]],[8,0],[10,0],[12,0],[13,[[2,2]]]]],[2,[[0,0],[2,0],[4,0],[6,0],[7,[[12,6]]],[8,0],[10,0]]],[3,[[0,0],[2,0],[4,0],[6,0],[7,[[16,4]]]]],[4,[[0,0],[2,0],[7,[[20,2]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadswirl.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "swirl_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3480472529",
 		"name": "Switch",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9451,7 +14755,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2529261226",
+		"id": "3480472529",
+		"name": "Switch",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[0,[4,8],22]],[4,[0,[4,8],22]],[6,[[0,12]]],[8,[[0,12]]],[10,[0,[4,8],22]],[12,[0,[4,8],22]],[14,[[0,12]]]]],[1,[[0,[[10,2]]],[2,[[6,6]]],[4,[8,14]],[6,[8,14]],[8,[8,14]],[10,[[6,2],[14,2]]],[12,[[6,2],[14,2]]],[14,[6,16]]]],[2,[[0,[[10,2]]],[2,[[6,6]]],[4,[8,14]],[6,[8,14]],[8,[8,14]],[10,[8,14]],[11,[6,16]],[12,[8,14]],[13,[6,16]]]],[3,[[0,[[10,2]]],[2,[[6,6]]],[12,[6,16]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Switch.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "switch_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "199312434",
 		"name": "Symbol",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9464,7 +14781,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "3345413977",
+		"id": "2320225011",
 		"name": "Symbol 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9477,7 +14794,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "2174458033",
+		"id": "1353483191",
 		"name": "Symbol 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9490,7 +14807,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "3048639427",
+		"id": "801165327",
 		"name": "Symbol 4",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9503,7 +14820,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "1501766629",
+		"id": "4244076779",
 		"name": "Symmetrically Designed Building",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -9516,7 +14833,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3139745695",
+		"id": "4244076779",
+		"name": "Symmetrically Designed Building",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,7]]],[1,[6,22]],[2,[4,[8,7],24]],[3,[2,6,22,26]],[4,[0,4,[8,7],24,28]],[5,[2,6,22,26]],[6,[4,[8,7],24]],[7,[6,22]],[8,[[8,7]]]]],[1,[[0,[[10,6]]],[2,[5,[8,7],23]],[3,[3,25]],[4,[1,5,[8,7],23,27]],[5,[3,25]],[6,[5,[8,7],23]],[8,[[8,6]]]]],[2,[[0,[[14,4]]],[2,[[12,5]]],[3,[4,24]],[4,[2,[8,7],26]],[5,[4,24]],[6,[[8,5]]],[8,[[8,4]]]]],[3,[[0,[[16,3]]],[2,[[18,2]]],[4,14],[6,[[8,2]]],[8,[[8,3]]]]],[4,[[0,20],[8,8]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Symmetrical Building.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "symmetrically_designed_building_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "792508481",
 		"name": "TA-Internal",
 		"by": "Step5",
 		"tiles": 88,
@@ -9529,7 +14859,20 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "2145329825",
+		"id": "887863144",
+		"name": "Taipei",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[6,5]]],[1,[[1,2],[17,2]]],[2,[[5,6]]],[3,[[1,2],[17,2]]],[4,[[6,5]]],[5,[[2,2],[16,2]]],[6,[0,[6,5],20]],[7,[[2,2],[16,2]]],[8,[[6,5]]],[9,[[1,2],[17,2]]],[10,[[5,6]]],[11,[[1,2],[17,2]]],[12,[[6,5]]]]],[1,[[0,[7,13]],[1,[[9,2]]],[2,[[2,3],[14,3]]],[3,[[8,3]]],[4,[[3,2],[15,2]]],[5,[[7,4]]],[6,[[3,2],[15,2]]],[7,[[7,4]]],[8,[[3,2],[15,2]]],[9,[[8,3]]],[10,[[2,3],[14,3]]],[11,[[9,2]]],[12,[7,13]]]],[2,[[4,[[5,6]]],[6,[[4,7]]],[8,[[5,6]]]]],[3,[[5,[[7,4]]],[6,[5,15]],[7,[[7,4]]]]],[4,[[6,[[8,3]]]]],[5,[[6,[[9,2]]]]],[6,[[6,10]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
+		"solvable": true,
+		"filename": "taipei",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
+	},
+	{
+		"id": "1916363969",
 		"name": "Tarot Celtic Cross",
 		"by": "MyKyodai",
 		"tiles": 128,
@@ -9542,7 +14885,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2971925539",
+		"id": "48138551",
 		"name": "Taurus",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9555,7 +14898,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2822431361",
+		"id": "48138551",
+		"name": "Taurus",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,24]],[2,[0,24]],[4,[2,22]],[5,[[4,2],[18,2]]],[6,[[8,5]]],[8,[[6,7]]],[10,[[6,7]]],[12,[[6,7]]],[14,[[6,7]]],[16,[[8,5]]]]],[1,[[0,[0,24]],[2,[0,24]],[4,[2,22]],[5,[[4,2],[18,2]]],[6,[[8,5]]],[8,[6,18]],[10,[6,18]],[12,[6,18]],[14,[6,18]],[16,[[8,5]]]]],[2,[[0,[0,24]],[2,[0,24]],[4,[2,22]],[5,[[4,2],[18,2]]],[6,[[8,5]]],[8,[6,18]],[10,[6,18]],[12,[6,18]],[14,[6,18]],[16,[[8,5]]]]],[3,[[5,[[4,2],[18,2]]],[6,[[8,5]]],[8,[6,18]],[10,[6,18]],[12,[6,18]],[14,[6,18]],[16,[[8,5]]]]],[4,[[6,[[8,5]]],[8,[6,18]],[10,[6,18]],[12,[6,18]],[14,[6,18]],[16,[[8,5]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Taurus.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "taurus_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "3995813611",
 		"name": "Taurus 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -9568,7 +14924,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2303943539",
+		"id": "3995813611",
+		"name": "Taurus 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,[12,2],[18,3]]],[2,[[10,5],[22,2]]],[4,[[2,3],[12,5]]],[6,[0,[6,3],[16,6]]],[8,[[4,2],[10,3],[18,3]]],[10,[[4,2],[10,3],[18,5]]],[12,[0,[6,3],[16,3]]],[14,[[2,3]]]]],[1,[[0,[6,[12,2],[18,3]]],[2,[[10,5],[22,2]]],[4,[[2,3],[12,5]]],[6,[0,[6,3],[16,6]]],[8,[[4,2],[10,3],[18,3]]],[10,[[4,2],[10,3],[18,5]]],[12,[0,[6,3],[16,3]]],[14,[[2,3]]]]],[2,[[4,[[2,3]]],[6,[0,[6,3]]],[8,[[4,2],[10,3]]],[10,[[4,2],[10,3]]],[12,[0,[6,3]]],[14,[[2,3]]]]],[3,[[6,0],[12,0]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Taurus 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "taurus_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "107988161",
 		"name": "Tea For Two",
 		"by": "Mary M",
 		"tiles": 144,
@@ -9581,7 +14950,7 @@ export const data = [
 		"group": "My Kyodai Mahjongg"
 	},
 	{
-		"id": "747445608",
+		"id": "2585994950",
 		"name": "Temple",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -9594,20 +14963,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "1410509497",
+		"id": "2188780762",
 		"name": "Temple",
-		"by": "Ernie Polegato",
+		"by": "Kyodai",
 		"tiles": 144,
-		"data": "[[0,[[0,[[0,4],[14,4]]],[2,[[0,4],[14,4]]],[3,[[8,3]]],[4,[[0,4],[14,4]]],[5,10],[6,[[0,4],[14,4]]],[7,[[8,3]]],[8,[[0,4],[14,4]]],[9,10],[10,[[0,4],[14,4]]],[11,[[8,3]]],[12,[[0,4],[14,4]]],[14,[[0,4],[14,4]]]]],[1,[[1,[[1,3],[15,3]]],[3,[[1,10]]],[5,[[1,3],[15,3]]],[7,[3,[9,2],17]],[9,[[1,3],[15,3]]],[11,[[1,10]]],[13,[[1,3],[15,3]]]]],[2,[[2,[[2,2],[16,2]]],[4,[[2,2],[16,2]]],[7,10],[10,[[2,2],[16,2]]],[12,[[2,2],[16,2]]]]],[3,[[3,[3,17]],[11,[3,17]]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout05.zip#Temple.lay",
-		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"data": "[[0,[[0,[[4,4],15,[20,4]]],[2,[2,28]],[3,[[7,2],[21,2]]],[4,[[0,2],11,19,[28,2]]],[5,[13,17]],[6,[[0,2],7,15,[28,2]]],[7,[13,17]],[8,[[0,2],11,19,[28,2]]],[9,[[7,2],[21,2]]],[10,[2,28]],[12,[[4,4],15,[20,4]]]]],[1,[[0,[[5,3],15,[21,3]]],[3,[2,8,22,28]],[4,[10,20]],[5,[[0,2],[12,4],[28,2]]],[7,[[0,2],[12,4],[28,2]]],[8,[10,20]],[9,[2,8,22,28]],[12,[[5,3],15,[21,3]]]]],[2,[[0,[[6,2],[22,2]]],[4,[2,9,21,28]],[5,[11,19]],[6,[[0,2],[13,3],[28,2]]],[7,[11,19]],[8,[2,9,21,28]],[12,[[6,2],[22,2]]]]],[3,[[0,[7,23]],[5,[2,10,20,28]],[6,[[12,4]]],[7,[2,10,20,28]],[12,[7,23]]]],[4,[[6,[2,[11,5],28]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Temple.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
 		"solvable": true,
-		"filename": "temple_5",
-		"path": "phantagia/eplayouts/eplayout05",
-		"group": "Phantagia - Package A - Package 05"
+		"filename": "temple_3",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
 	},
 	{
-		"id": "4219390830",
+		"id": "2188780762",
 		"name": "Temple",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -9615,12 +14984,51 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Temple.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "temple_3",
+		"filename": "temple_4",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1771710302",
+		"id": "2585994950",
+		"name": "Temple",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,3],[11,5],[26,3]]],[2,[[0,2],[11,5],[28,2]]],[3,[9,21]],[4,[0,[11,5],30]],[5,[[5,3],[21,3]]],[6,[[11,5]]],[7,[[3,4],[21,4]]],[8,[[11,5]]],[9,[[5,3],[21,3]]],[10,[0,[11,5],30]],[11,[9,21]],[12,[[0,2],[11,5],[28,2]]],[14,[[0,3],[11,5],[26,3]]]]],[1,[[0,[0,30]],[2,[[13,3]]],[4,[[11,5]]],[6,[[7,9]]],[8,[[7,9]]],[10,[[11,5]]],[12,[[13,3]]],[14,[0,30]]]],[2,[[4,[[14,2]]],[6,[[10,6]]],[8,[[10,6]]],[10,[[14,2]]]]],[3,[[6,15],[8,15]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadtemple.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "temple_5",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3806780319",
+		"name": "Temple",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[14,4]]],[2,[[0,4],[14,4]]],[3,[[8,3]]],[4,[[0,4],[14,4]]],[5,10],[6,[[0,4],[14,4]]],[7,[[8,3]]],[8,[[0,4],[14,4]]],[9,10],[10,[[0,4],[14,4]]],[11,[[8,3]]],[12,[[0,4],[14,4]]],[14,[[0,4],[14,4]]]]],[1,[[1,[[1,3],[15,3]]],[3,[[1,10]]],[5,[[1,3],[15,3]]],[7,[3,[9,2],17]],[9,[[1,3],[15,3]]],[11,[[1,10]]],[13,[[1,3],[15,3]]]]],[2,[[2,[[2,2],[16,2]]],[4,[[2,2],[16,2]]],[7,10],[10,[[2,2],[16,2]]],[12,[[2,2],[16,2]]]]],[3,[[3,[3,17]],[11,[3,17]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout05.zip#Temple.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "temple_6",
+		"path": "phantagia/eplayouts/eplayout05",
+		"group": "Phantagia - Package A - Package 05"
+	},
+	{
+		"id": "2830280886",
+		"name": "Temple 1",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[[1,11]]],[4,[[0,12]]],[6,[[1,11]]],[8,[[0,12]]]]],[1,[[1,[[2,10]]],[3,[[1,11]]],[5,[[2,10]]],[7,[[1,11]]]]],[2,[[2,[[2,10]]],[4,[[3,9]]],[6,[[2,10]]]]],[3,[[3,[[7,5]]],[4,[5,17]],[5,[[7,5]]]]],[4,[[4,[[9,3]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Temple 1.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "temple_1",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2830280886",
 		"name": "Temple 1",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -9628,12 +15036,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Temple 1.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "temple_1",
+		"filename": "temple_1_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2266019205",
+		"id": "3168926235",
+		"name": "Temple 2",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,10]]],[2,[[0,10]]],[4,[[1,10]]],[6,[[0,10]]],[8,[[1,10]]],[10,[[0,10]]]]],[1,[[1,[[1,9]]],[3,[[2,9]]],[5,[[1,9]]],[7,[[2,9]]],[9,[[1,9]]]]],[2,[[2,[[2,8]]],[4,[[3,8]]],[6,[[2,8]]],[8,[[3,8]]]]],[3,[[4,[[7,3]]],[6,[[6,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Temple 2.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "temple_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3168926235",
 		"name": "Temple 2",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -9641,12 +15062,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Temple 2.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "temple_2_3",
+		"filename": "temple_2_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2987139841",
+		"id": "1649917893",
 		"name": "Temple 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9654,12 +15075,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Temple 3.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "temple_2_2",
+		"filename": "temple_2_3",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "952782912",
+		"id": "1649917893",
+		"name": "Temple 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,7]]],[2,[[4,7]]],[4,[[0,11]]],[6,[[0,11]]],[8,[[0,11]]],[10,[[0,11]]],[12,[[4,7]]],[14,[[4,7]]]]],[1,[[2,[[6,5]]],[4,[[6,5]]],[6,[[2,9]]],[8,[[2,9]]],[10,[[6,5]]],[12,[[6,5]]]]],[2,[[4,[[8,3]]],[6,[[4,7]]],[8,[[4,7]]],[10,[[8,3]]]]],[3,[[6,[[6,5]]],[8,[[6,5]]]]],[4,[[7,[[7,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Temple 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "temple_2_4",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "3457932158",
 		"name": "Temple 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9672,7 +15106,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "1244636567",
+		"id": "1452669287",
 		"name": "Temple 4",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -9685,7 +15119,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "137026709",
+		"id": "3574916435",
 		"name": "Temporary",
 		"by": "MyKyodai",
 		"tiles": 144,
@@ -9698,7 +15132,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1714196287",
+		"id": "2891912585",
 		"name": "Ten Pyramids",
 		"by": "Jens Rose",
 		"tiles": 140,
@@ -9711,7 +15145,20 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "2090199547",
+		"id": "3293616003",
+		"name": "Teotihucan",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[0,18]],[4,[0,18]],[6,[0,6,10,14,18]],[8,[0,6,10,14,18]],[10,[0,18]],[12,[0,18]],[14,[[0,10]]],[16,9]]],[1,[[1,[[1,9]]],[3,[1,17]],[5,[1,17]],[6,[6,10,14]],[7,[1,17]],[8,[6,10,14]],[9,[1,17]],[11,[1,17]],[13,[[1,9]]],[15,9]]],[2,[[2,[[2,8]]],[4,[2,16]],[6,[2,6,10,[14,2]]],[8,[2,6,10,[14,2]]],[10,[2,16]],[12,[[2,8]]],[14,9]]],[3,[[3,[[3,7]]],[5,[[3,7]]],[7,[[3,7]]],[9,[[3,7]]],[11,[[3,7]]],[13,9]]],[4,[[7,[5,9,13]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Teotihucan.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "teotihucan",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3293616003",
 		"name": "Teotihucan",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -9719,12 +15166,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Teotihucan.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "teotihucan",
+		"filename": "teotihucan_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "967937349",
+		"id": "1050860479",
 		"name": "Test 2",
 		"by": "Alexey Charkov",
 		"tiles": 6,
@@ -9737,7 +15184,7 @@ export const data = [
 		"group": "OGS"
 	},
 	{
-		"id": "1790123291",
+		"id": "3141534491",
 		"name": "Test Short",
 		"by": "Alexey Charkov",
 		"tiles": 8,
@@ -9750,7 +15197,7 @@ export const data = [
 		"group": "OGS"
 	},
 	{
-		"id": "1791968871",
+		"id": "1497313757",
 		"name": "Test Short 4 Winds",
 		"by": "Alexey Charkov",
 		"tiles": 74,
@@ -9763,7 +15210,20 @@ export const data = [
 		"group": "OGS"
 	},
 	{
-		"id": "2840973808",
+		"id": "3000657314",
+		"name": "TF1",
+		"by": "Patrick Becker",
+		"tiles": 76,
+		"data": "[[0,[[0,[[0,6],[13,6],32]],[2,[[0,6],[13,6],[30,2]]],[4,[[4,2],[13,3],[28,3]]],[6,[[4,2],[13,6],[26,4]]],[8,[[4,2],[13,3],[26,4]]],[10,[[4,2],[13,3],[26,4]]],[12,[[4,2],[13,3],[26,4]]]]],[1,[[11,[[14,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#TF1.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "tf1",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3000657314",
 		"name": "TF1",
 		"by": "Patrick Becker",
 		"tiles": 76,
@@ -9771,12 +15231,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#TF1.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "tf1",
+		"filename": "tf1_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "1323970054",
+		"id": "4089214850",
 		"name": "The Arrow Of Cupid",
 		"by": "Carolyne Smythe",
 		"tiles": 132,
@@ -9789,7 +15249,7 @@ export const data = [
 		"group": "Miss Fantastic"
 	},
 	{
-		"id": "84906967",
+		"id": "4278732921",
 		"name": "The Dome 1",
 		"by": "Patrick Becker",
 		"tiles": 124,
@@ -9802,7 +15262,7 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "1218418117",
+		"id": "1658189337",
 		"name": "The Door",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -9815,7 +15275,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3776577645",
+		"id": "1658189337",
+		"name": "The Door",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[12,3]]],[2,[[8,7]]],[4,[[6,2],[20,2]]],[6,[[4,3],[20,3]]],[8,[[4,3],[20,3]]],[10,[[2,5],[18,5]]],[12,[[0,6],[18,6]]],[14,[[0,6],[18,6]]]]],[1,[[2,[[8,7]]],[4,[8,20]],[6,[8,20]],[8,[[6,2],[20,2]]],[10,[[6,2],[20,2]]],[12,[[4,3],[20,3]]],[14,[[2,4],[20,4]]]]],[2,[[2,[[8,7]]],[4,[8,20]],[6,[8,20]],[8,[8,20]],[10,[[6,2],[20,2]]],[12,[[6,2],[20,2]]],[14,[[6,2],[20,2]]]]],[3,[[2,[[8,7]]],[4,[8,20]],[6,[8,20]],[8,[8,20]],[10,[8,20]],[12,[8,20]],[14,[8,20]]]],[4,[[2,[[8,7]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadthe_door.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "the_door_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1559941241",
+		"name": "The Great Wall",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,16]]],[2,[[0,16]]],[4,[[0,16]]],[6,[[0,16]]],[8,[[0,16]]],[10,[[0,16]]],[12,[[0,16]]],[14,[[0,16]]],[16,[[0,16]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#The Great Wall.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "the_great_wall",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1559941241",
 		"name": "The Great Wall",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -9823,12 +15309,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#The Great Wall.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "the_great_wall",
+		"filename": "the_great_wall_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "886488269",
+		"id": "1614323479",
+		"name": "The Nightmare",
+		"by": "Patrick Becker",
+		"tiles": 116,
+		"data": "[[0,[[0,13],[2,[[11,3]]],[3,[9,17]],[4,[7,13,19]],[5,11],[6,[5,13,21]],[7,[[9,2]]],[8,[4,13,22]],[9,[[0,2],[7,3],[15,3],[24,2]]],[10,[4,13,22]],[11,[[15,2]]],[12,[5,13,21]],[13,15],[14,[7,13,19]],[15,[9,17]],[16,[[11,3]]],[18,13]]],[1,[[0,13],[2,[[11,3]]],[3,[9,17]],[4,[7,19]],[5,13],[6,[5,11,21]],[7,13],[8,[4,[9,2],22]],[9,[[0,2],13,[24,2]]],[10,[4,[15,2],22]],[11,13],[12,[5,15,21]],[13,13],[14,[7,19]],[15,[9,17]],[16,[[11,3]]],[18,13]]],[2,[[1,13],[2,[11,15]],[3,13],[6,13],[7,11],[8,[2,13,24]],[9,[0,4,22,26]],[10,[2,13,24]],[11,15],[12,13],[15,13],[16,[11,15]],[17,13]]],[3,[[2,13],[7,12],[9,[2,13,24]],[11,14],[16,13]]],[4,[[8,12],[10,13]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#The NIGHTMARE.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "the_nightmare",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1614323479",
 		"name": "The Nightmare",
 		"by": "Patrick Becker",
 		"tiles": 116,
@@ -9836,12 +15335,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#The NIGHTMARE.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "the_nightmare",
+		"filename": "the_nightmare_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2180393906",
+		"id": "2447397392",
+		"name": "The Owl",
+		"by": "Duncan Mckenzie",
+		"tiles": 144,
+		"data": "[[0,[[0,[11,19]],[1,[6,13,17,24]],[2,[4,8,22,26]],[3,[2,10,[14,2],20,28]],[4,[0,12,18,30]],[5,[[14,2]]],[6,[0,30]],[7,[6,[14,2],24]],[8,[0,30]],[9,[[4,3],[14,2],[22,3]]],[10,[0,30]],[11,[6,[14,2],24]],[12,[0,12,18,30]],[13,[2,10,[14,2],20,28]],[14,[4,8,22,26]],[15,[6,[11,5],24]]]],[1,[[0,[11,19]],[1,[6,13,17,24]],[2,[4,8,22,26]],[3,[2,10,[14,2],20,28]],[4,[0,12,18,30]],[5,15],[6,[0,30]],[7,[6,[14,2],24]],[8,[0,30]],[9,[[4,3],[14,2],[22,3]]],[10,[0,30]],[11,[6,[14,2],24]],[12,[0,12,18,30]],[13,[2,10,[14,2],20,28]],[14,[4,8,22,26]],[15,[6,11,[14,2],19,24]]]],[2,[[0,[11,19]],[1,[6,13,17,24]],[2,[4,8,22,26]],[3,[[14,2]]],[5,15],[9,[6,24]],[15,15]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Owl.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "the_owl",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2447397392",
 		"name": "The Owl",
 		"by": "Duncan Mckenzie",
 		"tiles": 144,
@@ -9849,12 +15361,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Owl.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "the_owl",
+		"filename": "the_owl_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "723935984",
+		"id": "667736988",
+		"name": "The SpaceBridge",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,12]]],[2,[0,22]],[4,[0,22]],[5,[9,15]],[6,[0,22]],[7,[[11,2]]],[8,[0,22]],[9,[[11,2]]],[10,[0,22]],[11,[9,15]],[12,[0,22]],[14,[0,22]],[16,[[0,12]]]]],[1,[[1,[[1,11]]],[3,[1,21]],[5,[1,21]],[6,[10,14]],[7,[1,21]],[8,12],[9,[1,21]],[10,[10,14]],[11,[1,21]],[13,[1,21]],[15,[[1,11]]]]],[2,[[2,[[2,10]]],[4,[2,20]],[6,[2,20]],[7,[[11,2]]],[8,[2,20]],[9,[[11,2]]],[10,[2,20]],[12,[2,20]],[14,[[2,10]]]]],[3,[[3,[[3,2],11,[17,2]]],[5,[3,19]],[8,[3,12,19]],[11,[3,19]],[13,[[3,2],11,[17,2]]]]],[4,[[4,[4,11,18]],[8,[4,18]],[12,[4,11,18]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Space Bridge.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "the_spacebridge",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "667736988",
 		"name": "The SpaceBridge",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -9862,12 +15387,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Space Bridge.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "the_spacebridge",
+		"filename": "the_spacebridge_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1999795046",
+		"id": "3960151760",
 		"name": "The Temples Of The Sun And Moon",
 		"by": "Jon Prater",
 		"tiles": 144,
@@ -9880,7 +15405,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4277830847",
+		"id": "542337926",
+		"name": "The Ziggurat",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[5,10],28]],[2,[0,5,[13,2],23,28]],[4,[0,5,[13,2],23,28]],[6,[[0,4],[22,4]]],[8,[[0,4],[22,4]]],[10,[0,5,[13,2],23,28]],[12,[0,5,[13,2],23,28]],[14,[0,[5,10],28]]]],[1,[[1,[6,22]],[2,[[13,2]]],[6,[[2,3],[22,3]]],[8,[[2,3],[22,3]]],[12,[[13,2]]],[13,[6,22]]]],[2,[[1,[6,22]],[2,14],[6,[[4,3],[20,3]]],[8,[[4,3],[20,3]]],[12,14],[13,[6,22]]]],[3,[[6,[[6,9]]],[8,[[6,9]]]]],[4,[[6,[[8,7]]],[8,[[8,7]]]]],[5,[[6,[[10,5]]],[8,[[10,5]]]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
+		"solvable": true,
+		"filename": "the_ziggurat",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
+	},
+	{
+		"id": "3397480659",
+		"name": "Theater",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],12,[16,5]]],[2,[[0,4],[10,3],[18,4]]],[4,[[0,3],[8,5],[20,3]]],[6,[[0,2],[6,7],[22,2]]],[8,[[0,3],[8,5],[20,3]]],[10,[[0,4],[10,3],[18,4]]],[12,[[0,5],12,[16,5]]]]],[1,[[0,[[0,4],[18,4]]],[2,[[0,3],12,[20,3]]],[4,[[0,2],[10,3],[22,2]]],[6,[0,12,24]],[8,[[0,2],[10,3],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],[18,4]]]]],[2,[[0,[[2,2],[20,2]]],[2,[[0,2],[22,2]]],[4,[0,24]],[8,[0,24]],[10,[[0,2],[22,2]]],[12,[[2,2],[20,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Theater.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "theater",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3397480659",
 		"name": "Theater",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -9888,12 +15439,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Theater.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "theater",
+		"filename": "theater_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2181033608",
+		"id": "3397480659",
+		"name": "Theater",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],12,[16,5]]],[2,[[0,4],[10,3],[18,4]]],[4,[[0,3],[8,5],[20,3]]],[6,[[0,2],[6,7],[22,2]]],[8,[[0,3],[8,5],[20,3]]],[10,[[0,4],[10,3],[18,4]]],[12,[[0,5],12,[16,5]]]]],[1,[[0,[[0,4],[18,4]]],[2,[[0,3],12,[20,3]]],[4,[[0,2],[10,3],[22,2]]],[6,[0,12,24]],[8,[[0,2],[10,3],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],[18,4]]]]],[2,[[0,[[2,2],[20,2]]],[2,[[0,2],[22,2]]],[4,[0,24]],[8,[0,24]],[10,[[0,2],[22,2]]],[12,[[2,2],[20,2]]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/theater",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "theater_3",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "1521782420",
 		"name": "Theatre",
 		"by": "Alexey Charkov",
 		"tiles": 154,
@@ -9906,7 +15470,7 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2298269395",
+		"id": "2212342995",
 		"name": "Three Boxes",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -9919,7 +15483,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2890916449",
+		"id": "2212342995",
+		"name": "Three Boxes",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[10,4],[20,4]]],[2,[0,6,10,16,20,26]],[4,[0,6,10,16,20,26]],[6,[[0,4],[10,4],[20,4]]]]],[1,[[0,[[0,4],[10,4],[20,4]]],[2,[0,6,10,16,20,26]],[4,[0,6,10,16,20,26]],[6,[[0,4],[10,4],[20,4]]]]],[2,[[0,[[0,4],[10,4],[20,4]]],[2,[0,6,10,16,20,26]],[4,[0,6,10,16,20,26]],[6,[[0,4],[10,4],[20,4]]]]],[3,[[0,[[0,4],[10,4],[20,4]]],[2,[0,6,10,16,20,26]],[4,[0,6,10,16,20,26]],[6,[[0,4],[10,4],[20,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Three Boxes.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "three_boxes_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "894315919",
 		"name": "Three ELEVATED Wells",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -9932,20 +15509,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "8480899",
-		"name": "Three Pyramids",
+		"id": "894315919",
+		"name": "Three ELEVATED Wells",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
-		"data": "[[0,[[0,[[0,5],[11,5],[22,5]]],[2,[[0,2],[6,2],[11,2],[17,2],[22,2],[28,2]]],[4,[0,4,8,11,15,19,22,26,30]],[6,[[0,2],[6,2],[11,2],[17,2],[22,2],[28,2]]],[8,[[0,5],[11,5],[22,5]]]]],[1,[[1,[[1,4],[12,4],[23,4]]],[3,[1,7,12,18,23,29]],[4,[4,15,26]],[5,[1,7,12,18,23,29]],[7,[[1,4],[12,4],[23,4]]]]],[2,[[2,[[2,3],[13,3],[24,3]]],[4,[[2,3],[13,3],[24,3]]],[6,[[2,3],[13,3],[24,3]]]]],[3,[[3,[[3,2],[14,2],[25,2]]],[5,[[3,2],[14,2],[25,2]]]]],[4,[[4,[4,15,26]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Three Pyramids.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"data": "[[0,[[4,[4,14,24]],[10,[[12,5]]],[12,[[12,5]]]]],[1,[[3,[[3,2],[13,2],[23,2]]],[5,[[3,2],[13,2],[23,2]]],[10,[[12,5]]]]],[2,[[2,[[2,3],[12,3],[22,3]]],[4,[2,6,12,16,22,26]],[6,[[2,3],[12,3],[22,3]]],[10,[[16,3]]]]],[3,[[1,[[1,4],[11,4],[21,4]]],[3,[1,7,11,17,21,27]],[5,[1,7,11,17,21,27]],[7,[[1,4],[11,4],[21,4]]],[10,[[18,2]]]]],[4,[[0,[[0,15]]],[2,[0,[8,2],[18,2],28]],[4,[0,[8,2],[18,2],28]],[6,[0,[8,2],[18,2],28]],[8,[[0,15]]],[10,20]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Three Wells.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
 		"solvable": true,
-		"filename": "three_pyramids_2",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "three_elevated_wells_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
 	},
 	{
-		"id": "2830067637",
+		"id": "522948307",
 		"name": "Three Pyramids",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -9958,7 +15535,59 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "84565693",
+		"id": "1848672823",
+		"name": "Three Pyramids",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[11,5],[22,5]]],[2,[[0,2],[6,2],[11,2],[17,2],[22,2],[28,2]]],[4,[0,4,8,11,15,19,22,26,30]],[6,[[0,2],[6,2],[11,2],[17,2],[22,2],[28,2]]],[8,[[0,5],[11,5],[22,5]]]]],[1,[[1,[[1,4],[12,4],[23,4]]],[3,[1,7,12,18,23,29]],[4,[4,15,26]],[5,[1,7,12,18,23,29]],[7,[[1,4],[12,4],[23,4]]]]],[2,[[2,[[2,3],[13,3],[24,3]]],[4,[[2,3],[13,3],[24,3]]],[6,[[2,3],[13,3],[24,3]]]]],[3,[[3,[[3,2],[14,2],[25,2]]],[5,[[3,2],[14,2],[25,2]]]]],[4,[[4,[4,15,26]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Three Pyramids.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "three_pyramids_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1848672823",
+		"name": "Three Pyramids",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5],[11,5],[22,5]]],[2,[[0,2],[6,2],[11,2],[17,2],[22,2],[28,2]]],[4,[0,4,8,11,15,19,22,26,30]],[6,[[0,2],[6,2],[11,2],[17,2],[22,2],[28,2]]],[8,[[0,5],[11,5],[22,5]]]]],[1,[[1,[[1,4],[12,4],[23,4]]],[3,[1,7,12,18,23,29]],[4,[4,15,26]],[5,[1,7,12,18,23,29]],[7,[[1,4],[12,4],[23,4]]]]],[2,[[2,[[2,3],[13,3],[24,3]]],[4,[[2,3],[13,3],[24,3]]],[6,[[2,3],[13,3],[24,3]]]]],[3,[[3,[[3,2],[14,2],[25,2]]],[5,[[3,2],[14,2],[25,2]]]]],[4,[[4,[4,15,26]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Three Pyramids.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "three_pyramids_3",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1912139279",
+		"name": "Tic-Tac-Toe",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,18]],[2,[6,18]],[4,[[0,13]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[0,13]]],[14,[6,18]],[16,[6,18]]]],[1,[[0,[6,18]],[2,[6,18]],[4,[[2,11]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[2,11]]],[14,[6,18]],[16,[6,18]]]],[2,[[2,[6,18]],[4,[[4,9]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[4,9]]],[14,[6,18]]]],[3,[[4,[[6,7]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[6,7]]]]],[4,[[4,[[6,7]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[6,7]]]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
+		"solvable": true,
+		"filename": "tic-tac-toe",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
+	},
+	{
+		"id": "1912139279",
+		"name": "Tic-Tac-Toe",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,18]],[2,[6,18]],[4,[[0,13]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[0,13]]],[14,[6,18]],[16,[6,18]]]],[1,[[0,[6,18]],[2,[6,18]],[4,[[2,11]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[2,11]]],[14,[6,18]],[16,[6,18]]]],[2,[[2,[6,18]],[4,[[4,9]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[4,9]]],[14,[6,18]]]],[3,[[4,[[6,7]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[6,7]]]]],[4,[[4,[[6,7]]],[6,[6,18]],[8,[6,18]],[10,[6,18]],[12,[[6,7]]]]]]",
+		"source": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/games_data",
+		"site": "https://github.com/shadowmoon-waltz/MahjonggBuilder/tree/master/app/src/main/res/raw/",
+		"solvable": true,
+		"filename": "tic-tac-toe_2",
+		"path": "mahjongg-builder",
+		"group": "Mahjongg Builder"
+	},
+	{
+		"id": "3347763925",
 		"name": "Tiger",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -9971,7 +15600,33 @@ export const data = [
 		"group": "Kurenai - Chinese Zodiac"
 	},
 	{
-		"id": "3327862654",
+		"id": "2352411231",
+		"name": "Tiger",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,2]]],[1,[[4,3],[20,5]]],[2,[[0,2]]],[3,[[8,2],[18,2]]],[4,[[12,3]]],[5,[[8,2],18]],[6,[[4,2],[12,3],24,28]],[7,[[8,2],[18,2]]],[8,[[4,2],[12,3],22,26]],[9,[[8,2],18]],[10,[[12,3]]],[11,[[8,2],[18,2]]],[12,[[0,2]]],[13,[[4,3],[20,5]]],[14,[[0,2]]]]],[1,[[0,[[0,2]]],[1,[[4,2],[20,5]]],[2,[[0,2]]],[3,[8,[18,2]]],[4,[[10,4]]],[5,[8,18]],[6,[6,[10,4],24,28]],[7,[4,8,[18,2]]],[8,[6,[10,4],22,26]],[9,[8,18]],[10,[[10,4]]],[11,[8,[18,2]]],[12,[[0,2]]],[13,[[4,2],[20,5]]],[14,[[0,2]]]]],[2,[[5,[[8,6]]],[7,[[8,6]]],[9,[[8,6]]]]],[3,[[5,[12,18]],[7,[10,16]],[9,[8,14]]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/tiger",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "tiger_2",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "4016260910",
+		"name": "Tile Fighter",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[5,2],[19,2]]],[2,[[2,2],[10,4],[22,2]]],[4,[[0,2],[8,6],[24,2]]],[6,[0,[8,6],26]],[7,[[2,3],[20,3]]],[8,[0,[8,6],26]],[10,[[0,2],[8,6],[24,2]]],[12,[[2,2],[10,4],[22,2]]],[14,[[5,2],[19,2]]]]],[1,[[0,[5,21]],[2,[[2,2],[12,2],[22,2]]],[4,[[0,2],[10,4],[24,2]]],[6,[0,[8,2],[16,2],26]],[7,[2,13,24]],[8,[0,[8,2],[16,2],26]],[10,[[0,2],[10,4],[24,2]]],[12,[[2,2],[12,2],[22,2]]],[14,[5,21]]]],[2,[[2,[2,24]],[4,[2,13,24]],[5,[0,26]],[6,[10,16]],[7,[[0,2],[24,2]]],[8,[10,16]],[9,[0,26]],[10,[2,13,24]],[12,[2,24]]]],[3,[[2,[2,24]],[5,[0,26]],[7,[0,26]],[9,[0,26]],[12,2]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Tile Fighter.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "tile_fighter",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4016260910",
 		"name": "Tile Fighter",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -9979,12 +15634,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Tile Fighter.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "tile_fighter",
+		"filename": "tile_fighter_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3252014536",
+		"id": "1059895176",
 		"name": "Tilemap World",
 		"by": "Jens Rose",
 		"tiles": 136,
@@ -9997,7 +15652,20 @@ export const data = [
 		"group": "Kurenai - Maps and flags"
 	},
 	{
-		"id": "657425396",
+		"id": "3913450466",
+		"name": "Tilepiles",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,5]]],[1,[[14,4],[24,4]]],[2,[[7,3]]],[3,[[2,2],[17,2],[23,3]]],[4,[[10,3]]],[5,[[5,2],[20,3]]],[6,[[13,3]]],[7,[[8,2],[23,2]]],[8,[[16,3]]],[9,[[9,3],[26,2]]],[10,[[19,3]]],[11,[[4,4],[14,2]]],[12,[[22,5]]],[13,[[1,5]]]]],[1,[[0,[[1,4]]],[1,[[15,3],[25,3]]],[2,[[8,2]]],[3,[3,18,[24,2]]],[4,[[11,2]]],[5,[6,[21,2]]],[6,[[14,2]]],[7,[9,24]],[8,[[17,2]]],[9,[[10,2],27]],[10,[[20,2]]],[11,[[5,3],15]],[12,[[23,4]]],[13,[[2,4]]]]],[2,[[0,[[2,3]]],[1,[[16,2],[26,2]]],[2,9],[3,25],[4,12],[5,22],[6,15],[8,18],[9,11],[10,21],[11,[[6,2]]],[12,[[24,3]]],[13,[[3,3]]]]],[3,[[0,[[3,2]]],[1,[17,27]],[11,7],[12,[[25,2]]],[13,[[4,2]]]]],[4,[[0,4],[12,26],[13,5]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Tilepiles.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "tilepiles",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3913450466",
 		"name": "Tilepiles",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -10005,12 +15673,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Tilepiles.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "tilepiles",
+		"filename": "tilepiles_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3025487009",
+		"id": "1026788785",
 		"name": "Time Tunnel",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -10023,7 +15691,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3522259830",
+		"id": "1026788785",
+		"name": "Time Tunnel",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[[0,3],[14,3]]],[4,[[0,3],[14,3]]],[6,[[0,3],[14,3]]],[8,[[0,3],[14,3]]],[10,[[0,10]]]]],[1,[[0,[[2,8]]],[2,[[2,2],[14,2]]],[4,[[2,2],[14,2]]],[6,[[2,2],[14,2]]],[8,[[2,2],[14,2]]],[10,[[2,8]]]]],[2,[[0,[[4,6]]],[2,[[2,2],[14,2]]],[4,[[2,2],[14,2]]],[6,[[2,2],[14,2]]],[8,[[2,2],[14,2]]],[10,[[4,6]]]]],[3,[[0,[[6,4]]],[2,[4,14]],[3,[2,16]],[4,[4,14]],[5,[2,16]],[6,[4,14]],[7,[2,16]],[8,[4,14]],[10,[[6,4]]]]],[4,[[0,[[6,4]]],[2,[4,14]],[4,[4,14]],[5,[2,16]],[6,[4,14]],[8,[4,14]],[10,[[6,4]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadtime_tunnel.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "time_tunnel_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "4042438650",
 		"name": "Togepi",
 		"by": "Nanami Kamimura",
 		"tiles": 100,
@@ -10036,7 +15717,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1277128004",
+		"id": "4042438650",
+		"name": "Togepi",
+		"by": "Nanami Kamimura",
+		"tiles": 100,
+		"data": "[[0,[[0,[[1,2],[7,2],[13,2]]],[2,[[2,7]]],[4,[[3,6]]],[6,[[2,7]]],[8,[[0,9]]],[10,[[2,7]]],[12,[[2,7]]],[14,[[1,8]]],[16,[[0,2],[14,2]]]]],[1,[[2,[6,10]],[5,8],[6,[5,11]],[7,[2,14]],[8,[0,[4,5],16]],[9,[2,14]],[10,[[4,5]]],[11,[2,14]],[12,[[4,5]]],[13,[2,14]],[14,[[4,5]]]]],[2,[[9,[1,15]],[10,[3,13]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Togepi.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "togepi_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1340888280",
 		"name": "Tomb",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -10049,7 +15743,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "982240879",
+		"id": "1340888280",
+		"name": "Tomb",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,10]]],[2,[[0,10]]],[4,[[0,10]]],[6,[[0,10]]],[8,[[0,10]]],[10,[[6,4]]],[12,[[8,2]]]]],[1,[[0,[[0,10]]],[2,[[0,10]]],[4,[[2,2],9,[14,2]]],[6,[[0,4],[12,4]]],[8,[[0,4],[12,4]]],[10,[6,12]]]],[2,[[0,[0,18]],[2,[[2,8]]],[4,[2,16]],[6,[[2,3],[12,3]]],[8,[0,6,12,18]]]],[3,[[0,[0,18]],[2,[[5,5]]],[4,[2,16]],[6,[6,12]],[8,[0,6,12,18]]]],[4,[[0,[0,18]],[2,[[6,4]]],[6,[6,12]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadtomb.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "tomb_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2906772039",
 		"name": "Tombstone",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10062,7 +15769,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 02"
 	},
 	{
-		"id": "1702654586",
+		"id": "891068842",
 		"name": "Top View Of Titanic",
 		"by": "Nanami Kamimura",
 		"tiles": 100,
@@ -10075,7 +15782,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3217091660",
+		"id": "891068842",
+		"name": "Top View Of Titanic",
+		"by": "Nanami Kamimura",
+		"tiles": 100,
+		"data": "[[0,[[1,[[1,12]]],[2,[25,28]],[3,[[1,12]]]]],[1,[[0,[[0,13]]],[1,26],[2,[[0,13],28]],[3,26],[4,[[0,13]]]]],[2,[[1,[[3,11]]],[2,26],[3,[[3,11]]]]],[3,[[2,[6,10,14,18,22]]]],[4,[[2,[6,10,14,18]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Titanic.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "top_view_of_titanic_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2202947272",
+		"name": "Totally Random-Made Layout",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,17]],[1,[1,8]],[2,20],[3,[4,9,23,28]],[4,[0,14,31]],[5,[7,18,24]],[6,[2,5,21]],[7,[8,13,18]],[8,[[28,2]]],[9,[5,19,23]],[10,[13,17,21]],[11,[2,7,15]],[12,[12,24]],[13,22],[14,[0,7,14,20,24]],[15,[11,22]]]],[1,[[1,21],[2,8],[3,[3,14,23]],[4,[8,17]],[5,[5,14,19]],[6,[12,22]],[7,[1,14,20]],[8,8],[9,[4,12,22]],[10,6],[11,[[15,2]]],[12,[3,11]],[14,[10,19]]]],[2,[[2,[4,9]],[3,13],[4,[2,9]],[5,[17,20]],[6,4],[7,[7,11]],[8,[1,15,19]],[9,[5,9,21]],[10,[11,23]],[11,[7,14]],[12,[2,10,17]],[13,[4,19]],[14,9]]],[3,[[3,[3,[12,2]]],[6,[6,11]],[7,[3,8,[14,2],20]],[8,[11,18]],[9,[0,6]],[10,[11,14,21]],[11,9],[12,[2,5,11,14]],[13,19],[14,10]]],[4,[[2,[[11,2]]],[3,4],[4,[2,14]],[5,[6,11]],[6,13],[7,[[3,2],[15,3]]],[8,[9,13]],[9,[7,11,18,21]],[10,5],[11,[2,9]],[12,12],[13,[6,15]],[15,11]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Totally Random-Made Layout.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "totally_random-made_layout",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2202947272",
 		"name": "Totally Random-Made Layout",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -10083,12 +15816,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Totally Random-Made Layout.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "totally_random-made_layout",
+		"filename": "totally_random-made_layout_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "336233796",
+		"id": "3394695960",
 		"name": "Totem",
 		"by": "Alexey Charkov",
 		"tiles": 114,
@@ -10101,7 +15834,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "77918675",
+		"id": "3394695960",
+		"name": "Totem",
+		"by": "Alexey Charkov",
+		"tiles": 114,
+		"data": "[[0,[[0,[[0,16]]],[2,[[2,6],[18,6]]],[4,[[4,5],[18,5]]],[6,[[12,4]]],[8,[[12,4]]],[10,[[12,4]]],[12,[[12,4]]],[14,[[12,4]]]]],[1,[[0,[[8,8]]],[2,[4,12,18,26]],[3,[[6,3],[20,3]]],[4,[12,18]],[6,[12,18]],[8,[12,18]],[10,[12,18]],[12,[12,18]],[14,[12,18]]]],[2,[[0,[[10,6]]],[2,[12,18]],[4,[12,18]],[6,[12,18]]]],[3,[[0,[[12,4]]],[2,[12,18]],[4,[12,18]]]],[4,[[0,[[12,4]]],[2,[12,18]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadtotem.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "totem_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "852722183",
 		"name": "Tower",
 		"by": "Alexey Charkov",
 		"tiles": 228,
@@ -10114,7 +15860,33 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "838655393",
+		"id": "852722183",
+		"name": "Tower",
+		"by": "Alexey Charkov",
+		"tiles": 228,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[0,12]]],[14,[[0,12]]]]],[1,[[2,[[2,10]]],[4,[[2,10]]],[6,[[2,10]]],[8,[[2,10]]],[10,[[2,10]]],[12,[[2,10]]]]],[2,[[2,[[2,3],[16,3]]],[4,[[2,3],[16,3]]],[10,[[2,3],[16,3]]],[12,[[2,3],[16,3]]]]],[3,[[2,[[2,3],[16,3]]],[4,[[2,3],[16,3]]],[10,[[2,3],[16,3]]],[12,[[2,3],[16,3]]]]],[4,[[2,[[2,3],[16,3]]],[4,[[2,3],[16,3]]],[10,[[2,3],[16,3]]],[12,[[2,3],[16,3]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadtower.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "tower_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "4286999529",
+		"name": "Tower And Walls",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[10,5]]],[2,[[10,5]]],[4,[[0,15]]],[6,[[10,5]]],[8,[[10,5]]]]],[1,[[0,[[10,5]]],[2,[[10,5]]],[4,[[0,15]]],[6,[[10,5]]],[8,[[10,5]]]]],[2,[[0,[[10,5]]],[2,[[10,5]]],[4,[[0,15]]],[6,[[10,5]]],[8,[[10,5]]]]],[3,[[0,[[10,5]]],[2,[10,18]],[4,[[0,6],14,[18,6]]],[6,[10,18]],[8,[[10,5]]]]],[4,[[0,[10,14,18]],[4,[2,6,10,18,22,26]],[8,[10,14,18]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Tower and Walls.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "tower_and_walls",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "4286999529",
 		"name": "Tower And Walls",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -10122,12 +15894,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Tower and Walls.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "tower_and_walls",
+		"filename": "tower_and_walls_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1653314931",
+		"id": "3050525069",
 		"name": "Towers And Arch",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10140,7 +15912,7 @@ export const data = [
 		"group": "Kurenai - Floater"
 	},
 	{
-		"id": "1506977530",
+		"id": "2971999966",
 		"name": "Traditional",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10153,7 +15925,7 @@ export const data = [
 		"group": "Kurenai - Stacks"
 	},
 	{
-		"id": "2175883231",
+		"id": "1982003605",
 		"name": "Traditional",
 		"by": "Brodie Lockard",
 		"tiles": 144,
@@ -10166,7 +15938,7 @@ export const data = [
 		"group": "Kyodai Extras"
 	},
 	{
-		"id": "1589807762",
+		"id": "4203766614",
 		"name": "Traditional Based Three Flats",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10179,7 +15951,20 @@ export const data = [
 		"group": "Kurenai - Stacks"
 	},
 	{
-		"id": "1515761160",
+		"id": "1909951976",
+		"name": "Traditional Reviewed",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,2],[8,6],[22,2]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,2],[8,6],[22,2]]]]],[1,[[2,[[10,4]]],[4,[[8,6]]],[6,[[6,8]]],[8,[[6,8]]],[10,[[8,6]]],[12,[[10,4]]]]],[2,[[2,[[12,2]]],[4,[[12,2]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[12,2]]],[12,[[12,2]]]]],[3,[[5,13],[7,[[11,3]]],[9,13]]],[4,[[7,13]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Traditional Reviewed.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "traditional_reviewed",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1909951976",
 		"name": "Traditional Reviewed",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -10187,12 +15972,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Traditional Reviewed.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "traditional_reviewed",
+		"filename": "traditional_reviewed_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3330198244",
+		"id": "2312441978",
+		"name": "Tree Of Life",
+		"by": "Douglas Ulyate",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,14]]],[2,[2,26]],[3,[0,5,[9,6],23,28]],[4,[2,26]],[5,[0,[4,4],[18,4],28]],[6,[2,12,16,26]],[7,[4,8,20,24]],[8,[11,14,17]],[9,[6,22]],[10,[11,14,17]],[12,[[0,5],11,14,17,[20,5]]],[14,[2,6,11,14,17,22,26]],[16,[[8,7]]]]],[1,[[0,[[3,5],14,[17,5]]],[3,[2,5,12,16,23,26]],[5,[[3,3],10,18,[23,2]]],[8,14],[10,[11,17]],[12,[[2,3],11,17,[22,3]]],[14,[11,17]],[16,[11,14,17]]]],[2,[[0,[[5,3],[19,3]]],[3,[2,12,16,26]],[5,[5,23]],[12,[4,11,17,24]],[14,[11,17]],[16,[11,14,17]]]],[3,[[0,[7,21]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Tree Of Life.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "tree_of_life",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2312441978",
 		"name": "Tree Of Life",
 		"by": "Douglas Ulyate",
 		"tiles": 144,
@@ -10200,12 +15998,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Tree of Life.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "tree_of_life",
+		"filename": "tree_of_life_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1461193035",
+		"id": "1940000399",
 		"name": "Triangle",
 		"by": "Alexey Charkov",
 		"tiles": 190,
@@ -10218,7 +16016,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "133388480",
+		"id": "1940000399",
+		"name": "Triangle",
+		"by": "Alexey Charkov",
+		"tiles": 190,
+		"data": "[[0,[[0,[[0,15]]],[2,[[2,13]]],[4,[[4,11]]],[6,[[6,9]]],[8,[[8,7]]],[10,[[10,5]]],[12,[[12,3]]],[14,14]]],[1,[[0,[[2,13]]],[2,[[4,11]]],[4,[[6,9]]],[6,[[8,7]]],[8,[[10,5]]],[10,[[12,3]]],[12,14]]],[2,[[0,[[4,11]]],[2,[[6,9]]],[4,[[8,7]]],[6,[[10,5]]],[8,[[12,3]]],[10,14]]],[3,[[0,[[6,9]]],[2,[[8,7]]],[4,[[10,5]]],[6,[[12,3]]],[8,14]]],[4,[[0,[[8,7]]],[2,[[10,5]]],[4,[[12,3]]],[6,14]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadtriangle.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "triangle_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "3227780732",
 		"name": "Triangle Palette Stack",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10231,7 +16042,20 @@ export const data = [
 		"group": "Kurenai - Stacks"
 	},
 	{
-		"id": "681683199",
+		"id": "3109518435",
+		"name": "Trika",
+		"by": "Leonard Enos",
+		"tiles": 144,
+		"data": "[[0,[[0,16],[2,[14,18]],[3,[3,29]],[4,[12,16,20]],[5,[1,5,27,31]],[6,[10,14,18,22]],[7,[0,3,6,26,29,32]],[8,[[8,9]]],[9,[0,3,6,26,29,32]],[10,[10,14,18,22]],[11,[1,5,27,31]],[12,[12,16,20]],[13,[3,29]],[14,[14,18]],[16,16]]],[1,[[1,[[15,2]]],[3,[13,19]],[4,[[2,2],[28,2]]],[5,[11,16,21]],[6,[0,6,26,32]],[7,[10,[15,2],22]],[8,[[0,5],[24,5]]],[9,[10,[15,2],22]],[10,[0,6,26,32]],[11,[11,16,21]],[12,[[2,2],[28,2]]],[13,[13,19]],[15,[[15,2]]]]],[2,[[0,16],[2,[14,18]],[3,[3,29]],[4,[12,20]],[5,[3,29]],[6,[10,22]],[8,[[0,6],16,[22,6]]],[10,[10,22]],[11,[3,29]],[12,[12,20]],[13,[3,29]],[14,[14,18]],[16,16]]],[3,[[0,16],[7,[3,29]],[9,[3,29]],[16,16]]],[4,[[8,[3,29]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Trika.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "trika",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3109518435",
 		"name": "Trika",
 		"by": "Leonard Enos",
 		"tiles": 144,
@@ -10239,12 +16063,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Trika.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "trika",
+		"filename": "trika_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2268426112",
+		"id": "1451993694",
+		"name": "Triumph-Adler",
+		"by": "Patrick Becker",
+		"tiles": 88,
+		"data": "[[0,[[0,[[1,11],[25,4]]],[2,[[0,11],[23,2],[29,2]]],[4,[[8,3],[22,2],[29,2]]],[6,[[7,3],[20,2],[29,2]]],[8,[[5,3],[19,2],[29,2]]],[10,[[4,3],[17,8]]],[12,[[2,3],[16,2],[21,6]]],[14,[[1,3],[14,2],[29,2]]],[16,[[0,3],[13,2],[29,2]]]]],[1,[[12,19]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#TRIUMPH-ADLER.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "triumph-adler",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1451993694",
 		"name": "Triumph-Adler",
 		"by": "Patrick Becker",
 		"tiles": 88,
@@ -10252,12 +16089,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#TRIUMPH-ADLER.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "triumph-adler",
+		"filename": "triumph-adler_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2790119521",
+		"id": "3740147841",
 		"name": "Truck",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10270,7 +16107,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1040698403",
+		"id": "3740147841",
+		"name": "Truck",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,4]]],[2,[[2,2],10,[15,2],[20,2],[25,2]]],[4,[[2,2],10,[15,2],[20,2],[25,2]]],[6,[[0,15]]],[8,[[0,15]]],[10,[[0,15]]],[12,[[2,3],[13,2],[22,3]]],[14,[[3,2],[23,2]]]]],[1,[[0,[[4,4]]],[2,[[2,2],10,[15,2],[20,2],[25,2]]],[4,[[2,2],10,[15,2],[20,2],[25,2]]],[6,[[0,15]]],[8,[[0,3],7,10,13,16,19,22,25,28]],[10,[[0,15]]],[12,[4,24]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Truck.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "truck_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "1563646933",
 		"name": "Tsuku",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10283,7 +16133,33 @@ export const data = [
 		"group": "Kurenai - Script signs"
 	},
 	{
-		"id": "3960636683",
+		"id": "1982003605",
+		"name": "Turtle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,[26,2]]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[[8,6]]],[4,[[8,6]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[8,6]]],[12,[[8,6]]]]],[2,[[4,[[10,4]]],[6,[[10,4]]],[8,[[10,4]]],[10,[[10,4]]]]],[3,[[6,[[12,2]]],[8,[[12,2]]]]],[4,[[7,13]]]]",
+		"source": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/mahjongg.map",
+		"site": "https://github.com/GNOME/gnome-mahjongg/tree/main/data/maps/",
+		"solvable": true,
+		"filename": "turtle",
+		"path": "gnome-mahjongg",
+		"group": "GNOME Mahjongg"
+	},
+	{
+		"id": "1982003605",
+		"name": "Turtle",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,[26,2]]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[[8,6]]],[4,[[8,6]]],[6,[[8,6]]],[8,[[8,6]]],[10,[[8,6]]],[12,[[8,6]]]]],[2,[[4,[[10,4]]],[6,[[10,4]]],[8,[[10,4]]],[10,[[10,4]]]]],[3,[[6,[[12,2]]],[8,[[12,2]]]]],[4,[[7,13]]]]",
+		"source": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/turtle.js",
+		"site": "https://github.com/danbeck/green-mahjong/tree/master/GreenMahjong/www/js/",
+		"solvable": true,
+		"filename": "turtle_2",
+		"path": "green-mahjong",
+		"group": "Green Mahjong"
+	},
+	{
+		"id": "1198627347",
 		"name": "TV And Stand",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10296,7 +16172,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1888175807",
+		"id": "1198627347",
+		"name": "TV And Stand",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,6]]],[2,[[0,6]]],[4,[[0,6]]],[6,[[0,6]]],[8,[[2,4]]],[10,[[2,4]]]]],[1,[[0,[[0,6]]],[2,[[0,6]]],[4,[[0,6]]],[6,[[0,6]]],[8,[[2,4]]],[10,[[2,4]]]]],[2,[[0,[[0,6]]],[2,[[0,6]]],[4,[[0,6]]],[6,[[0,6]]],[8,[[2,4]]],[10,[[2,4]]]]],[3,[[0,[[0,6]]],[2,[[0,6]]],[4,[[0,6]]],[6,[[0,6]]],[8,[[2,4]]],[10,[[2,4]]]]],[4,[[0,[[0,6]]],[2,[0,10]],[4,[0,10]],[6,[[0,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#TV and Stand.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "tv_and_stand_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2615767807",
 		"name": "Twelve Pyramids",
 		"by": "Jens Rose",
 		"tiles": 140,
@@ -10309,7 +16198,20 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "937133723",
+		"id": "3445440499",
+		"name": "Twin",
+		"by": "MinderTech",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,3],[16,3]]],[2,[[2,5],[14,5]]],[4,[[0,13]]],[6,[[0,13]]],[8,[[0,13]]],[10,[[2,5],[14,5]]],[12,[[4,3],[16,3]]]]],[1,[[2,[[2,5],[14,5]]],[4,[[2,11]]],[6,[[2,11]]],[8,[[2,11]]],[10,[[2,5],[14,5]]]]],[2,[[4,[[4,3],[16,3]]],[6,[[4,3],[16,3]]],[8,[[4,3],[16,3]]]]],[3,[[6,[6,18]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Twin.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "twin",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3445440499",
 		"name": "Twin",
 		"by": "MinderTech",
 		"tiles": 144,
@@ -10317,12 +16219,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Twin.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "twin",
+		"filename": "twin_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "3943257054",
+		"id": "1000296996",
 		"name": "Twin Temple",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10335,7 +16237,20 @@ export const data = [
 		"group": "Phantagia - Package A - Package 05"
 	},
 	{
-		"id": "1864920137",
+		"id": "38848691",
+		"name": "Two Domes",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[8,24]],[1,[6,10,22,26]],[2,[4,12,20,28]],[4,[2,[14,3],30]],[6,[1,[15,2],31]],[7,[9,25]],[8,[0,16,32]],[10,[1,[15,2],31]],[12,[2,[14,3],30]],[14,[4,12,20,28]],[15,[6,10,22,26]],[16,[8,24]]]],[1,[[2,[[7,2],[23,2]]],[3,[5,11,21,27]],[4,[3,13,19,29]],[6,[2,[14,3],30]],[8,[1,[15,2],31]],[10,[2,[14,3],30]],[12,[3,13,19,29]],[13,[5,11,21,27]],[14,[[7,2],[23,2]]]]],[2,[[3,[8,24]],[4,[6,10,22,26]],[5,[4,12,20,28]],[7,[3,13,16,19,29]],[9,[3,13,16,19,29]],[11,[4,12,20,28]],[12,[6,10,22,26]],[13,[8,24]]]],[3,[[5,[[7,2],[23,2]]],[6,[5,11,21,27]],[8,[4,12,16,20,28]],[10,[5,11,21,27]],[11,[[7,2],[23,2]]]]],[4,[[6,[8,24]],[7,[6,10,22,26]],[9,[6,10,22,26]],[10,[8,24]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Two Domes.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "two_domes",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "38848691",
 		"name": "Two Domes",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -10343,12 +16258,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Two Domes.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "two_domes",
+		"filename": "two_domes_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "314140733",
+		"id": "3819806461",
 		"name": "Two Hollow Tubes",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10361,7 +16276,7 @@ export const data = [
 		"group": "Kurenai - Floater"
 	},
 	{
-		"id": "1105902703",
+		"id": "1141109271",
 		"name": "Two Pyramids",
 		"by": "Jens Rose",
 		"tiles": 144,
@@ -10374,7 +16289,7 @@ export const data = [
 		"group": "Kurenai - Pyramids"
 	},
 	{
-		"id": "4167738685",
+		"id": "17730839",
 		"name": "Two Stacks",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10387,7 +16302,7 @@ export const data = [
 		"group": "Kurenai - Stacks"
 	},
 	{
-		"id": "825457834",
+		"id": "2103460062",
 		"name": "Two Walls",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -10400,7 +16315,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2886750664",
+		"id": "2103460062",
+		"name": "Two Walls",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,17]]],[2,[[1,16]]]]],[1,[[0,[[1,16]]],[2,[[0,17]]]]],[2,[[0,[[0,17]]],[2,[[1,16]]]]],[3,[[0,[[1,16]]],[2,[[4,6],[18,6]]]]],[4,[[0,[[0,17]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Two Walls.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "two_walls_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1978257814",
 		"name": "U For Usagi",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -10413,7 +16341,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2906269376",
+		"id": "1978257814",
+		"name": "U For Usagi",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[5,3],[19,3],28]],[2,[[5,3],[19,3]]],[4,[[5,3],[19,3]]],[6,[0,[5,3],[19,3],28]],[8,[[5,3],[19,3]]],[10,[0,[5,3],[19,3],28]],[12,[[6,9]]],[14,[[7,8]]],[16,[0,[8,7],28]]]],[1,[[1,[[6,2],[20,2]]],[3,[[6,2],[20,2]]],[5,[[6,2],[20,2]]],[7,[[6,2],[20,2]]],[9,[[6,2],[20,2]]],[11,[[6,2],[20,2]]],[13,[[7,8]]],[15,[[8,7]]]]],[2,[[2,[7,21]],[4,[7,21]],[6,[7,21]],[8,[7,21]],[10,[7,21]],[12,[7,21]],[14,[[8,7]]]]],[3,[[3,[7,21]],[5,[7,21]],[7,[7,21]],[9,[7,21]],[11,[7,21]],[13,[7,21]],[14,[[9,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#U for Usagi.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "u_for_usagi_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "1627353380",
 		"name": "U For Usagi Traditional",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -10426,7 +16367,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "836225597",
+		"id": "1627353380",
+		"name": "U For Usagi Traditional",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,12]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[7,[0,26]],[8,[[2,12]]],[10,[[4,10]]],[12,[[6,8]]],[14,[[2,12]]]]],[1,[[2,[8,18]],[4,[8,[12,2],18]],[6,[4,8,[12,2],18,22]],[8,[4,8,[12,2],18,22]],[10,[8,18]],[12,[[10,4]]]]],[2,[[2,[8,18]],[4,[8,18]],[5,13],[6,[8,18]],[7,[4,13,22]],[8,[8,18]],[10,[8,18]],[12,[[10,4]]]]],[3,[[2,[8,18]],[4,[8,18]],[6,[8,18]],[7,[4,22]],[8,[8,18]],[10,[8,18]],[12,[[10,4]]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#U for Usagi Traditional.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "u_for_usagi_traditional_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2508375743",
 		"name": "Union Jack",
 		"by": "Tsubassa Kurenai",
 		"tiles": 124,
@@ -10439,7 +16393,20 @@ export const data = [
 		"group": "Kurenai - Maps and flags"
 	},
 	{
-		"id": "79847338",
+		"id": "1563688240",
+		"name": "United Artists",
+		"by": "Patrick Becker",
+		"tiles": 116,
+		"data": "[[0,[[0,[[0,2]]],[2,[[0,2]]],[4,[[0,2],[12,2]]],[6,[[0,2],[12,3]]],[8,[[0,2],[12,4]]],[10,[[0,2],[12,2],[18,2]]],[12,[[0,2],[12,2],[20,2]]],[14,[[1,2],[11,2],[22,2]]],[16,[[2,6],[24,2]]],[18,[[5,3],[26,2]]]]],[1,[[0,[[0,2]]],[2,[[0,2]]],[4,[[0,2],[12,2]]],[6,[[0,2],[12,3]]],[8,[[0,2],[12,4]]],[10,[[0,2],[12,2],[18,2]]],[12,[[0,2],[12,2],[20,2]]],[14,[[1,2],[11,2],[22,2]]],[16,[[2,6],[24,2]]],[18,[[5,3],[26,2]]]]],[2,[[4,[[12,2]]],[6,[[14,2]]],[8,[[16,2]]],[10,[[18,2]]],[12,[[20,2]]],[14,[[22,2]]],[16,[[24,2]]],[18,[[26,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#UnitedArtists.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "united_artists",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1563688240",
 		"name": "United Artists",
 		"by": "Patrick Becker",
 		"tiles": 116,
@@ -10447,12 +16414,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#UnitedArtists.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "united_artists",
+		"filename": "united_artists_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "2151236095",
+		"id": "101398505",
+		"name": "Unterteil RH-Anlage 2",
+		"by": "Patrick Becker",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[4,11],28]],[1,[2,26]],[2,[0,[4,11],28]],[3,[2,26]],[4,[0,[4,11],28]],[5,[2,26]],[6,[[4,11]]],[8,[[6,3],[18,3]]],[10,[[4,2],[10,2],[16,2],[22,2]]],[12,[[4,2],[10,2],[16,2],[22,2]]],[14,[[4,2],[10,2],[16,2],[22,2]]],[16,[[4,5],[16,5]]]]],[1,[[10,[[4,2],[10,2],[16,2],[22,2]]],[12,[[4,2],[10,2],[16,2],[22,2]]],[14,[[4,2],[10,2],[16,2],[22,2]]],[16,[[4,2],[10,2],[16,2],[22,2]]]]],[2,[[10,[[7,2],[19,2]]],[12,[[7,2],[19,2]]],[14,[[7,2],[19,2]]],[16,[[7,2],[19,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Unterteil RH.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "unterteil_rh-anlage_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "101398505",
+		"name": "Unterteil RH-Anlage 2",
+		"by": "Patrick Becker",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[4,11],28]],[1,[2,26]],[2,[0,[4,11],28]],[3,[2,26]],[4,[0,[4,11],28]],[5,[2,26]],[6,[[4,11]]],[8,[[6,3],[18,3]]],[10,[[4,2],[10,2],[16,2],[22,2]]],[12,[[4,2],[10,2],[16,2],[22,2]]],[14,[[4,2],[10,2],[16,2],[22,2]]],[16,[[4,5],[16,5]]]]],[1,[[10,[[4,2],[10,2],[16,2],[22,2]]],[12,[[4,2],[10,2],[16,2],[22,2]]],[14,[[4,2],[10,2],[16,2],[22,2]]],[16,[[4,2],[10,2],[16,2],[22,2]]]]],[2,[[10,[[7,2],[19,2]]],[12,[[7,2],[19,2]]],[14,[[7,2],[19,2]]],[16,[[7,2],[19,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#UnterteilRH.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "unterteil_rh-anlage_2_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "101398505",
 		"name": "Unterteil RH-Anlage 2",
 		"by": "Patrick Becker",
 		"tiles": 144,
@@ -10460,12 +16453,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Unterteil RH.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "unterteil_rh-anlage_2",
+		"filename": "unterteil_rh-anlage_2_3",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "3633606929",
+		"id": "3971148181",
 		"name": "Up&down",
 		"by": "Alexey Charkov",
 		"tiles": 222,
@@ -10478,7 +16471,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "891302714",
+		"id": "3971148181",
+		"name": "Up&down",
+		"by": "Alexey Charkov",
+		"tiles": 222,
+		"data": "[[0,[[0,[[0,12]]],[2,[[0,12]]],[4,[[0,12]]],[6,[[0,12]]],[8,[[0,12]]],[10,[[0,12]]],[12,[[0,12]]]]],[1,[[0,[[0,12]]],[2,[0,[12,6]]],[4,[0,[10,7]]],[6,[[0,12]]],[8,[[0,7],22]],[10,[[0,6],22]],[12,[[0,12]]]]],[2,[[0,[0,22]],[2,[[12,5]]],[4,[[10,6]]],[6,[[2,10]]],[8,[[2,6]]],[10,[[2,5]]],[12,[0,22]]]],[3,[[2,[[12,5]]],[4,[[14,4]]],[6,[[2,3],[16,3]]],[8,[[2,4]]],[10,[[2,5]]]]],[4,[[2,[[16,3]]],[4,[[18,2]]],[6,[2,20]],[8,[[2,2]]],[10,[[2,3]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadup&down.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "up&down_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1778784774",
 		"name": "Uranus",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10491,7 +16497,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1268754873",
+		"id": "1778784774",
+		"name": "Uranus",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,5]]],[2,[[2,7]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[2,7]]],[16,[[4,5]]]]],[1,[[0,8],[2,[[6,3]]],[4,[4,8,12]],[6,8],[8,[[4,5]]],[10,[2,14]],[12,[2,8,14]],[14,[2,14]],[16,[[4,5]]]]],[2,[[0,8],[2,[[6,3]]],[4,[4,8,12]],[6,8],[8,[[4,5]]],[10,[2,14]],[12,[2,8,14]],[14,[2,14]],[16,[[4,5]]]]],[3,[[0,8],[2,[[6,3]]],[4,[4,8,12]],[6,8],[8,[[4,5]]],[10,[2,14]],[12,[2,8,14]],[14,[2,14]],[16,[[4,5]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Uranus.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "uranus_3",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "1859142899",
 		"name": "Uranus 2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10504,7 +16523,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4092964092",
+		"id": "1859142899",
+		"name": "Uranus 2",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,4],[14,4]]],[2,[[2,2],10,[16,2]]],[4,[[2,2],10,[16,2]]],[6,[[2,9]]],[8,[[2,2],10,[16,2]]],[10,[[2,2],10,[16,2]]],[12,[[0,3],10,[16,3]]],[14,[8,12]],[16,10]]],[1,[[0,[[0,4],[14,4]]],[2,[[2,2],10,[16,2]]],[4,[[2,2],10,[16,2]]],[6,[[2,9]]],[8,[[2,2],10,[16,2]]],[10,[[2,2],10,[16,2]]],[12,[[0,3],10,[16,3]]],[14,[8,12]],[16,10]]],[2,[[0,[[0,4],[14,4]]],[2,[[2,2],10,[16,2]]],[4,[[2,2],10,[16,2]]],[6,[[2,9]]],[8,[[2,2],10,[16,2]]],[10,[[2,2],10,[16,2]]],[12,[[0,3],10,[16,3]]],[14,[8,12]],[16,10]]],[3,[[6,[3,10,17]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Uranus 2.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "uranus_2_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "3722620574",
+		"name": "Vagues",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,14]],[2,[0,8,16]],[4,[4,12,20]],[6,[0,8,16]],[8,[4,12,20]],[10,[0,8,16]],[12,[4,12,20]],[14,[6,14]]]],[1,[[0,[7,13]],[2,[1,[7,2],[15,2]]],[4,[[3,2],[11,2],19]],[6,[1,[7,2],[15,2]]],[8,[[3,2],[11,2],19]],[10,[1,[7,2],[15,2]]],[12,[[3,2],[11,2],19]],[14,[7,13]]]],[2,[[0,[8,12]],[2,[2,6,10,14,18]],[4,[2,6,10,14,18]],[6,[2,6,10,14,18]],[8,[2,6,10,14,18]],[10,[2,6,10,14,18]],[12,[2,6,10,14,18]],[14,[8,12]]]],[3,[[0,[[9,2]]],[2,[[3,2],[11,2],19]],[4,[1,[7,2],[15,2]]],[6,[[3,2],[11,2],19]],[8,[1,[7,2],[15,2]]],[10,[[3,2],[11,2],19]],[12,[1,[7,2],[15,2]]],[14,[[9,2]]]]],[4,[[0,10],[2,[4,12,20]],[4,[0,8,16]],[6,[4,12,20]],[8,[0,8,16]],[10,[4,12,20]],[12,[0,8,16]],[14,10]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Vagues.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "vagues",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "3722620574",
 		"name": "Vagues",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -10512,25 +16557,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Vagues.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "vagues",
+		"filename": "vagues_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2018476679",
+		"id": "1394718707",
+		"name": "Variation On Deep Well",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[2,6,10,14,18,22]],[2,[4,8,12,16,20]],[4,[2,6,10,14,18,22]],[6,[4,8,12,16,20]]]],[1,[[0,[4,8,12,16,20]],[2,[2,6,10,14,18,22]],[4,[4,8,12,16,20]],[6,[2,6,10,14,18,22]]]],[2,[[0,[2,6,10,14,18,22]],[2,[4,8,12,16,20]],[4,[2,6,10,14,18,22]],[6,[4,8,12,16,20]]]],[3,[[0,[[2,11]]],[2,[[2,11]]],[4,[[2,11]]],[6,[[2,11]]]]],[4,[[0,[[5,2],[10,3],[17,2]]],[1,[0,24]],[2,[[5,2],[10,3],[17,2]]],[3,[0,24]],[4,[[5,2],[10,3],[17,2]]],[5,[0,24]],[6,[[5,2],[10,3],[17,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#New Layout.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "variation_on_deep_well",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "1634707973",
 		"name": "Variation On Deep Well",
 		"by": "Kyodai",
 		"tiles": 144,
 		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,3],[10,3]]],[8,[[0,3],[10,3]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[0,8]]]]],[1,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[2,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[3,[[2,[[4,4]]],[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]],[12,[[4,4]]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Well2.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Well2.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
 		"solvable": true,
-		"filename": "variation_on_deep_well",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"filename": "variation_on_deep_well_2",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
 	},
 	{
-		"id": "3139714901",
+		"id": "1394718707",
 		"name": "Variation On Deep Well",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -10538,12 +16596,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#New Layout.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "variation_on_deep_well_2",
+		"filename": "variation_on_deep_well_3",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1187478613",
+		"id": "1634707973",
+		"name": "Variation On Deep Well",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,8]]],[2,[[0,8]]],[4,[[0,8]]],[6,[[0,3],[10,3]]],[8,[[0,3],[10,3]]],[10,[[0,8]]],[12,[[0,8]]],[14,[[0,8]]]]],[1,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[2,[[2,[[2,6]]],[4,[[2,6]]],[6,[[2,2],[10,2]]],[8,[[2,2],[10,2]]],[10,[[2,6]]],[12,[[2,6]]]]],[3,[[2,[[4,4]]],[4,[[4,4]]],[6,[4,10]],[8,[4,10]],[10,[[4,4]]],[12,[[4,4]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Well2.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "variation_on_deep_well_4",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1272864807",
 		"name": "Venus",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10556,7 +16627,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "4135453183",
+		"id": "1272864807",
+		"name": "Venus",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,5]]],[2,[[2,7]]],[4,[[0,9]]],[6,[[0,9]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,9]]],[14,[[2,7]]],[16,[[4,5]]]]],[1,[[0,[[4,5]]],[2,[2,14]],[4,[[0,2],[14,2]]],[6,[[0,2],[14,2]]],[8,[[0,9]]],[10,[[0,9]]],[12,[[0,2],8,[14,2]]],[13,[[4,2],[10,2]]],[14,[2,8,14]],[16,[[4,5]]]]],[2,[[0,[[4,5]]],[2,[2,14]],[4,[2,14]],[6,[2,14]],[8,[[4,5]]],[10,8],[12,8],[13,[[4,2],[10,2]]],[14,8],[16,8]]],[3,[[13,8]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayastro.zip#Venus.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "venus_2",
+		"path": "phantagia/eplayouts/eplayastro",
+		"group": "Phantagia - Package A - Astro"
+	},
+	{
+		"id": "2706430961",
+		"name": "Vestax",
+		"by": "Patrick Becker",
+		"tiles": 120,
+		"data": "[[0,[[0,[[5,2],[25,2]]],[2,[[7,2],[23,2]]],[4,[[9,2],[21,2]]],[6,[[0,2],12,20,[30,2]]],[7,[4,28]],[8,[2,6,[14,3],26,30]],[9,[4,28]],[10,[[6,2],16,[24,2]]],[11,[10,22]],[12,[12,20]],[13,[14,18]],[14,[[6,2],16,[24,2]]],[15,[10,22]],[16,[[4,2],12,20,[26,2]]],[17,[14,18]],[18,[[2,2],16,[28,2]]]]],[1,[[0,[[5,2],[25,2]]],[2,[[7,2],[23,2]]],[4,[[9,2],[21,2]]],[6,[[0,2],12,20,[30,2]]],[7,[4,28]],[8,[2,6,[14,3],26,30]],[9,[4,28]],[10,[[6,2],16,[24,2]]],[11,[10,22]],[12,[12,20]],[13,[14,18]],[14,[[6,2],16,[24,2]]],[15,[10,22]],[16,[[4,2],12,20,[26,2]]],[17,[14,18]],[18,[[2,2],16,[28,2]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Vestax.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "vestax",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2706430961",
 		"name": "Vestax",
 		"by": "Patrick Becker",
 		"tiles": 120,
@@ -10564,12 +16661,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#Vestax.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "vestax",
+		"filename": "vestax_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "3399445909",
+		"id": "11321633",
 		"name": "Vi",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -10582,7 +16679,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "2572592195",
+		"id": "11321633",
+		"name": "Vi",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,30]],[2,[[0,2],[28,2]]],[4,[[0,3],[26,3]]],[6,[[0,4],[24,4]]],[8,[[0,5],[22,5]]],[10,[[0,6],[20,6]]],[12,[[0,7],[18,7]]],[14,[[0,16]]]]],[1,[[4,[0,30]],[6,[[0,2],[28,2]]],[8,[[0,3],[26,3]]],[10,[[0,4],[24,4]]],[12,[[0,5],[22,5]]],[14,[[0,6],[20,6]]]]],[2,[[6,[0,30]],[8,[0,30]],[10,[[0,2],[28,2]]],[12,[[0,3],[26,3]]],[14,[[0,4],[24,4]]]]],[3,[[12,[0,30]],[14,[[0,2],[28,2]]]]],[4,[[14,[0,30]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadVi.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "vi_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1365615385",
 		"name": "Victory / Peace Sign",
 		"by": "Nanami Kamimura",
 		"tiles": 48,
@@ -10595,7 +16705,33 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2768068233",
+		"id": "1365615385",
+		"name": "Victory / Peace Sign",
+		"by": "Nanami Kamimura",
+		"tiles": 48,
+		"data": "[[0,[[0,[3,10]],[2,[4,9]],[4,[5,8]],[6,[[0,5]]],[8,[[0,5]]],[10,[[0,5]]],[12,[[0,5]]],[14,[[1,4]]]]],[1,[[1,[3,9]],[3,[4,8]],[5,[[5,2]]],[6,[[0,2]]],[7,9],[8,[[0,2],7]],[9,[5,9]],[10,[2,7]],[11,9]]],[2,[[9,3]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Victory Sign.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "victory__peace_sign_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "2529300283",
+		"name": "Victory Arrow",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,19],[1,[[0,7],21]],[2,23],[3,[0,12,21,25]],[4,[[3,4],27]],[5,[0,[12,2],[21,3],29]],[6,[3,9,16]],[7,[0,6,[12,2],[18,7]]],[8,[3,9,16]],[9,[0,[12,2],[21,3],29]],[10,[[3,4],27]],[11,[0,12,21,25]],[12,23],[13,[[0,7],21]],[14,19]]],[1,[[1,[[2,5]]],[2,[0,12]],[3,21],[4,[0,[5,2],12]],[5,[3,9,[21,3]]],[6,[0,[12,2]]],[7,[3,9,[16,8]]],[8,[0,[12,2]]],[9,[3,9,[21,3]]],[10,[0,[5,2],12]],[11,21],[12,[0,12]],[13,[[2,5]]]]],[2,[[1,[[3,4]]],[3,[0,12]],[5,[0,12]],[7,[0,[13,8]]],[9,[0,12]],[11,[0,12]],[13,[[3,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Victory Arrow.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "victory_arrow",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2529300283",
 		"name": "Victory Arrow",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -10603,12 +16739,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Victory Arrow.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "victory_arrow",
+		"filename": "victory_arrow_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "1786235155",
+		"id": "1319312927",
 		"name": "Virgo",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10621,7 +16757,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "421959297",
+		"id": "1319312927",
+		"name": "Virgo",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,10,20]],[1,[2,8,12,18,22,[28,2]]],[2,[[4,2],[14,2],[24,2]]],[3,31],[4,[[4,2],[14,2],[24,2]]],[5,31],[6,[[4,2],[14,2],[24,2]]],[7,30],[8,[[4,2],[14,2],[24,2]]],[9,29],[10,[[4,2],[14,2],[24,2]]],[11,28],[12,[[4,2],[14,2],[24,2]]],[13,22],[14,[[4,2],[14,2],20,[24,2]]],[16,[19,[24,2]]]]],[1,[[0,[0,10,20]],[1,[2,8,12,18,22]],[2,[[4,2],[14,2],[24,2]]],[4,[[4,2],[14,2],[24,2]]],[6,[[4,2],[14,2],[24,2]]],[8,[[4,2],[14,2],[24,2]]],[10,[[4,2],[14,2],[24,2]]],[12,[[4,2],[14,2],[24,2]]],[14,[[4,2],[14,2],[24,2]]],[16,[[24,2]]]]],[2,[[0,[0,10,20]],[1,[2,8,12,18,22]],[2,[5,15,25]],[4,[5,15,25]],[6,[5,15,25]],[8,[5,15,25]],[10,[5,15,25]],[12,[5,15,25]],[14,[5,15,25]],[16,25]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayzod.zip#Virgo.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "virgo_2",
+		"path": "phantagia/eplayouts/eplayzod",
+		"group": "Phantagia - Package A - Zodiac"
+	},
+	{
+		"id": "3170119387",
 		"name": "Virgo 2600",
 		"by": "Atari",
 		"tiles": 144,
@@ -10634,7 +16783,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "811816211",
+		"id": "3170119387",
+		"name": "Virgo 2600",
+		"by": "Atari",
+		"tiles": 144,
+		"data": "[[0,[[0,22],[2,[[2,3],[10,7]]],[4,[[0,2],[6,3],[14,3]]],[6,[[2,3],[10,6]]],[8,[12,[16,4]]],[10,[[18,2]]],[12,[[14,3]]],[14,[[14,5]]]]],[1,[[0,22],[2,[[2,3],[10,7]]],[4,[[0,2],[6,3],[14,3]]],[6,[[2,3],[10,6]]],[8,[12,[16,4]]],[10,[[18,2]]],[12,[[14,3]]],[14,[[14,5]]]]],[2,[[0,22],[2,[[2,3],[10,7]]],[4,[[0,2],[6,3],[14,3]]],[6,[[2,3],[10,6]]],[8,[12,[16,4]]],[10,[[18,2]]],[12,[[14,3]]],[14,[[14,5]]]]],[3,[[0,22],[2,[[2,3],[20,2]]],[4,[[0,2],[6,2]]],[6,[[2,3]]],[14,[[20,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayza2600.zip#Virgo 2600.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "virgo_2600_2",
+		"path": "phantagia/eplayouts/eplayza2600",
+		"group": "Phantagia - Package A - Atari 2600"
+	},
+	{
+		"id": "3356956819",
 		"name": "Viva",
 		"by": "Patrick Becker",
 		"tiles": 76,
@@ -10647,20 +16809,7 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "4179480190",
-		"name": "Volcano",
-		"by": "Ernie Polegato",
-		"tiles": 144,
-		"data": "[[0,[[0,[[4,7]]],[2,[[2,9]]],[4,[[0,11]]],[6,[[0,5],[12,5]]],[8,[[0,11]]],[10,[[2,9]]],[12,[[4,7]]]]],[1,[[0,[[9,2]]],[2,[[6,5]]],[4,[[2,9]]],[6,[[0,5],[12,5]]],[8,[[2,9]]],[10,[[6,5]]],[12,[[9,2]]]]],[2,[[2,[[8,3]]],[4,[[6,5]]],[6,[[4,3],[12,3]]],[8,[[6,5]]],[10,[[8,3]]]]],[3,[[2,10],[4,[[8,3]]],[6,[[6,2],[12,2]]],[8,[[8,3]]],[10,10]]],[4,[[4,10],[6,[8,12]],[8,10]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout03.zip#Volcano.lay",
-		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
-		"solvable": true,
-		"filename": "volcano_2",
-		"path": "phantagia/eplayouts/eplayout03",
-		"group": "Phantagia - Package A - Package 03"
-	},
-	{
-		"id": "4194486384",
+		"id": "1573132560",
 		"name": "Volcano",
 		"by": "Alexey Charkov",
 		"tiles": 140,
@@ -10673,7 +16822,20 @@ export const data = [
 		"group": "OGS"
 	},
 	{
-		"id": "1643005000",
+		"id": "326606010",
+		"name": "Volcano",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[4,7]]],[2,[[2,9]]],[4,[[0,11]]],[6,[[0,5],[12,5]]],[8,[[0,11]]],[10,[[2,9]]],[12,[[4,7]]]]],[1,[[0,[[9,2]]],[2,[[6,5]]],[4,[[2,9]]],[6,[[0,5],[12,5]]],[8,[[2,9]]],[10,[[6,5]]],[12,[[9,2]]]]],[2,[[2,[[8,3]]],[4,[[6,5]]],[6,[[4,3],[12,3]]],[8,[[6,5]]],[10,[[8,3]]]]],[3,[[2,10],[4,[[8,3]]],[6,[[6,2],[12,2]]],[8,[[8,3]]],[10,10]]],[4,[[4,10],[6,[8,12]],[8,10]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout03.zip#Volcano.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "volcano_2",
+		"path": "phantagia/eplayouts/eplayout03",
+		"group": "Phantagia - Package A - Package 03"
+	},
+	{
+		"id": "1621318038",
 		"name": "Waffle",
 		"by": "Vivian Bushell",
 		"tiles": 144,
@@ -10686,7 +16848,7 @@ export const data = [
 		"group": "Phantagia - Submitted - Bushell"
 	},
 	{
-		"id": "855075246",
+		"id": "1203418192",
 		"name": "Walzengeruest",
 		"by": "Patrick Becker",
 		"tiles": 124,
@@ -10699,7 +16861,7 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "1999969774",
+		"id": "2127951264",
 		"name": "Wan 1",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10712,7 +16874,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3840186260",
+		"id": "4077255104",
 		"name": "Wan 2",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10725,7 +16887,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "786819796",
+		"id": "3148462146",
 		"name": "Wan 3",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10738,7 +16900,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1802580277",
+		"id": "4105122829",
 		"name": "Wan 3",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10751,7 +16913,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "291024585",
+		"id": "3257051347",
 		"name": "Wan 4",
 		"by": "Tsubassa Kurenai",
 		"tiles": 128,
@@ -10764,20 +16926,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "224850288",
-		"name": "Wan 5",
-		"by": "Ernie Polegato",
-		"tiles": 144,
-		"data": "[[0,[[0,[[6,8]]],[2,[[4,10]]],[4,[[2,12]]],[6,[[0,14]]],[8,[[6,8]]],[10,[[6,8]]],[12,[[6,8]]],[14,[[0,14]]]]],[1,[[0,[[8,6]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[8,[[6,8]]],[10,[6,[10,4],20]],[12,[[6,3],[16,3]]],[14,[[6,3],[16,3]]]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#Wan 5.lay",
-		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
-		"solvable": true,
-		"filename": "wan_5_2",
-		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
-	},
-	{
-		"id": "3261564853",
+		"id": "2391318261",
 		"name": "Wan 5",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10790,20 +16939,20 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "397056087",
-		"name": "Wan 6",
+		"id": "1494345380",
+		"name": "Wan 5",
 		"by": "Ernie Polegato",
 		"tiles": 144,
-		"data": "[[0,[[0,8],[2,[8,17]],[4,[0,[8,2],[15,2]]],[6,[[0,2],[6,3],[14,2]]],[7,18],[8,[[0,9]]],[9,18],[10,[[0,9]]],[11,18],[12,[[2,8]]],[14,[[4,6]]]]],[1,[[0,8],[2,[8,17]],[4,[0,[8,2],[15,2]]],[6,[[0,2],[6,3],[14,2]]],[7,18],[8,[[0,9]]],[9,18],[10,[[0,9]]],[11,18],[12,[[2,8]]],[14,[[4,6]]]]],[2,[[0,8],[2,[8,17]],[4,[0,[8,2],16]],[6,[1,[6,3],15]],[8,[[1,9]]],[10,[[1,9]]],[12,[[2,8]]],[14,[[4,6]]]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#Wan 6.lay",
+		"data": "[[0,[[0,[[6,8]]],[2,[[4,10]]],[4,[[2,12]]],[6,[[0,14]]],[8,[[6,8]]],[10,[[6,8]]],[12,[[6,8]]],[14,[[0,14]]]]],[1,[[0,[[8,6]]],[2,[[6,8]]],[4,[[4,10]]],[6,[[2,12]]],[8,[[6,8]]],[10,[6,[10,4],20]],[12,[[6,3],[16,3]]],[14,[[6,3],[16,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#Wan 5.lay",
 		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
 		"solvable": true,
-		"filename": "wan_6_2",
+		"filename": "wan_5_2",
 		"path": "phantagia/eplayouts/eporacle01",
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "421107844",
+		"id": "3105062194",
 		"name": "Wan 6",
 		"by": "Tsubassa Kurenai",
 		"tiles": 136,
@@ -10816,7 +16965,20 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3919335941",
+		"id": "3300056717",
+		"name": "Wan 6",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,8],[2,[8,17]],[4,[0,[8,2],[15,2]]],[6,[[0,2],[6,3],[14,2]]],[7,18],[8,[[0,9]]],[9,18],[10,[[0,9]]],[11,18],[12,[[2,8]]],[14,[[4,6]]]]],[1,[[0,8],[2,[8,17]],[4,[0,[8,2],[15,2]]],[6,[[0,2],[6,3],[14,2]]],[7,18],[8,[[0,9]]],[9,18],[10,[[0,9]]],[11,18],[12,[[2,8]]],[14,[[4,6]]]]],[2,[[0,8],[2,[8,17]],[4,[0,[8,2],16]],[6,[1,[6,3],15]],[8,[[1,9]]],[10,[[1,9]]],[12,[[2,8]]],[14,[[4,6]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#Wan 6.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "wan_6_2",
+		"path": "phantagia/eplayouts/eporacle01",
+		"group": "Phantagia - Package A - Mahjong"
+	},
+	{
+		"id": "3010770227",
 		"name": "Wan 7",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -10829,7 +16991,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "1917901749",
+		"id": "141375807",
 		"name": "Wan 8",
 		"by": "Tsubassa Kurenai",
 		"tiles": 140,
@@ -10842,7 +17004,7 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3938878314",
+		"id": "1434979280",
 		"name": "Wan 8",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -10855,7 +17017,7 @@ export const data = [
 		"group": "Phantagia - Package A - Mahjong"
 	},
 	{
-		"id": "1764907776",
+		"id": "1135871896",
 		"name": "Wan 9",
 		"by": "Tsubassa Kurenai",
 		"tiles": 120,
@@ -10868,7 +17030,20 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "4278863435",
+		"id": "2629759861",
+		"name": "Wavelets",
+		"by": "Leonard Enos",
+		"tiles": 144,
+		"data": "[[0,[[0,[6,16,26]],[2,[6,16,26]],[4,[0,4,8,14,18,24,28,32]],[6,[6,16,26]],[8,[0,4,8,14,18,24,28,32]],[10,[6,16,26]],[12,[0,4,8,14,18,24,28,32]],[14,[6,16,26]],[16,[6,16,26]]]],[1,[[1,[6,16,26]],[4,[0,3,9,13,19,23,29,32]],[7,[6,16,26]],[8,[0,3,9,13,19,23,29,32]],[9,[6,16,26]],[12,[0,3,9,13,19,23,29,32]],[15,[6,16,26]]]],[2,[[2,[6,16,26]],[4,[[0,2],[10,2],[20,2],[30,2]]],[6,[6,16,26]],[8,[[0,2],[10,2],[20,2],[30,2]]],[10,[6,16,26]],[12,[[0,2],[10,2],[20,2],[30,2]]],[14,[6,16,26]]]],[3,[[3,[6,16,26]],[4,[1,11,21,31]],[5,[6,16,26]],[7,[6,16,26]],[8,[1,11,21,31]],[9,[6,16,26]],[11,[6,16,26]],[12,[1,11,21,31]],[13,[6,16,26]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Wavelets.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "wavelets",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2629759861",
 		"name": "Wavelets",
 		"by": "Leonard Enos",
 		"tiles": 144,
@@ -10876,12 +17051,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Wavelets.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "wavelets",
+		"filename": "wavelets_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2480145615",
+		"id": "1302075135",
+		"name": "Wedges",
+		"by": "Unknown",
+		"tiles": 144,
+		"data": "[[0,[[0,[[2,11]]],[2,[[4,9]]],[4,[[6,7]]],[6,[0,[8,5],24]],[8,[[0,2],[10,3],[22,2]]],[10,[[0,3],12,[20,3]]],[12,[[0,4],12,[18,4]]],[14,[[10,3]]]]],[1,[[0,[[4,9]]],[2,[[6,7]]],[4,[[8,5]]],[6,[[10,3]]],[8,[0,12,24]],[10,[[0,2],[22,2]]],[12,[[0,3],[20,3]]],[14,[[11,2]]]]],[2,[[0,[[6,7]]],[2,[[8,6]]],[4,[[10,4]]],[6,[[12,2]]],[10,[0,24]],[12,[[0,2],[22,2]]],[14,12]]],[3,[[0,[[8,5]]],[2,[[10,4]]],[4,[[12,2]]],[12,[0,24]]]],[4,[[0,[[10,3]]],[2,[[12,2]]]]],[5,[[0,12]]]]",
+		"source": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/wedges",
+		"site": "https://github.com/phileimer/xmahjongg/tree/main/share/layouts/",
+		"solvable": true,
+		"filename": "wedges",
+		"path": "xmahjongg",
+		"group": "XMahjongg"
+	},
+	{
+		"id": "4057804901",
 		"name": "Well",
 		"by": "Alexey Charkov",
 		"tiles": 144,
@@ -10894,7 +17082,20 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "3965188486",
+		"id": "4057804901",
+		"name": "Well",
+		"by": "Alexey Charkov",
+		"tiles": 144,
+		"data": "[[0,[[0,[[8,4]]],[2,[[6,6]]],[4,[[2,10]]],[5,[0,22]],[6,[[2,10]]],[7,[0,22]],[8,[[2,10]]],[9,[0,22]],[10,[[2,10]]],[12,[[8,4]]],[14,[[8,4]]]]],[1,[[4,[[4,8]]],[5,[2,20]],[6,[[4,2],[16,2]]],[7,[2,20]],[8,[[4,2],[16,2]]],[9,[2,20]],[10,[[4,8]]],[12,[8,14]]]],[2,[[4,[[6,6]]],[6,[6,16]],[8,[6,16]],[10,[[6,6]]]]],[3,[[4,[[6,6]]],[6,[6,16]],[8,[6,16]],[10,[[6,6]]]]],[4,[[4,[[6,6]]],[6,[6,16]],[8,[6,16]],[10,[[6,6]]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadwell.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "well_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "1734686256",
 		"name": "What The ...?",
 		"by": "Patrick Becker",
 		"tiles": 144,
@@ -10907,7 +17108,20 @@ export const data = [
 		"group": "Step5"
 	},
 	{
-		"id": "3605596130",
+		"id": "2828981270",
+		"name": "Whatever",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[2,[[3,11]]],[4,[2,24]],[6,[2,24]],[8,[[3,11]]]]],[1,[[1,[[2,12]]],[3,[1,25]],[5,[1,25]],[7,[1,25]],[9,[[2,12]]]]],[2,[[0,[[8,6]]],[2,[[8,6]]],[4,[[0,14]]],[6,[[0,14]]],[8,[[8,6]]],[10,[[8,6]]]]],[3,[[1,[[12,2]]],[3,[[9,5]]],[5,[[7,7]]],[7,[[9,5]]],[9,[[12,2]]]]],[4,[[3,[[10,4]]],[5,[[7,7]]],[7,[[10,4]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Whatever.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "whatever",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2828981270",
 		"name": "Whatever",
 		"by": "Kyodai",
 		"tiles": 144,
@@ -10915,25 +17129,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Whatever.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "whatever",
+		"filename": "whatever_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "235371524",
-		"name": "White Dragon",
-		"by": "Ernie Polegato",
-		"tiles": 144,
-		"data": "[[0,[[0,[[0,9]]],[2,[0,4,12,16]],[4,[[0,9]]],[6,[0,4,12,16]],[7,[[7,2]]],[8,[0,4,12,16]],[10,[[0,9]]],[12,[0,4,12,16]],[14,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[0,4,12,16]],[4,[[0,9]]],[6,[0,4,12,16]],[7,[[7,2]]],[8,[0,4,12,16]],[10,[[0,9]]],[12,[0,4,12,16]],[14,[[0,9]]]]],[2,[[0,[[0,9]]],[2,[0,16]],[4,[0,4,12,16]],[6,[0,16]],[7,[[7,2]]],[8,[0,16]],[10,[0,4,12,16]],[12,[0,16]],[14,[[0,9]]]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#White Dragon.lay",
-		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
-		"solvable": true,
-		"filename": "white_dragon_2",
-		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
-	},
-	{
-		"id": "3101065593",
+		"id": "3934240155",
 		"name": "White Dragon",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -10946,7 +17147,33 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "2490265386",
+		"id": "1978725752",
+		"name": "White Dragon",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[0,4,12,16]],[4,[[0,9]]],[6,[0,4,12,16]],[7,[[7,2]]],[8,[0,4,12,16]],[10,[[0,9]]],[12,[0,4,12,16]],[14,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[0,4,12,16]],[4,[[0,9]]],[6,[0,4,12,16]],[7,[[7,2]]],[8,[0,4,12,16]],[10,[[0,9]]],[12,[0,4,12,16]],[14,[[0,9]]]]],[2,[[0,[[0,9]]],[2,[0,16]],[4,[0,4,12,16]],[6,[0,16]],[7,[[7,2]]],[8,[0,16]],[10,[0,4,12,16]],[12,[0,16]],[14,[[0,9]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#White Dragon.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "white_dragon_2",
+		"path": "phantagia/eplayouts/eporacle01",
+		"group": "Phantagia - Package A - Mahjong"
+	},
+	{
+		"id": "3798389402",
+		"name": "Whom The Bell Tolls",
+		"by": "Patrick Becker",
+		"tiles": 144,
+		"data": "[[0,[[0,[[9,3]]],[2,[[7,5]]],[4,[[6,6]]],[6,[[6,6]]],[8,[[6,6]]],[10,[[5,7]]],[12,[[4,8]]],[14,[[2,10]]],[16,[[0,12]]],[18,[[10,2]]]]],[1,[[0,[[10,2]]],[2,[[8,4]]],[4,[[7,5]]],[6,[[7,5]]],[8,[[7,5]]],[10,[[6,6]]],[12,[[5,7]]],[14,[[3,9]]],[16,[[1,11]]],[18,11]]],[2,[[12,[[6,6]]],[14,[[4,8]]],[16,[[2,10]]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#TheBell.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "whom_the_bell_tolls",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "3798389402",
 		"name": "Whom The Bell Tolls",
 		"by": "Patrick Becker",
 		"tiles": 144,
@@ -10954,12 +17181,25 @@ export const data = [
 		"source": "https://web.archive.org/web/20040610012554/http://www.step5.de/Download/S5Layouts24122001.zip#The bell.lay",
 		"site": "https://web.archive.org/web/20040407182149/http://www.step5.de/step5.htm",
 		"solvable": true,
-		"filename": "whom_the_bell_tolls",
+		"filename": "whom_the_bell_tolls_2",
 		"path": "step5",
 		"group": "Step5"
 	},
 	{
-		"id": "3757709511",
+		"id": "2583115303",
+		"name": "Win",
+		"by": "Wally",
+		"tiles": 144,
+		"data": "[[0,[[0,20],[1,[[16,2],[22,2]]],[2,[[12,2],20,[26,2]]],[3,[4,9]],[4,[0,7,12,20,28]],[6,[4,9,12,20,28]],[7,[0,7,[16,2],[22,2]]],[8,[[12,2],20,[26,2]]],[9,[4,9]],[10,[0,7,12,20,28]],[12,[4,9,12,20,28]],[13,[0,7,[16,2],[22,2]]],[14,[[12,2],[26,2]]],[15,[4,9]],[16,7]]],[1,[[0,20],[1,[[16,2],[22,2]]],[2,[[12,2],20,[26,2]]],[3,[4,9]],[4,[7,12,20,28]],[6,[4,9,12,20,28]],[7,[7,[16,2],[22,2]]],[8,[[12,2],20,[26,2]]],[9,[4,9]],[10,[7,12,20,28]],[12,[4,9,12,20,28]],[13,[7,[16,2],[22,2]]],[14,[[12,2],[26,2]]],[15,[4,9]],[16,7]]],[2,[[0,20],[1,[[16,2],[22,2]]],[2,[14,20,[26,2]]],[4,[20,28]],[6,[20,28]],[7,[[16,2],[22,2]]],[8,[14,20,[26,2]]],[10,[20,28]],[12,[20,28]],[13,[[16,2],[22,2]]],[14,[14,[26,2]]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Win.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "win",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2583115303",
 		"name": "Win",
 		"by": "Wally",
 		"tiles": 144,
@@ -10967,12 +17207,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Win.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "win",
+		"filename": "win_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "580606207",
+		"id": "1283370737",
 		"name": "Win One For The Gipper",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -10985,20 +17225,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "309964454",
-		"name": "Winter",
-		"by": "Ernie Polegato",
-		"tiles": 144,
-		"data": "[[0,[[0,0],[2,[0,[6,11]]],[4,[0,[6,11]]],[6,[0,[6,11]]],[8,[0,[6,11]]],[10,[0,[6,11]]],[12,0]]],[1,[[0,0],[2,[0,[7,4],16,[19,4]]],[4,[0,[7,4],16,[19,4]]],[6,[0,[7,4],16,[19,4]]],[8,[0,[7,4],16,[19,4]]],[10,[0,[7,4],16,[19,4]]],[12,0]]],[2,[[2,[[8,3],[20,3]]],[4,[[8,3],[20,3]]],[6,[[8,3],[20,3]]],[8,[[8,3],[20,3]]],[10,[[8,3],[20,3]]]]]]",
-		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#Winter.lay",
-		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
-		"solvable": true,
-		"filename": "winter_2",
-		"path": "phantagia/eplayouts/eporacle01",
-		"group": "Phantagia - Package A - Mahjong"
-	},
-	{
-		"id": "4198722404",
+		"id": "4077882770",
 		"name": "Winter",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -11011,7 +17238,20 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "164227467",
+		"id": "896679526",
+		"name": "Winter",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,0],[2,[0,[6,11]]],[4,[0,[6,11]]],[6,[0,[6,11]]],[8,[0,[6,11]]],[10,[0,[6,11]]],[12,0]]],[1,[[0,0],[2,[0,[7,4],16,[19,4]]],[4,[0,[7,4],16,[19,4]]],[6,[0,[7,4],16,[19,4]]],[8,[0,[7,4],16,[19,4]]],[10,[0,[7,4],16,[19,4]]],[12,0]]],[2,[[2,[[8,3],[20,3]]],[4,[[8,3],[20,3]]],[6,[[8,3],[20,3]]],[8,[[8,3],[20,3]]],[10,[[8,3],[20,3]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eporacle01.zip#Winter.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "winter_2",
+		"path": "phantagia/eplayouts/eporacle01",
+		"group": "Phantagia - Package A - Mahjong"
+	},
+	{
+		"id": "2120689425",
 		"name": "Woman",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -11024,7 +17264,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "10919506",
+		"id": "2120689425",
+		"name": "Woman",
+		"by": "Ernie Polegato",
+		"tiles": 144,
+		"data": "[[0,[[0,[[11,2],[17,2]]],[2,[[8,8]]],[4,[0,[7,10]]],[5,[2,30]],[6,[[4,4],[14,2],[20,5]]],[8,[[2,13]]],[9,[0,28]],[10,[[4,3],[11,5],[22,3],30]],[11,28],[12,[[2,4],12,18,[22,3]]],[13,[[28,2]]],[14,[[0,2],[7,2],[14,2],[21,2]]]]],[1,[[0,[[11,2],[17,2]]],[2,[[8,8]]],[4,[0,[7,3],[19,4]]],[5,[2,30]],[6,[[4,3],[22,4]]],[8,[[2,4],[22,3]]],[9,[0,28]],[10,[[4,3],[22,3],30]],[11,28],[12,[[2,4],[22,3]]],[13,[[28,2]]],[14,[[0,2],[7,2],[21,2]]]]]]",
+		"source": "https://web.archive.org/web/20120408030904/http://members.fortunecity.com/phantagia/layouts/eplayouts.zip#eplayout01.zip#Woman.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "woman_2",
+		"path": "phantagia/eplayouts/eplayout01",
+		"group": "Phantagia - Package A - Package 01"
+	},
+	{
+		"id": "2114945082",
 		"name": "X",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -11037,7 +17290,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "2054673968",
+		"id": "3587299016",
 		"name": "X Marks The Spot",
 		"by": "JimPQ",
 		"tiles": 144,
@@ -11050,7 +17303,7 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "395623903",
+		"id": "2063043413",
 		"name": "X Shaped",
 		"by": "Alexey Charkov",
 		"tiles": 134,
@@ -11063,20 +17316,46 @@ export const data = [
 		"group": "KMahjongg"
 	},
 	{
-		"id": "730699355",
+		"id": "2063043413",
+		"name": "X Shaped",
+		"by": "Alexey Charkov",
+		"tiles": 134,
+		"data": "[[0,[[0,[[0,6],[16,6]]],[2,[[6,3],[16,3]]],[4,[[8,2],[16,2]]],[6,[[10,4]]],[8,[[12,2]]],[10,[[10,4]]],[12,[[6,3],[16,3]]],[14,[[0,6],[16,6]]]]],[1,[[0,[[1,5],[17,5]]],[2,[[7,2],[17,2]]],[4,[[8,2],16]],[6,[[11,3]]],[8,[[12,2]]],[10,[[10,4]]],[12,[[8,2],[16,2]]],[14,[[1,5],[17,5]]]]],[2,[[0,[[3,4],[17,4]]],[2,[7,19]],[4,[10,16]],[6,[[12,2]]],[8,13],[10,[11,15]],[12,[10,16]],[14,[[3,4],[17,4]]]]],[3,[[0,[[5,2],[19,2]]],[6,13],[8,13],[14,[[5,3],[17,3]]]]],[4,[[0,[6,20]],[7,13],[14,[8,18]]]]]",
+		"source": "http://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/ogs-mahjong-1.1.0-linux64.tar.lzma/downloadX_shaped.layout",
+		"site": "https://sourceforge.net/projects/osrpgcreation/files/Mahjong/1.1.0/",
+		"solvable": true,
+		"filename": "x_shaped_2",
+		"path": "ogs-mahjong",
+		"group": "OGS"
+	},
+	{
+		"id": "2540397744",
+		"name": "X-Files",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,[8,2],[18,2],28]],[4,[4,14,24]],[8,[0,[8,2],[18,2],28]],[12,[4,14,24]],[16,[0,[8,2],[18,2],28]]]],[1,[[1,[1,[7,3],[17,3],27]],[4,[4,14,24]],[7,[1,[7,3],[17,3],27]],[9,[1,[7,3],[17,3],27]],[12,[4,14,24]],[15,[1,[7,3],[17,3],27]]]],[2,[[2,[2,6,9,12,16,19,22,26]],[4,[4,14,24]],[6,[2,6,9,12,16,19,22,26]],[8,[9,19]],[10,[2,6,9,12,16,19,22,26]],[12,[4,14,24]],[14,[2,6,9,12,16,19,22,26]]]],[3,[[3,[[3,2],9,[13,2],19,[23,2]]],[5,[[3,2],9,[13,2],19,[23,2]]],[11,[[3,2],9,[13,2],19,[23,2]]],[13,[[3,2],9,[13,2],19,[23,2]]]]],[4,[[4,[4,9,14,19,24]],[12,[4,9,14,19,24]]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Multi X.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "x-files",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "902786969",
 		"name": "X-Files",
 		"by": "Kyodai",
 		"tiles": 144,
 		"data": "[[0,[[0,[0,16,32]],[1,[2,11,22,30]],[2,[4,[14,3],28]],[3,[6,26]],[4,[8,16,24]],[5,[10,22]],[6,[2,12,20,30]],[7,[14,18]],[8,[[0,3],8,16,24,[28,3]]],[9,[14,18]],[10,[2,12,20,30]],[11,[10,22]],[12,[8,16,24]],[13,[6,26]],[14,[4,[14,3],28]],[15,[2,10,22,30]],[16,[0,16,32]]]],[1,[[1,[11,16,22]],[2,4],[3,[6,16,26]],[4,[8,24]],[5,[10,22]],[6,[12,20]],[7,[14,18]],[8,[[1,2],8,24,[29,2]]],[9,[14,18]],[10,[12,20]],[11,[10,22]],[12,[8,24]],[13,[6,16,26]],[15,[10,16,22]]]],[2,[[1,[11,22]],[2,16],[3,[6,26]],[4,[8,24]],[5,[10,22]],[8,[2,8,14,18,24,30]],[11,[10,22]],[12,[8,24]],[13,[6,26]],[14,16],[15,[10,22]]]],[3,[[1,[11,22]],[3,[6,26]],[4,[8,24]],[5,10],[8,[8,24]],[12,[8,24]],[13,[6,26]],[15,[10,22]]]],[4,[[1,[11,22]],[3,[6,26]],[4,8],[8,[8,24]],[13,[6,26]],[15,[10,22]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#X-Files.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#X-Files.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
 		"solvable": true,
 		"filename": "x-files_2",
-		"path": "mykyodai",
-		"group": "MyKyodai"
+		"path": "kyodai",
+		"group": "Kyodai Extras"
 	},
 	{
-		"id": "4242942494",
+		"id": "2540397744",
 		"name": "X-Files",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -11084,12 +17363,38 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Multi X.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "x-files",
+		"filename": "x-files_3",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2470986204",
+		"id": "902786969",
+		"name": "X-Files",
+		"by": "Kyodai",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,16,32]],[1,[2,11,22,30]],[2,[4,[14,3],28]],[3,[6,26]],[4,[8,16,24]],[5,[10,22]],[6,[2,12,20,30]],[7,[14,18]],[8,[[0,3],8,16,24,[28,3]]],[9,[14,18]],[10,[2,12,20,30]],[11,[10,22]],[12,[8,16,24]],[13,[6,26]],[14,[4,[14,3],28]],[15,[2,10,22,30]],[16,[0,16,32]]]],[1,[[1,[11,16,22]],[2,4],[3,[6,16,26]],[4,[8,24]],[5,[10,22]],[6,[12,20]],[7,[14,18]],[8,[[1,2],8,24,[29,2]]],[9,[14,18]],[10,[12,20]],[11,[10,22]],[12,[8,24]],[13,[6,16,26]],[15,[10,16,22]]]],[2,[[1,[11,22]],[2,16],[3,[6,26]],[4,[8,24]],[5,[10,22]],[8,[2,8,14,18,24,30]],[11,[10,22]],[12,[8,24]],[13,[6,26]],[14,16],[15,[10,22]]]],[3,[[1,[11,22]],[3,[6,26]],[4,[8,24]],[5,10],[8,[8,24]],[12,[8,24]],[13,[6,26]],[15,[10,22]]]],[4,[[1,[11,22]],[3,[6,26]],[4,8],[8,[8,24]],[13,[6,26]],[15,[10,22]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#X-Files.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "x-files_4",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "2732360256",
+		"name": "X-Shape",
+		"by": "Alexis Bonvin",
+		"tiles": 144,
+		"data": "[[0,[[0,[[1,5],[13,5]]],[2,[[3,3],[15,3]]],[4,[[5,3],[13,3]]],[6,[[7,5]]],[8,[0,4,[9,3],18,22]],[10,[[7,5]]],[12,[[5,3],[13,3]]],[14,[[3,3],[15,3]]],[16,[[1,5],[13,5]]]]],[1,[[0,[[1,5],[13,5]]],[2,[[3,3],[15,3]]],[4,[[5,3],[13,3]]],[6,[[7,5]]],[8,[[9,3]]],[10,[[7,5]]],[12,[[5,3],[13,3]]],[14,[[3,3],[15,3]]],[16,[[1,5],[13,5]]]]],[2,[[0,[[3,3],[15,3]]],[2,[5,17]],[4,[7,15]],[6,[9,13]],[8,11],[10,[9,13]],[12,[7,15]],[14,[5,17]],[16,[[3,3],[15,3]]]]],[3,[[8,11]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#X-Shape.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "x-shape",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "2732360256",
 		"name": "X-Shape",
 		"by": "Alexis Bonvin",
 		"tiles": 144,
@@ -11097,12 +17402,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#X-Shape.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "x-shape",
+		"filename": "x-shape_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2423631468",
+		"id": "4038656964",
 		"name": "X2",
 		"by": "Ernie Polegato",
 		"tiles": 144,
@@ -11115,20 +17420,7 @@ export const data = [
 		"group": "Phantagia - Package A - Package 03"
 	},
 	{
-		"id": "528712585",
-		"name": "Xi",
-		"by": "Nanami Kamimura",
-		"tiles": 144,
-		"data": "[[0,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[2,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[3,[[0,[0,16]],[2,[5,9]],[4,[0,16]],[6,[0,5,9,16]],[8,[0,4,10,16]],[10,[0,16]],[12,[0,16]]]]]",
-		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Xi.lay",
-		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
-		"solvable": true,
-		"filename": "xi_2",
-		"path": "mykyodai",
-		"group": "MyKyodai"
-	},
-	{
-		"id": "1517768779",
+		"id": "3301426927",
 		"name": "Xi",
 		"by": "Tsubassa Kurenai",
 		"tiles": 144,
@@ -11141,7 +17433,46 @@ export const data = [
 		"group": "Kurenai - Tile Layouts"
 	},
 	{
-		"id": "3002750660",
+		"id": "1244658321",
+		"name": "Xi",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[2,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[3,[[0,[0,16]],[2,[5,9]],[4,[0,16]],[6,[0,5,9,16]],[8,[0,4,10,16]],[10,[0,16]],[12,[0,16]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Four Winds Xi.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "xi_2",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1244658321",
+		"name": "Xi",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[2,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[3,[[0,[0,16]],[2,[5,9]],[4,[0,16]],[6,[0,5,9,16]],[8,[0,4,10,16]],[10,[0,16]],[12,[0,16]]]]]",
+		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Xi.lay",
+		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
+		"solvable": true,
+		"filename": "xi_3",
+		"path": "mykyodai",
+		"group": "MyKyodai"
+	},
+	{
+		"id": "1244658321",
+		"name": "Xi",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[1,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[2,[[0,[[0,9]]],[2,[5,9]],[4,[[0,9]]],[6,[0,5,9,16]],[8,[[0,3],[10,4]]],[10,[0,16]],[12,[[0,9]]]]],[3,[[0,[0,16]],[2,[5,9]],[4,[0,16]],[6,[0,5,9,16]],[8,[0,4,10,16]],[10,[0,16]],[12,[0,16]]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Xi.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "xi_4",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
+	},
+	{
+		"id": "3964262414",
 		"name": "Yin And Yang",
 		"by": "Bolli",
 		"tiles": 116,
@@ -11154,7 +17485,20 @@ export const data = [
 		"group": "MyKyodai"
 	},
 	{
-		"id": "407139814",
+		"id": "267338900",
+		"name": "Yummy",
+		"by": "Naoki Haga",
+		"tiles": 144,
+		"data": "[[0,[[0,14],[1,[[8,3],[16,3]]],[2,14],[3,[[6,4],[16,4]]],[4,14],[5,[[4,5],[16,5]]],[6,14],[7,[[0,6],[18,6]]],[8,14],[9,[[4,5],[16,5]]],[10,14],[11,[[6,4],[16,4]]],[12,14],[13,[[8,3],[16,3]]],[14,14]]],[1,[[1,[[12,3]]],[3,[[8,7]]],[5,[[6,9]]],[7,[[4,3],14,[20,3]]],[9,[[6,9]]],[11,[[8,7]]],[13,[[12,3]]]]],[2,[[1,14],[3,14],[5,[[8,7]]],[7,[6,14,22]],[9,[[8,7]]],[11,14],[13,14]]],[3,[[5,[[12,3]]],[7,14],[9,[[12,3]]]]],[4,[[5,14],[7,14],[9,14]]]]",
+		"source": "https://web.archive.org/web/20051025011040/http://files.cyna.net/layouts.zip#Yummy.lay",
+		"site": "https://web.archive.org/web/20231204163740/https://cynagames.com/kyoextra.html",
+		"solvable": true,
+		"filename": "yummy",
+		"path": "kyodai",
+		"group": "Kyodai Extras"
+	},
+	{
+		"id": "267338900",
 		"name": "Yummy",
 		"by": "Naoki Haga",
 		"tiles": 144,
@@ -11162,12 +17506,12 @@ export const data = [
 		"source": "https://web.archive.org/web/20060910220158/http://homepage.ntlworld.com/enemyskies/mykyodai/layouts_all.zip#Yummy.lay",
 		"site": "https://web.archive.org/web/20080704134618/http://homepage.ntlworld.com/enemyskies/mykyodai/green/layouts.html",
 		"solvable": true,
-		"filename": "yummy",
+		"filename": "yummy_2",
 		"path": "mykyodai",
 		"group": "MyKyodai"
 	},
 	{
-		"id": "2852503444",
+		"id": "2746693386",
 		"name": "Zhong",
 		"by": "Nanami Kamimura",
 		"tiles": 144,
@@ -11178,5 +17522,18 @@ export const data = [
 		"filename": "zhong",
 		"path": "mykyodai",
 		"group": "MyKyodai"
+	},
+	{
+		"id": "2746693386",
+		"name": "Zhong",
+		"by": "Nanami Kamimura",
+		"tiles": 144,
+		"data": "[[0,[[0,[0,8,16]],[2,8],[3,[[0,4],[10,4]]],[4,8],[5,[0,16]],[6,8],[7,[1,15]],[8,8],[9,[[2,3],[10,3]]],[10,8],[12,[0,8,12,16]],[14,[4,8]],[16,[0,8,12,16]]]],[1,[[0,8],[2,8],[3,[[0,4],[10,4]]],[4,8],[5,[0,16]],[6,8],[7,[1,15]],[8,8],[9,[[2,3],[10,3]]],[10,8],[12,8],[14,8],[16,8]]],[2,[[0,8],[2,8],[3,[[0,4],[10,4]]],[4,8],[5,[0,16]],[6,8],[7,[1,15]],[8,8],[9,[[2,3],[10,3]]],[10,8],[12,8],[14,8],[16,8]]],[3,[[0,8],[2,8],[3,[[0,4],[10,4]]],[4,8],[5,[0,16]],[6,8],[7,[1,15]],[8,8],[9,[[2,3],[10,3]]],[10,8],[12,8],[14,8],[16,8]]],[4,[[0,8],[2,8],[3,[[0,4],[10,4]]],[4,8],[5,[0,16]],[6,8],[7,[1,15]],[8,8],[9,[[2,3],[10,3]]],[10,8],[12,8],[14,8],[16,8]]]]",
+		"source": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts/lyall.zip#eclayouts.zip#Zhong.lay",
+		"site": "https://web.archive.org/web/20120408030546/http://members.fortunecity.com/phantagia/layouts.htm",
+		"solvable": true,
+		"filename": "zhong_2",
+		"path": "phantagia/lyall/eclayouts",
+		"group": "Phantagia - Submitted - Kamimura"
 	}
 ];

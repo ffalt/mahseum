@@ -388,47 +388,6 @@ async function museum(boards: Array<ScanBoard>) {
 	await fse.writeFile(path.join('..', 'src', 'app', 'data.ts'), `export const data = ${JSON.stringify(result, undefined, '\t')};`);
 }
 
-function boardSource(board: ScanBoard): string {
-	const link = board.parent.parent.link;
-	return `${link}${link.endsWith('.zip') ? '#' : ''}${path.basename(board.parent.source)}`;
-}
-
-function pickDuplicate(candidates: Array<ScanBoard>): ScanBoard {
-	const withAuthor = candidates.filter(b => (b.layout.by ?? '').trim() !== '');
-	const pool = withAuthor.length > 0 ? withAuthor : candidates;
-	return [...pool].sort((a, b) => boardSource(a).localeCompare(boardSource(b)))[0];
-}
-
-async function checkDups(): Promise<Array<ScanBoard>> {
-	const o: { [id: string]: Array<ScanBoard> } = {};
-	for (const board of all) {
-		o[board.layout.id] = o[board.layout.id] || [];
-		o[board.layout.id].push(board);
-	}
-	const result: Array<ScanBoard> = [];
-	const keys = Object.keys(o);
-	for (const key of keys) {
-		result.push(pickDuplicate(o[key]));
-		if (o[key].length > 1) {
-			const names: Array<string> = [];
-			const by: Array<string> = [];
-			o[key].forEach(b => {
-				if (!names.includes(b.layout.name)) {
-					names.push(b.layout.name);
-				}
-				if (b.layout.by && !by.includes(b.layout.by)) {
-					by.push(b.layout.by);
-				}
-			});
-			if (names.length > 1 || by.length > 1) {
-				console.log('---');
-				console.log(o[key].map(b => ({id: b.layout.id, name: b.layout.name, by: b.layout.by, solvable: b.solvable, f: b.filename, p: b.parent.source})));
-			}
-		}
-	}
-	return result;
-}
-
 async function openZip(): Promise<yauzl.ZipFile> {
 	return new Promise((resolve, reject) => {
 		yauzl.open('import.xz', {lazyEntries: true}, function(err, zipfile) {
@@ -553,7 +512,7 @@ async function go() {
 	const root = await extract(dest);
 	await root.recursiveSites('', '');
 	await root.recursiveWriteREADME();
-	await museum(await checkDups());
+	await museum(all);
 }
 
 go()
